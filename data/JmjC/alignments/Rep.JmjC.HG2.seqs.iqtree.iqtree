@@ -1,0 +1,1597 @@
+IQ-TREE 2.4.0 built Feb 12 2025
+
+Input file name: /Volumes/IlHwan5TB/ncbi_datasets/analysis/alignments//Rep.JmjC.HG2.seqs.lt.fasta
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 127018
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 360 sequences with 447 amino-acid sites
+Number of constant sites: 0 (= 0% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 0 (= 0% of all sites)
+Number of parsimony informative sites: 447
+Number of distinct site patterns: 447
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: LG+G4
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+LG+G4           -114670.052  230744.104 +        1 1217756.104 +        1  233624.100 +        1
+LG+F+G4         -114784.477  231010.953 - 1.13e-58 1272134.953 -        0  233968.898 - 1.34e-75
+WAG+G4          -115133.678  231671.356 - 4.46e-202 1218683.356 - 4.46e-202  234551.352 - 4.46e-202
+WAG+F+G4        -115153.642  231749.285 - 5.34e-219 1272873.285 -        0  234707.229 - 6.33e-236
+JTT+G4          -115761.097  232926.193 -        0 1219938.193 -        0  235806.190 -        0
+JTT+F+G4        -115793.202  233028.405 -        0 1274152.405 -        0  235986.350 -        0
+LG              -119208.317  239818.635 -        0 1224022.635 -        0  242694.528 -        0
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG+G4
+
+State frequencies: (model)
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 1.3008
+
+ Category  Relative_rate  Proportion
+  1         0.1928         0.2500
+  2         0.5517         0.2500
+  3         1.0362         0.2500
+  4         2.2193         0.2500
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -114175.6297 (s.e. 2340.5370)
+Unconstrained log-likelihood (without tree): -2727.8437
+Number of free parameters (#branches + #model parameters): 702
+Akaike information criterion (AIC) score: 229755.2595
+Corrected Akaike information criterion (AICc) score: 1216767.2595
+Bayesian information criterion (BIC) score: 232635.2556
+
+**************************** WARNING ****************************
+Number of parameters (K, model parameters and branch lengths): 702
+Sample size (n, alignment length): 447
+
+Given that K>=n, the parameter estimates might be inaccurate.
+Thus, phylogenetic estimates should be interpreted with caution.
+
+Ideally, it is desirable that n >> K. When selecting optimal models,
+1. use AIC or BIC if n > 40K;
+2. use AICc or BIC if 40K >= n > K;
+3. be extremely cautious if n <= K
+
+To improve the situation (3), consider the following options:
+  1. Increase the sample size (n)
+  2. Decrease the number of parameters (K) to be estimated. If
+     possible:
+     a. Remove the least important sequences from the alignment
+     b. Specify some of the parameter values for the substitution
+        model (e.g., the nucleotide or amino acid frequencies)
+     c. Specify some of the parameter values for the rates-across-
+        sites model (e.g., the shape parameter for the discrete
+        Gamma distribution, the proportion of invariable sites, or
+        the rates of change for different rate categories under
+        the FreeRate model)
+
+Reference:
+Burnham KR, Anderson DR (2002). Model Selection and Multimodel
+Inference: A Practical Information-Theoretic Approach. Springer,
+New York.
+************************ END OF WARNING ***********************
+
+Total tree length (sum of branch lengths): 142.1503
+Sum of internal branch lengths: 44.2408 (31.1226% of tree length)
+
+WARNING: 36 near-zero internal branches (<0.0022) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Acey_EYB86026.1' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++--Acey_EYB86026.1
+|
+|     +**Hcon_XGW18520.1
+|  +--| (100)
+|  |  +**Hcon_XGW18521.1
++--| (89)
+|  +------Hpol_VDP19018.1
+|
+|  +--Angcan_KAE9418089.1
++--| (100)
+   |                  +--Diplco_DCO_001490
+   |          +-------| (100)
+   |          |       +--Diplco_DCO_001492
+   |       +--| (85)
+   |       |  +-------Cele_NP_505831.1
+   |    +--| (62)
+   |    |  |     +--Mjap_MIJAPON000006756.t1
+   |    |  +-----| (100)
+   |    |        +--Priarc_PARCANUS000014441.t1
+   +----| (100)
+        |                                                        +**Smoe_XP_024531781.1
+        |                                                  +-----| (100)
+        |                                                  |     +--Smoe_XP_024539595.1
+        |                                               +--| (92)
+        |                                               |  +---Ppat_XP_024399957.1
+        |                                            +--| (83)
+        |                                            |  +----Mpol_BFI24177.1
+        |                                         +--| (99)
+        |                                         |  |                    +--Bdis_XP_014758878.1
+        |                                         |  |                 +--| (98)
+        |                                         |  |                 |  |  +**Tura_XP_048530838.1
+        |                                         |  |                 |  +--| (100)
+        |                                         |  |                 |     +--Tura_XP_048530839.1
+        |                                         |  |              +--| (61)
+        |                                         |  |              |  +--Osat_XP_015610619.1
+        |                                         |  |           +--| (98)
+        |                                         |  |           |  |  +--Ecur_TVU10016.1
+        |                                         |  |           |  +--| (99)
+        |                                         |  |           |     |     +**Zmay_NP_001140556.1
+        |                                         |  |           |     |  +--| (100)
+        |                                         |  |           |     |  |  +--Zmay_XP_008667465.1
+        |                                         |  |           |     +--| (100)
+        |                                         |  |           |        |           +--Zmay_XP_008665874.1
+        |                                         |  |           |        |        +**| (97)
+        |                                         |  |           |        |        |  +**Zmay_XP_008651381.1
+        |                                         |  |           |        |     +--| (100)
+        |                                         |  |           |        |     |  +--Zmay_XP_008665873.1
+        |                                         |  |           |        +-----| (100)
+        |                                         |  |           |              +--Zmay_XP_023157516.1
+        |                                         |  |        +--| (99)
+        |                                         |  |        |  |     +--Bdis_XP_003572365.1
+        |                                         |  |        |  |  +--| (100)
+        |                                         |  |        |  |  |  |  +**Tura_XP_048542530.1
+        |                                         |  |        |  |  |  +--| (100)
+        |                                         |  |        |  |  |     +--Tura_XP_048543124.1
+        |                                         |  |        |  +--| (100)
+        |                                         |  |        |     |        +**Osat_XP_015648710.1
+        |                                         |  |        |     |     +**| (91)
+        |                                         |  |        |     |     |  +**Osat_XP_015648711.1
+        |                                         |  |        |     |  +--| (100)
+        |                                         |  |        |     |  |  +--Osat_XP_015648712.1
+        |                                         |  |        |     +--| (99)
+        |                                         |  |        |        |     +**Ecur_TVU05222.1
+        |                                         |  |        |        |  +--| (100)
+        |                                         |  |        |        |  |  +--Ecur_TVU01081.1
+        |                                         |  |        |        +--| (58)
+        |                                         |  |        |           |  +**Zmay_XP_035823398.1
+        |                                         |  |        |           +--| (100)
+        |                                         |  |        |              +**Zmay_XP_035823399.1
+        |                                         |  |     +--| (90)
+        |                                         |  |     |  |           +**Bnap_XP_013749294.2
+        |                                         |  |     |  |        +--| (99)
+        |                                         |  |     |  |        |  +**Bnap_XP_048630333.1
+        |                                         |  |     |  |     +--| (95)
+        |                                         |  |     |  |     |  |  +**Bnap_XP_013697929.1
+        |                                         |  |     |  |     |  +--| (40)
+        |                                         |  |     |  |     |     |  +**Bnap_XP_013697930.1
+        |                                         |  |     |  |     |     +--| (81)
+        |                                         |  |     |  |     |        |  +**Bnap_XP_013749295.1
+        |                                         |  |     |  |     |        +--| (98)
+        |                                         |  |     |  |     |           +**Bnap_XP_048630334.1
+        |                                         |  |     |  |  +--| (95)
+        |                                         |  |     |  |  |  |     +**Atha_NP_566667.1
+        |                                         |  |     |  |  |  |  +**| (69)
+        |                                         |  |     |  |  |  |  |  +**Atha_NP_850617.1
+        |                                         |  |     |  |  |  +--| (100)
+        |                                         |  |     |  |  |     |  +**Atha_NP_001030733.1
+        |                                         |  |     |  |  |     +--| (91)
+        |                                         |  |     |  |  |        |  +--Atha_NP_001327067.1
+        |                                         |  |     |  |  |        +--| (99)
+        |                                         |  |     |  |  |           +--Atha_NP_001327066.1
+        |                                         |  |     |  +--| (93)
+        |                                         |  |     |     |           +--Mtru_XP_013456231.1
+        |                                         |  |     |     |        +--| (100)
+        |                                         |  |     |     |        |  +--Psat_XP_050893429.1
+        |                                         |  |     |     |     +--| (22)
+        |                                         |  |     |     |     |  |  +**Qlob_XP_030953153.1
+        |                                         |  |     |     |     |  +--| (100)
+        |                                         |  |     |     |     |     |  +--Qlob_XP_030953162.1
+        |                                         |  |     |     |     |     +--| (100)
+        |                                         |  |     |     |     |        |     +**Qlob_XP_030958998.1
+        |                                         |  |     |     |     |        |  +--| (100)
+        |                                         |  |     |     |     |        |  |  +**Qlob_XP_030959004.1
+        |                                         |  |     |     |     |        +--| (100)
+        |                                         |  |     |     |     |           |     +**Qlob_XP_030958989.1
+        |                                         |  |     |     |     |           |  +**| (87)
+        |                                         |  |     |     |     |           |  |  +**Qlob_XP_030958993.1
+        |                                         |  |     |     |     |           +--| (100)
+        |                                         |  |     |     |     |              +**Qlob_XP_030959010.1
+        |                                         |  |     |     |  +--| (72)
+        |                                         |  |     |     |  |  |        +**Mesc_XP_043813758.1
+        |                                         |  |     |     |  |  |     +--| (100)
+        |                                         |  |     |     |  |  |     |  |  +**Mesc_XP_043813755.1
+        |                                         |  |     |     |  |  |     |  +**| (91)
+        |                                         |  |     |     |  |  |     |     |        +**Mesc_XP_021616705.1
+        |                                         |  |     |     |  |  |     |     |     +**| (82)
+        |                                         |  |     |     |  |  |     |     |     |  +**Mesc_XP_043813759.1
+        |                                         |  |     |     |  |  |     |     |  +**| (78)
+        |                                         |  |     |     |  |  |     |     |  |  +**Mesc_XP_043813756.1
+        |                                         |  |     |     |  |  |     |     +**| (89)
+        |                                         |  |     |     |  |  |     |        +**Mesc_XP_021616706.1
+        |                                         |  |     |     |  |  |  +--| (100)
+        |                                         |  |     |     |  |  |  |  |  +**Mesc_XP_043805952.1
+        |                                         |  |     |     |  |  |  |  +--| (100)
+        |                                         |  |     |     |  |  |  |     +**Mesc_XP_043805953.1
+        |                                         |  |     |     |  |  +--| (44)
+        |                                         |  |     |     |  |     |        +**Sollyc_NP_001306150.1
+        |                                         |  |     |     |  |     |     +--| (100)
+        |                                         |  |     |     |  |     |     |  +**Sollyc_XP_069152187.1
+        |                                         |  |     |     |  |     |  +--| (100)
+        |                                         |  |     |     |  |     |  |  +--Cofcan_CDP14099.1
+        |                                         |  |     |     |  |     +--| (97)
+        |                                         |  |     |     |  |        +--Lsat_XP_023742173.1
+        |                                         |  |     |     +--| (89)
+        |                                         |  |     |        |  +--Rchi_XP_024158191.1
+        |                                         |  |     |        +--| (100)
+        |                                         |  |     |           |  +**Rchi_XP_024159049.1
+        |                                         |  |     |           +--| (100)
+        |                                         |  |     |              |    +**Rchi_XP_024159047.1
+        |                                         |  |     |              +----| (100)
+        |                                         |  |     |                   +**Rchi_XP_024159048.1
+        |                                         |  |  +--| (34)
+        |                                         |  |  |  +------------------------Bnap_XP_048605489.1
+        |                                         |  +--| (99)
+        |                                         |     +--Atri_XP_020526473.1
+        |                                      +--| (97)
+        |                                      |  +--------Cbra_GBG93401.1
+        |                                   +--| (97)
+        |                                   |  +--------Crei_XP_042919519.1
+        |                                +--| (94)
+        |                                |  |  +--------Mbre_XP_001742895.1
+        |                                |  +--| (99)
+        |                                |     +-----------Cper_Nk52_evm2s495
+        |                             +--| (79)
+        |                             |  |           +--------------Ppur_KAA8493682.1
+        |                             |  |        +--| (88)
+        |                             |  |        |  +-------------Sros_XP_004994314.1
+        |                             |  |     +--| (88)
+        |                             |  |     |  |            +--Awhi_Unigene40667_Abeoforma_whisleri|m.26009
+        |                             |  |     |  |         +--| (100)
+        |                             |  |     |  |         |  +------Pgem_Unigene12170_Pirum_gemmata|m.7832
+        |                             |  |     |  |  +------| (100)
+        |                             |  |     |  |  |      |  +--Sarc_XP_014159214.1
+        |                             |  |     |  |  |      +--| (100)
+        |                             |  |     |  |  |         +---Cfra_CFRG3953T1
+        |                             |  |     |  +--| (86)
+        |                             |  |     |     |  +---------Cper_Nk52_evm32s628
+        |                             |  |     |     +--| (77)
+        |                             |  |     |        +------------Otau_XP_022839388.1
+        |                             |  |  +--| (98)
+        |                             |  |  |  |           +--Cfra_CFRG5311T1
+        |                             |  |  |  |        +--| (100)
+        |                             |  |  |  |        |  +--Sarc_XP_014149975.1
+        |                             |  |  |  |  +-----| (100)
+        |                             |  |  |  |  |     +----Pgem_Unigene22502_Pirum_gemmata|m.14473
+        |                             |  |  |  +--| (92)
+        |                             |  |  |     +-------------Otau_XP_003074529.2
+        |                             |  +--| (90)
+        |                             |     |           +------------------Ccri_XP_005710683.1
+        |                             |     |        +--| (81)
+        |                             |     |        |  |                                  +-------Aque_XP_019855988.1
+        |                             |     |        |  |                               +--| (96)
+        |                             |     |        |  |                               |  |   +--Emue_Em0015g867a
+        |                             |     |        |  |                               |  +---| (100)
+        |                             |     |        |  |                               |      +--Emue_Em0015g829a
+        |                             |     |        |  |                          +----| (100)
+        |                             |     |        |  |                          |    +--Twil_T_wilhelma_c32068_g3_i1|m.45570
+        |                             |     |        |  |                       +--| (100)
+        |                             |     |        |  |                       |  |     +--Scil_XP_065179869.1
+        |                             |     |        |  |                       |  +-----| (100)
+        |                             |     |        |  |                       |        +--Lcom_lcpid113704|
+        |                             |     |        |  |                    +--| (100)
+        |                             |     |        |  |                    |  |  +--------Cowc_XP_004364766.2
+        |                             |     |        |  |                    |  +--| (100)
+        |                             |     |        |  |                    |     |       +--Pigvie_Pvie_g7752
+        |                             |     |        |  |                    |     +-------| (100)
+        |                             |     |        |  |                    |             +--Pigchi_Pchi_g9534
+        |                             |     |        |  |              +-----| (100)
+        |                             |     |        |  |              |     |  +-------Sros_XP_004988256.1
+        |                             |     |        |  |              |     +--| (100)
+        |                             |     |        |  |              |        +-----------Mbre_XP_001743620.1
+        |                             |     |        |  |           +--| (100)
+        |                             |     |        |  |           |  |             +------Cowc_XP_004363350.2
+        |                             |     |        |  |           |  |        +----| (100)
+        |                             |     |        |  |           |  |        |    |              +**Emue_Em0019g914a
+        |                             |     |        |  |           |  |        |    |           +**| (50)
+        |                             |     |        |  |           |  |        |    |           |  +**Emue_Em0246g2a
+        |                             |     |        |  |           |  |        |    |     +-----| (100)
+        |                             |     |        |  |           |  |        |    |     |     +**Emue_Em0960g3a
+        |                             |     |        |  |           |  |        |    |  +--| (99)
+        |                             |     |        |  |           |  |        |    |  |  |     +**Twil_T_wilhelma_c23056_g1_i1|m.9140
+        |                             |     |        |  |           |  |        |    |  |  |  +--| (100)
+        |                             |     |        |  |           |  |        |    |  |  |  |  +**Twil_T_wilhelma_c23056_g1_i2|m.9142
+        |                             |     |        |  |           |  |        |    |  |  +--| (96)
+        |                             |     |        |  |           |  |        |    |  |     +-------Aque_XP_011403823.1
+        |                             |     |        |  |           |  |        |    +--| (100)
+        |                             |     |        |  |           |  |        |       |    +---Scil_XP_065182659.1
+        |                             |     |        |  |           |  |        |       +----| (100)
+        |                             |     |        |  |           |  |        |            +----Lcom_lcpid61937|
+        |                             |     |        |  |           |  |     +--| (97)
+        |                             |     |        |  |           |  |     |  +------------Cowc_XP_011270392.1
+        |                             |     |        |  |           |  |  +--| (99)
+        |                             |     |        |  |           |  |  |  |      +------Mbre_XP_001747949.1
+        |                             |     |        |  |           |  |  |  +------| (100)
+        |                             |     |        |  |           |  |  |         +-------Sros_XP_004994712.1
+        |                             |     |        |  |           |  +--| (100)
+        |                             |     |        |  |           |     |               +-------Emue_Em0004g89a
+        |                             |     |        |  |           |     |            +--| (68)
+        |                             |     |        |  |           |     |            |  +-------Twil_T_wilhelma_c28507_g1_i2|m.25183
+        |                             |     |        |  |           |     |  +---------| (100)
+        |                             |     |        |  |           |     |  |         |       +**Aque_XP_019854219.1
+        |                             |     |        |  |           |     |  |         +-------| (100)
+        |                             |     |        |  |           |     |  |                 +**Aque_XP_019854218.1
+        |                             |     |        |  |           |     +--| (99)
+        |                             |     |        |  |           |        +-----------------Mbre_XP_001744551.1
+        |                             |     |        |  |        +--| (98)
+        |                             |     |        |  |        |  |                                 +--Agrpla_XP_018320992.1
+        |                             |     |        |  |        |  |                              +--| (59)
+        |                             |     |        |  |        |  |                              |  +--Pvan_XP_027207134.1
+        |                             |     |        |  |        |  |                           +--| (99)
+        |                             |     |        |  |        |  |                           |  |  +--Smar_SMAR013954-PA
+        |                             |     |        |  |        |  |                           |  +--| (59)
+        |                             |     |        |  |        |  |                           |     |        +--Lpol_XP_013777533.1
+        |                             |     |        |  |        |  |                           |     |     +--| (100)
+        |                             |     |        |  |        |  |                           |     |     |  |     +**Lpol_XP_013775038.1
+        |                             |     |        |  |        |  |                           |     |     |  |  +--| (100)
+        |                             |     |        |  |        |  |                           |     |     |  |  |  |  +**Lpol_XP_022242198.1
+        |                             |     |        |  |        |  |                           |     |     |  |  |  +**| (77)
+        |                             |     |        |  |        |  |                           |     |     |  |  |     +**Lpol_XP_022242199.1
+        |                             |     |        |  |        |  |                           |     |     |  +--| (100)
+        |                             |     |        |  |        |  |                           |     |     |     +--Lpol_XP_022239646.1
+        |                             |     |        |  |        |  |                           |     |  +--| (100)
+        |                             |     |        |  |        |  |                           |     |  |  |  +**Cscu_XP_023219802.1
+        |                             |     |        |  |        |  |                           |     |  |  +--| (100)
+        |                             |     |        |  |        |  |                           |     |  |     |  +--Cscu_XP_023219803.1
+        |                             |     |        |  |        |  |                           |     |  |     +--| (100)
+        |                             |     |        |  |        |  |                           |     |  |        +--Cscu_XP_023219801.1
+        |                             |     |        |  |        |  |                           |     +--| (59)
+        |                             |     |        |  |        |  |                           |        +-------Btab_XP_018911171.1
+        |                             |     |        |  |        |  |                        +--| (94)
+        |                             |     |        |  |        |  |                        |  |           +--Aplcal_XP_005092336.1
+        |                             |     |        |  |        |  |                        |  |        +--| (96)
+        |                             |     |        |  |        |  |                        |  |        |  +--Lcom_lcpid192438|
+        |                             |     |        |  |        |  |                        |  |     +--| (100)
+        |                             |     |        |  |        |  |                        |  |     |  +----Obim_XP_014772373.1
+        |                             |     |        |  |        |  |                        |  |  +--| (98)
+        |                             |     |        |  |        |  |                        |  |  |  +---Cvir_XP_022318228.1
+        |                             |     |        |  |        |  |                        |  +--| (98)
+        |                             |     |        |  |        |  |                        |     |  +--Ofus_CAH1793965.1
+        |                             |     |        |  |        |  |                        |     +--| (97)
+        |                             |     |        |  |        |  |                        |        |  +---Lana_XP_013385380.1
+        |                             |     |        |  |        |  |                        |        +--| (86)
+        |                             |     |        |  |        |  |                        |           +-------Hrob_XP_009025637.1
+        |                             |     |        |  |        |  |                     +--| (93)
+        |                             |     |        |  |        |  |                     |  |     +**Blan_XP_066303427.1
+        |                             |     |        |  |        |  |                     |  |  +--| (100)
+        |                             |     |        |  |        |  |                     |  |  |  +**Blan_XP_066303428.1
+        |                             |     |        |  |        |  |                     |  +--| (100)
+        |                             |     |        |  |        |  |                     |     +-----Cint_XP_018672432.2
+        |                             |     |        |  |        |  |                  +--| (86)
+        |                             |     |        |  |        |  |                  |  |  +--Apla_XP_022080314.1
+        |                             |     |        |  |        |  |                  |  +--| (100)
+        |                             |     |        |  |        |  |                  |     +--Spur_XP_030835125.1
+        |                             |     |        |  |        |  |               +--| (94)
+        |                             |     |        |  |        |  |               |  |        +--Xtro_NP_988915.1
+        |                             |     |        |  |        |  |               |  |     +--| (97)
+        |                             |     |        |  |        |  |               |  |     |  |  +**Hsap_NP_060372.2
+        |                             |     |        |  |        |  |               |  |     |  +--| (100)
+        |                             |     |        |  |        |  |               |  |     |     +**Hsap_XP_011538242.1
+        |                             |     |        |  |        |  |               |  |  +--| (97)
+        |                             |     |        |  |        |  |               |  |  |  +--Ggal_XP_426507.2
+        |                             |     |        |  |        |  |               |  +--| (100)
+        |                             |     |        |  |        |  |               |     +--Drer_NP_958904.1
+        |                             |     |        |  |        |  |            +--| (99)
+        |                             |     |        |  |        |  |            |  |         +**Twil_T_wilhelma_c26228_g1_i3|m.16415
+        |                             |     |        |  |        |  |            |  |      +--| (100)
+        |                             |     |        |  |        |  |            |  |      |  |  +**Twil_T_wilhelma_c26228_g1_i1|m.16413
+        |                             |     |        |  |        |  |            |  |      |  +--| (100)
+        |                             |     |        |  |        |  |            |  |      |     +--Twil_T_wilhelma_c26228_g1_i2|m.16414
+        |                             |     |        |  |        |  |            |  |   +--| (100)
+        |                             |     |        |  |        |  |            |  |   |  |     +--Emue_Em0010g680a
+        |                             |     |        |  |        |  |            |  |   |  |  +--| (98)
+        |                             |     |        |  |        |  |            |  |   |  |  |  +--Emue_Em0010g663a
+        |                             |     |        |  |        |  |            |  |   |  +--| (100)
+        |                             |     |        |  |        |  |            |  |   |     |     +**Emue_Em0010g639a
+        |                             |     |        |  |        |  |            |  |   |     |  +--| (100)
+        |                             |     |        |  |        |  |            |  |   |     |  |  +--Emue_Em0010g647a
+        |                             |     |        |  |        |  |            |  |   |     +--| (98)
+        |                             |     |        |  |        |  |            |  |   |        +--Emue_Em0010g651a
+        |                             |     |        |  |        |  |            |  +---| (100)
+        |                             |     |        |  |        |  |            |      +--Aque_XP_011405699.1
+        |                             |     |        |  |        |  |         +--| (95)
+        |                             |     |        |  |        |  |         |  |        +--Pigvie_Pvie_g6971
+        |                             |     |        |  |        |  |         |  |     +--| (100)
+        |                             |     |        |  |        |  |         |  |     |  +--Pigchi_Pchi_g10289
+        |                             |     |        |  |        |  |         |  |  +--| (99)
+        |                             |     |        |  |        |  |         |  |  |  +-------Cowc_XP_004349282.2
+        |                             |     |        |  |        |  |         |  +--| (93)
+        |                             |     |        |  |        |  |         |     +------Cper_Nk52_evm51s164
+        |                             |     |        |  |        |  |      +--| (98)
+        |                             |     |        |  |        |  |      |  |  +----Sros_XP_004998739.1
+        |                             |     |        |  |        |  |      |  +--| (94)
+        |                             |     |        |  |        |  |      |     +-----------Mbre_XP_001746653.1
+        |                             |     |        |  |        |  |   +--| (100)
+        |                             |     |        |  |        |  |   |  |            +---Lcom_lcpid52748|
+        |                             |     |        |  |        |  |   |  |         +--| (100)
+        |                             |     |        |  |        |  |   |  |         |  +--Lcom_lcpid59751|
+        |                             |     |        |  |        |  |   |  +---------| (100)
+        |                             |     |        |  |        |  |   |            +----Scil_XP_065178252.1
+        |                             |     |        |  |        |  +---| (100)
+        |                             |     |        |  |        |      |             +--Sros_XP_004991157.1
+        |                             |     |        |  |        |      +-------------| (100)
+        |                             |     |        |  |        |                    +----Mbre_XP_001743099.1
+        |                             |     |        |  |     +--| (22)
+        |                             |     |        |  |     |  |      +--------------Ppur_KAA8495634.1
+        |                             |     |        |  |     |  |  +---| (100)
+        |                             |     |        |  |     |  |  |   |    +-----------Otau_XP_003074383.1
+        |                             |     |        |  |     |  |  |   +----| (100)
+        |                             |     |        |  |     |  |  |        +---------------Ccri_XP_005713344.1
+        |                             |     |        |  |     |  +--| (22)
+        |                             |     |        |  |     |     |  +------------------Mbre_XP_001742877.1
+        |                             |     |        |  |     |     +--| (25)
+        |                             |     |        |  |     |        +-------------------Otau_XP_003081452.1
+        |                             |     |        |  |  +--| (67)
+        |                             |     |        |  |  |  |                              +--Cofcan_CDP03676.1
+        |                             |     |        |  |  |  |                           +--| (100)
+        |                             |     |        |  |  |  |                           |  +----------Cofcan_CDP19768.1
+        |                             |     |        |  |  |  |                        +--| (95)
+        |                             |     |        |  |  |  |                        |  |     +**Lsat_XP_023734930.1
+        |                             |     |        |  |  |  |                        |  |  +--| (100)
+        |                             |     |        |  |  |  |                        |  |  |  +**Lsat_XP_023734931.1
+        |                             |     |        |  |  |  |                        |  +--| (96)
+        |                             |     |        |  |  |  |                        |     |  +**Sollyc_XP_004247201.1
+        |                             |     |        |  |  |  |                        |     +--| (100)
+        |                             |     |        |  |  |  |                        |        +**Sollyc_XP_025888583.1
+        |                             |     |        |  |  |  |                     +--| (93)
+        |                             |     |        |  |  |  |                     |  |        +--Rchi_XP_040364728.1
+        |                             |     |        |  |  |  |                     |  |     +--| (100)
+        |                             |     |        |  |  |  |                     |  |     |  +**Rchi_XP_024164996.1
+        |                             |     |        |  |  |  |                     |  |  +--| (98)
+        |                             |     |        |  |  |  |                     |  |  |  |        +**Qlob_XP_030947629.1
+        |                             |     |        |  |  |  |                     |  |  |  |     +--| (100)
+        |                             |     |        |  |  |  |                     |  |  |  |     |  +**Qlob_XP_030947628.1
+        |                             |     |        |  |  |  |                     |  |  |  |  +--| (100)
+        |                             |     |        |  |  |  |                     |  |  |  |  |  +--Qlob_XP_030973177.1
+        |                             |     |        |  |  |  |                     |  |  |  +--| (98)
+        |                             |     |        |  |  |  |                     |  |  |     |  +--Mtru_XP_003590573.1
+        |                             |     |        |  |  |  |                     |  |  |     +--| (100)
+        |                             |     |        |  |  |  |                     |  |  |        +--Psat_XP_050887295.1
+        |                             |     |        |  |  |  |                     |  +--| (96)
+        |                             |     |        |  |  |  |                     |     |  +**Mesc_XP_021612650.1
+        |                             |     |        |  |  |  |                     |     +--| (100)
+        |                             |     |        |  |  |  |                     |        +**Mesc_XP_043812339.1
+        |                             |     |        |  |  |  |                  +--| (62)
+        |                             |     |        |  |  |  |                  |  |              +**Bnap_XP_048608055.1
+        |                             |     |        |  |  |  |                  |  |           +**| (99)
+        |                             |     |        |  |  |  |                  |  |           |  +**Bnap_XP_013682006.3
+        |                             |     |        |  |  |  |                  |  |        +--| (100)
+        |                             |     |        |  |  |  |                  |  |        |  +**Bnap_XP_048608056.1
+        |                             |     |        |  |  |  |                  |  |     +--| (100)
+        |                             |     |        |  |  |  |                  |  |     |  +--Bnap_XP_013730750.2
+        |                             |     |        |  |  |  |                  |  |  +--| (100)
+        |                             |     |        |  |  |  |                  |  |  |  |  +**Atha_NP_001318604.1
+        |                             |     |        |  |  |  |                  |  |  |  +--| (100)
+        |                             |     |        |  |  |  |                  |  |  |     +--Atha_NP_001190341.1
+        |                             |     |        |  |  |  |                  |  +--| (54)
+        |                             |     |        |  |  |  |                  |     |            +**Osat_XP_015618184.1
+        |                             |     |        |  |  |  |                  |     |         +**| (72)
+        |                             |     |        |  |  |  |                  |     |         |  +**Osat_XP_015618169.1
+        |                             |     |        |  |  |  |                  |     |      +**| (75)
+        |                             |     |        |  |  |  |                  |     |      |  +**Osat_XP_015618176.1
+        |                             |     |        |  |  |  |                  |     |   +--| (99)
+        |                             |     |        |  |  |  |                  |     |   |  +**Osat_XP_025877206.1
+        |                             |     |        |  |  |  |                  |     +---| (100)
+        |                             |     |        |  |  |  |                  |         |           +**Bdis_XP_010232410.2
+        |                             |     |        |  |  |  |                  |         |        +**| (52)
+        |                             |     |        |  |  |  |                  |         |        |  +**Bdis_XP_003569931.2
+        |                             |     |        |  |  |  |                  |         |     +--| (100)
+        |                             |     |        |  |  |  |                  |         |     |  +**Bdis_XP_024313966.1
+        |                             |     |        |  |  |  |                  |         |  +--| (100)
+        |                             |     |        |  |  |  |                  |         |  |  +--Tura_XP_048564742.1
+        |                             |     |        |  |  |  |                  |         +--| (86)
+        |                             |     |        |  |  |  |                  |            |  +--Zmay_NP_001360982.1
+        |                             |     |        |  |  |  |                  |            +--| (92)
+        |                             |     |        |  |  |  |                  |               |  +**Ecur_TVU34924.1
+        |                             |     |        |  |  |  |                  |               +--| (100)
+        |                             |     |        |  |  |  |                  |                  +--Ecur_TVU34937.1
+        |                             |     |        |  |  |  |               +--| (100)
+        |                             |     |        |  |  |  |               |  |   +**Atri_XP_020520100.1
+        |                             |     |        |  |  |  |               |  +---| (100)
+        |                             |     |        |  |  |  |               |      +**Atri_XP_020520101.1
+        |                             |     |        |  |  |  |            +--| (98)
+        |                             |     |        |  |  |  |            |  |                  +**Smoe_XP_024520770.1
+        |                             |     |        |  |  |  |            |  |               +**| (61)
+        |                             |     |        |  |  |  |            |  |               |  +**Smoe_XP_024520670.1
+        |                             |     |        |  |  |  |            |  |            +**| (13)
+        |                             |     |        |  |  |  |            |  |            |  |  +**Smoe_XP_024520821.1
+        |                             |     |        |  |  |  |            |  |            |  +**| (11)
+        |                             |     |        |  |  |  |            |  |            |     |              +**Smoe_XP_024527654.1
+        |                             |     |        |  |  |  |            |  |            |     |           +**| (84)
+        |                             |     |        |  |  |  |            |  |            |     |           |  +**Smoe_XP_024527652.1
+        |                             |     |        |  |  |  |            |  |            |     |        +**| (57)
+        |                             |     |        |  |  |  |            |  |            |     |        |  |  +**Smoe_XP_024527653.1
+        |                             |     |        |  |  |  |            |  |            |     |        |  +**| (41)
+        |                             |     |        |  |  |  |            |  |            |     |        |     |  +--Smoe_XP_024527658.1
+        |                             |     |        |  |  |  |            |  |            |     |        |     +--| (87)
+        |                             |     |        |  |  |  |            |  |            |     |        |        |              +**Smoe_XP_024527931.1
+        |                             |     |        |  |  |  |            |  |            |     |        |        |           +**| (18)
+        |                             |     |        |  |  |  |            |  |            |     |        |        |           |  |  +**Smoe_XP_024527929.1
+        |                             |     |        |  |  |  |            |  |            |     |        |        |           |  +**| (8)
+        |                             |     |        |  |  |  |            |  |            |     |        |        |           |     |  +**Smoe_XP_024527933.1
+        |                             |     |        |  |  |  |            |  |            |     |        |        |           |     +**| (88)
+        |                             |     |        |  |  |  |            |  |            |     |        |        |           |        +**Smoe_XP_024527932.1
+        |                             |     |        |  |  |  |            |  |            |     |        |        |        +**| (18)
+        |                             |     |        |  |  |  |            |  |            |     |        |        |        |  +**Smoe_XP_024527928.1
+        |                             |     |        |  |  |  |            |  |            |     |        |        |     +**| (85)
+        |                             |     |        |  |  |  |            |  |            |     |        |        |     |  +**Smoe_XP_024527930.1
+        |                             |     |        |  |  |  |            |  |            |     |        |        |  +**| (52)
+        |                             |     |        |  |  |  |            |  |            |     |        |        |  |  +**Smoe_XP_024527935.1
+        |                             |     |        |  |  |  |            |  |            |     |        |        +--| (100)
+        |                             |     |        |  |  |  |            |  |            |     |        |           +**Smoe_XP_024527934.1
+        |                             |     |        |  |  |  |            |  |            |     |     +**| (46)
+        |                             |     |        |  |  |  |            |  |            |     |     |  +**Smoe_XP_024527656.1
+        |                             |     |        |  |  |  |            |  |            |     |  +--| (93)
+        |                             |     |        |  |  |  |            |  |            |     |  |  +**Smoe_XP_024527655.1
+        |                             |     |        |  |  |  |            |  |            |     +--| (97)
+        |                             |     |        |  |  |  |            |  |            |        +--Smoe_XP_024532000.1
+        |                             |     |        |  |  |  |            |  |         +**| (21)
+        |                             |     |        |  |  |  |            |  |         |  +**Smoe_XP_024520721.1
+        |                             |     |        |  |  |  |            |  |  +------| (100)
+        |                             |     |        |  |  |  |            |  |  |      +**Smoe_XP_024520874.1
+        |                             |     |        |  |  |  |            |  +--| (98)
+        |                             |     |        |  |  |  |            |     |  +---Ppat_XP_024366925.1
+        |                             |     |        |  |  |  |            |     +--| (71)
+        |                             |     |        |  |  |  |            |        +-----Mpol_BFI40533.1
+        |                             |     |        |  |  |  |     +------| (100)
+        |                             |     |        |  |  |  |     |      +------------Crei_XP_042921493.1
+        |                             |     |        |  |  |  +-----| (99)
+        |                             |     |        |  |  |        +----------------------Otau_XP_022838759.1
+        |                             |     |        |  +--| (67)
+        |                             |     |        |     |                +-------Lcom_lcpid42417|
+        |                             |     |        |     |        +-------| (100)
+        |                             |     |        |     |        |       |        +**Scil_XP_065197388.1
+        |                             |     |        |     |        |       |   +----| (100)
+        |                             |     |        |     |        |       |   |    +--Lcom_lcpid206315|
+        |                             |     |        |     |        |       +---| (100)
+        |                             |     |        |     |        |           |  +--Lcom_lcpid181318|
+        |                             |     |        |     |        |           +--| (100)
+        |                             |     |        |     |        |              |     +--Lcom_lcpid115342|
+        |                             |     |        |     |        |              |  +--| (100)
+        |                             |     |        |     |        |              |  |  +**Lcom_lcpid202534|
+        |                             |     |        |     |        |              +--| (100)
+        |                             |     |        |     |        |                 +--Lcom_lcpid153413|
+        |                             |     |        |     |     +--| (99)
+        |                             |     |        |     |     |  |                       +**Apla_XP_022104467.1
+        |                             |     |        |     |     |  |                   +---| (100)
+        |                             |     |        |     |     |  |                   |   +**Apla_XP_022104468.1
+        |                             |     |        |     |     |  |                +--| (98)
+        |                             |     |        |     |     |  |                |  |  +**Spur_XP_030851360.1
+        |                             |     |        |     |     |  |                |  +--| (100)
+        |                             |     |        |     |     |  |                |     +**Spur_XP_030851366.1
+        |                             |     |        |     |     |  |             +--| (85)
+        |                             |     |        |     |     |  |             |  +------Tadh_XP_002116950.1
+        |                             |     |        |     |     |  |          +--| (87)
+        |                             |     |        |     |     |  |          |  +----Ofus_CAH1798454.1
+        |                             |     |        |     |     |  +----------| (100)
+        |                             |     |        |     |     |             +--------Cper_Nk52_evm10s545
+        |                             |     |        |     |  +--| (99)
+        |                             |     |        |     |  |  +-----------------Cper_Nk52_evm1s1223
+        |                             |     |        |     +--| (97)
+        |                             |     |        |        |          +----------------Otau_XP_003080466.1
+        |                             |     |        |        |  +-------| (100)
+        |                             |     |        |        |  |       +----------Clim_Clim_evm8s223
+        |                             |     |        |        +--| (99)
+        |                             |     |        |           |                +**Blan_XP_066302682.1
+        |                             |     |        |           +----------------| (100)
+        |                             |     |        |                            +**Blan_XP_066302683.1
+        |                             |     |     +--| (88)
+        |                             |     |     |  +----------------------Sros_XP_004994627.1
+        |                             |     |  +--| (89)
+        |                             |     |  |  +------------------Clim_Clim_evm84s25
+        |                             |     +--| (87)
+        |                             |        +-----------Otau_XP_022838309.1
+        |                          +--| (98)
+        |                          |  +----------Sros_XP_004991404.1
+        |                       +--| (86)
+        |                       |  |      +---Echgra_XP_024348645.1
+        |                       |  +------| (100)
+        |                       |         +----------Sman_XP_018654420.1
+        |                    +--| (34)
+        |                    |  |        +-----Smar_SMAR008599-PA
+        |                    |  |     +--| (47)
+        |                    |  |     |  +-------Cint_XP_026690226.1
+        |                    |  |  +--| (35)
+        |                    |  |  |  |                                      +**Hsap_NP_079049.2
+        |                    |  |  |  |                                   +**| (90)
+        |                    |  |  |  |                                   |  +**Hsap_NP_001138820.1
+        |                    |  |  |  |                                +**| (75)
+        |                    |  |  |  |                                |  |  +**Hsap_XP_016879165.1
+        |                    |  |  |  |                                |  +**| (74)
+        |                    |  |  |  |                                |     |  +**Hsap_XP_047290611.1
+        |                    |  |  |  |                                |     +**| (75)
+        |                    |  |  |  |                                |        +**Hsap_XP_047290610.1
+        |                    |  |  |  |                             +**| (42)
+        |                    |  |  |  |                             |  +**Hsap_XP_047290612.1
+        |                    |  |  |  |                          +**| (72)
+        |                    |  |  |  |                          |  +**Hsap_XP_047290613.1
+        |                    |  |  |  |                       +--| (100)
+        |                    |  |  |  |                       |  +**Hsap_XP_047290614.1
+        |                    |  |  |  |                    +--| (95)
+        |                    |  |  |  |                    |  |  +**Ggal_XP_414883.4
+        |                    |  |  |  |                    |  +--| (100)
+        |                    |  |  |  |                    |     |  +--Ggal_XP_025010992.2
+        |                    |  |  |  |                    |     +--| (100)
+        |                    |  |  |  |                    |        +--Ggal_XP_004945335.2
+        |                    |  |  |  |                 +--| (100)
+        |                    |  |  |  |                 |  +---Xtro_NP_001121525.1
+        |                    |  |  |  |              +--| (100)
+        |                    |  |  |  |              |  |  +**Drer_NP_001103339.2
+        |                    |  |  |  |              |  +--| (100)
+        |                    |  |  |  |              |     +**Drer_XP_068072685.1
+        |                    |  |  |  |           +--| (89)
+        |                    |  |  |  |           |  +---Blan_XP_066295512.1
+        |                    |  |  |  |        +--| (93)
+        |                    |  |  |  |        |  |  +---Skow_XP_006813260.1
+        |                    |  |  |  |        |  +--| (88)
+        |                    |  |  |  |        |     |        +---Ofus_CAH1779520.1
+        |                    |  |  |  |        |     |     +--| (80)
+        |                    |  |  |  |        |     |     |  +----Lana_XP_013411836.1
+        |                    |  |  |  |        |     |  +--| (78)
+        |                    |  |  |  |        |     |  |  |     +**Apla_XP_022085203.1
+        |                    |  |  |  |        |     |  |  |  +--| (100)
+        |                    |  |  |  |        |     |  |  |  |  +**Apla_XP_022085202.1
+        |                    |  |  |  |        |     |  |  +--| (96)
+        |                    |  |  |  |        |     |  |     +-----Spur_XP_030839602.1
+        |                    |  |  |  |        |     +--| (86)
+        |                    |  |  |  |        |        |  +---Cscu_XP_023216044.1
+        |                    |  |  |  |        |        +--| (100)
+        |                    |  |  |  |        |           |     +**Lpol_XP_013774279.1
+        |                    |  |  |  |        |           |  +**| (99)
+        |                    |  |  |  |        |           |  |  +**Lpol_XP_022241370.1
+        |                    |  |  |  |        |           +--| (100)
+        |                    |  |  |  |        |              +**Lpol_XP_022241372.1
+        |                    |  |  |  |     +--| (78)
+        |                    |  |  |  |     |  |     +----Aplcal_XP_005102629.2
+        |                    |  |  |  |     |  |  +--| (76)
+        |                    |  |  |  |     |  |  |  +-----Cvir_XP_022338439.1
+        |                    |  |  |  |     |  +--| (81)
+        |                    |  |  |  |     |     |  +----Obim_XP_014780508.1
+        |                    |  |  |  |     |     +--| (98)
+        |                    |  |  |  |     |        |   +---Hrob_XP_009019477.1
+        |                    |  |  |  |     |        +---| (100)
+        |                    |  |  |  |     |            +-------------Hrob_XP_009019479.1
+        |                    |  |  |  |  +--| (63)
+        |                    |  |  |  |  |  |        +----Avag_UJR16219.1
+        |                    |  |  |  |  |  |     +--| (77)
+        |                    |  |  |  |  |  |     |  +---------------------Cper_Nk52_evm66s2367
+        |                    |  |  |  |  |  |  +--| (40)
+        |                    |  |  |  |  |  |  |  +------Aque_XP_019853293.1
+        |                    |  |  |  |  |  +--| (62)
+        |                    |  |  |  |  |     |              +--Pigchi_Pchi_g4251
+        |                    |  |  |  |  |     |        +-----| (100)
+        |                    |  |  |  |  |     |        |     +--Pigvie_Pvie_g14601
+        |                    |  |  |  |  |     |     +--| (97)
+        |                    |  |  |  |  |     |     |  |  +---Emue_Em0011g644a
+        |                    |  |  |  |  |     |     |  +--| (100)
+        |                    |  |  |  |  |     |     |     +--------Twil_T_wilhelma_c33435_g2_i2|m.55195
+        |                    |  |  |  |  |     |  +--| (91)
+        |                    |  |  |  |  |     |  |  +-------Tadh_XP_002109881.1
+        |                    |  |  |  |  |     +--| (75)
+        |                    |  |  |  |  |        |  +-----Dpul_XP_046461813.1
+        |                    |  |  |  |  |        +--| (89)
+        |                    |  |  |  |  |           |        +**Pvan_XP_069991586.1
+        |                    |  |  |  |  |           +--------| (100)
+        |                    |  |  |  |  |                    +**Pvan_XP_069991585.1
+        |                    |  |  |  +--| (91)
+        |                    |  |  |     |      +--Scil_XP_065185214.1
+        |                    |  |  |     |  +---| (100)
+        |                    |  |  |     |  |   |     +**Lcom_lcpid67550|
+        |                    |  |  |     |  |   |  +**| (98)
+        |                    |  |  |     |  |   |  |  +--Lcom_lcpid51678|
+        |                    |  |  |     |  |   +--| (100)
+        |                    |  |  |     |  |      +--Lcom_lcpid115304|
+        |                    |  |  |     +--| (87)
+        |                    |  |  |        |  +------Awhi_Unigene29846_Abeoforma_whisleri|m.18337
+        |                    |  |  |        +--| (98)
+        |                    |  |  |           +-----Pgem_Unigene20972_Pirum_gemmata|m.13675
+        |                    |  +--| (30)
+        |                    |     |        +--Rvar_GAU90323.1
+        |                    |     |  +-----| (100)
+        |                    |     |  |     +--Hduj_OQV19329.1
+        |                    |     +--| (21)
+        |                    |        |                +**Apimel_XP_026296209.1
+        |                    |        |        +-------| (100)
+        |                    |        |        |       +**Apimel_XP_026296208.1
+        |                    |        |     +--| (84)
+        |                    |        |     |  +-----Agrpla_XP_018331764.2
+        |                    |        |  +--| (85)
+        |                    |        |  |  +-------Bmor_XP_021207491.2
+        |                    |        +--| (95)
+        |                    |           |         +**Dmel_NP_612063.2
+        |                    |           +---------| (100)
+        |                    |                     +**Dmel_NP_001261225.1
+        |                 +--| (60)
+        |                 |  +------------Rcul_nRc.2.0.1.t13431-RA
+        |              +--| (95)
+        |              |  |      +--Cfra_CFRG8355T1
+        |              |  |  +---| (100)
+        |              |  |  |   +----Sarc_XP_014151949.1
+        |              |  +--| (70)
+        |              |     |               +--Ppat_XP_024376210.1
+        |              |     +---------------| (100)
+        |              |                     +**Ppat_XP_024376209.1
+        |           +--| (57)
+        |           |  |  +----Sbat_VDO98087.1
+        |           |  +--| (62)
+        |           |     +-------Plae_KAI0985441.1
+        |        +--| (91)
+        |        |  |         +**Trimur_TMUE_0000000640
+        |        |  |      +--| (100)
+        |        |  |      |  +--Trimur_TMUE_3000012690
+        |        |  |  +---| (100)
+        |        |  |  |   |  +--Tsui_KHJ45102.1
+        |        |  |  |   +--| (100)
+        |        |  |  |      +--Ttri_CDW53161.1
+        |        |  +--| (96)
+        |        |     |                 +--Tbri_KRY47478.1
+        |        |     |              +--| (100)
+        |        |     |              |  +--Tnat_KRZ50470.1
+        |        |     |           +--| (100)
+        |        |     |           |  |  +**Tnel_KRX20256.1
+        |        |     |           |  +--| (100)
+        |        |     |           |     +**Tnel_KRX20255.1
+        |        |     |        +--| (100)
+        |        |     |        |  +**Tspi_XP_003380167.1
+        |        |     |  +-----| (100)
+        |        |     |  |     +--Tspi_XP_003368987.1
+        |        |     +--| (87)
+        |        |        |              +--Plae_KAI0984297.1
+        |        |        +--------------| (100)
+        |        |                       +--Plae_KAI0984298.1
+        |     +--| (52)
+        |     |  +-----------Mbel_CAJ0964053.1
+        |  +--| (44)
+        |  |  |              +--Gpal_Gpal_D383_g00500.t1
+        |  |  |           +--| (100)
+        |  |  |           |  +------Mhap_MhA1_Contig1994.frz3.gene4
+        |  |  |        +--| (100)
+        |  |  |        |  |   +**Ddip_jg26521
+        |  |  |        |  +---| (100)
+        |  |  |        |      +**Ddip_jg26533
+        |  |  |     +--| (100)
+        |  |  |     |  +-----Bxyl_CAG9128521.1
+        |  |  |  +--| (100)
+        |  |  |  |  |  +-------Scar_TKR80642.1
+        |  |  |  |  +--| (100)
+        |  |  |  |     +--------------Srat_XP_024508351.1
+        |  |  +--| (76)
+        |  |     +-------------Otip_Oti_326_t
+        +--| (62)
+           |        +--Ever_VDD93866.1
+           |     +--| (100)
+           |     |  +--Sypmur_SMUV_0000527301-mRNA-1
+           |  +--| (91)
+           |  |  |  +**Asuu_AgB01_g822_t01
+           |  |  +--| (100)
+           |  |     +**Asuu_AgB01_g822_t02
+           +--| (100)
+              |        +--Ovol_OVOC3662
+              |     +--| (93)
+              |     |  +--Dimm_MCP9257372.1
+              |  +--| (91)
+              |  |  |     +--Lsig_VDK83118.1
+              |  |  |  +--| (100)
+              |  |  |  |  +--Avit_KAL3989456.1
+              |  |  +--| (99)
+              |  |     +--Eela_EEL_0000590401-mRNA-1
+              +--| (100)
+                 |  +--Lloa_XP_003140884.1
+                 +--| (100)
+                    |  +--Bmal_XP_001897040.1
+                    +--| (100)
+                       +--Wban_VDM22157.1
+
+Tree in newick format:
+
+(Acey_EYB86026.1:0.1856962910,((Hcon_XGW18520.1:0.0000010000,Hcon_XGW18521.1:0.0000010000)100:0.1574614446,Hpol_VDP19018.1:0.5422599875)89:0.0279922514,(Angcan_KAE9418089.1:0.2388536700,((((Diplco_DCO_001490:0.0191192718,Diplco_DCO_001492:0.0397265998)100:0.6667015369,Cele_NP_505831.1:0.6679812876)85:0.1047354798,(Mjap_MIJAPON000006756.t1:0.2547203130,Priarc_PARCANUS000014441.t1:0.2505064618)100:0.4996486206)62:0.1015937593,((((((((((((((((((Smoe_XP_024531781.1:0.0000020942,Smoe_XP_024539595.1:0.0050016801)100:0.4644290319,Ppat_XP_024399957.1:0.3648291359)92:0.0649111497,Mpol_BFI24177.1:0.4240176137)83:0.0659393608,(((((((Bdis_XP_014758878.1:0.0594405295,(Tura_XP_048530838.1:0.0000029358,Tura_XP_048530839.1:0.0430248968)100:0.0402523110)98:0.0274001512,Osat_XP_015610619.1:0.0267570420)61:0.0119914734,(Ecur_TVU10016.1:0.0322825762,((Zmay_NP_001140556.1:0.0000022144,Zmay_XP_008667465.1:0.0373582418)100:0.0168147101,(((Zmay_XP_008665874.1:0.0030660474,Zmay_XP_008651381.1:0.0000022193)97:0.0000028915,Zmay_XP_008665873.1:0.0079592548)100:0.0403276537,Zmay_XP_023157516.1:0.0282702053)100:0.4969592339)100:0.0549920181)99:0.0242763118)98:0.0453946478,((Bdis_XP_003572365.1:0.0713517930,(Tura_XP_048542530.1:0.0000021211,Tura_XP_048543124.1:0.0374743462)100:0.0251722468)100:0.0443929929,(((Osat_XP_015648710.1:0.0000021842,Osat_XP_015648711.1:0.0000010000)91:0.0000028244,Osat_XP_015648712.1:0.0110845396)100:0.0881845604,((Ecur_TVU05222.1:0.0000021401,Ecur_TVU01081.1:0.0042238885)100:0.0934687546,(Zmay_XP_035823398.1:0.0000023172,Zmay_XP_035823399.1:0.0000028616)100:0.1288335540)58:0.0259657110)99:0.0139846486)100:0.0494386184)99:0.2121358654,((((Bnap_XP_013749294.2:0.0000010000,Bnap_XP_048630333.1:0.0000010000)99:0.0078408306,(Bnap_XP_013697929.1:0.0000028381,(Bnap_XP_013697930.1:0.0015384134,(Bnap_XP_013749295.1:0.0000029584,Bnap_XP_048630334.1:0.0000028742)98:0.0125649991)81:0.0135374661)40:0.0079348614)95:0.0485813893,((Atha_NP_566667.1:0.0000010000,Atha_NP_850617.1:0.0000010000)69:0.0000026748,(Atha_NP_001030733.1:0.0000023168,(Atha_NP_001327067.1:0.0080842069,Atha_NP_001327066.1:0.0363080750)99:0.0477877319)91:0.0026031778)100:0.0224817118)95:0.1519226503,((((Mtru_XP_013456231.1:0.0397807627,Psat_XP_050893429.1:0.0398622255)100:0.1066931044,(Qlob_XP_030953153.1:0.0000021383,(Qlob_XP_030953162.1:0.0069232806,((Qlob_XP_030958998.1:0.0000028206,Qlob_XP_030959004.1:0.0000029955)100:0.0422795570,((Qlob_XP_030958989.1:0.0000010000,Qlob_XP_030958993.1:0.0000010000)87:0.0000023522,Qlob_XP_030959010.1:0.0000022175)100:0.1776770066)100:0.1771832756)100:0.0069114131)100:0.1252650578)22:0.0156570729,(((Mesc_XP_043813758.1:0.0000020631,(Mesc_XP_043813755.1:0.0000020704,(((Mesc_XP_021616705.1:0.0000010000,Mesc_XP_043813759.1:0.0000010000)82:0.0000021196,Mesc_XP_043813756.1:0.0000010000)78:0.0000021238,Mesc_XP_021616706.1:0.0000010000)89:0.0000022593)91:0.0000027120)100:0.0516002443,(Mesc_XP_043805952.1:0.0000024549,Mesc_XP_043805953.1:0.0000020966)100:0.0868167443)100:0.0623052196,(((Sollyc_NP_001306150.1:0.0000023122,Sollyc_XP_069152187.1:0.0000027287)100:0.1467335377,Cofcan_CDP14099.1:0.1415272834)100:0.0564717029,Lsat_XP_023742173.1:0.1789007989)97:0.0520057565)44:0.0201749970)72:0.0199223739,(Rchi_XP_024158191.1:0.0234756573,(Rchi_XP_024159049.1:0.0000022350,(Rchi_XP_024159047.1:0.0000026049,Rchi_XP_024159048.1:0.0000026049)100:0.4234338407)100:0.0140236465)100:0.1230476443)89:0.0257226016)93:0.0830975087)90:0.0396736167,Bnap_XP_048605489.1:1.9509851671)34:0.0450808514,Atri_XP_020526473.1:0.2445678178)99:0.2172752009)99:0.1843995236,Cbra_GBG93401.1:0.6926977328)97:0.1050559976,Crei_XP_042919519.1:0.7593046392)97:0.0589020930,(Mbre_XP_001742895.1:0.7304030463,Cper_Nk52_evm2s495:0.9717707554)99:0.2081765936)94:0.0962818402,((((Ppur_KAA8493682.1:1.1725878326,Sros_XP_004994314.1:1.0752080219)88:0.0869751761,(((Awhi_Unigene40667_Abeoforma_whisleri|m.26009:0.2404726785,Pgem_Unigene12170_Pirum_gemmata|m.7832:0.5780185923)100:0.2617708697,(Sarc_XP_014159214.1:0.2882654323,Cfra_CFRG3953T1:0.3274751063)100:0.1998945519)100:0.5759647589,(Cper_Nk52_evm32s628:0.8012901299,Otau_XP_022839388.1:1.0649140619)77:0.0809609173)86:0.1008648905)88:0.1233174346,(((Cfra_CFRG5311T1:0.2822076365,Sarc_XP_014149975.1:0.2945370100)100:0.1370999095,Pgem_Unigene22502_Pirum_gemmata|m.14473:0.4205470372)100:0.4597474265,Otau_XP_003074529.2:1.1187654076)92:0.2675197655)98:0.1567871834,((((Ccri_XP_005710683.1:1.4518711535,((((((((((Aque_XP_019855988.1:0.6406631665,(Emue_Em0015g867a:0.0128134901,Emue_Em0015g829a:0.0103933421)100:0.3232131244)96:0.0605114375,Twil_T_wilhelma_c32068_g3_i1|m.45570:0.2530762988)100:0.4424142899,(Scil_XP_065179869.1:0.1827010588,Lcom_lcpid113704|:0.2089260695)100:0.5275810887)100:0.1052849317,(Cowc_XP_004364766.2:0.7338384078,(Pigvie_Pvie_g7752:0.1610753156,Pigchi_Pchi_g9534:0.1887239126)100:0.6308759423)100:0.0755088576)100:0.0844878300,(Sros_XP_004988256.1:0.6686259069,Mbre_XP_001743620.1:0.9160309975)100:0.1717613894)100:0.5268682669,((((Cowc_XP_004363350.2:0.5466647151,((((Emue_Em0019g914a:0.0000010000,Emue_Em0246g2a:0.0000026630)50:0.0000022983,Emue_Em0960g3a:0.0000023037)100:0.4582990139,((Twil_T_wilhelma_c23056_g1_i1|m.9140:0.0000010000,Twil_T_wilhelma_c23056_g1_i2|m.9142:0.0000010000)100:0.2134365411,Aque_XP_011403823.1:0.6402548681)96:0.0935777390)99:0.1712566645,(Scil_XP_065182659.1:0.3570794408,Lcom_lcpid61937|:0.3893262295)100:0.4514868586)100:0.3027649478)100:0.4438887041,Cowc_XP_011270392.1:1.0584589788)97:0.1121579794,(Mbre_XP_001747949.1:0.5922230004,Sros_XP_004994712.1:0.6508416109)100:0.5881138396)99:0.1117111602,(((Emue_Em0004g89a:0.6527482232,Twil_T_wilhelma_c28507_g1_i2|m.25183:0.6498961509)68:0.2253850660,(Aque_XP_019854219.1:0.0000010000,Aque_XP_019854218.1:0.0000022137)100:0.6814799405)100:0.7876895456,Mbre_XP_001744551.1:1.4426581251)99:0.1362516025)100:0.1042289339)100:0.2040977144,(((((((((((Agrpla_XP_018320992.1:0.3050101357,Pvan_XP_027207134.1:0.2911094405)59:0.1015216140,(Smar_SMAR013954-PA:0.2846551599,(((Lpol_XP_013777533.1:0.2069325674,((Lpol_XP_013775038.1:0.0000010000,(Lpol_XP_022242198.1:0.0000010000,Lpol_XP_022242199.1:0.0000010000)77:0.0000010000)100:0.0897091492,Lpol_XP_022239646.1:0.0870478311)100:0.2464228527)100:0.0891680807,(Cscu_XP_023219802.1:0.0000024377,(Cscu_XP_023219803.1:0.0588141212,Cscu_XP_023219801.1:0.0761192796)100:0.0837905446)100:0.0630484332)100:0.1001659024,Btab_XP_018911171.1:0.6782878283)59:0.0579339721)59:0.0386767850)99:0.0553990326,((((Aplcal_XP_005092336.1:0.2534600888,Lcom_lcpid192438|:0.2515791628)96:0.0390124214,Obim_XP_014772373.1:0.4424858613)100:0.1004509388,Cvir_XP_022318228.1:0.3291459539)98:0.0645121003,(Ofus_CAH1793965.1:0.1933230901,(Lana_XP_013385380.1:0.3163455777,Hrob_XP_009025637.1:0.6320776560)86:0.0519714572)97:0.0630263525)98:0.0928228863)94:0.0644043260,((Blan_XP_066303427.1:0.0000023606,Blan_XP_066303428.1:0.0000022442)100:0.1916055218,Cint_XP_018672432.2:0.4658858572)100:0.0667211867)93:0.0285992810,(Apla_XP_022080314.1:0.2599209040,Spur_XP_030835125.1:0.2389139040)100:0.1651958539)86:0.0621293263,(((Xtro_NP_988915.1:0.1203498758,(Hsap_NP_060372.2:0.0000028847,Hsap_XP_011538242.1:0.0000020615)100:0.0396381217)97:0.0259112810,Ggal_XP_426507.2:0.0431764184)97:0.0651230402,Drer_NP_958904.1:0.1230946315)100:0.1543419803)94:0.0868493846,(((Twil_T_wilhelma_c26228_g1_i3|m.16415:0.0000022274,(Twil_T_wilhelma_c26228_g1_i1|m.16413:0.0000029710,Twil_T_wilhelma_c26228_g1_i2|m.16414:0.0044620294)100:0.0348803347)100:0.1561297346,((Emue_Em0010g680a:0.0112813487,Emue_Em0010g663a:0.0110385142)98:0.0195293123,((Emue_Em0010g639a:0.0000022360,Emue_Em0010g647a:0.1346051947)100:0.0128866747,Emue_Em0010g651a:0.1405748122)98:0.0119358241)100:0.2555297383)100:0.0803109866,Aque_XP_011405699.1:0.2566886701)100:0.3111524826)99:0.1110696886,(((Pigvie_Pvie_g6971:0.0719128570,Pigchi_Pchi_g10289:0.0896605964)100:0.2791003129,Cowc_XP_004349282.2:0.6352047955)99:0.1343733878,Cper_Nk52_evm51s164:0.5525920287)93:0.0647489287)95:0.0629521849,(Sros_XP_004998739.1:0.4306112161,Mbre_XP_001746653.1:0.9661757578)94:0.1043080347)98:0.1408935632,((Lcom_lcpid52748|:0.3207913557,Lcom_lcpid59751|:0.2649544393)100:0.1287328280,Scil_XP_065178252.1:0.4526239373)100:0.7684731872)100:0.2517320690,(Sros_XP_004991157.1:0.2233942577,Mbre_XP_001743099.1:0.4379618681)100:1.0846621160)100:0.3287223526)98:0.0917060284,((Ppur_KAA8495634.1:1.1563100395,(Otau_XP_003074383.1:0.9591163119,Ccri_XP_005713344.1:1.2514220464)100:0.3817414139)100:0.3502349878,(Mbre_XP_001742877.1:1.4831142142,Otau_XP_003081452.1:1.5285863712)25:0.1250224407)22:0.0683346245)22:0.0804640258,((((((((Cofcan_CDP03676.1:0.0333043363,Cofcan_CDP19768.1:0.8675664328)100:0.1943822486,((Lsat_XP_023734930.1:0.0000028760,Lsat_XP_023734931.1:0.0000023225)100:0.2660575013,(Sollyc_XP_004247201.1:0.0000027418,Sollyc_XP_025888583.1:0.0000010000)100:0.2331653302)96:0.0398230510)95:0.0481264877,(((Rchi_XP_040364728.1:0.0034991061,Rchi_XP_024164996.1:0.0000028787)100:0.2061437614,(((Qlob_XP_030947629.1:0.0000010000,Qlob_XP_030947628.1:0.0000010000)100:0.0035602867,Qlob_XP_030973177.1:0.0984971428)100:0.1268961124,(Mtru_XP_003590573.1:0.0619642219,Psat_XP_050887295.1:0.0682985457)100:0.1547507681)98:0.0330683539)98:0.0364556870,(Mesc_XP_021612650.1:0.0000025545,Mesc_XP_043812339.1:0.0000029755)100:0.1453928745)96:0.0362355297)93:0.0435280923,(((((Bnap_XP_048608055.1:0.0000010000,Bnap_XP_013682006.3:0.0000010000)99:0.0000023510,Bnap_XP_048608056.1:0.0000010000)100:0.0178005302,Bnap_XP_013730750.2:0.0238982376)100:0.0385712695,(Atha_NP_001318604.1:0.0000028983,Atha_NP_001190341.1:0.0035315386)100:0.0740208576)100:0.2540658543,((((Osat_XP_015618184.1:0.0000010000,Osat_XP_015618169.1:0.0000010000)72:0.0000027342,Osat_XP_015618176.1:0.0000010000)75:0.0000021605,Osat_XP_025877206.1:0.0000010000)99:0.0785347381,((((Bdis_XP_010232410.2:0.0000010000,Bdis_XP_003569931.2:0.0000010000)52:0.0000010000,Bdis_XP_024313966.1:0.0000010000)100:0.0718272232,Tura_XP_048564742.1:0.0657760772)100:0.0439272913,(Zmay_NP_001360982.1:0.1121758439,(Ecur_TVU34924.1:0.0000028253,Ecur_TVU34937.1:0.0429209942)100:0.0943404793)92:0.0169046031)86:0.0220332847)100:0.3576057232)54:0.0584920010)62:0.0785267317,(Atri_XP_020520100.1:0.0000024075,Atri_XP_020520101.1:0.0000023651)100:0.3579085086)100:0.2830949429,(((((Smoe_XP_024520770.1:0.0000021864,Smoe_XP_024520670.1:0.0000010000)61:0.0000026804,(Smoe_XP_024520821.1:0.0000010000,(((((Smoe_XP_024527654.1:0.0000020717,Smoe_XP_024527652.1:0.0000010000)84:0.0000025613,(Smoe_XP_024527653.1:0.0000010000,(Smoe_XP_024527658.1:0.0323250155,(((((Smoe_XP_024527931.1:0.0000010000,(Smoe_XP_024527929.1:0.0000010000,(Smoe_XP_024527933.1:0.0000010000,Smoe_XP_024527932.1:0.0000010000)88:0.0000020408)8:0.0000010000)18:0.0000010000,Smoe_XP_024527928.1:0.0000010000)18:0.0000010000,Smoe_XP_024527930.1:0.0000010000)85:0.0000021869,Smoe_XP_024527935.1:0.0000026212)52:0.0000025326,Smoe_XP_024527934.1:0.0000029774)100:0.1575851284)87:0.0166732046)41:0.0000027052)57:0.0000011827,Smoe_XP_024527656.1:0.0000010000)46:0.0000025260,Smoe_XP_024527655.1:0.0000010000)93:0.0049689208,Smoe_XP_024532000.1:0.0752712581)97:0.0100678886)11:0.0000029379)13:0.0000025290,Smoe_XP_024520721.1:0.0000010000)21:0.0000010000,Smoe_XP_024520874.1:0.0000010000)100:0.5400175678,(Ppat_XP_024366925.1:0.3611446283,Mpol_BFI40533.1:0.4660503078)71:0.1197817636)98:0.1620819723)98:0.1431324662,Crei_XP_042921493.1:1.0045127512)100:0.5938784859,Otau_XP_022838759.1:1.7732912415)99:0.4759811758)67:0.0381771319,((((Lcom_lcpid42417|:0.6346065843,((Scil_XP_065197388.1:0.0000022007,Lcom_lcpid206315|:0.0399943762)100:0.3940687980,(Lcom_lcpid181318|:0.1666409511,((Lcom_lcpid115342|:0.0094399751,Lcom_lcpid202534|:0.0000020908)100:0.1011622223,Lcom_lcpid153413|:0.0535616284)100:0.2103351507)100:0.1676634681)100:0.3623607367)100:0.6335377545,(((((Apla_XP_022104467.1:0.0000029834,Apla_XP_022104468.1:0.0000028262)100:0.3414722917,(Spur_XP_030851360.1:0.0000024597,Spur_XP_030851366.1:0.0000026192)100:0.2224118451)98:0.1261057128,Tadh_XP_002116950.1:0.5785722817)85:0.1482250566,Ofus_CAH1798454.1:0.4491136509)87:0.1793162247,Cper_Nk52_evm10s545:0.7606502747)100:0.8815932412)99:0.1891623222,Cper_Nk52_evm1s1223:1.4234554994)99:0.1108688010,((Otau_XP_003080466.1:1.3630466724,Clim_Clim_evm8s223:0.9076909528)100:0.6646280117,(Blan_XP_066302682.1:0.0000021821,Blan_XP_066302683.1:0.0000022232)100:1.3073867030)99:0.1614866885)97:0.1167427701)67:0.0840108163)81:0.0611943376,Sros_XP_004994627.1:1.7617938635)88:0.0351194790,Clim_Clim_evm84s25:1.4981842114)89:0.0821723389,Otau_XP_022838309.1:0.9326102812)87:0.0769881158)90:0.1118400814)79:0.0540487836,Sros_XP_004991404.1:0.8509128468)98:0.0928669174,(Echgra_XP_024348645.1:0.3308252064,Sman_XP_018654420.1:0.8471390290)100:0.5527400630)86:0.0634457183,(((Smar_SMAR008599-PA:0.4844181257,Cint_XP_026690226.1:0.6300193688)47:0.0675491918,(((((((((((((Hsap_NP_079049.2:0.0000010000,Hsap_NP_001138820.1:0.0000010000)90:0.0000010000,(Hsap_XP_016879165.1:0.0000010000,(Hsap_XP_047290611.1:0.0000010000,Hsap_XP_047290610.1:0.0000023718)75:0.0000020858)74:0.0000023054)75:0.0000025620,Hsap_XP_047290612.1:0.0000010000)42:0.0000010000,Hsap_XP_047290613.1:0.0000010000)72:0.0000028063,Hsap_XP_047290614.1:0.0000010000)100:0.2461505413,(Ggal_XP_414883.4:0.0000021959,(Ggal_XP_025010992.2:0.0150861090,Ggal_XP_004945335.2:0.0382232484)100:0.0453058426)100:0.2449769728)95:0.0456204676,Xtro_NP_001121525.1:0.3396105011)100:0.0780191257,(Drer_NP_001103339.2:0.0000028519,Drer_XP_068072685.1:0.0000021526)100:0.2846614605)100:0.1649914100,Blan_XP_066295512.1:0.3282889741)89:0.0701274293,(Skow_XP_006813260.1:0.3569011547,(((Ofus_CAH1779520.1:0.3373931670,Lana_XP_013411836.1:0.4067902322)80:0.0792569808,((Apla_XP_022085203.1:0.0000020417,Apla_XP_022085202.1:0.0000010000)100:0.2547507414,Spur_XP_030839602.1:0.5262536144)96:0.0500146031)78:0.0462373345,(Cscu_XP_023216044.1:0.3555724697,((Lpol_XP_013774279.1:0.0000010000,Lpol_XP_022241370.1:0.0000010000)99:0.0000026651,Lpol_XP_022241372.1:0.0000010000)100:0.2563766878)100:0.1556211439)86:0.0246023968)88:0.0443108232)93:0.0431214267,((Aplcal_XP_005102629.2:0.4301368779,Cvir_XP_022338439.1:0.4686124353)76:0.1094891982,(Obim_XP_014780508.1:0.3858683260,(Hrob_XP_009019477.1:0.3345703126,Hrob_XP_009019479.1:1.0816720344)100:0.3686803738)98:0.1115055897)81:0.0823671501)78:0.0679959357,(((Avag_UJR16219.1:0.4178742375,Cper_Nk52_evm66s2367:1.7360631066)77:0.0800154816,Aque_XP_019853293.1:0.5987890055)40:0.0520336613,((((Pigchi_Pchi_g4251:0.1761691611,Pigvie_Pvie_g14601:0.1969368078)100:0.4629182426,(Emue_Em0011g644a:0.3331827877,Twil_T_wilhelma_c33435_g2_i2|m.55195:0.6920037060)100:0.1718222675)97:0.0403771900,Tadh_XP_002109881.1:0.6128150878)91:0.0577775687,(Dpul_XP_046461813.1:0.5172626413,(Pvan_XP_069991586.1:0.0000025061,Pvan_XP_069991585.1:0.0000021308)100:0.7198150627)89:0.0858071327)75:0.0380966735)62:0.0662286838)63:0.0324075714,((Scil_XP_065185214.1:0.2410805385,((Lcom_lcpid67550|:0.0000010000,Lcom_lcpid51678|:0.0081311320)98:0.0000028062,Lcom_lcpid115304|:0.1663256692)100:0.2185822144)100:0.3576811331,(Awhi_Unigene29846_Abeoforma_whisleri|m.18337:0.5432667628,Pgem_Unigene20972_Pirum_gemmata|m.13675:0.4678298202)98:0.2060811497)87:0.0536588424)91:0.0646773563)35:0.0241334234,((Rvar_GAU90323.1:0.2591446040,Hduj_OQV19329.1:0.2900292774)100:0.4986696953,((((Apimel_XP_026296209.1:0.0000010000,Apimel_XP_026296208.1:0.0000010000)100:0.6224891328,Agrpla_XP_018331764.2:0.5134233703)84:0.0527306649,Bmor_XP_021207491.2:0.6633570045)85:0.0994764284,(Dmel_NP_612063.2:0.0000010000,Dmel_NP_001261225.1:0.0000021867)100:0.8212599492)95:0.1615719012)21:0.0423071557)30:0.0559318128)34:0.0239588392,Rcul_nRc.2.0.1.t13431-RA:1.0042750641)60:0.0595634078,((Cfra_CFRG8355T1:0.2753803554,Sarc_XP_014151949.1:0.4189488938)100:0.3433866760,(Ppat_XP_024376210.1:0.0049113658,Ppat_XP_024376209.1:0.0000023285)100:1.2817876760)70:0.1498030563)95:0.0737523068,(Sbat_VDO98087.1:0.4199887060,Plae_KAI0985441.1:0.6456331703)62:0.1383365632)57:0.0462976619,(((Trimur_TMUE_0000000640:0.0000010000,Trimur_TMUE_3000012690:0.0024092971)100:0.0959935878,(Tsui_KHJ45102.1:0.0648594965,Ttri_CDW53161.1:0.0484159235)100:0.1620574067)100:0.3591739034,(((((Tbri_KRY47478.1:0.0063996185,Tnat_KRZ50470.1:0.0042642521)100:0.0042463651,(Tnel_KRX20256.1:0.0000010000,Tnel_KRX20255.1:0.0000027672)100:0.0042727227)100:0.0053609566,Tspi_XP_003380167.1:0.0011417417)100:0.0487737348,Tspi_XP_003368987.1:0.0242869837)100:0.4799326740,(Plae_KAI0984297.1:0.0089286716,Plae_KAI0984298.1:0.0066944268)100:1.1627724140)87:0.0174488688)96:0.1896840115)91:0.2587846326,Mbel_CAJ0964053.1:0.9490644030)52:0.0510254248,(((((Gpal_Gpal_D383_g00500.t1:0.2893141375,Mhap_MhA1_Contig1994.frz3.gene4:0.5369892306)100:0.1197951956,(Ddip_jg26521:0.0000023641,Ddip_jg26533:0.0000028082)100:0.3551130442)100:0.1768923648,Bxyl_CAG9128521.1:0.5324208084)100:0.1585633382,(Scar_TKR80642.1:0.6674007346,Srat_XP_024508351.1:1.1662853209)100:0.1452482975)100:0.1680504912,Otip_Oti_326_t:1.1117004624)76:0.1045937862)44:0.0309447762,(((Ever_VDD93866.1:0.1470287747,Sypmur_SMUV_0000527301-mRNA-1:0.2746509545)100:0.2084309898,(Asuu_AgB01_g822_t01:0.0000010000,Asuu_AgB01_g822_t02:0.0000010000)100:0.2418072872)91:0.0833012059,(((Ovol_OVOC3662:0.0550521694,Dimm_MCP9257372.1:0.0841790278)93:0.0193101820,((Lsig_VDK83118.1:0.0708338530,Avit_KAL3989456.1:0.0709102338)100:0.0138729390,Eela_EEL_0000590401-mRNA-1:0.0616514934)99:0.0210680889)91:0.0189057722,(Lloa_XP_003140884.1:0.0507507339,(Bmal_XP_001897040.1:0.0095534138,Wban_VDM22157.1:0.0251245306)100:0.0942803458)100:0.0173115902)100:0.2624335071)100:0.2277708395)62:0.1058596752)100:0.4094470228)100:0.0882324324);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -119959.952397
+Robinson-Foulds distance between ML tree and consensus tree: 92
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++-------------Acey_EYB86026.1
+|
+|                   +--Hcon_XGW18520.1
+|                +--| (100)
+|                |  +--Hcon_XGW18521.1
+|  +-------------| (89)
+|  |             +--------Hpol_VDP19018.1
++--| (100)
+|  +-----------------Angcan_KAE9418089.1
+|  |
+|  |                      +--Diplco_DCO_001490
+|  |           +----------| (100)
+|  |           |          +--Diplco_DCO_001492
+|  |        +--| (85)
+|  |        |  +----------Cele_NP_505831.1
+|  |     +--| (62)
+|  |     |  |       +---Mjap_MIJAPON000006756.t1
+|  |     |  +-------| (100)
+|  |     |          +---Priarc_PARCANUS000014441.t1
+|  +-----| (24)
+|  |     +-------------Mbel_CAJ0964053.1
+|  |
+|  |                           +--Smoe_XP_024531781.1
+|  |                    +------| (100)
+|  |                    |      +--Smoe_XP_024539595.1
+|  |                 +--| (92)
+|  |                 |  +-----Ppat_XP_024399957.1
+|  |              +--| (83)
+|  |              |  +------Mpol_BFI24177.1
+|  |           +--| (99)
+|  |           |  |                 +--Bdis_XP_014758878.1
+|  |           |  |              +--| (98)
+|  |           |  |              |  |  +--Tura_XP_048530838.1
+|  |           |  |              |  +--| (100)
+|  |           |  |              |     +--Tura_XP_048530839.1
+|  |           |  |           +--| (61)
+|  |           |  |           |  +--Osat_XP_015610619.1
+|  |           |  |        +--| (98)
+|  |           |  |        |  |  +--Ecur_TVU10016.1
+|  |           |  |        |  +--| (99)
+|  |           |  |        |     |     +--Zmay_NP_001140556.1
+|  |           |  |        |     |  +--| (100)
+|  |           |  |        |     |  |  +--Zmay_XP_008667465.1
+|  |           |  |        |     +--| (100)
+|  |           |  |        |        |             +--Zmay_XP_008665874.1
+|  |           |  |        |        |          +--| (97)
+|  |           |  |        |        |          |  +--Zmay_XP_008651381.1
+|  |           |  |        |        |       +--| (100)
+|  |           |  |        |        |       |  +--Zmay_XP_008665873.1
+|  |           |  |        |        +-------| (100)
+|  |           |  |        |                +--Zmay_XP_023157516.1
+|  |           |  |     +--| (99)
+|  |           |  |     |  |     +--Bdis_XP_003572365.1
+|  |           |  |     |  |  +--| (100)
+|  |           |  |     |  |  |  |  +--Tura_XP_048542530.1
+|  |           |  |     |  |  |  +--| (100)
+|  |           |  |     |  |  |     +--Tura_XP_048543124.1
+|  |           |  |     |  +--| (100)
+|  |           |  |     |     |        +--Osat_XP_015648710.1
+|  |           |  |     |     |     +--| (91)
+|  |           |  |     |     |     |  +--Osat_XP_015648711.1
+|  |           |  |     |     |  +--| (100)
+|  |           |  |     |     |  |  +--Osat_XP_015648712.1
+|  |           |  |     |     +--| (99)
+|  |           |  |     |        |     +--Ecur_TVU05222.1
+|  |           |  |     |        |  +--| (100)
+|  |           |  |     |        |  |  +--Ecur_TVU01081.1
+|  |           |  |     |        +--| (58)
+|  |           |  |     |           |  +--Zmay_XP_035823398.1
+|  |           |  |     |           +--| (100)
+|  |           |  |     |              +--Zmay_XP_035823399.1
+|  |           |  |  +--| (90)
+|  |           |  |  |  |              +--Bnap_XP_013749294.2
+|  |           |  |  |  |           +--| (99)
+|  |           |  |  |  |           |  +--Bnap_XP_048630333.1
+|  |           |  |  |  |        +--| (42)
+|  |           |  |  |  |        |  |  +--Bnap_XP_013697930.1
+|  |           |  |  |  |        |  +--| (81)
+|  |           |  |  |  |        |     |  +--Bnap_XP_013749295.1
+|  |           |  |  |  |        |     +--| (98)
+|  |           |  |  |  |        |        +--Bnap_XP_048630334.1
+|  |           |  |  |  |     +--| (95)
+|  |           |  |  |  |     |  +--Bnap_XP_013697929.1
+|  |           |  |  |  |  +--| (95)
+|  |           |  |  |  |  |  |     +--Atha_NP_566667.1
+|  |           |  |  |  |  |  |  +--| (69)
+|  |           |  |  |  |  |  |  |  +--Atha_NP_850617.1
+|  |           |  |  |  |  |  +--| (100)
+|  |           |  |  |  |  |     |  +--Atha_NP_001030733.1
+|  |           |  |  |  |  |     +--| (91)
+|  |           |  |  |  |  |        |  +--Atha_NP_001327067.1
+|  |           |  |  |  |  |        +--| (99)
+|  |           |  |  |  |  |           +--Atha_NP_001327066.1
+|  |           |  |  |  +--| (93)
+|  |           |  |  |     |        +--Mtru_XP_013456231.1
+|  |           |  |  |     |     +--| (100)
+|  |           |  |  |     |     |  +--Psat_XP_050893429.1
+|  |           |  |  |     |  +--| (72)
+|  |           |  |  |     |  |  |           +--Mesc_XP_043813758.1
+|  |           |  |  |     |  |  |        +--| (100)
+|  |           |  |  |     |  |  |        |  |  +--Mesc_XP_043813755.1
+|  |           |  |  |     |  |  |        |  +--| (91)
+|  |           |  |  |     |  |  |        |     |        +--Mesc_XP_021616705.1
+|  |           |  |  |     |  |  |        |     |     +--| (82)
+|  |           |  |  |     |  |  |        |     |     |  +--Mesc_XP_043813759.1
+|  |           |  |  |     |  |  |        |     |  +--| (78)
+|  |           |  |  |     |  |  |        |     |  |  +--Mesc_XP_043813756.1
+|  |           |  |  |     |  |  |        |     +--| (89)
+|  |           |  |  |     |  |  |        |        +--Mesc_XP_021616706.1
+|  |           |  |  |     |  |  |     +--| (100)
+|  |           |  |  |     |  |  |     |  |  +--Mesc_XP_043805952.1
+|  |           |  |  |     |  |  |     |  +--| (100)
+|  |           |  |  |     |  |  |     |     +--Mesc_XP_043805953.1
+|  |           |  |  |     |  |  |  +--| (44)
+|  |           |  |  |     |  |  |  |  |        +--Sollyc_NP_001306150.1
+|  |           |  |  |     |  |  |  |  |     +--| (100)
+|  |           |  |  |     |  |  |  |  |     |  +--Sollyc_XP_069152187.1
+|  |           |  |  |     |  |  |  |  |  +--| (100)
+|  |           |  |  |     |  |  |  |  |  |  +--Cofcan_CDP14099.1
+|  |           |  |  |     |  |  |  |  +--| (97)
+|  |           |  |  |     |  |  |  |     +--Lsat_XP_023742173.1
+|  |           |  |  |     |  |  +--| (27)
+|  |           |  |  |     |  |     |  +--Qlob_XP_030953153.1
+|  |           |  |  |     |  |     +--| (100)
+|  |           |  |  |     |  |        |  +--Qlob_XP_030953162.1
+|  |           |  |  |     |  |        +--| (100)
+|  |           |  |  |     |  |           |     +--Qlob_XP_030958998.1
+|  |           |  |  |     |  |           |  +--| (100)
+|  |           |  |  |     |  |           |  |  +--Qlob_XP_030959004.1
+|  |           |  |  |     |  |           +--| (100)
+|  |           |  |  |     |  |              |     +--Qlob_XP_030958989.1
+|  |           |  |  |     |  |              |  +--| (87)
+|  |           |  |  |     |  |              |  |  +--Qlob_XP_030958993.1
+|  |           |  |  |     |  |              +--| (100)
+|  |           |  |  |     |  |                 +--Qlob_XP_030959010.1
+|  |           |  |  |     +--| (89)
+|  |           |  |  |        |  +--Rchi_XP_024158191.1
+|  |           |  |  |        +--| (100)
+|  |           |  |  |           |  +--Rchi_XP_024159049.1
+|  |           |  |  |           +--| (100)
+|  |           |  |  |              |           +**Rchi_XP_024159047.1
+|  |           |  |  |              |        +**|
+|  |           |  |  |              |        |  +**Rchi_XP_040375662.1
+|  |           |  |  |              |     +--|
+|  |           |  |  |              |     |  +**Rchi_XP_040375663.1
+|  |           |  |  |              +-----| (100)
+|  |           |  |  |                    +--Rchi_XP_024159048.1
+|  |           |  +--| (99)
+|  |           |     |  +--Atri_XP_020526473.1
+|  |           |     +--| (64)
+|  |           |        +-------------------------------Bnap_XP_048605489.1
+|  |        +--| (97)
+|  |        |  +----------Cbra_GBG93401.1
+|  |     +--| (97)
+|  |     |  +----------Crei_XP_042919519.1
+|  |  +--| (94)
+|  |  |  |  +-----------Mbre_XP_001742895.1
+|  |  |  +--| (99)
+|  |  |     +----------------Cper_Nk52_evm2s495
+|  +--| (1)
+|  |  +-------------Sros_XP_004991404.1
+|  |
+|  |        +-------Smar_SMAR008599-PA
+|  |     +--| (47)
+|  |     |  +---------Cint_XP_026690226.1
+|  |  +--| (31)
+|  |  |  |        +--Rvar_GAU90323.1
+|  |  |  +--------| (100)
+|  |  |           +----Hduj_OQV19329.1
+|  +--| (1)
+|  |  |  +---------------Rcul_nRc.2.0.1.t13431-RA
+|  |  +--| (28)
+|  |     |                   +--Apimel_XP_026296209.1
+|  |     |        +----------| (100)
+|  |     |        |          +--Apimel_XP_026296208.1
+|  |     |     +--| (84)
+|  |     |     |  +-------Agrpla_XP_018331764.2
+|  |     |  +--| (85)
+|  |     |  |  +----------Bmor_XP_021207491.2
+|  |     +--| (95)
+|  |        |             +--Dmel_NP_612063.2
+|  |        +-------------| (100)
+|  |                      +--Dmel_NP_001261225.1
+|  |
+|  |                                  +--Hsap_NP_079049.2
+|  |                               +--| (90)
+|  |                               |  +--Hsap_NP_001138820.1
+|  |                            +--| (75)
+|  |                            |  |  +--Hsap_XP_016879165.1
+|  |                            |  +--| (74)
+|  |                            |     |  +--Hsap_XP_047290611.1
+|  |                            |     +--| (75)
+|  |                            |        +--Hsap_XP_047290610.1
+|  |                         +--| (42)
+|  |                         |  +--Hsap_XP_047290612.1
+|  |                      +--| (72)
+|  |                      |  +--Hsap_XP_047290613.1
+|  |                  +---| (100)
+|  |                  |   +--Hsap_XP_047290614.1
+|  |               +--| (95)
+|  |               |  |   +--Ggal_XP_414883.4
+|  |               |  +---| (100)
+|  |               |      |  +--Ggal_XP_025010992.2
+|  |               |      +--| (100)
+|  |               |         +--Ggal_XP_004945335.2
+|  |            +--| (100)
+|  |            |  +----Xtro_NP_001121525.1
+|  |         +--| (100)
+|  |         |  |   +--Drer_NP_001103339.2
+|  |         |  +---| (100)
+|  |         |      +--Drer_XP_068072685.1
+|  |      +--| (89)
+|  |      |  +----Blan_XP_066295512.1
+|  |   +--| (93)
+|  |   |  |  +----Skow_XP_006813260.1
+|  |   |  +--| (88)
+|  |   |     |        +----Ofus_CAH1779520.1
+|  |   |     |     +--| (80)
+|  |   |     |     |  +-----Lana_XP_013411836.1
+|  |   |     |  +--| (78)
+|  |   |     |  |  |      +--Apla_XP_022085203.1
+|  |   |     |  |  |  +---| (100)
+|  |   |     |  |  |  |   +--Apla_XP_022085202.1
+|  |   |     |  |  +--| (96)
+|  |   |     |  |     +-------Spur_XP_030839602.1
+|  |   |     +--| (86)
+|  |   |        |  +-----Cscu_XP_023216044.1
+|  |   |        +--| (100)
+|  |   |           |         +**Lpol_XP_013774279.1
+|  |   |           |      +--|
+|  |   |           |      |  +**Lpol_XP_022241371.1
+|  |   |           |   +--| (99)
+|  |   |           |   |  +--Lpol_XP_022241370.1
+|  |   |           +---| (100)
+|  |   |               +--Lpol_XP_022241372.1
+|  +---| (2)
+|  |   |  +------Aplcal_XP_005102629.2
+|  |   +--| (76)
+|  |      +------Cvir_XP_022338439.1
+|  |
+|  |        +---Scil_XP_065185214.1
+|  |   +----| (100)
+|  |   |    |     +--Lcom_lcpid67550|
+|  |   |    |  +--| (98)
+|  |   |    |  |  +--Lcom_lcpid51678|
+|  |   |    +--| (100)
+|  |   |       +--Lcom_lcpid115304|
+|  +---| (87)
+|  |   |   +--------Awhi_Unigene29846_Abeoforma_whisleri|m.18337
+|  |   +---| (98)
+|  |       +------Pgem_Unigene20972_Pirum_gemmata|m.13675
+|  |
+|  |     +--------Avag_UJR16219.1
+|  |  +--| (10)
+|  |  |  |                +--Pigchi_Pchi_g4251
+|  |  |  |        +-------| (100)
+|  |  |  |        |       +--Pigvie_Pvie_g14601
+|  |  |  |     +--| (97)
+|  |  |  |     |  |  +----Emue_Em0011g644a
+|  |  |  |     |  +--| (100)
+|  |  |  |     |     +----------Twil_T_wilhelma_c33435_g2_i2|m.55195
+|  |  |  |  +--| (91)
+|  |  |  |  |  +---------Tadh_XP_002109881.1
+|  |  |  +--| (75)
+|  |  |     |  +-------Dpul_XP_046461813.1
+|  |  |     +--| (89)
+|  |  |        |           +--Pvan_XP_069991586.1
+|  |  |        +-----------| (100)
+|  |  |                    +--Pvan_XP_069991585.1
+|  +--| (11)
+|  |  +-----------Aque_XP_019853293.1
+|  |
+|  +---------Obim_XP_014780508.1
+|  |
+|  |         +---Cfra_CFRG8355T1
+|  |  +------| (100)
+|  |  |      +------Sarc_XP_014151949.1
+|  +--| (70)
+|  |  |                     +--Ppat_XP_024376210.1
+|  |  +---------------------| (100)
+|  |                        +--Ppat_XP_024376209.1
+|  |
+|  |                +--Trimur_TMUE_0000000640
+|  |             +--| (100)
+|  |             |  +--Trimur_TMUE_3000012690
+|  |        +----| (100)
+|  |        |    |  +--Tsui_KHJ45102.1
+|  |        |    +--| (100)
+|  |        |       +--Ttri_CDW53161.1
+|  |     +--| (12)
+|  |     |  |                +--Tbri_KRY47478.1
+|  |     |  |             +--| (100)
+|  |     |  |             |  +--Tnat_KRZ50470.1
+|  |     |  |          +--| (100)
+|  |     |  |          |  |  +--Tnel_KRX20256.1
+|  |     |  |          |  +--| (100)
+|  |     |  |          |     +--Tnel_KRX20255.1
+|  |     |  |       +--| (100)
+|  |     |  |       |  +--Tspi_XP_003380167.1
+|  |     |  +-------| (100)
+|  |     |          +--Tspi_XP_003368987.1
+|  +-----| (1)
+|  |     |  +------Sbat_VDO98087.1
+|  |     +--| (62)
+|  |        +--------Plae_KAI0985441.1
+|  |
+|  |               +--Ever_VDD93866.1
+|  |            +--| (100)
+|  |            |  +---Sypmur_SMUV_0000527301-mRNA-1
+|  |         +--| (91)
+|  |         |  |            +**Asuu_AgB01_g822_t01
+|  |         |  |         +**|
+|  |         |  |         |  +**Asuu_AgB01_g822_t03
+|  |         |  |      +**|
+|  |         |  |      |  +**Asuu_AgB01_g822_t05
+|  |         |  |   +--|
+|  |         |  |   |  +**Asuu_AgB01_g822_t04
+|  |         |  +---| (100)
+|  |         |      +--Asuu_AgB01_g822_t02
+|  |     +---| (100)
+|  |     |   |          +--Ovol_OVOC3662
+|  |     |   |       +--| (93)
+|  |     |   |       |  +--Dimm_MCP9257372.1
+|  |     |   |    +--| (91)
+|  |     |   |    |  |     +--Lsig_VDK83118.1
+|  |     |   |    |  |  +--| (100)
+|  |     |   |    |  |  |  +--Avit_KAL3989456.1
+|  |     |   |    |  +--| (99)
+|  |     |   |    |     +--Eela_EEL_0000590401-mRNA-1
+|  |     |   +----| (100)
+|  |     |        |  +--Lloa_XP_003140884.1
+|  |     |        +--| (100)
+|  |     |           |  +--Bmal_XP_001897040.1
+|  |     |           +--| (100)
+|  |     |              +--Wban_VDM22157.1
+|  +-----| (6)
+|  |     |              +----Gpal_Gpal_D383_g00500.t1
+|  |     |           +--| (100)
+|  |     |           |  +-------Mhap_MhA1_Contig1994.frz3.gene4
+|  |     |        +--| (100)
+|  |     |        |  |     +--Ddip_jg26521
+|  |     |        |  +-----| (100)
+|  |     |        |        +--Ddip_jg26533
+|  |     |     +--| (100)
+|  |     |     |  +--------Bxyl_CAG9128521.1
+|  |     |  +--| (100)
+|  |     |  |  |  +----------Scar_TKR80642.1
+|  |     |  |  +--| (100)
+|  |     |  |     +------------------Srat_XP_024508351.1
+|  |     +--| (76)
+|  |        +------------------Otip_Oti_326_t
+|  |
+|  |        +------Hrob_XP_009019477.1
+|  +--------| (100)
+|  |        +---------------Hrob_XP_009019479.1
+|  |
+|  |           +----Echgra_XP_024348645.1
+|  +-----------| (100)
+|  |           +-------------Sman_XP_018654420.1
+|  |
+|  |             +------------------Ppur_KAA8493682.1
+|  |          +--| (88)
+|  |          |  +----------------Sros_XP_004994314.1
+|  |       +--| (88)
+|  |       |  |                +--Awhi_Unigene40667_Abeoforma_whisleri|m.26009
+|  |       |  |            +---| (100)
+|  |       |  |            |   +--------Pgem_Unigene12170_Pirum_gemmata|m.7832
+|  |       |  |  +---------| (100)
+|  |       |  |  |         |  +----Sarc_XP_014159214.1
+|  |       |  |  |         +--| (100)
+|  |       |  |  |            +----Cfra_CFRG3953T1
+|  |       |  +--| (86)
+|  |       |     |  +------------Cper_Nk52_evm32s628
+|  |       |     +--| (77)
+|  |       |        +-----------------Otau_XP_022839388.1
+|  |    +--| (98)
+|  |    |  |            +----Cfra_CFRG5311T1
+|  |    |  |         +--| (100)
+|  |    |  |         |  +---Sarc_XP_014149975.1
+|  |    |  |   +-----| (100)
+|  |    |  |   |     +----Pgem_Unigene22502_Pirum_gemmata|m.14473
+|  |    |  +---| (92)
+|  |    |      +-------------------Otau_XP_003074529.2
+|  +----| (7)
+|  |    +---------------------Ccri_XP_005710683.1
+|  |
+|  +---------------------Otau_XP_022838309.1
+|  |
+|  |                                    +---------Aque_XP_019855988.1
+|  |                                 +--| (96)
+|  |                                 |  |    +--Emue_Em0015g867a
+|  |                                 |  +----| (100)
+|  |                                 |       +--Emue_Em0015g829a
+|  |                           +-----| (100)
+|  |                           |     +---Twil_T_wilhelma_c32068_g3_i1|m.45570
+|  |                        +--| (100)
+|  |                        |  |        +--Scil_XP_065179869.1
+|  |                        |  +--------| (100)
+|  |                        |           +--Lcom_lcpid113704|
+|  |                     +--| (100)
+|  |                     |  |  +-----------Cowc_XP_004364766.2
+|  |                     |  +--| (100)
+|  |                     |     |         +--Pigvie_Pvie_g7752
+|  |                     |     +---------| (100)
+|  |                     |               +--Pigchi_Pchi_g9534
+|  +---------------------| (100)
+|  |                     |  +----------Sros_XP_004988256.1
+|  |                     +--| (100)
+|  |                        +--------------Mbre_XP_001743620.1
+|  |
+|  |                                               +----Agrpla_XP_018320992.1
+|  |                                            +--| (59)
+|  |                                            |  +---Pvan_XP_027207134.1
+|  |                                         +--| (99)
+|  |                                         |  |  +---Smar_SMAR013954-PA
+|  |                                         |  +--| (59)
+|  |                                         |     |        +--Lpol_XP_013777533.1
+|  |                                         |     |     +--| (100)
+|  |                                         |     |     |  |      +--Lpol_XP_013775038.1
+|  |                                         |     |     |  |   +--| (100)
+|  |                                         |     |     |  |   |  |  +--Lpol_XP_022242198.1
+|  |                                         |     |     |  |   |  +--| (77)
+|  |                                         |     |     |  |   |     +--Lpol_XP_022242199.1
+|  |                                         |     |     |  +---| (100)
+|  |                                         |     |     |      +--Lpol_XP_022239646.1
+|  |                                         |     |  +--| (100)
+|  |                                         |     |  |  |  +--Cscu_XP_023219802.1
+|  |                                         |     |  |  +--| (100)
+|  |                                         |     |  |     |  +--Cscu_XP_023219803.1
+|  |                                         |     |  |     +--| (100)
+|  |                                         |     |  |        +--Cscu_XP_023219801.1
+|  |                                         |     +--| (59)
+|  |                                         |        +----------Btab_XP_018911171.1
+|  |                                      +--| (94)
+|  |                                      |  |           +---Aplcal_XP_005092336.1
+|  |                                      |  |        +--| (96)
+|  |                                      |  |        |  +---Lcom_lcpid192438|
+|  |                                      |  |     +--| (100)
+|  |                                      |  |     |  +------Obim_XP_014772373.1
+|  |                                      |  |  +--| (98)
+|  |                                      |  |  |  +----Cvir_XP_022318228.1
+|  |                                      |  +--| (98)
+|  |                                      |     |  +--Ofus_CAH1793965.1
+|  |                                      |     +--| (97)
+|  |                                      |        |  +----Lana_XP_013385380.1
+|  |                                      |        +--| (86)
+|  |                                      |           +---------Hrob_XP_009025637.1
+|  |                                   +--| (93)
+|  |                                   |  |     +--Blan_XP_066303427.1
+|  |                                   |  |  +--| (100)
+|  |                                   |  |  |  +--Blan_XP_066303428.1
+|  |                                   |  +--| (100)
+|  |                                   |     +------Cint_XP_018672432.2
+|  |                                +--| (86)
+|  |                                |  |  +---Apla_XP_022080314.1
+|  |                                |  +--| (100)
+|  |                                |     +--Spur_XP_030835125.1
+|  |                             +--| (94)
+|  |                             |  |        +--Xtro_NP_988915.1
+|  |                             |  |     +--| (97)
+|  |                             |  |     |  |  +--Hsap_NP_060372.2
+|  |                             |  |     |  +--| (100)
+|  |                             |  |     |     +--Hsap_XP_011538242.1
+|  |                             |  |  +--| (97)
+|  |                             |  |  |  +--Ggal_XP_426507.2
+|  |                             |  +--| (100)
+|  |                             |     +--Drer_NP_958904.1
+|  |                          +--| (99)
+|  |                          |  |          +--Twil_T_wilhelma_c26228_g1_i3|m.16415
+|  |                          |  |       +--| (100)
+|  |                          |  |       |  |  +--Twil_T_wilhelma_c26228_g1_i1|m.16413
+|  |                          |  |       |  +--| (100)
+|  |                          |  |       |     +--Twil_T_wilhelma_c26228_g1_i2|m.16414
+|  |                          |  |    +--| (100)
+|  |                          |  |    |  |      +--Emue_Em0010g680a
+|  |                          |  |    |  |   +--| (98)
+|  |                          |  |    |  |   |  +--Emue_Em0010g663a
+|  |                          |  |    |  +---| (100)
+|  |                          |  |    |      |     +--Emue_Em0010g639a
+|  |                          |  |    |      |  +--| (100)
+|  |                          |  |    |      |  |  +--Emue_Em0010g647a
+|  |                          |  |    |      +--| (98)
+|  |                          |  |    |         +--Emue_Em0010g651a
+|  |                          |  +----| (100)
+|  |                          |       +---Aque_XP_011405699.1
+|  |                       +--| (95)
+|  |                       |  |         +--Pigvie_Pvie_g6971
+|  |                       |  |     +---| (100)
+|  |                       |  |     |   +--Pigchi_Pchi_g10289
+|  |                       |  |  +--| (99)
+|  |                       |  |  |  +---------Cowc_XP_004349282.2
+|  |                       |  +--| (93)
+|  |                       |     +--------Cper_Nk52_evm51s164
+|  |                    +--| (98)
+|  |                    |  |  +------Sros_XP_004998739.1
+|  |                    |  +--| (94)
+|  |                    |     +---------------Mbre_XP_001746653.1
+|  |                +---| (100)
+|  |                |   |              +----Lcom_lcpid52748|
+|  |                |   |           +--| (100)
+|  |                |   |           |  +---Lcom_lcpid59751|
+|  |                |   +-----------| (100)
+|  |                |               +------Scil_XP_065178252.1
+|  +----------------| (100)
+|  |                |                 +--Sros_XP_004991157.1
+|  |                +-----------------| (100)
+|  |                                  +------Mbre_XP_001743099.1
+|  |
+|  |                           +--------Cowc_XP_004363350.2
+|  +---------------------------| (100)
+|  |                           |                 +--Emue_Em0019g914a
+|  |                           |              +--| (50)
+|  |                           |              |  +--Emue_Em0246g2a
+|  |                           |       +------| (100)
+|  |                           |       |      +--Emue_Em0960g3a
+|  |                           |    +--| (99)
+|  |                           |    |  |        +**Twil_T_wilhelma_c23056_g1_i1|m.9140
+|  |                           |    |  |     +--|
+|  |                           |    |  |     |  +**Twil_T_wilhelma_c23056_g1_i3|m.9144
+|  |                           |    |  |  +--| (100)
+|  |                           |    |  |  |  +--Twil_T_wilhelma_c23056_g1_i2|m.9142
+|  |                           |    |  +--| (96)
+|  |                           |    |     +---------Aque_XP_011403823.1
+|  |                           +----| (100)
+|  |                                |      +-----Scil_XP_065182659.1
+|  |                                +------| (100)
+|  |                                       +-----Lcom_lcpid61937|
+|  |
+|  |                       +---------Lcom_lcpid42417|
+|  +-----------------------| (100)
+|  |                       |            +--Scil_XP_065197388.1
+|  |                       |     +------| (100)
+|  |                       |     |      +--Lcom_lcpid206315|
+|  |                       +-----| (100)
+|  |                             |  +--Lcom_lcpid181318|
+|  |                             +--| (100)
+|  |                                |     +--Lcom_lcpid115342|
+|  |                                |  +--| (100)
+|  |                                |  |  +--Lcom_lcpid202534|
+|  |                                +--| (100)
+|  |                                   +--Lcom_lcpid153413|
+|  |
+|  |                                               +--Cofcan_CDP03676.1
+|  |                                            +--| (100)
+|  |                                            |  +-------------Cofcan_CDP19768.1
+|  |                                         +--| (95)
+|  |                                         |  |      +--Lsat_XP_023734930.1
+|  |                                         |  |  +---| (100)
+|  |                                         |  |  |   +--Lsat_XP_023734931.1
+|  |                                         |  +--| (96)
+|  |                                         |     |  +--Sollyc_XP_004247201.1
+|  |                                         |     +--| (100)
+|  |                                         |        +--Sollyc_XP_025888583.1
+|  |                                      +--| (93)
+|  |                                      |  |        +--Rchi_XP_040364728.1
+|  |                                      |  |     +--| (100)
+|  |                                      |  |     |  +--Rchi_XP_024164996.1
+|  |                                      |  |  +--| (98)
+|  |                                      |  |  |  |        +--Qlob_XP_030947629.1
+|  |                                      |  |  |  |     +--| (100)
+|  |                                      |  |  |  |     |  +--Qlob_XP_030947628.1
+|  |                                      |  |  |  |  +--| (100)
+|  |                                      |  |  |  |  |  +--Qlob_XP_030973177.1
+|  |                                      |  |  |  +--| (98)
+|  |                                      |  |  |     |  +--Mtru_XP_003590573.1
+|  |                                      |  |  |     +--| (100)
+|  |                                      |  |  |        +--Psat_XP_050887295.1
+|  |                                      |  +--| (96)
+|  |                                      |     |  +--Mesc_XP_021612650.1
+|  |                                      |     +--| (100)
+|  |                                      |        +--Mesc_XP_043812339.1
+|  |                                   +--| (62)
+|  |                                   |  |               +--Bnap_XP_048608055.1
+|  |                                   |  |            +--| (99)
+|  |                                   |  |            |  +--Bnap_XP_013682006.3
+|  |                                   |  |         +--| (100)
+|  |                                   |  |         |  +--Bnap_XP_048608056.1
+|  |                                   |  |      +--| (100)
+|  |                                   |  |      |  +--Bnap_XP_013730750.2
+|  |                                   |  |  +---| (100)
+|  |                                   |  |  |   |  +--Atha_NP_001318604.1
+|  |                                   |  |  |   +--| (100)
+|  |                                   |  |  |      +--Atha_NP_001190341.1
+|  |                                   |  +--| (54)
+|  |                                   |     |             +--Osat_XP_015618184.1
+|  |                                   |     |          +--| (72)
+|  |                                   |     |          |  +--Osat_XP_015618169.1
+|  |                                   |     |       +--| (75)
+|  |                                   |     |       |  +--Osat_XP_015618176.1
+|  |                                   |     |    +--| (99)
+|  |                                   |     |    |  +--Osat_XP_025877206.1
+|  |                                   |     +----| (100)
+|  |                                   |          |           +--Bdis_XP_010232410.2
+|  |                                   |          |        +--| (52)
+|  |                                   |          |        |  +--Bdis_XP_003569931.2
+|  |                                   |          |     +--| (100)
+|  |                                   |          |     |  +--Bdis_XP_024313966.1
+|  |                                   |          |  +--| (100)
+|  |                                   |          |  |  +--Tura_XP_048564742.1
+|  |                                   |          +--| (86)
+|  |                                   |             |  +--Zmay_NP_001360982.1
+|  |                                   |             +--| (92)
+|  |                                   |                |  +--Ecur_TVU34924.1
+|  |                                   |                +--| (100)
+|  |                                   |                   +--Ecur_TVU34937.1
+|  |                              +----| (100)
+|  |                              |    |    +--Atri_XP_020520100.1
+|  |                              |    +----| (100)
+|  |                              |         +--Atri_XP_020520101.1
+|  |                           +--| (98)
+|  |                           |  |                   +--Smoe_XP_024520770.1
+|  |                           |  |                +--| (61)
+|  |                           |  |                |  +--Smoe_XP_024520670.1
+|  |                           |  |             +--| (35)
+|  |                           |  |             |  |              +--Smoe_XP_024527654.1
+|  |                           |  |             |  |           +--| (84)
+|  |                           |  |             |  |           |  +--Smoe_XP_024527652.1
+|  |                           |  |             |  |        +--| (57)
+|  |                           |  |             |  |        |  |  +--Smoe_XP_024527653.1
+|  |                           |  |             |  |        |  +--| (41)
+|  |                           |  |             |  |        |     |  +--Smoe_XP_024527658.1
+|  |                           |  |             |  |        |     +--| (87)
+|  |                           |  |             |  |        |        |           +--Smoe_XP_024527931.1
+|  |                           |  |             |  |        |        |        +--| (37)
+|  |                           |  |             |  |        |        |        |  |  +--Smoe_XP_024527928.1
+|  |                           |  |             |  |        |        |        |  +--| (24)
+|  |                           |  |             |  |        |        |        |     |  +--Smoe_XP_024527929.1
+|  |                           |  |             |  |        |        |        |     +--| (20)
+|  |                           |  |             |  |        |        |        |        +--Smoe_XP_024527930.1
+|  |                           |  |             |  |        |        |     +--| (85)
+|  |                           |  |             |  |        |        |     |  |  +--Smoe_XP_024527933.1
+|  |                           |  |             |  |        |        |     |  +--| (88)
+|  |                           |  |             |  |        |        |     |     +--Smoe_XP_024527932.1
+|  |                           |  |             |  |        |        |  +--| (52)
+|  |                           |  |             |  |        |        |  |  +--Smoe_XP_024527935.1
+|  |                           |  |             |  |        |        +--| (100)
+|  |                           |  |             |  |        |           +--Smoe_XP_024527934.1
+|  |                           |  |             |  |     +--| (46)
+|  |                           |  |             |  |     |  +--Smoe_XP_024527656.1
+|  |                           |  |             |  |  +--| (93)
+|  |                           |  |             |  |  |  |  +**Smoe_XP_024527655.1
+|  |                           |  |             |  |  |  +--|
+|  |                           |  |             |  |  |     +**Smoe_XP_024527657.1
+|  |                           |  |             |  +--| (97)
+|  |                           |  |             |     +--Smoe_XP_024532000.1
+|  |                           |  |          +--| (39)
+|  |                           |  |          |  +--Smoe_XP_024520721.1
+|  |                           |  |  +-------| (100)
+|  |                           |  |  |       |  +--Smoe_XP_024520821.1
+|  |                           |  |  |       +--| (63)
+|  |                           |  |  |          +--Smoe_XP_024520874.1
+|  |                           |  +--| (98)
+|  |                           |     |  +-----Ppat_XP_024366925.1
+|  |                           |     +--| (71)
+|  |                           |        +------Mpol_BFI40533.1
+|  +---------------------------| (100)
+|  |                           +---------------Crei_XP_042921493.1
+|  |
+|  +--------------------------------------Sros_XP_004994712.1
+|  |
+|  +--------------------------------------Ppur_KAA8495634.1
+|  |
+|  +-----------------------------Apla_XP_022104467.1
+|  |
+|  +-------------------------------Apla_XP_022104468.1
+|  |
+|  +--------------------------Spur_XP_030851360.1
+|  |
+|  +--------------------------Spur_XP_030851366.1
+|  |
+|  +---------------------------Tadh_XP_002116950.1
+|  |
+|  +-------------------------------Ofus_CAH1798454.1
+|  |
+|  +-----------------------------------Cper_Nk52_evm10s545
+|  |
+|  +-----------------------------------Cowc_XP_011270392.1
+|  |
+|  +----------------------------------------------Emue_Em0004g89a
+|  |
+|  +------------------------------------------------------Twil_T_wilhelma_c28507_g1_i2|m.25183
+|  |
+|  +------------------------------------------Aque_XP_019854219.1
+|  |
+|  +------------------------------------------Aque_XP_019854218.1
+|  |
+|  |                       +--Plae_KAI0984297.1
+|  +-----------------------| (100)
+|  |                       +--Plae_KAI0984298.1
+|  |
+|  +----------------------------------Cper_Nk52_evm1s1223
+|  |
+|  +----------------------------------------------Mbre_XP_001744551.1
+|  |
+|  +-------------------------------------------Otau_XP_022838759.1
+|  |
+|  +------------------------------------------Otau_XP_003080466.1
+|  |
+|  +---------------------------------------Clim_Clim_evm8s223
+|  |
+|  +---------------------------------------Otau_XP_003074383.1
+|  |
+|  +----------------------------Clim_Clim_evm84s25
+|  |
+|  +-----------------------------Blan_XP_066302682.1
+|  |
+|  +-----------------------------Blan_XP_066302683.1
+|  |
+|  +----------------------------------------Mbre_XP_001742877.1
+|  |
+|  +------------------------------------Sros_XP_004994627.1
+|  |
+|  +------------------------------Cper_Nk52_evm66s2367
+|  |
+|  +--------------------------------------------Ccri_XP_005713344.1
+|  |
+|  +-----------------------------------------Otau_XP_003081452.1
+|
++--------------------------------Mbre_XP_001747949.1
+
+
+Consensus tree in newick format: 
+
+(Acey_EYB86026.1:0.8223497493,(((Hcon_XGW18520.1:0.0000025259,Hcon_XGW18521.1:0.0000025259)100:0.1612563963,Hpol_VDP19018.1:0.5114154818)89:0.8305300619,Angcan_KAE9418089.1:1.0519549273,((((Diplco_DCO_001490:0.0190868035,Diplco_DCO_001492:0.0352311103)100:0.6278196659,Cele_NP_505831.1:0.6315300105)85:0.0704760096,(Mjap_MIJAPON000006756.t1:0.2499738903,Priarc_PARCANUS000014441.t1:0.2348668596)100:0.4697478481)62:0.1291352657,Mbel_CAJ0964053.1:0.8193576412)24:0.3781302008,((((((((Smoe_XP_024531781.1:0.0000025259,Smoe_XP_024539595.1:0.0048161191)100:0.4445858849,Ppat_XP_024399957.1:0.3467027314)92:0.0609276070,Mpol_BFI24177.1:0.4070251705)83:0.0723549773,((((((Bdis_XP_014758878.1:0.0583632094,(Tura_XP_048530838.1:0.0000025259,Tura_XP_048530839.1:0.0414092712)100:0.0388414759)98:0.0269593968,Osat_XP_015610619.1:0.0255286540)61:0.0125772788,(Ecur_TVU10016.1:0.0299891923,((Zmay_NP_001140556.1:0.0000025259,Zmay_XP_008667465.1:0.0358816973)100:0.0166044058,(((Zmay_XP_008665874.1:0.0029291107,Zmay_XP_008651381.1:0.0000028174)97:0.0000025259,Zmay_XP_008665873.1:0.0075141827)100:0.0374636917,Zmay_XP_023157516.1:0.0285992687)100:0.4740762673)100:0.0522077419)99:0.0230674102)98:0.0437092743,((Bdis_XP_003572365.1:0.0686533963,(Tura_XP_048542530.1:0.0000025259,Tura_XP_048543124.1:0.0360045634)100:0.0242405694)100:0.0426816321,(((Osat_XP_015648710.1:0.0000025259,Osat_XP_015648711.1:0.0000025259)91:0.0000025259,Osat_XP_015648712.1:0.0106903003)100:0.0851245000,((Ecur_TVU05222.1:0.0000025259,Ecur_TVU01081.1:0.0040473723)100:0.0890580981,(Zmay_XP_035823398.1:0.0000025259,Zmay_XP_035823399.1:0.0000025259)100:0.1235365720)58:0.0250431961)99:0.0135649417)100:0.0478889494)99:0.2034093804,(((((Bnap_XP_013749294.2:0.0000025259,Bnap_XP_048630333.1:0.0000025259)99:0.0088249208,(Bnap_XP_013697930.1:0.0044961852,(Bnap_XP_013749295.1:0.0000025259,Bnap_XP_048630334.1:0.0000025259)98:0.0091825864)81:0.0131085698)42:0.0000025259,Bnap_XP_013697929.1:0.0063366107)95:0.0465695340,((Atha_NP_566667.1:0.0000025259,Atha_NP_850617.1:0.0000025259)69:0.0000025259,(Atha_NP_001030733.1:0.0000020615,(Atha_NP_001327067.1:0.0078631086,Atha_NP_001327066.1:0.0353143574)99:0.0464557064)91:0.0025143552)100:0.0224853560)95:0.1484795086,(((Mtru_XP_013456231.1:0.0378464901,Psat_XP_050893429.1:0.0390405799)100:0.1043080104,((((Mesc_XP_043813758.1:0.0000025259,(Mesc_XP_043813755.1:0.0000025259,(((Mesc_XP_021616705.1:0.0000025259,Mesc_XP_043813759.1:0.0000025259)82:0.0000025259,Mesc_XP_043813756.1:0.0000025259)78:0.0000025259,Mesc_XP_021616706.1:0.0000025259)89:0.0000025259)91:0.0000025259)100:0.0504386759,(Mesc_XP_043805952.1:0.0000025259,Mesc_XP_043805953.1:0.0000025259)100:0.0825711294)100:0.0566932505,(((Sollyc_NP_001306150.1:0.0000025259,Sollyc_XP_069152187.1:0.0000025259)100:0.1397469690,Cofcan_CDP14099.1:0.1369962735)100:0.0566671762,Lsat_XP_023742173.1:0.1709100315)97:0.0503029490)44:0.0220375710,(Qlob_XP_030953153.1:0.0000025259,(Qlob_XP_030953162.1:0.0067201773,((Qlob_XP_030958998.1:0.0000023394,Qlob_XP_030959004.1:0.0000021490)100:0.0406712712,((Qlob_XP_030958989.1:0.0000025259,Qlob_XP_030958993.1:0.0000025259)87:0.0000025259,Qlob_XP_030959010.1:0.0000025259)100:0.1689079935)100:0.1682291049)100:0.0066654591)100:0.1225030824)27:0.0098883567)72:0.0192433417,(Rchi_XP_024158191.1:0.0224480921,(Rchi_XP_024159049.1:0.0000025259,(((Rchi_XP_024159047.1:0.0000000000,Rchi_XP_040375662.1:0.0000000000):0.0000000000,Rchi_XP_040375663.1:0.0000000000):0.0000025259,Rchi_XP_024159048.1:0.0000025259)100:0.3906376375)100:0.0130588538)100:0.1177278895)89:0.0248933228)93:0.0816819525)90:0.0846121680,(Atri_XP_020526473.1:0.1553787505,Bnap_XP_048605489.1:1.8482132255)64:0.0773368110)99:0.1969307930)99:0.1833014494,Cbra_GBG93401.1:0.6735107292)97:0.1011676354,Crei_XP_042919519.1:0.6711724909)97:0.1256170352,(Mbre_XP_001742895.1:0.6928605177,Cper_Nk52_evm2s495:0.9744393620)99:0.1523037172)94:0.1530056893,Sros_XP_004991404.1:0.7996162373)1:0.1871656865,(((Smar_SMAR008599-PA:0.4522795913,Cint_XP_026690226.1:0.5871850799)47:0.0538405519,(Rvar_GAU90323.1:0.2193893643,Hduj_OQV19329.1:0.3098270404)100:0.5153001589)31:0.0555018144,(Rcul_nRc.2.0.1.t13431-RA:0.9160137059,((((Apimel_XP_026296209.1:0.0000025259,Apimel_XP_026296208.1:0.0000025259)100:0.6188861414,Agrpla_XP_018331764.2:0.4937648543)84:0.0400982704,Bmor_XP_021207491.2:0.6370712995)85:0.1066631151,(Dmel_NP_612063.2:0.0000025259,Dmel_NP_001261225.1:0.0000025259)100:0.7894113490)95:0.1433268136)28:0.0141187857)1:0.1660960532,(((((((((((Hsap_NP_079049.2:0.0000025259,Hsap_NP_001138820.1:0.0000025259)90:0.0000025259,(Hsap_XP_016879165.1:0.0000025259,(Hsap_XP_047290611.1:0.0000025259,Hsap_XP_047290610.1:0.0000025259)75:0.0000025259)74:0.0000025259)75:0.0000027211,Hsap_XP_047290612.1:0.0000025259)42:0.0000025259,Hsap_XP_047290613.1:0.0000025259)72:0.0000025259,Hsap_XP_047290614.1:0.0000025259)100:0.2342991034,(Ggal_XP_414883.4:0.0000025259,(Ggal_XP_025010992.2:0.0144469177,Ggal_XP_004945335.2:0.0367483717)100:0.0435357081)100:0.2362976426)95:0.0453696777,Xtro_NP_001121525.1:0.3219364659)100:0.0755884007,(Drer_NP_001103339.2:0.0000025259,Drer_XP_068072685.1:0.0000025259)100:0.2695698781)100:0.1586314233,Blan_XP_066295512.1:0.3219978103)89:0.0623337592,(Skow_XP_006813260.1:0.3283261122,(((Ofus_CAH1779520.1:0.3210932186,Lana_XP_013411836.1:0.3844376419)80:0.0750710722,((Apla_XP_022085203.1:0.0000025259,Apla_XP_022085202.1:0.0000025259)100:0.2566731550,Spur_XP_030839602.1:0.4994531654)96:0.0466398560)78:0.0419626210,(Cscu_XP_023216044.1:0.3421191086,(((Lpol_XP_013774279.1:0.0000000000,Lpol_XP_022241371.1:0.0000000000):0.0000025259,Lpol_XP_022241370.1:0.0000025259)99:0.0000025259,Lpol_XP_022241372.1:0.0000025259)100:0.2425003569)100:0.1581156968)86:0.0246968612)88:0.0515835429)93:0.0533697654,(Aplcal_XP_005102629.2:0.3972873067,Cvir_XP_022338439.1:0.4472886165)76:0.1402537720)2:0.2496671444,((Scil_XP_065185214.1:0.2336050186,((Lcom_lcpid67550|:0.0000025259,Lcom_lcpid51678|:0.0079178467)98:0.0000025016,Lcom_lcpid115304|:0.1510326255)100:0.2037040598)100:0.2923684408,(Awhi_Unigene29846_Abeoforma_whisleri|m.18337:0.5117487869,Pgem_Unigene20972_Pirum_gemmata|m.13675:0.4480499109)98:0.2308093323)87:0.2478147084,((Avag_UJR16219.1:0.5145767332,((((Pigchi_Pchi_g4251:0.1793838065,Pigvie_Pvie_g14601:0.1787494146)100:0.4602606981,(Emue_Em0011g644a:0.3243711005,Twil_T_wilhelma_c33435_g2_i2|m.55195:0.6427369398)100:0.1437630654)97:0.0543464727,Tadh_XP_002109881.1:0.5687173896)91:0.0531060311,(Dpul_XP_046461813.1:0.4971450586,(Pvan_XP_069991586.1:0.0000025259,Pvan_XP_069991585.1:0.0000025259)100:0.6973326533)89:0.0786608231)75:0.0267216710)10:0.0138943267,Aque_XP_019853293.1:0.6816878757)11:0.1881212878,Obim_XP_014780508.1:0.6174310173,((Cfra_CFRG8355T1:0.2373479387,Sarc_XP_014151949.1:0.4056292392)100:0.3969240560,(Ppat_XP_024376210.1:0.0046181198,Ppat_XP_024376209.1:0.0000026106)100:1.2411533933)70:0.2169786148,((((Trimur_TMUE_0000000640:0.0000025259,Trimur_TMUE_3000012690:0.0023146316)100:0.1182167981,(Tsui_KHJ45102.1:0.0621685507,Ttri_CDW53161.1:0.0462560657)100:0.1280944546)100:0.3165778987,((((Tbri_KRY47478.1:0.0061963141,Tnat_KRZ50470.1:0.0041252481)100:0.0041117286,(Tnel_KRX20256.1:0.0000027556,Tnel_KRX20255.1:0.0000028326)100:0.0041356149)100:0.0062436515,Tspi_XP_003380167.1:0.0000023677)100:0.0450521952,Tspi_XP_003368987.1:0.0240246964)100:0.4910681280)12:0.2077838010,(Sbat_VDO98087.1:0.4000218980,Plae_KAI0985441.1:0.5580625877)62:0.0625435870)1:0.3671338801,((((Ever_VDD93866.1:0.1457898318,Sypmur_SMUV_0000527301-mRNA-1:0.2587588448)100:0.2101509847,((((Asuu_AgB01_g822_t01:0.0000000000,Asuu_AgB01_g822_t03:0.0000000000):0.0000000000,Asuu_AgB01_g822_t05:0.0000000000):0.0000000000,Asuu_AgB01_g822_t04:0.0000000000):0.0000025259,Asuu_AgB01_g822_t02:0.0000025259)100:0.2248160074)91:0.0457138024,(((Ovol_OVOC3662:0.0529708852,Dimm_MCP9257372.1:0.0821088734)93:0.0195618389,((Lsig_VDK83118.1:0.0686031169,Avit_KAL3989456.1:0.0684322735)100:0.0131742018,Eela_EEL_0000590401-mRNA-1:0.0594925601)99:0.0202625205)91:0.0190305081,(Lloa_XP_003140884.1:0.0494562077,(Bmal_XP_001897040.1:0.0093490282,Wban_VDM22157.1:0.0242838730)100:0.0899969381)100:0.0167106249)100:0.2870228555)100:0.2627883921,(((((Gpal_Gpal_D383_g00500.t1:0.2815073548,Mhap_MhA1_Contig1994.frz3.gene4:0.4895322940)100:0.1204057454,(Ddip_jg26521:0.0000021350,Ddip_jg26533:0.0000025259)100:0.3385114396)100:0.1704748157,Bxyl_CAG9128521.1:0.5120270117)100:0.1369730236,(Scar_TKR80642.1:0.6516364861,Srat_XP_024508351.1:1.1080783792)100:0.1332381576)100:0.1139970504,Otip_Oti_326_t:1.1114020234)76:0.1193710907)6:0.3408934885,(Hrob_XP_009019477.1:0.4287742607,Hrob_XP_009019479.1:0.9295034949)100:0.5214762475,(Echgra_XP_024348645.1:0.3128564691,Sman_XP_018654420.1:0.7966576614)100:0.7213987919,((((Ppur_KAA8493682.1:1.1169233784,Sros_XP_004994314.1:1.0047962058)88:0.1132884189,(((Awhi_Unigene40667_Abeoforma_whisleri|m.26009:0.2241015972,Pgem_Unigene12170_Pirum_gemmata|m.7832:0.5480810210)100:0.2425549566,(Sarc_XP_014159214.1:0.2884091437,Cfra_CFRG3953T1:0.3036336970)100:0.1983020843)100:0.5876747578,(Cper_Nk52_evm32s628:0.7726451806,Otau_XP_022839388.1:1.0432115513)77:0.0468426926)86:0.1251706086)88:0.0485494249,(((Cfra_CFRG5311T1:0.2872045280,Sarc_XP_014149975.1:0.2526841848)100:0.1847569972,Pgem_Unigene22502_Pirum_gemmata|m.14473:0.3137483975)100:0.3900052885,Otau_XP_003074529.2:1.1368033595)92:0.2374589993)98:0.1589060545,Ccri_XP_005710683.1:1.2882539080)7:0.3068000599,Otau_XP_022838309.1:1.2497972116,(((((Aque_XP_019855988.1:0.6048823334,(Emue_Em0015g867a:0.0137712831,Emue_Em0015g829a:0.0084880534)100:0.3131131209)96:0.0518405877,Twil_T_wilhelma_c32068_g3_i1|m.45570:0.2261878025)100:0.3915170205,(Scil_XP_065179869.1:0.1663357225,Lcom_lcpid113704|:0.1924996545)100:0.5055719717)100:0.0883373149,(Cowc_XP_004364766.2:0.6771254180,(Pigvie_Pvie_g7752:0.1655886209,Pigchi_Pchi_g9534:0.1689319206)100:0.6173607390)100:0.0894564512)100:0.1309717618,(Sros_XP_004988256.1:0.6470781422,Mbre_XP_001743620.1:0.8671523431)100:0.1275957055)100:1.2480820400,(((((((((((Agrpla_XP_018320992.1:0.2873361093,Pvan_XP_027207134.1:0.2742099881)59:0.0966265583,(Smar_SMAR013954-PA:0.2669014291,(((Lpol_XP_013777533.1:0.1955868852,((Lpol_XP_013775038.1:0.0000025259,(Lpol_XP_022242198.1:0.0000025259,Lpol_XP_022242199.1:0.0000025259)77:0.0000025259)100:0.0857685407,Lpol_XP_022239646.1:0.0824288900)100:0.2318035234)100:0.0841196370,(Cscu_XP_023219802.1:0.0000025259,(Cscu_XP_023219803.1:0.0557679304,Cscu_XP_023219801.1:0.0722166920)100:0.0799764298)100:0.0618228062)100:0.0933438533,Btab_XP_018911171.1:0.6369871327)59:0.0556208702)59:0.0358758291)99:0.0531494409,((((Aplcal_XP_005092336.1:0.2392808596,Lcom_lcpid192438|:0.2263591479)96:0.0367276692,Obim_XP_014772373.1:0.4121116288)100:0.0942267595,Cvir_XP_022318228.1:0.3094559386)98:0.0600646984,(Ofus_CAH1793965.1:0.1810861667,(Lana_XP_013385380.1:0.2918347175,Hrob_XP_009025637.1:0.5876245533)86:0.0491176441)97:0.0633108094)98:0.0868534356)94:0.0605439104,((Blan_XP_066303427.1:0.0000025259,Blan_XP_066303428.1:0.0000025259)100:0.1810858135,Cint_XP_018672432.2:0.4407219322)100:0.0597689948)93:0.0277525581,(Apla_XP_022080314.1:0.2444423540,Spur_XP_030835125.1:0.2212332335)100:0.1552421628)86:0.0560302757,(((Xtro_NP_988915.1:0.1137783217,(Hsap_NP_060372.2:0.0000025259,Hsap_XP_011538242.1:0.0000025259)100:0.0372516047)97:0.0250844115,Ggal_XP_426507.2:0.0411787528)97:0.0646544240,Drer_NP_958904.1:0.1126153591)100:0.1479511978)94:0.0908244965,(((Twil_T_wilhelma_c26228_g1_i3|m.16415:0.0000025259,(Twil_T_wilhelma_c26228_g1_i1|m.16413:0.0000025259,Twil_T_wilhelma_c26228_g1_i2|m.16414:0.0041783874)100:0.0328772380)100:0.1501117342,((Emue_Em0010g680a:0.0106144851,Emue_Em0010g663a:0.0105170869)98:0.0179030197,((Emue_Em0010g639a:0.0000025259,Emue_Em0010g647a:0.1272867963)100:0.0122613210,Emue_Em0010g651a:0.1347992269)98:0.0121732182)100:0.2376497379)100:0.0734622487,Aque_XP_011405699.1:0.2441616076)100:0.2860076292)99:0.1028107770,(((Pigvie_Pvie_g6971:0.0695084245,Pigchi_Pchi_g10289:0.0837834394)100:0.2647944626,Cowc_XP_004349282.2:0.5941152493)99:0.1293991090,Cper_Nk52_evm51s164:0.5139432641)93:0.0578789502)95:0.0760801527,(Sros_XP_004998739.1:0.4044844208,Mbre_XP_001746653.1:0.9299091233)94:0.0776138120)98:0.1266298087,((Lcom_lcpid52748|:0.3104353046,Lcom_lcpid59751|:0.2517688441)100:0.1278277891,Scil_XP_065178252.1:0.4189495951)100:0.7213923689)100:0.2676822799,(Sros_XP_004991157.1:0.2062464316,Mbre_XP_001743099.1:0.4267908465)100:1.0118679315)100:0.9664244670,(Cowc_XP_004363350.2:0.5329753354,((((Emue_Em0019g914a:0.0000025259,Emue_Em0246g2a:0.0000025259)50:0.0000025259,Emue_Em0960g3a:0.0000025259)100:0.4282620291,(((Twil_T_wilhelma_c23056_g1_i1|m.9140:0.0000000000,Twil_T_wilhelma_c23056_g1_i3|m.9144:0.0000000000):0.0000025259,Twil_T_wilhelma_c23056_g1_i2|m.9142:0.0000025259)100:0.2045962381,Aque_XP_011403823.1:0.6035830776)96:0.0965367055)99:0.1527036727,(Scil_XP_065182659.1:0.3491727431,Lcom_lcpid61937|:0.3530556093)100:0.4371027533)100:0.3031238622)100:1.6102408891,(Lcom_lcpid42417|:0.5713290480,((Scil_XP_065197388.1:0.0000025259,Lcom_lcpid206315|:0.0372693754)100:0.4060106596,(Lcom_lcpid181318|:0.1560124148,((Lcom_lcpid115342|:0.0088018438,Lcom_lcpid202534|:0.0000027123)100:0.0874589349,Lcom_lcpid153413|:0.0559551837)100:0.1886297890)100:0.1150076403)100:0.3697810175)100:1.3710834260,(((((((Cofcan_CDP03676.1:0.0269944675,Cofcan_CDP19768.1:0.7930905454)100:0.1881745005,((Lsat_XP_023734930.1:0.0000025259,Lsat_XP_023734931.1:0.0000025259)100:0.2510412886,(Sollyc_XP_004247201.1:0.0000025259,Sollyc_XP_025888583.1:0.0000025259)100:0.2176972090)96:0.0392117891)95:0.0456049252,(((Rchi_XP_040364728.1:0.0033254130,Rchi_XP_024164996.1:0.0000020428)100:0.1962030436,(((Qlob_XP_030947629.1:0.0000025259,Qlob_XP_030947628.1:0.0000025259)100:0.0036305247,Qlob_XP_030973177.1:0.0942232978)100:0.1201681796,(Mtru_XP_003590573.1:0.0589863683,Psat_XP_050887295.1:0.0648780707)100:0.1461510228)98:0.0314953590)98:0.0355217912,(Mesc_XP_021612650.1:0.0000025259,Mesc_XP_043812339.1:0.0000025259)100:0.1367307532)96:0.0347810039)93:0.0416130271,(((((Bnap_XP_048608055.1:0.0000025259,Bnap_XP_013682006.3:0.0000025259)99:0.0000025259,Bnap_XP_048608056.1:0.0000025259)100:0.0169329677,Bnap_XP_013730750.2:0.0227131033)100:0.0370403119,(Atha_NP_001318604.1:0.0000025259,Atha_NP_001190341.1:0.0033591381)100:0.0697150082)100:0.2383940819,((((Osat_XP_015618184.1:0.0000025259,Osat_XP_015618169.1:0.0000025259)72:0.0000025259,Osat_XP_015618176.1:0.0000025259)75:0.0000025259,Osat_XP_025877206.1:0.0000025259)99:0.0744020593,((((Bdis_XP_010232410.2:0.0000025259,Bdis_XP_003569931.2:0.0000025259)52:0.0000025259,Bdis_XP_024313966.1:0.0000025259)100:0.0683355838,Tura_XP_048564742.1:0.0624765455)100:0.0413175039,(Zmay_NP_001360982.1:0.1057334350,(Ecur_TVU34924.1:0.0000025259,Ecur_TVU34937.1:0.0405507559)100:0.0886027069)92:0.0163011940)86:0.0211762016)100:0.3365592072)54:0.0562364464)62:0.0755410567,(Atri_XP_020520100.1:0.0000025259,Atri_XP_020520101.1:0.0000025259)100:0.3311379105)100:0.2839967066,(((((Smoe_XP_024520770.1:0.0000025259,Smoe_XP_024520670.1:0.0000025259)61:0.0000025259,(((((Smoe_XP_024527654.1:0.0000025259,Smoe_XP_024527652.1:0.0000025259)84:0.0000025259,(Smoe_XP_024527653.1:0.0000025259,(Smoe_XP_024527658.1:0.0303968472,((((Smoe_XP_024527931.1:0.0000025259,(Smoe_XP_024527928.1:0.0000025259,(Smoe_XP_024527929.1:0.0000025259,Smoe_XP_024527930.1:0.0000025259)20:0.0000025259)24:0.0000025259)37:0.0000025259,(Smoe_XP_024527933.1:0.0000025259,Smoe_XP_024527932.1:0.0000025259)88:0.0000025259)85:0.0000022629,Smoe_XP_024527935.1:0.0000025259)52:0.0000025259,Smoe_XP_024527934.1:0.0000025259)100:0.1497562807)87:0.0159076736)41:0.0000025259)57:0.0000020226,Smoe_XP_024527656.1:0.0000025259)46:0.0000025259,(Smoe_XP_024527655.1:0.0000000000,Smoe_XP_024527657.1:0.0000000000):0.0000025259)93:0.0046787310,Smoe_XP_024532000.1:0.0701485681)97:0.0095654625)35:0.0000025259,Smoe_XP_024520721.1:0.0000025259)39:0.0000025259,(Smoe_XP_024520821.1:0.0000025259,Smoe_XP_024520874.1:0.0000025259)63:0.0000025259)100:0.5046387425,(Ppat_XP_024366925.1:0.3486841560,Mpol_BFI40533.1:0.4337970177)71:0.1151678050)98:0.1309122526)98:0.1135196784,Crei_XP_042921493.1:0.9531048814)100:1.6135036836,Sros_XP_004994712.1:2.2205512896,Ppur_KAA8495634.1:2.2092563118,Apla_XP_022104467.1:1.7232821978,Apla_XP_022104468.1:1.8137552067,Spur_XP_030851360.1:1.5643611583,Spur_XP_030851366.1:1.5643920424,Tadh_XP_002116950.1:1.5956683252,Ofus_CAH1798454.1:1.8052919608,Cper_Nk52_evm10s545:2.0765638333,Cowc_XP_011270392.1:2.0331457103,Emue_Em0004g89a:2.6752160198,Twil_T_wilhelma_c28507_g1_i2|m.25183:3.1054094089,Aque_XP_019854219.1:2.4421790719,Aque_XP_019854218.1:2.4547382733,(Plae_KAI0984297.1:0.0061618727,Plae_KAI0984298.1:0.0091695168)100:1.3697399938,Cper_Nk52_evm1s1223:2.0013397234,Mbre_XP_001744551.1:2.6656828476,Otau_XP_022838759.1:2.4917768292,Otau_XP_003080466.1:2.4407210875,Clim_Clim_evm8s223:2.2589027315,Otau_XP_003074383.1:2.2638240249,Clim_Clim_evm84s25:1.6541081898,Blan_XP_066302682.1:1.7243596827,Blan_XP_066302683.1:1.7244019059,Mbre_XP_001742877.1:2.3218580953,Sros_XP_004994627.1:2.0886034914,Cper_Nk52_evm66s2367:1.7891163128,Ccri_XP_005713344.1:2.5512000257,Otau_XP_003081452.1:2.3737181788)100:0.2140485572,Mbre_XP_001747949.1:1.9039772808);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t /Volumes/IlHwan5TB/ncbi_datasets/analysis/alignments//Rep.JmjC.HG2.seqs.iqtree.treefile -m "LG+G4{1.30082}" --length 447
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s /Volumes/IlHwan5TB/ncbi_datasets/analysis/alignments//Rep.JmjC.HG2.seqs.lt.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s /Volumes/IlHwan5TB/ncbi_datasets/analysis/alignments//Rep.JmjC.HG2.seqs.lt.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Sat Mar 21 18:21:30 2026
+Total CPU time used: 19788.99814 seconds (5h:29m:48s)
+Total wall-clock time used: 3108.415678 seconds (0h:51m:48s)
+
