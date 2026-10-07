@@ -1,0 +1,247 @@
+gen_id,abbreviation,tax_group,gs_group,tax_color,gs_color,cof_sites,id_sites,ort_name,ort_name_broad
+Aque_XP_011404618.2,Aque,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,T H D K H,Aque_XP_011404618.2  |  T H D K H,KDM2A/KDM2B,KDM2A/KDM2B
+Cfra_CFRG5440T1,Cfra,Premetazoa,gs_pos,firebrick2,magenta1,T H D K H,Cfra_CFRG5440T1  |  T H D K H,KDM2A/KDM2B,KDM2A/KDM2B
+Hsap_NP_115979.3,Hsap,Human,Human,deepskyblue1,deepskyblue1,T H D K H,Hsap_NP_115979.3  |  T H D K H,KDM2A/KDM2B,KDM2A/KDM2B
+Hsap_XP_047282579.1,Hsap,Human,Human,deepskyblue1,deepskyblue1,T H D K H,Hsap_XP_047282579.1  |  T H D K H,KDM2A/KDM2B,KDM2A/KDM2B
+Sarc_XP_014161452.1,Sarc,Premetazoa,gs_pos,firebrick2,magenta1,T H D K H,Sarc_XP_014161452.1  |  T H D K H,KDM2A/KDM2B,KDM2A/KDM2B
+Scil_XP_065189801.1,Scil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,T R D K H,Scil_XP_065189801.1  |  T R D K H,KDM2A/KDM2B,KDM2A/KDM2B
+Tadh_XP_002108337.1,Tadh,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,T H D K H,Tadh_XP_002108337.1  |  T H D K H,KDM2A/KDM2B,KDM2A/KDM2B
+Twil_T_wilhelma_c29644_g1_i1|m.31020,Twil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,T H D K H,Twil_T_wilhelma_c29644_g1_i1|m.31020  |  T H D K H,KDM2A/KDM2B,KDM2A/KDM2B
+Twil_T_wilhelma_c29644_g1_i3|m.31022,Twil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,T H D K H,Twil_T_wilhelma_c29644_g1_i3|m.31022  |  T H D K H,KDM2A/KDM2B,KDM2A/KDM2B
+Aque_XP_019850041.1,Aque,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y T H D N H,Aque_XP_019850041.1  |  Y T H D N H,HR/JMJD1C/KDM3A/KDM3B,HR/JMJD1C/KDM3A/KDM3B
+Emue_Em0013g992a,Emue,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y T H D N H,Emue_Em0013g992a  |  Y T H D N H,HR/JMJD1C/KDM3A/KDM3B,HR/JMJD1C/KDM3A/KDM3B
+Emue_Em0013g993a,Emue,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y - - - - H,Emue_Em0013g993a  |  Y - - - - H,HR/JMJD1C/KDM3A/KDM3B,HR/JMJD1C/KDM3A/KDM3B
+Emue_Em0013g997a,Emue,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y T H D N H,Emue_Em0013g997a  |  Y T H D N H,HR/JMJD1C/KDM3A/KDM3B,HR/JMJD1C/KDM3A/KDM3B
+Hsap_NP_005135.2,Hsap,Human,Human,deepskyblue1,deepskyblue1,W K C E S H,Hsap_NP_005135.2  |  W K C E S H,HR/JMJD1C/KDM3A/KDM3B,HR/JMJD1C/KDM3A/KDM3B
+Hsap_NP_057688.3,Hsap,Human,Human,deepskyblue1,deepskyblue1,Y T H D N H,Hsap_NP_057688.3  |  Y T H D N H,HR/JMJD1C/KDM3A/KDM3B,HR/JMJD1C/KDM3A/KDM3B
+Hsap_NP_060903.2,Hsap,Human,Human,deepskyblue1,deepskyblue1,Y T H D N H,Hsap_NP_060903.2  |  Y T H D N H,HR/JMJD1C/KDM3A/KDM3B,HR/JMJD1C/KDM3A/KDM3B
+Hsap_NP_116165.1,Hsap,Human,Human,deepskyblue1,deepskyblue1,C T H E N H,Hsap_NP_116165.1  |  C T H E N H,HR/JMJD1C/KDM3A/KDM3B,HR/JMJD1C/KDM3A/KDM3B
+Ihof_Ihof_evm8s188,Ihof,Premetazoa,gs_pos,firebrick2,magenta1,Y T H D N H,Ihof_Ihof_evm8s188  |  Y T H D N H,HR/JMJD1C/KDM3A/KDM3B,HR/JMJD1C/KDM3A/KDM3B
+Lcom_lcpid128773|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,Y T H D N H,Lcom_lcpid128773|  |  Y T H D N H,HR/JMJD1C/KDM3A/KDM3B,HR/JMJD1C/KDM3A/KDM3B
+Lcom_lcpid22367|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,Y T H D N H,Lcom_lcpid22367|  |  Y T H D N H,HR/JMJD1C/KDM3A/KDM3B,HR/JMJD1C/KDM3A/KDM3B
+Lcom_lcpid66700|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,Y T H D N H,Lcom_lcpid66700|  |  Y T H D N H,HR/JMJD1C/KDM3A/KDM3B,HR/JMJD1C/KDM3A/KDM3B
+Pigchi_Pchi_g7137,Pigchi,Premetazoa,gs_pos,firebrick2,magenta1,Y T H D N H,Pigchi_Pchi_g7137  |  Y T H D N H,HR/JMJD1C/KDM3A/KDM3B,HR/JMJD1C/KDM3A/KDM3B
+Pigvie_Pvie_g10514,Pigvie,Premetazoa,gs_pos,firebrick2,magenta1,Y T H D N H,Pigvie_Pvie_g10514  |  Y T H D N H,HR/JMJD1C/KDM3A/KDM3B,HR/JMJD1C/KDM3A/KDM3B
+Scil_XP_065185344.1,Scil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y T H D N H,Scil_XP_065185344.1  |  Y T H D N H,HR/JMJD1C/KDM3A/KDM3B,HR/JMJD1C/KDM3A/KDM3B
+Scil_XP_065187051.1,Scil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y T H D N H,Scil_XP_065187051.1  |  Y T H D N H,HR/JMJD1C/KDM3A/KDM3B,HR/JMJD1C/KDM3A/KDM3B
+Tadh_XP_002117485.1,Tadh,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y T H D N H,Tadh_XP_002117485.1  |  Y T H D N H,HR/JMJD1C/KDM3A/KDM3B,HR/JMJD1C/KDM3A/KDM3B
+Twil_T_wilhelma_c33186_g2_i2|m.53279,Twil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y T H D N H,Twil_T_wilhelma_c33186_g2_i2|m.53279  |  Y T H D N H,HR/JMJD1C/KDM3A/KDM3B,HR/JMJD1C/KDM3A/KDM3B
+Twil_T_wilhelma_c33186_g2_i3|m.53281,Twil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y T H D N H,Twil_T_wilhelma_c33186_g2_i3|m.53281  |  Y T H D N H,HR/JMJD1C/KDM3A/KDM3B,HR/JMJD1C/KDM3A/KDM3B
+Aque_XP_003392033.1,Aque,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y H E N K K -,Aque_XP_003392033.1  |  Y H E N K K -,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Awhi_Unigene20372_Abeoforma_whisleri|m.13988,Awhi,Premetazoa,gs_pos,firebrick2,magenta1,Y H E N K K H,Awhi_Unigene20372_Abeoforma_whisleri|m.13988  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Cfra_CFRG3744T1,Cfra,Premetazoa,gs_pos,firebrick2,magenta1,Y H E N K K H,Cfra_CFRG3744T1  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Clim_Clim_evm23s206,Clim,Premetazoa,gs_pos,firebrick2,magenta1,Y H E N K K H,Clim_Clim_evm23s206  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Cowc_XP_004346999.1,Cowc,Premetazoa,gs_pos,firebrick2,magenta1,Y H E N K K H,Cowc_XP_004346999.1  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Cper_Nk52_evm58s215,Cper,Premetazoa,gs_pos,firebrick2,magenta1,Y H E N K K H,Cper_Nk52_evm58s215  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Emue_Em0011g1184a,Emue,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y H E N K K H,Emue_Em0011g1184a  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Hsap_NP_001155102.1,Hsap,Human,Human,deepskyblue1,deepskyblue1,Y H E N K K H,Hsap_NP_001155102.1  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Hsap_NP_001340926.1,Hsap,Human,Human,deepskyblue1,deepskyblue1,Y H E N K K H,Hsap_NP_001340926.1  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Hsap_NP_001398077.1,Hsap,Human,Human,deepskyblue1,deepskyblue1,Y H E N K K H,Hsap_NP_001398077.1  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Hsap_NP_001400684.1,Hsap,Human,Human,deepskyblue1,deepskyblue1,Y H E N K K H,Hsap_NP_001400684.1  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Hsap_NP_055478.2,Hsap,Human,Human,deepskyblue1,deepskyblue1,Y H E N K K H,Hsap_NP_055478.2  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Hsap_NP_060509.2,Hsap,Human,Human,deepskyblue1,deepskyblue1,Y H E N K K H,Hsap_NP_060509.2  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Lcom_lcpid21970|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,Y H E N K K H,Lcom_lcpid21970|  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Mbre_XP_001748049.1,Mbre,Premetazoa,gs_neg,firebrick2,chartreuse1,Y H E N K K H,Mbre_XP_001748049.1  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Pgem_Unigene34895_Pirum_gemmata|m.21454,Pgem,Premetazoa,gs_pos,firebrick2,magenta1,Y H E N K K H,Pgem_Unigene34895_Pirum_gemmata|m.21454  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Pgem_Unigene34896_Pirum_gemmata|m.21455,Pgem,Premetazoa,gs_pos,firebrick2,magenta1,Y H E N K K H,Pgem_Unigene34896_Pirum_gemmata|m.21455  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Pgem_Unigene34897_Pirum_gemmata|m.21456,Pgem,Premetazoa,gs_pos,firebrick2,magenta1,Y H E N K K H,Pgem_Unigene34897_Pirum_gemmata|m.21456  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Pgem_Unigene34898_Pirum_gemmata|m.21457,Pgem,Premetazoa,gs_pos,firebrick2,magenta1,Y H E N K K H,Pgem_Unigene34898_Pirum_gemmata|m.21457  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Pigchi_Pchi_g4964,Pigchi,Premetazoa,gs_pos,firebrick2,magenta1,Y H E N K K H,Pigchi_Pchi_g4964  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Pigvie_Pvie_g12840,Pigvie,Premetazoa,gs_pos,firebrick2,magenta1,Y H E N K K H,Pigvie_Pvie_g12840  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Sarc_XP_014152310.1,Sarc,Premetazoa,gs_pos,firebrick2,magenta1,Y H E N K K H,Sarc_XP_014152310.1  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Scil_XP_065175051.1,Scil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y H E N K K H,Scil_XP_065175051.1  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Sros_XP_004989734.1,Sros,Premetazoa,gs_neg,firebrick2,chartreuse1,Y H E N K K H,Sros_XP_004989734.1  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Tadh_XP_002113920.1,Tadh,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y H E N K K H,Tadh_XP_002113920.1  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Twil_T_wilhelma_c28608_g1_i1|m.25599,Twil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y H E N K K H,Twil_T_wilhelma_c28608_g1_i1|m.25599  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Twil_T_wilhelma_c28608_g1_i2|m.25601,Twil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y H E N K K H,Twil_T_wilhelma_c28608_g1_i2|m.25601  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Twil_T_wilhelma_c28608_g1_i3|m.25602,Twil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y H E N K K H,Twil_T_wilhelma_c28608_g1_i3|m.25602  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Twil_T_wilhelma_c28608_g1_i4|m.25603,Twil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y H E N K K H,Twil_T_wilhelma_c28608_g1_i4|m.25603  |  Y H E N K K H,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F,KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F
+Aque_XP_003385970.1,Aque,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y H E N K L H,Aque_XP_003385970.1  |  Y H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Awhi_Unigene35309_Abeoforma_whisleri|m.22405,Awhi,Premetazoa,gs_pos,firebrick2,magenta1,Y H E N K L H,Awhi_Unigene35309_Abeoforma_whisleri|m.22405  |  Y H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Cfra_CFRG7358T1,Cfra,Premetazoa,gs_pos,firebrick2,magenta1,Y H E N K L H,Cfra_CFRG7358T1  |  Y H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Clim_Clim_evm17s14,Clim,Premetazoa,gs_pos,firebrick2,magenta1,- H E N K L H,Clim_Clim_evm17s14  |  - H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Cowc_XP_004349098.2,Cowc,Premetazoa,gs_pos,firebrick2,magenta1,Y H E N K L H,Cowc_XP_004349098.2  |  Y H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Cper_Nk52_evm10s559,Cper,Premetazoa,gs_pos,firebrick2,magenta1,Y H E N K L H,Cper_Nk52_evm10s559  |  Y H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Emue_Em0001g235a,Emue,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y H E N K L H,Emue_Em0001g235a  |  Y H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Hsap_NP_001036068.1,Hsap,Human,Human,deepskyblue1,deepskyblue1,Y H E N K L H,Hsap_NP_001036068.1  |  Y H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Hsap_NP_001140177.1,Hsap,Human,Human,deepskyblue1,deepskyblue1,Y H E N K L H,Hsap_NP_001140177.1  |  Y H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Hsap_NP_001300971.1,Hsap,Human,Human,deepskyblue1,deepskyblue1,Y H E N K L H,Hsap_NP_001300971.1  |  Y H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Hsap_NP_004178.2,Hsap,Human,Human,deepskyblue1,deepskyblue1,Y H E N K L H,Hsap_NP_004178.2  |  Y H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Ihof_Ihof_evm1s850,Ihof,Premetazoa,gs_pos,firebrick2,magenta1,Y H E N K L H,Ihof_Ihof_evm1s850  |  Y H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Lcom_lcpid16538|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,Y H E N K L H,Lcom_lcpid16538|  |  Y H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Lcom_lcpid17231|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,Y H E N K L H,Lcom_lcpid17231|  |  Y H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Mbre_XP_001745341.1,Mbre,Premetazoa,gs_neg,firebrick2,chartreuse1,Y H E N K L H,Mbre_XP_001745341.1  |  Y H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Mlei_ML04276a-PA,Mlei,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y H E N K L H,Mlei_ML04276a-PA  |  Y H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Pgem_Unigene31207_Pirum_gemmata|m.18609,Pgem,Premetazoa,gs_pos,firebrick2,magenta1,- H E - - - H,Pgem_Unigene31207_Pirum_gemmata|m.18609  |  - H E - - - H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Pgem_Unigene31208_Pirum_gemmata|m.18610,Pgem,Premetazoa,gs_pos,firebrick2,magenta1,- - - N K L H,Pgem_Unigene31208_Pirum_gemmata|m.18610  |  - - - N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Pigchi_Pchi_g9185,Pigchi,Premetazoa,gs_pos,firebrick2,magenta1,Y H E N K L H,Pigchi_Pchi_g9185  |  Y H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Pigvie_Pvie_g162,Pigvie,Premetazoa,gs_pos,firebrick2,magenta1,Y H E N K L H,Pigvie_Pvie_g162  |  Y H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Sarc_XP_014147351.1,Sarc,Premetazoa,gs_pos,firebrick2,magenta1,- H E N K L H,Sarc_XP_014147351.1  |  - H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Scil_XP_065178094.1,Scil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y H E N K L H,Scil_XP_065178094.1  |  Y H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Scil_XP_065185461.1,Scil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y H E N K L H,Scil_XP_065185461.1  |  Y H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Sros_XP_004994251.1,Sros,Premetazoa,gs_neg,firebrick2,chartreuse1,Y H E N K L H,Sros_XP_004994251.1  |  Y H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Tadh_XP_002111443.1,Tadh,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y H E N K L H,Tadh_XP_002111443.1  |  Y H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Twil_T_wilhelma_c16344_g1_i2|m.3695,Twil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y H E N K L H,Twil_T_wilhelma_c16344_g1_i2|m.3695  |  Y H E N K L H,KDM5A/KDM5B/KDM5C/KDM5D,KDM5A/KDM5B/KDM5C/KDM5D
+Aque_XP_019864243.1,Aque,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,K T H E S N H,Aque_XP_019864243.1  |  K T H E S N H,KDM6A/KDM6B/UTY,KDM6A/KDM6B/UTY
+Emue_Em0021g24a,Emue,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,K T H E S N H,Emue_Em0021g24a  |  K T H E S N H,KDM6A/KDM6B/UTY,KDM6A/KDM6B/UTY
+Hsap_NP_001073893.1,Hsap,Human,Human,deepskyblue1,deepskyblue1,K T H E S N H,Hsap_NP_001073893.1  |  K T H E S N H,KDM6A/KDM6B/UTY,KDM6A/KDM6B/UTY
+Hsap_NP_001387099.1,Hsap,Human,Human,deepskyblue1,deepskyblue1,K T H E S N H,Hsap_NP_001387099.1  |  K T H E S N H,KDM6A/KDM6B/UTY,KDM6A/KDM6B/UTY
+Hsap_NP_001406738.1,Hsap,Human,Human,deepskyblue1,deepskyblue1,K T H E S N H,Hsap_NP_001406738.1  |  K T H E S N H,KDM6A/KDM6B/UTY,KDM6A/KDM6B/UTY
+Lcom_lcpid20211|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,K T H E S N H,Lcom_lcpid20211|  |  K T H E S N H,KDM6A/KDM6B/UTY,KDM6A/KDM6B/UTY
+Lcom_lcpid24861|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,K T H E S N H,Lcom_lcpid24861|  |  K T H E S N H,KDM6A/KDM6B/UTY,KDM6A/KDM6B/UTY
+Lcom_lcpid87521|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,K T H E S N H,Lcom_lcpid87521|  |  K T H E S N H,KDM6A/KDM6B/UTY,KDM6A/KDM6B/UTY
+Mlei_ML070265a-PA,Mlei,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,K T H E A N H,Mlei_ML070265a-PA  |  K T H E A N H,KDM6A/KDM6B/UTY,KDM6A/KDM6B/UTY
+Pigchi_Pchi_g1554,Pigchi,Premetazoa,gs_pos,firebrick2,magenta1,K T H E S N H,Pigchi_Pchi_g1554  |  K T H E S N H,KDM6A/KDM6B/UTY,KDM6A/KDM6B/UTY
+Pigvie_Pvie_g7250,Pigvie,Premetazoa,gs_pos,firebrick2,magenta1,K T H E S N H,Pigvie_Pvie_g7250  |  K T H E S N H,KDM6A/KDM6B/UTY,KDM6A/KDM6B/UTY
+Scil_XP_065177892.1,Scil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,K T H E S N H,Scil_XP_065177892.1  |  K T H E S N H,KDM6A/KDM6B/UTY,KDM6A/KDM6B/UTY
+Sros_XP_004995940.1,Sros,Premetazoa,gs_neg,firebrick2,chartreuse1,H M R E A N H,Sros_XP_004995940.1  |  H M R E A N H,like:KDM6A/KDM6B/UTY,KDM6A/KDM6B/UTY
+Sros_XP_004995958.1,Sros,Premetazoa,gs_neg,firebrick2,chartreuse1,K T H E S N H,Sros_XP_004995958.1  |  K T H E S N H,like:KDM6A/KDM6B/UTY,KDM6A/KDM6B/UTY
+Sros_XP_004996654.1,Sros,Premetazoa,gs_neg,firebrick2,chartreuse1,E T H D Q H H,Sros_XP_004996654.1  |  E T H D Q H H,like:KDM6A/KDM6B/UTY,KDM6A/KDM6B/UTY
+Tadh_XP_002111819.1,Tadh,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,K T H E S N H,Tadh_XP_002111819.1  |  K T H E S N H,KDM6A/KDM6B/UTY,KDM6A/KDM6B/UTY
+Twil_T_wilhelma_c34019_g1_i2|m.59298,Twil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,K T H E S N H,Twil_T_wilhelma_c34019_g1_i2|m.59298  |  K T H E S N H,KDM6A/KDM6B/UTY,KDM6A/KDM6B/UTY
+Twil_T_wilhelma_c34019_g1_i3|m.59300,Twil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,K T H E S N H,Twil_T_wilhelma_c34019_g1_i3|m.59300  |  K T H E S N H,KDM6A/KDM6B/UTY,KDM6A/KDM6B/UTY
+Aque_XP_019851976.1,Aque,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,T H D K H,Aque_XP_019851976.1  |  T H D K H,KDM7A/PHF2/PHF8,KDM7A/PHF2/PHF8
+Clim_Clim_evm3s239,Clim,Premetazoa,gs_pos,firebrick2,magenta1,T H D K H,Clim_Clim_evm3s239  |  T H D K H,KDM7A/PHF2/PHF8,KDM7A/PHF2/PHF8
+Cper_Nk52_evm46s208,Cper,Premetazoa,gs_pos,firebrick2,magenta1,T H D K H,Cper_Nk52_evm46s208  |  T H D K H,KDM7A/PHF2/PHF8,KDM7A/PHF2/PHF8
+Emue_Em0001g106a,Emue,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,T H D K H,Emue_Em0001g106a  |  T H D K H,KDM7A/PHF2/PHF8,KDM7A/PHF2/PHF8
+Emue_Em0005g1221a,Emue,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,T H D K H,Emue_Em0005g1221a  |  T H D K H,KDM7A/PHF2/PHF8,KDM7A/PHF2/PHF8
+Emue_Em0005g1222a,Emue,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,T H D K H,Emue_Em0005g1222a  |  T H D K H,KDM7A/PHF2/PHF8,KDM7A/PHF2/PHF8
+Emue_Em0005g1227a,Emue,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,T H D K H,Emue_Em0005g1227a  |  T H D K H,KDM7A/PHF2/PHF8,KDM7A/PHF2/PHF8
+Hsap_NP_001171825.1,Hsap,Human,Human,deepskyblue1,deepskyblue1,T H D K H,Hsap_NP_001171825.1  |  T H D K H,KDM7A/PHF2/PHF8,KDM7A/PHF2/PHF8
+Hsap_NP_005383.3,Hsap,Human,Human,deepskyblue1,deepskyblue1,T H D K Y,Hsap_NP_005383.3  |  T H D K Y,KDM7A/PHF2/PHF8,KDM7A/PHF2/PHF8
+Hsap_NP_085150.1,Hsap,Human,Human,deepskyblue1,deepskyblue1,T H D K H,Hsap_NP_085150.1  |  T H D K H,KDM7A/PHF2/PHF8,KDM7A/PHF2/PHF8
+Lcom_lcpid48482|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,T H D K H,Lcom_lcpid48482|  |  T H D K H,KDM7A/PHF2/PHF8,KDM7A/PHF2/PHF8
+Mbre_XP_001743130.1,Mbre,Premetazoa,gs_neg,firebrick2,chartreuse1,T H D K H,Mbre_XP_001743130.1  |  T H D K H,KDM7A/PHF2/PHF8,KDM7A/PHF2/PHF8
+Pgem_Unigene18287_Pirum_gemmata|m.11913,Pgem,Premetazoa,gs_pos,firebrick2,magenta1,T H D K H,Pgem_Unigene18287_Pirum_gemmata|m.11913  |  T H D K H,KDM7A/PHF2/PHF8,KDM7A/PHF2/PHF8
+Pigvie_Pvie_g8102,Pigvie,Premetazoa,gs_pos,firebrick2,magenta1,T H D K H,Pigvie_Pvie_g8102  |  T H D K H,KDM7A/PHF2/PHF8,KDM7A/PHF2/PHF8
+Scil_XP_065178289.1,Scil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,T H D K H,Scil_XP_065178289.1  |  T H D K H,KDM7A/PHF2/PHF8,KDM7A/PHF2/PHF8
+Scil_XP_065178623.1,Scil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,T H D K H,Scil_XP_065178623.1  |  T H D K H,KDM7A/PHF2/PHF8,KDM7A/PHF2/PHF8
+Sros_XP_004995891.1,Sros,Premetazoa,gs_neg,firebrick2,chartreuse1,T H D K H,Sros_XP_004995891.1  |  T H D K H,KDM7A/PHF2/PHF8,KDM7A/PHF2/PHF8
+Tadh_XP_002108928.1,Tadh,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,T H D K H,Tadh_XP_002108928.1  |  T H D K H,KDM7A/PHF2/PHF8,KDM7A/PHF2/PHF8
+Twil_T_wilhelma_c30832_g1_i1|m.38086,Twil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,T H D K H,Twil_T_wilhelma_c30832_g1_i1|m.38086  |  T H D K H,KDM7A/PHF2/PHF8,KDM7A/PHF2/PHF8
+Twil_T_wilhelma_c30832_g1_i5|m.38090,Twil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,T H D K H,Twil_T_wilhelma_c30832_g1_i5|m.38090  |  T H D K H,KDM7A/PHF2/PHF8,KDM7A/PHF2/PHF8
+Twil_T_wilhelma_c30832_g1_i6|m.38091,Twil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,T H D K H,Twil_T_wilhelma_c30832_g1_i6|m.38091  |  T H D K H,KDM7A/PHF2/PHF8,KDM7A/PHF2/PHF8
+Twil_T_wilhelma_c30832_g1_i8|m.38093,Twil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,T H D K H,Twil_T_wilhelma_c30832_g1_i8|m.38093  |  T H D K H,KDM7A/PHF2/PHF8,KDM7A/PHF2/PHF8
+Aque_XP_019853293.1,Aque,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y S H D N K H W,Aque_XP_019853293.1  |  Y S H D N K H W,KDM8,KDM8
+Awhi_Unigene29846_Abeoforma_whisleri|m.18337,Awhi,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D N K H W,Awhi_Unigene29846_Abeoforma_whisleri|m.18337  |  Y S H D N K H W,KDM8,KDM8
+Awhi_Unigene40667_Abeoforma_whisleri|m.26009,Awhi,Premetazoa,gs_pos,firebrick2,magenta1,Y T H D N K H W,Awhi_Unigene40667_Abeoforma_whisleri|m.26009  |  Y T H D N K H W,KDM8,KDM8
+Cfra_CFRG3953T1,Cfra,Premetazoa,gs_pos,firebrick2,magenta1,Y T H D N K - -,Cfra_CFRG3953T1  |  Y T H D N K - -,KDM8,KDM8
+Cfra_CFRG5311T1,Cfra,Premetazoa,gs_pos,firebrick2,magenta1,Y T H D N K H W,Cfra_CFRG5311T1  |  Y T H D N K H W,KDM8,KDM8
+Cfra_CFRG8355T1,Cfra,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D N K H W,Cfra_CFRG8355T1  |  Y S H D N K H W,KDM8,KDM8
+Clim_Clim_evm84s25,Clim,Premetazoa,gs_pos,firebrick2,magenta1,A W R Y T Q L H,Clim_Clim_evm84s25  |  A W R Y T Q L H,KDM8,KDM8
+Cper_Nk52_evm2s495,Cper,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D N K H W,Cper_Nk52_evm2s495  |  Y S H D N K H W,KDM8,KDM8
+Cper_Nk52_evm32s628,Cper,Premetazoa,gs_pos,firebrick2,magenta1,Y T H D N K H W,Cper_Nk52_evm32s628  |  Y T H D N K H W,KDM8,KDM8
+Cper_Nk52_evm66s2367,Cper,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D N K H W,Cper_Nk52_evm66s2367  |  Y S H D N K H W,KDM8,KDM8
+Emue_Em0011g644a,Emue,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y S H D N K H W,Emue_Em0011g644a  |  Y S H D N K H W,KDM8,KDM8
+Hsap_NP_001138820.1,Hsap,Human,Human,deepskyblue1,deepskyblue1,Y S H D N K H W,Hsap_NP_001138820.1  |  Y S H D N K H W,KDM8,KDM8
+Lcom_lcpid115304|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,G S H D N K H W,Lcom_lcpid115304|  |  G S H D N K H W,KDM8,KDM8
+Lcom_lcpid51678|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,Y S H D N - - -,Lcom_lcpid51678|  |  Y S H D N - - -,KDM8,KDM8
+Lcom_lcpid67550|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,Y S H D N K H W,Lcom_lcpid67550|  |  Y S H D N K H W,KDM8,KDM8
+Mbre_XP_001742895.1,Mbre,Premetazoa,gs_neg,firebrick2,chartreuse1,Y S H D N K H W,Mbre_XP_001742895.1  |  Y S H D N K H W,KDM8,KDM8
+Pgem_Unigene12170_Pirum_gemmata|m.7832,Pgem,Premetazoa,gs_pos,firebrick2,magenta1,Y T H D N K H -,Pgem_Unigene12170_Pirum_gemmata|m.7832  |  Y T H D N K H -,KDM8,KDM8
+Pgem_Unigene20972_Pirum_gemmata|m.13675,Pgem,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D N K H -,Pgem_Unigene20972_Pirum_gemmata|m.13675  |  Y S H D N K H -,KDM8,KDM8
+Pgem_Unigene22502_Pirum_gemmata|m.14473,Pgem,Premetazoa,gs_pos,firebrick2,magenta1,Y T H D N K - -,Pgem_Unigene22502_Pirum_gemmata|m.14473  |  Y T H D N K - -,KDM8,KDM8
+Pigchi_Pchi_g4251,Pigchi,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D N K H W,Pigchi_Pchi_g4251  |  Y S H D N K H W,KDM8,KDM8
+Pigvie_Pvie_g14601,Pigvie,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D N K H W,Pigvie_Pvie_g14601  |  Y S H D N K H W,KDM8,KDM8
+Sarc_XP_014149975.1,Sarc,Premetazoa,gs_pos,firebrick2,magenta1,Y T H D N K - -,Sarc_XP_014149975.1  |  Y T H D N K - -,KDM8,KDM8
+Sarc_XP_014151949.1,Sarc,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D N K H W,Sarc_XP_014151949.1  |  Y S H D N K H W,KDM8,KDM8
+Sarc_XP_014159214.1,Sarc,Premetazoa,gs_pos,firebrick2,magenta1,Y T H D N K H W,Sarc_XP_014159214.1  |  Y T H D N K H W,KDM8,KDM8
+Scil_XP_065185214.1,Scil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y S H D N K H W,Scil_XP_065185214.1  |  Y S H D N K H W,KDM8,KDM8
+Sros_XP_004991404.1,Sros,Premetazoa,gs_neg,firebrick2,chartreuse1,Y S H D N K H W,Sros_XP_004991404.1  |  Y S H D N K H W,KDM8,KDM8
+Sros_XP_004994314.1,Sros,Premetazoa,gs_neg,firebrick2,chartreuse1,Y T H D N K H W,Sros_XP_004994314.1  |  Y T H D N K H W,KDM8,KDM8
+Tadh_XP_002109881.1,Tadh,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y S H D N K H W,Tadh_XP_002109881.1  |  Y S H D N K H W,KDM8,KDM8
+Twil_T_wilhelma_c33435_g2_i2|m.55195,Twil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y S H D N K H -,Twil_T_wilhelma_c33435_g2_i2|m.55195  |  Y S H D N K H -,KDM8,KDM8
+Aque_XP_019849210.1,Aque,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y S H D F K H N,Aque_XP_019849210.1  |  Y S H D F K H N,like:JMJD6,JMJD6
+Awhi_Unigene23312_Abeoforma_whisleri|m.15383,Awhi,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D A K - -,Awhi_Unigene23312_Abeoforma_whisleri|m.15383  |  Y S H D A K - -,like:JMJD6,JMJD6
+Awhi_Unigene37213_Abeoforma_whisleri|m.24092,Awhi,Premetazoa,gs_pos,firebrick2,magenta1,- - - - - K H N,Awhi_Unigene37213_Abeoforma_whisleri|m.24092  |  - - - - - K H N,like:JMJD6,JMJD6
+Awhi_Unigene37258_Abeoforma_whisleri|m.24128,Awhi,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D A K H W,Awhi_Unigene37258_Abeoforma_whisleri|m.24128  |  Y S H D A K H W,JMJD6,JMJD6
+Awhi_Unigene9828_Abeoforma_whisleri|m.6802,Awhi,Premetazoa,gs_pos,firebrick2,magenta1,S T H D A K H N,Awhi_Unigene9828_Abeoforma_whisleri|m.6802  |  S T H D A K H N,like:JMJD6,JMJD6
+Cfra_CFRG0953T1,Cfra,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D A K H N,Cfra_CFRG0953T1  |  Y S H D A K H N,like:JMJD6,JMJD6
+Cfra_CFRG2969T1,Cfra,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D A K H M,Cfra_CFRG2969T1  |  Y S H D A K H M,JMJD6,JMJD6
+Clim_Clim_evm10s18,Clim,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D A K H N,Clim_Clim_evm10s18  |  Y S H D A K H N,like:JMJD6,JMJD6
+Clim_Clim_evm40s246,Clim,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D A K H W,Clim_Clim_evm40s246  |  Y S H D A K H W,JMJD6,JMJD6
+Clim_Clim_evm70s215,Clim,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D F K H N,Clim_Clim_evm70s215  |  Y S H D F K H N,like:JMJD6,JMJD6
+Cowc_XP_004363982.1,Cowc,Premetazoa,gs_pos,firebrick2,magenta1,Y - F D D - H N,Cowc_XP_004363982.1  |  Y - F D D - H N,like:JMJD6,JMJD6
+Cowc_XP_011270466.1,Cowc,Premetazoa,gs_pos,firebrick2,magenta1,Y T H D A K H W,Cowc_XP_011270466.1  |  Y T H D A K H W,JMJD6,JMJD6
+Cper_Nk52_evm1s394,Cper,Premetazoa,gs_pos,firebrick2,magenta1,Y T H D A K H W,Cper_Nk52_evm1s394  |  Y T H D A K H W,JMJD6,JMJD6
+Cper_Nk52_evm9s284,Cper,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D A K H N,Cper_Nk52_evm9s284  |  Y S H D A K H N,like:JMJD6,JMJD6
+Emue_Em0017g113a,Emue,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y T H D A K H W,Emue_Em0017g113a  |  Y T H D A K H W,JMJD6,JMJD6
+Emue_Em0017g98a,Emue,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y T H D A K H W,Emue_Em0017g98a  |  Y T H D A K H W,JMJD6,JMJD6
+Emue_Em0020g558a,Emue,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y S H D F K H N,Emue_Em0020g558a  |  Y S H D F K H N,like:JMJD6,JMJD6
+Hsap_NP_001074930.1,Hsap,Human,Human,deepskyblue1,deepskyblue1,Y T H D A K H W,Hsap_NP_001074930.1  |  Y T H D A K H W,JMJD6,JMJD6
+Lcom_lcpid61873|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,Y S H D F K H N,Lcom_lcpid61873|  |  Y S H D F K H N,like:JMJD6,JMJD6
+Lcom_lcpid77143|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,Y S H D F K H N,Lcom_lcpid77143|  |  Y S H D F K H N,like:JMJD6,JMJD6
+Lcom_lcpid93134|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,Y T H D A K H W,Lcom_lcpid93134|  |  Y T H D A K H W,JMJD6,JMJD6
+Mbre_XP_001746989.1,Mbre,Premetazoa,gs_neg,firebrick2,chartreuse1,Y S H D F K H L,Mbre_XP_001746989.1  |  Y S H D F K H L,like:JMJD6,JMJD6
+Mbre_XP_001747476.1,Mbre,Premetazoa,gs_neg,firebrick2,chartreuse1,- T H D A K H N,Mbre_XP_001747476.1  |  - T H D A K H N,like:JMJD6,JMJD6
+Mlei_ML04335a-PA,Mlei,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y T H D A K - -,Mlei_ML04335a-PA  |  Y T H D A K - -,JMJD6,JMJD6
+Pgem_Unigene10739_Pirum_gemmata|m.7054,Pgem,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D A K H N,Pgem_Unigene10739_Pirum_gemmata|m.7054  |  Y S H D A K H N,like:JMJD6,JMJD6
+Pgem_Unigene11582_Pirum_gemmata|m.7502,Pgem,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D F K H N,Pgem_Unigene11582_Pirum_gemmata|m.7502  |  Y S H D F K H N,like:JMJD6,JMJD6
+Pgem_Unigene15001_Pirum_gemmata|m.9551,Pgem,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D A K - -,Pgem_Unigene15001_Pirum_gemmata|m.9551  |  Y S H D A K - -,JMJD6,JMJD6
+Pgem_Unigene22442_Pirum_gemmata|m.14445,Pgem,Premetazoa,gs_pos,firebrick2,magenta1,Y T H D A K H N,Pgem_Unigene22442_Pirum_gemmata|m.14445  |  Y T H D A K H N,like:JMJD6,JMJD6
+Pigchi_Pchi_g12950,Pigchi,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D A K H N,Pigchi_Pchi_g12950  |  Y S H D A K H N,like:JMJD6,JMJD6
+Pigchi_Pchi_g13045,Pigchi,Premetazoa,gs_pos,firebrick2,magenta1,Y A H D A K H N,Pigchi_Pchi_g13045  |  Y A H D A K H N,like:JMJD6,JMJD6
+Pigchi_Pchi_g6798,Pigchi,Premetazoa,gs_pos,firebrick2,magenta1,Y T H D A K H W,Pigchi_Pchi_g6798  |  Y T H D A K H W,JMJD6,JMJD6
+Pigvie_Pvie_g10471,Pigvie,Premetazoa,gs_pos,firebrick2,magenta1,Y - - - - - H N,Pigvie_Pvie_g10471  |  Y - - - - - H N,like:JMJD6,JMJD6
+Pigvie_Pvie_g11970,Pigvie,Premetazoa,gs_pos,firebrick2,magenta1,- T H D A K H W,Pigvie_Pvie_g11970  |  - T H D A K H W,JMJD6,JMJD6
+Pigvie_Pvie_g14228,Pigvie,Premetazoa,gs_pos,firebrick2,magenta1,Y A H D A K - -,Pigvie_Pvie_g14228  |  Y A H D A K - -,like:JMJD6,JMJD6
+Pigvie_Pvie_g5127,Pigvie,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D A K H N,Pigvie_Pvie_g5127  |  Y S H D A K H N,like:JMJD6,JMJD6
+Sarc_XP_014147272.1,Sarc,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D A K H N,Sarc_XP_014147272.1  |  Y S H D A K H N,like:JMJD6,JMJD6
+Sarc_XP_014149136.1,Sarc,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D A K H N,Sarc_XP_014149136.1  |  Y S H D A K H N,like:JMJD6,JMJD6
+Sarc_XP_014157534.1,Sarc,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D A K H M,Sarc_XP_014157534.1  |  Y S H D A K H M,JMJD6,JMJD6
+Scil_XP_065186832.1,Scil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y T H D A K H W,Scil_XP_065186832.1  |  Y T H D A K H W,JMJD6,JMJD6
+Scil_XP_065186999.1,Scil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y S H D F K H N,Scil_XP_065186999.1  |  Y S H D F K H N,like:JMJD6,JMJD6
+Sros_XP_004991635.1,Sros,Premetazoa,gs_neg,firebrick2,chartreuse1,Y S H D F K H N,Sros_XP_004991635.1  |  Y S H D F K H N,like:JMJD6,JMJD6
+Sros_XP_004993443.1,Sros,Premetazoa,gs_neg,firebrick2,chartreuse1,Y T H D A K H N,Sros_XP_004993443.1  |  Y T H D A K H N,like:JMJD6,JMJD6
+Sros_XP_004997244.1,Sros,Premetazoa,gs_neg,firebrick2,chartreuse1,Y S H D A K H N,Sros_XP_004997244.1  |  Y S H D A K H N,like:JMJD6,JMJD6
+Sros_XP_004998744.1,Sros,Premetazoa,gs_neg,firebrick2,chartreuse1,Y T H D A K - C,Sros_XP_004998744.1  |  Y T H D A K - C,JMJD6,JMJD6
+Tadh_XP_002107811.1,Tadh,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y T H D A K H W,Tadh_XP_002107811.1  |  Y T H D A K H W,JMJD6,JMJD6
+Tadh_XP_002108617.1,Tadh,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y S H D G K H Q,Tadh_XP_002108617.1  |  Y S H D G K H Q,like:JMJD6,JMJD6
+Tadh_XP_002109902.1,Tadh,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y S H D F K H N,Tadh_XP_002109902.1  |  Y S H D F K H N,like:JMJD6,JMJD6
+Twil_T_wilhelma_c27089_g1_i1|m.19386,Twil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,- - - - - - H N,Twil_T_wilhelma_c27089_g1_i1|m.19386  |  - - - - - - H N,like:JMJD6,JMJD6
+Twil_T_wilhelma_c27089_g1_i2|m.19387,Twil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y S H D F K H N,Twil_T_wilhelma_c27089_g1_i2|m.19387  |  Y S H D F K H N,like:JMJD6,JMJD6
+Twil_T_wilhelma_c27378_g1_i1|m.20434,Twil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,- - - - N S H -,Twil_T_wilhelma_c27378_g1_i1|m.20434  |  - - - - N S H -,JMJD6,JMJD6
+Twil_T_wilhelma_c27378_g1_i2|m.20435,Twil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y T H D A K H W,Twil_T_wilhelma_c27378_g1_i2|m.20435  |  Y T H D A K H W,JMJD6,JMJD6
+Twil_T_wilhelma_c27378_g1_i3|m.20436,Twil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,- - - - N S H -,Twil_T_wilhelma_c27378_g1_i3|m.20436  |  - - - - N S H -,JMJD6,JMJD6
+Aque_XP_003387667.2,Aque,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y G H D N K H W,Aque_XP_003387667.2  |  Y G H D N K H W,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Awhi_Unigene28178_Abeoforma_whisleri|m.16888,Awhi,Premetazoa,gs_pos,firebrick2,magenta1,Y T H D N K H W,Awhi_Unigene28178_Abeoforma_whisleri|m.16888  |  Y T H D N K H W,JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Awhi_Unigene36217_Abeoforma_whisleri|m.23381,Awhi,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D N K H W,Awhi_Unigene36217_Abeoforma_whisleri|m.23381  |  Y S H D N K H W,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Cfra_CFRG3561T1,Cfra,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D N K H -,Cfra_CFRG3561T1  |  Y S H D N K H -,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Cfra_CFRG6338T1,Cfra,Premetazoa,gs_pos,firebrick2,magenta1,L S H D N K H W,Cfra_CFRG6338T1  |  L S H D N K H W,JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Clim_Clim_evm36s144,Clim,Premetazoa,gs_pos,firebrick2,magenta1,W T H D N K H W,Clim_Clim_evm36s144  |  W T H D N K H W,JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Clim_Clim_evm8s203,Clim,Premetazoa,gs_pos,firebrick2,magenta1,Y G H D N K H W,Clim_Clim_evm8s203  |  Y G H D N K H W,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Cowc_XP_004346810.1,Cowc,Premetazoa,gs_pos,firebrick2,magenta1,A T H D N K H W,Cowc_XP_004346810.1  |  A T H D N K H W,JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Cper_Nk52_evm12s1705,Cper,Premetazoa,gs_pos,firebrick2,magenta1,Y A H D N K H W,Cper_Nk52_evm12s1705  |  Y A H D N K H W,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Cper_Nk52_evm39s1705,Cper,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D N K H W,Cper_Nk52_evm39s1705  |  Y S H D N K H W,JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Emue_Em0020g919a,Emue,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,W - - - - K H W,Emue_Em0020g919a  |  W - - - - K H W,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Hsap_NP_001108104.1,Hsap,Human,Human,deepskyblue1,deepskyblue1,L T H D N K H W,Hsap_NP_001108104.1  |  L T H D N K H W,JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Hsap_NP_005081.1,Hsap,Human,Human,deepskyblue1,deepskyblue1,L T H D N K H V,Hsap_NP_005081.1  |  L T H D N K H V,JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Ihof_Ihof_evm2s296,Ihof,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D N K H -,Ihof_Ihof_evm2s296  |  Y S H D N K H -,JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Lcom_lcpid101478|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,Y T H D N K H W,Lcom_lcpid101478|  |  Y T H D N K H W,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Lcom_lcpid122030|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,Y T H D N - - -,Lcom_lcpid122030|  |  Y T H D N - - -,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Lcom_lcpid142543|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,Y - - - - - - -,Lcom_lcpid142543|  |  Y - - - - - - -,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Lcom_lcpid227761|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,Y - - - - - - -,Lcom_lcpid227761|  |  Y - - - - - - -,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Lcom_lcpid23282|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,Y T H D N K H W,Lcom_lcpid23282|  |  Y T H D N K H W,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Lcom_lcpid53642|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,Y G H D N K H W,Lcom_lcpid53642|  |  Y G H D N K H W,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Lcom_lcpid74518|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,Y T H D N K H W,Lcom_lcpid74518|  |  Y T H D N K H W,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Lcom_lcpid79937|,Lcom,Earlymetazoa,gs_pos,goldenrod1,magenta1,C T H D N K H W,Lcom_lcpid79937|  |  C T H D N K H W,JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Mbre_XP_001743350.1,Mbre,Premetazoa,gs_neg,firebrick2,chartreuse1,F T H D N K H W,Mbre_XP_001743350.1  |  F T H D N K H W,JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Mbre_XP_001749742.1,Mbre,Premetazoa,gs_neg,firebrick2,chartreuse1,Y S H D N K H W,Mbre_XP_001749742.1  |  Y S H D N K H W,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Mbre_XP_001750675.1,Mbre,Premetazoa,gs_neg,firebrick2,chartreuse1,Y G H D N K H W,Mbre_XP_001750675.1  |  Y G H D N K H W,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Mlei_ML05732a-PA,Mlei,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,L T H D N K H W,Mlei_ML05732a-PA  |  L T H D N K H W,JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Pgem_Unigene32040_Pirum_gemmata|m.19281,Pgem,Premetazoa,gs_pos,firebrick2,magenta1,- - - - - - H W,Pgem_Unigene32040_Pirum_gemmata|m.19281  |  - - - - - - H W,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Pgem_Unigene36658_Pirum_gemmata|m.22751,Pgem,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D N K - -,Pgem_Unigene36658_Pirum_gemmata|m.22751  |  Y S H D N K - -,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Pigchi_Pchi_g5238,Pigchi,Premetazoa,gs_pos,firebrick2,magenta1,Y G H D N - - -,Pigchi_Pchi_g5238  |  Y G H D N - - -,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Pigchi_Pchi_g7145,Pigchi,Premetazoa,gs_pos,firebrick2,magenta1,H T H D N K - -,Pigchi_Pchi_g7145  |  H T H D N K - -,JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Pigvie_Pvie_g12776,Pigvie,Premetazoa,gs_pos,firebrick2,magenta1,- - H D N K H W,Pigvie_Pvie_g12776  |  - - H D N K H W,JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Sarc_XP_014155610.1,Sarc,Premetazoa,gs_pos,firebrick2,magenta1,L S H D N K H W,Sarc_XP_014155610.1  |  L S H D N K H W,JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Sarc_XP_014161631.1,Sarc,Premetazoa,gs_pos,firebrick2,magenta1,Y S H D N K H W,Sarc_XP_014161631.1  |  Y S H D N K H W,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Scil_XP_065177489.1,Scil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y T H D N K H W,Scil_XP_065177489.1  |  Y T H D N K H W,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Scil_XP_065185446.1,Scil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y G H D N K H W,Scil_XP_065185446.1  |  Y G H D N K H W,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Scil_XP_065195925.1,Scil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,C T H D N K H W,Scil_XP_065195925.1  |  C T H D N K H W,JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Sros_XP_004991443.1,Sros,Premetazoa,gs_neg,firebrick2,chartreuse1,Y S H D N K H -,Sros_XP_004991443.1  |  Y S H D N K H -,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Sros_XP_004993835.1,Sros,Premetazoa,gs_neg,firebrick2,chartreuse1,M A H D N K H W,Sros_XP_004993835.1  |  M A H D N K H W,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Sros_XP_004995856.1,Sros,Premetazoa,gs_neg,firebrick2,chartreuse1,S T H D N K H W,Sros_XP_004995856.1  |  S T H D N K H W,JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Sros_XP_004998112.1,Sros,Premetazoa,gs_neg,firebrick2,chartreuse1,Y S H D N K H W,Sros_XP_004998112.1  |  Y S H D N K H W,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Tadh_XP_002114207.1,Tadh,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y G H D N K H W,Tadh_XP_002114207.1  |  Y G H D N K H W,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
+Twil_T_wilhelma_c29091_g1_i2|m.28048,Twil,Earlymetazoa,gs_neg,goldenrod1,chartreuse1,Y G H D N K H W,Twil_T_wilhelma_c29091_g1_i2|m.28048  |  Y G H D N K H W,like:JMJD7/JMJD7-PLA2G4B,JMJD7/JMJD7-PLA2G4B
