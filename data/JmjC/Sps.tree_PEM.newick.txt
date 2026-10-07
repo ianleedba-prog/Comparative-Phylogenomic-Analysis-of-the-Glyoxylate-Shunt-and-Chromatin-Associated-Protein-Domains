@@ -1,0 +1,16 @@
+(
+(
+(
+(
+(
+(Trichoplax_adhaerens:4)Placozoa:4,
+(Mnemiopsis_leidyi:4)Ctenophora:4
+)Eumetazoa:4,
+((Ephydatia_muelleri:4,Amphimedon_queenslandica:4,Tethya_wilhelma:4)Demospongiae:4,
+(Sycon_ciliatum:4,Leucosolenia_complicata:4)Calcarea:4
+)Porifera:4
+)Metazoa:4,
+(Monosiga_brevicollis_MX1:4, Salpingoeca_rosetta:4)Choanoflagellata:4):4,
+(Ministeria_vibrans:4,Capsaspora_owczarzaki_ATCC_30864:4,Pigoraptor_vietnamica:4,Pigoraptor_chileana:4)Filasterea:4):4,
+((Pirum_gemmata:4,Chromosphaera_perkinsii:4,Ichthyophonus_hoferi:4,Creolimax_fragrantissima:4,Sphaeroforma_arctica_JP610:4,Abeoforma_whisleri:4)Ichthyosporea:4,(Corallochytrium_limacisporum:4)Corallochytria:4)Teretosporea:4
+)Opisthokonta/Holozoa:4;
