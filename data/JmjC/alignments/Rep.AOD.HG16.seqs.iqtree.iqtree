@@ -1,0 +1,483 @@
+IQ-TREE 2.4.0 built Feb 12 2025
+
+Input file name: /Volumes/IlHwan5TB/ncbi_datasets/analysis/alignments//Rep.AOD.HG16.seqs.lt.fasta
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 990677
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 79 sequences with 464 amino-acid sites
+Number of constant sites: 32 (= 6.89655% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 32 (= 6.89655% of all sites)
+Number of parsimony informative sites: 432
+Number of distinct site patterns: 458
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: LG+F+I+G4
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+LG+F+I+G4        -32605.580   65563.160 +        1   65780.247 +        1   66291.780 +        1
+LG+I+G4          -32674.383   65662.766 - 2.35e-22   65824.897 - 2.02e-10   66312.728 - 2.83e-05
+LG+G4            -32711.968   65735.936 - 3.04e-38   65895.493 - 9.43e-26   66381.758 - 2.89e-20
+WAG+F+I+G4       -32711.714   65775.428 - 8.07e-47   65992.515 - 8.07e-47   66504.048 - 8.06e-47
+WAG+I+G4         -32831.882   65977.763 - 9.33e-91   66139.894 - 8.01e-79   66627.725 - 1.12e-73
+JTT+F+I+G4       -32816.709   65985.419 - 2.03e-92   66202.506 - 2.03e-92   66714.038 - 2.03e-92
+JTT+I+G4         -32942.278   66198.557 - 1.06e-138   66360.688 - 9.1e-127   66848.519 - 1.28e-121
+LG+I             -33900.924   68113.848 -        0   68273.405 -        0   68759.670 -        0
+LG               -34213.901   68737.802 -        0   68894.815 -        0   69379.484 -        0
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG+F+I+G4
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.0508
+  pi(R) = 0.0481
+  pi(N) = 0.0472
+  pi(D) = 0.0556
+  pi(C) = 0.0194
+  pi(Q) = 0.0298
+  pi(E) = 0.0788
+  pi(G) = 0.0548
+  pi(H) = 0.0216
+  pi(I) = 0.0696
+  pi(L) = 0.0832
+  pi(K) = 0.0705
+  pi(M) = 0.0228
+  pi(F) = 0.0418
+  pi(P) = 0.0503
+  pi(S) = 0.0584
+  pi(T) = 0.0553
+  pi(W) = 0.0204
+  pi(Y) = 0.0458
+  pi(V) = 0.0759
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.0592
+Gamma shape alpha: 1.3926
+
+ Category  Relative_rate  Proportion
+  0         0              0.0592
+  1         0.2214         0.2352
+  2         0.6055         0.2352
+  3         1.1091         0.2352
+  4         2.3157         0.2352
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -32588.6434 (s.e. 795.9892)
+Unconstrained log-likelihood (without tree): -2838.6791
+Number of free parameters (#branches + #model parameters): 176
+Akaike information criterion (AIC) score: 65529.2867
+Corrected Akaike information criterion (AICc) score: 65746.3738
+Bayesian information criterion (BIC) score: 66257.9064
+
+Total tree length (sum of branch lengths): 27.1941
+Sum of internal branch lengths: 11.0449 (40.6151% of tree length)
+
+WARNING: 1 near-zero internal branches (<0.0022) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Acey_EYC11122.1' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++--Acey_EYC11122.1
+|
+|     +--Hpol_VDP22938.1
+|  +--| (100)
+|  |  +--Hpol_VDP34319.1
++--| (88)
+|  +--Angcan_KAE9413271.1
+|
+|  +--Otip_Oti_5420_t
++--| (100)
+   |     +**Mbel_CAJ0920873.1
+   |  +--| (100)
+   |  |  +**Mbel_CAJ0952274.1
+   +--| (66)
+      |     +--Cele_NP_500884.2
+      |  +--| (71)
+      |  |  |    +**Diplco_DCO_010369
+      |  |  +----| (100)
+      |  |       +--Diplco_DCO_010370
+      +--| (66)
+         |           +**Scar_TMS37940.1
+         |        +--| (100)
+         |        |  +**Scar_TMS37939.1
+         |     +--| (51)
+         |     |  |           +--Psp.PS1159_PS1159_v2.g20593.t1
+         |     |  |        +--| (99)
+         |     |  |        |  |     +--Psp.PS1159_PS1159_v2.g324.t1
+         |     |  |        |  |  +--| (100)
+         |     |  |        |  |  |  +--Psp.PS1159_PS1159_v2.g389.t1
+         |     |  |        |  +--| (100)
+         |     |  |        |     +--Psp.PS1159_PS1159_v2.g12507.t1
+         |     |  |     +--| (93)
+         |     |  |     |  +--Bxyl_CAG9116087.1
+         |     |  |  +--| (76)
+         |     |  |  |  |  +--Gpal_Gpal_D383_g05629.t1
+         |     |  |  |  +--| (100)
+         |     |  |  |     +---Mhap_MhA1_Contig2460.frz3.gene1
+         |     |  +--| (22)
+         |     |     |        +**Asuu_AgR038_g055_t01
+         |     |     |     +**| (73)
+         |     |     |     |  +**Asuu_AgR038_g055_t02
+         |     |     |  +--| (100)
+         |     |     |  |  +--Asuu_AgR038_g055_t03
+         |     |     +--| (94)
+         |     |        |     +--Sypmur_SMUV_0000445101-mRNA-1
+         |     |        |  +--| (100)
+         |     |        |  |  +----Ever_VDD93554.1
+         |     |        +--| (94)
+         |     |           |      +--Eela_EEL_0000621601-mRNA-1
+         |     |           |  +---| (100)
+         |     |           |  |   |           +**Bmal_XP_042938154.1
+         |     |           |  |   |        +--| (100)
+         |     |           |  |   |        |  |  +**Bmal_XP_042938156.1
+         |     |           |  |   |        |  +--| (100)
+         |     |           |  |   |        |     +**Bmal_XP_042938155.1
+         |     |           |  |   |     +--| (100)
+         |     |           |  |   |     |  +--Wban_VDM09569.1
+         |     |           |  |   |  +--| (56)
+         |     |           |  |   |  |  |  +--Avit_KAL3985987.1
+         |     |           |  |   |  |  +--| (54)
+         |     |           |  |   |  |     |  +--Ovol_OVOC7418
+         |     |           |  |   |  |     +--| (98)
+         |     |           |  |   |  |        +--Dimm_MCP9257078.1
+         |     |           |  |   +--| (57)
+         |     |           |  |      +--Lloa_XP_020302510.1
+         |     |           +--| (88)
+         |     |              |                          +--Sypmur_SMUV_0000857501-mRNA-1
+         |     |              |                       +--| (100)
+         |     |              |                       |  +--Ever_VDD96702.1
+         |     |              |                    +--| (100)
+         |     |              |                    |  |  +--Asuu_AgR041_g085_t02
+         |     |              |                    |  +--| (90)
+         |     |              |                    |     |                    +--Bmal_XP_001901860.1
+         |     |              |                    |     |                 +--| (100)
+         |     |              |                    |     |                 |  +--Wban_VDM20947.1
+         |     |              |                    |     |              +--| (93)
+         |     |              |                    |     |              |  +--Lloa_XP_003137186.1
+         |     |              |                    |     |           +--| (71)
+         |     |              |                    |     |           |  +--Avit_KAL3985446.1
+         |     |              |                    |     |        +--| (71)
+         |     |              |                    |     |        |  +--Lsig_VDK83062.1
+         |     |              |                    |     |     +--| (79)
+         |     |              |                    |     |     |  +--Eela_EEL_0000867101-mRNA-1
+         |     |              |                    |     +-----| (100)
+         |     |              |                    |           +--Ovol_OVOC6760
+         |     |              |                 +--| (100)
+         |     |              |                 |  +-------Scar_TKR87274.1
+         |     |              |              +--| (88)
+         |     |              |              |  |     +-----Psp.PS1159_PS1159_v2.g18770.t2
+         |     |              |              |  |  +--| (99)
+         |     |              |              |  |  |  +--------Ddip_jg16273
+         |     |              |              |  +--| (84)
+         |     |              |              |     +-----------Srat_XP_024502120.1
+         |     |              |      +-------| (100)
+         |     |              |      |       |        +--Angcan_KAE9415335.1
+         |     |              |      |       |     +--| (100)
+         |     |              |      |       |     |  |     +**Hcon_XGW03132.1
+         |     |              |      |       |     |  |  +--| (100)
+         |     |              |      |       |     |  |  |  +**Hcon_XGW03133.1
+         |     |              |      |       |     |  +--| (97)
+         |     |              |      |       |     |     +--Hpol_VDO19089.1
+         |     |              |      |       |  +--| (84)
+         |     |              |      |       |  |  +-------Otip_Oti_9578_t
+         |     |              |      |       +--| (93)
+         |     |              |      |          |         +--Diplco_DCO_010680
+         |     |              |      |          |  +------| (100)
+         |     |              |      |          |  |      +--Diplco_DCO_010679
+         |     |              |      |          +--| (76)
+         |     |              |      |             |  +-----Mbel_CAJ0946548.1
+         |     |              |      |             +--| (99)
+         |     |              |      |                |  +----Mjap_MIJAPON000011939.t1
+         |     |              |      |                +--| (100)
+         |     |              |      |                   +----Priarc_PARCANUS000005538.t1
+         |     |              +------| (100)
+         |     |                     |                      +--Apla_XP_022108582.1
+         |     |                     |                   +--| (100)
+         |     |                     |                   |  |  +**Apla_XP_022089033.1
+         |     |                     |                   |  +--| (100)
+         |     |                     |                   |     +**Apla_XP_022089032.1
+         |     |                     |                +--| (96)
+         |     |                     |                |  +--Apla_XP_022112034.1
+         |     |                     |          +-----| (100)
+         |     |                     |          |     |     +**Apla_XP_022086010.1
+         |     |                     |          |     |  +--| (100)
+         |     |                     |          |     |  |  +**Apla_XP_022086008.1
+         |     |                     |          |     +--| (100)
+         |     |                     |          |        |      +--Apla_XP_022086012.1
+         |     |                     |          |        |  +---| (100)
+         |     |                     |          |        |  |   +--Apla_XP_022086011.1
+         |     |                     |          |        +--| (98)
+         |     |                     |          |           +--Apla_XP_022086117.1
+         |     |                     +----------| (100)
+         |     |                                |          +---Avag_UJR32047.1
+         |     |                                |     +----| (100)
+         |     |                                |     |    +----Avag_UJR06638.1
+         |     |                                |  +--| (97)
+         |     |                                |  |  +--------Emue_Em0005g1218a
+         |     |                                +--| (100)
+         |     |                                   |              +**Crei_XP_001696473.1
+         |     |                                   |          +---| (100)
+         |     |                                   |          |   |  +**Crei_XP_042921653.1
+         |     |                                   |          |   +--| (100)
+         |     |                                   |          |      +--Crei_XP_042921654.1
+         |     |                                   |       +--| (91)
+         |     |                                   |       |  +------Sros_XP_004998163.1
+         |     |                                   |    +--| (95)
+         |     |                                   |    |  +-----Lpol_XP_013778849.1
+         |     |                                   +----| (100)
+         |     |                                        +--------------------Cint_XP_009861905.1
+         |  +--| (93)
+         |  |  +------Srat_XP_024498908.1
+         +--| (90)
+            |     +--Priarc_PARCANUS000006010.t1
+            |  +--| (97)
+            |  |  +--Mjap_MIJAPON000007607.t1
+            +--| (99)
+               +-------Mjap_MIJAPON000002865.t1
+
+Tree in newick format:
+
+(Acey_EYC11122.1:0.0586227607,((Hpol_VDP22938.1:0.0043591992,Hpol_VDP34319.1:0.0047522247)100:0.0701825511,Angcan_KAE9413271.1:0.2706968077)88:0.0204279961,(Otip_Oti_5420_t:0.1588009433,((Mbel_CAJ0920873.1:0.0000010005,Mbel_CAJ0952274.1:0.0000010005)100:0.2137888814,((Cele_NP_500884.2:0.1573594803,(Diplco_DCO_010369:0.0000010005,Diplco_DCO_010370:0.0048615225)100:0.3987344368)71:0.0644433885,((((Scar_TMS37940.1:0.0000010005,Scar_TMS37939.1:0.0000025834)100:0.2484623227,((((Psp.PS1159_PS1159_v2.g20593.t1:0.0894045035,((Psp.PS1159_PS1159_v2.g324.t1:0.0847243147,Psp.PS1159_PS1159_v2.g389.t1:0.0446146572)100:0.0379080951,Psp.PS1159_PS1159_v2.g12507.t1:0.0324186238)100:0.1642944635)99:0.0856283253,Bxyl_CAG9116087.1:0.2630680403)93:0.0381869320,(Gpal_Gpal_D383_g05629.t1:0.2712822759,Mhap_MhA1_Contig2460.frz3.gene1:0.3098773898)100:0.1319920130)76:0.0440285098,(((Asuu_AgR038_g055_t01:0.0000010005,Asuu_AgR038_g055_t02:0.0000010005)73:0.0000027543,Asuu_AgR038_g055_t03:0.0160373742)100:0.2417880148,((Sypmur_SMUV_0000445101-mRNA-1:0.2722510719,Ever_VDD93554.1:0.4053143626)100:0.1235359388,((Eela_EEL_0000621601-mRNA-1:0.0584287671,((((Bmal_XP_042938154.1:0.0000020512,(Bmal_XP_042938156.1:0.0000010005,Bmal_XP_042938155.1:0.0000010005)100:0.0079161769)100:0.0552619196,Wban_VDM09569.1:0.0172511508)100:0.0716049528,(Avit_KAL3985987.1:0.1157573400,(Ovol_OVOC7418:0.0896811024,Dimm_MCP9257078.1:0.1198525402)98:0.0718609240)54:0.0191460304)56:0.0228821723,Lloa_XP_020302510.1:0.1085729207)57:0.0265298285)100:0.3124084949,((((((Sypmur_SMUV_0000857501-mRNA-1:0.1576095629,Ever_VDD96702.1:0.2228845046)100:0.1861209298,(Asuu_AgR041_g085_t02:0.2529905752,((((((Bmal_XP_001901860.1:0.0256652896,Wban_VDM20947.1:0.0068945822)100:0.0441045519,Lloa_XP_003137186.1:0.0835266794)93:0.0090077779,Avit_KAL3985446.1:0.0475302855)71:0.0035308278,Lsig_VDK83062.1:0.0442988394)71:0.0046655113,Eela_EEL_0000867101-mRNA-1:0.0611588034)79:0.0155062715,Ovol_OVOC6760:0.0596613529)100:0.4600653319)90:0.0969357192)100:0.2591988133,Scar_TKR87274.1:0.6062439099)100:0.1656979833,((Psp.PS1159_PS1159_v2.g18770.t2:0.4924637530,Ddip_jg16273:0.6967415353)99:0.1633137177,Srat_XP_024502120.1:0.8712052272)84:0.0787524427)88:0.0729097723,(((Angcan_KAE9415335.1:0.2771938043,((Hcon_XGW03132.1:0.0000022132,Hcon_XGW03133.1:0.0000010005)100:0.1730004069,Hpol_VDO19089.1:0.2210791593)97:0.0299312997)100:0.2190803850,Otip_Oti_9578_t:0.6476763625)84:0.0811325766,((Diplco_DCO_010680:0.0062156397,Diplco_DCO_010679:0.0159189512)100:0.5675117383,(Mbel_CAJ0946548.1:0.4539115816,(Mjap_MIJAPON000011939.t1:0.4040660321,Priarc_PARCANUS000005538.t1:0.3936584468)100:0.2382491628)99:0.1605663895)76:0.0499903136)93:0.0782190861)100:0.5926167495,((((Apla_XP_022108582.1:0.1652720304,(Apla_XP_022089033.1:0.0000010005,Apla_XP_022089032.1:0.0000010005)100:0.2367226282)100:0.1518170852,Apla_XP_022112034.1:0.2708219079)96:0.0769430548,((Apla_XP_022086010.1:0.0000010005,Apla_XP_022086008.1:0.0000010005)100:0.1119868966,((Apla_XP_022086012.1:0.0585929057,Apla_XP_022086011.1:0.0346375870)100:0.3412116661,Apla_XP_022086117.1:0.2149147632)98:0.0406918135)100:0.2033438821)100:0.4447750237,(((Avag_UJR32047.1:0.3412883832,Avag_UJR06638.1:0.3638269577)100:0.4146881523,Emue_Em0005g1218a:0.7125083245)97:0.1510192001,((((Crei_XP_001696473.1:0.0000028141,(Crei_XP_042921653.1:0.0000024179,Crei_XP_042921654.1:0.0038639961)100:0.0572564784)100:0.3557719105,Sros_XP_004998163.1:0.5343127247)91:0.0602908774,Lpol_XP_013778849.1:0.4421616612)95:0.1118657415,Cint_XP_009861905.1:1.5349690475)100:0.3647055247)100:0.2633659704)100:0.8446882902)100:0.5652076865)88:0.1226806436)94:0.0954547759)94:0.1372722028)22:0.0248741553)51:0.0406179675,Srat_XP_024498908.1:0.5296294651)93:0.0848619846,((Priarc_PARCANUS000006010.t1:0.1588348834,Mjap_MIJAPON000007607.t1:0.1950567094)97:0.1107610608,Mjap_MIJAPON000002865.t1:0.5900215840)99:0.1559596800)90:0.0659608327)66:0.0463570007)66:0.0431692568)100:0.0913671474);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -32589.482197
+Robinson-Foulds distance between ML tree and consensus tree: 2
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++--Acey_EYC11122.1
+|
+|     +--Hpol_VDP22938.1
+|  +--| (100)
+|  |  +--Hpol_VDP34319.1
++--| (88)
+|  +--Angcan_KAE9413271.1
+|
+|  +--Otip_Oti_5420_t
++--| (100)
+   |     +--Mbel_CAJ0920873.1
+   |  +--| (100)
+   |  |  +--Mbel_CAJ0952274.1
+   +--| (66)
+      |     +--Cele_NP_500884.2
+      |  +--| (71)
+      |  |  |    +--Diplco_DCO_010369
+      |  |  +----| (100)
+      |  |       +--Diplco_DCO_010370
+      +--| (66)
+         |              +--Scar_TMS37940.1
+         |           +--| (100)
+         |           |  +--Scar_TMS37939.1
+         |        +--| (24)
+         |        |  |        +--Psp.PS1159_PS1159_v2.g20593.t1
+         |        |  |     +--| (99)
+         |        |  |     |  |     +--Psp.PS1159_PS1159_v2.g324.t1
+         |        |  |     |  |  +--| (100)
+         |        |  |     |  |  |  +--Psp.PS1159_PS1159_v2.g389.t1
+         |        |  |     |  +--| (100)
+         |        |  |     |     +--Psp.PS1159_PS1159_v2.g12507.t1
+         |        |  |  +--| (93)
+         |        |  |  |  +--Bxyl_CAG9116087.1
+         |        |  +--| (76)
+         |        |     |  +--Gpal_Gpal_D383_g05629.t1
+         |        |     +--| (100)
+         |        |        +---Mhap_MhA1_Contig2460.frz3.gene1
+         |     +--| (51)
+         |     |  |        +--Asuu_AgR038_g055_t01
+         |     |  |     +--| (73)
+         |     |  |     |  +--Asuu_AgR038_g055_t02
+         |     |  |  +--| (100)
+         |     |  |  |  +--Asuu_AgR038_g055_t03
+         |     |  +--| (94)
+         |     |     |     +--Sypmur_SMUV_0000445101-mRNA-1
+         |     |     |  +--| (100)
+         |     |     |  |  +----Ever_VDD93554.1
+         |     |     +--| (94)
+         |     |        |      +--Eela_EEL_0000621601-mRNA-1
+         |     |        |  +---| (100)
+         |     |        |  |   |           +--Bmal_XP_042938154.1
+         |     |        |  |   |        +--| (100)
+         |     |        |  |   |        |  |  +--Bmal_XP_042938156.1
+         |     |        |  |   |        |  +--| (100)
+         |     |        |  |   |        |     +--Bmal_XP_042938155.1
+         |     |        |  |   |     +--| (100)
+         |     |        |  |   |     |  +--Wban_VDM09569.1
+         |     |        |  |   |  +--| (56)
+         |     |        |  |   |  |  |  +--Avit_KAL3985987.1
+         |     |        |  |   |  |  +--| (54)
+         |     |        |  |   |  |     |  +--Ovol_OVOC7418
+         |     |        |  |   |  |     +--| (98)
+         |     |        |  |   |  |        +--Dimm_MCP9257078.1
+         |     |        |  |   +--| (57)
+         |     |        |  |      +--Lloa_XP_020302510.1
+         |     |        +--| (88)
+         |     |           |                          +--Sypmur_SMUV_0000857501-mRNA-1
+         |     |           |                       +--| (100)
+         |     |           |                       |  +--Ever_VDD96702.1
+         |     |           |                    +--| (100)
+         |     |           |                    |  |  +--Asuu_AgR041_g085_t02
+         |     |           |                    |  +--| (90)
+         |     |           |                    |     |                    +--Bmal_XP_001901860.1
+         |     |           |                    |     |                 +--| (100)
+         |     |           |                    |     |                 |  +--Wban_VDM20947.1
+         |     |           |                    |     |              +--| (93)
+         |     |           |                    |     |              |  +--Lloa_XP_003137186.1
+         |     |           |                    |     |           +--| (71)
+         |     |           |                    |     |           |  +--Avit_KAL3985446.1
+         |     |           |                    |     |        +--| (71)
+         |     |           |                    |     |        |  +--Lsig_VDK83062.1
+         |     |           |                    |     |     +--| (79)
+         |     |           |                    |     |     |  +--Eela_EEL_0000867101-mRNA-1
+         |     |           |                    |     +-----| (100)
+         |     |           |                    |           +--Ovol_OVOC6760
+         |     |           |                 +--| (100)
+         |     |           |                 |  +-------Scar_TKR87274.1
+         |     |           |              +--| (88)
+         |     |           |              |  |     +-----Psp.PS1159_PS1159_v2.g18770.t2
+         |     |           |              |  |  +--| (99)
+         |     |           |              |  |  |  +--------Ddip_jg16273
+         |     |           |              |  +--| (84)
+         |     |           |              |     +-----------Srat_XP_024502120.1
+         |     |           |      +-------| (100)
+         |     |           |      |       |        +--Angcan_KAE9415335.1
+         |     |           |      |       |     +--| (100)
+         |     |           |      |       |     |  |     +--Hcon_XGW03132.1
+         |     |           |      |       |     |  |  +--| (100)
+         |     |           |      |       |     |  |  |  +--Hcon_XGW03133.1
+         |     |           |      |       |     |  +--| (97)
+         |     |           |      |       |     |     +--Hpol_VDO19089.1
+         |     |           |      |       |  +--| (84)
+         |     |           |      |       |  |  +--------Otip_Oti_9578_t
+         |     |           |      |       +--| (93)
+         |     |           |      |          |         +--Diplco_DCO_010680
+         |     |           |      |          |  +------| (100)
+         |     |           |      |          |  |      +--Diplco_DCO_010679
+         |     |           |      |          +--| (76)
+         |     |           |      |             |  +-----Mbel_CAJ0946548.1
+         |     |           |      |             +--| (99)
+         |     |           |      |                |  +----Mjap_MIJAPON000011939.t1
+         |     |           |      |                +--| (100)
+         |     |           |      |                   +----Priarc_PARCANUS000005538.t1
+         |     |           +------| (100)
+         |     |                  |                      +--Apla_XP_022108582.1
+         |     |                  |                   +--| (100)
+         |     |                  |                   |  |  +--Apla_XP_022089033.1
+         |     |                  |                   |  +--| (100)
+         |     |                  |                   |     +--Apla_XP_022089032.1
+         |     |                  |                +--| (96)
+         |     |                  |                |  +--Apla_XP_022112034.1
+         |     |                  |          +-----| (100)
+         |     |                  |          |     |     +--Apla_XP_022086010.1
+         |     |                  |          |     |  +--| (100)
+         |     |                  |          |     |  |  +--Apla_XP_022086008.1
+         |     |                  |          |     +--| (100)
+         |     |                  |          |        |      +--Apla_XP_022086012.1
+         |     |                  |          |        |  +---| (100)
+         |     |                  |          |        |  |   +--Apla_XP_022086011.1
+         |     |                  |          |        +--| (98)
+         |     |                  |          |           +--Apla_XP_022086117.1
+         |     |                  +----------| (100)
+         |     |                             |          +---Avag_UJR32047.1
+         |     |                             |     +----| (100)
+         |     |                             |     |    +----Avag_UJR06638.1
+         |     |                             |  +--| (97)
+         |     |                             |  |  +--------Emue_Em0005g1218a
+         |     |                             +--| (100)
+         |     |                                |              +--Crei_XP_001696473.1
+         |     |                                |          +---| (100)
+         |     |                                |          |   |  +--Crei_XP_042921653.1
+         |     |                                |          |   +--| (100)
+         |     |                                |          |      +--Crei_XP_042921654.1
+         |     |                                |       +--| (91)
+         |     |                                |       |  +------Sros_XP_004998163.1
+         |     |                                |    +--| (95)
+         |     |                                |    |  +-----Lpol_XP_013778849.1
+         |     |                                +----| (100)
+         |     |                                     +--------------------Cint_XP_009861905.1
+         |  +--| (93)
+         |  |  +------Srat_XP_024498908.1
+         +--| (90)
+            |     +--Priarc_PARCANUS000006010.t1
+            |  +--| (97)
+            |  |  +--Mjap_MIJAPON000007607.t1
+            +--| (99)
+               +-------Mjap_MIJAPON000002865.t1
+
+
+Consensus tree in newick format: 
+
+(Acey_EYC11122.1:0.0585260339,((Hpol_VDP22938.1:0.0041056694,Hpol_VDP34319.1:0.0050365584)100:0.0710948181,Angcan_KAE9413271.1:0.2709588549)88:0.0204387611,(Otip_Oti_5420_t:0.1619364241,((Mbel_CAJ0920873.1:0.0000020539,Mbel_CAJ0952274.1:0.0000020539)100:0.2144781505,((Cele_NP_500884.2:0.1580603814,(Diplco_DCO_010369:0.0000020539,Diplco_DCO_010370:0.0048752975)100:0.3990490355)71:0.0659169912,(((((Scar_TMS37940.1:0.0000020539,Scar_TMS37939.1:0.0000020691)100:0.2622755605,(((Psp.PS1159_PS1159_v2.g20593.t1:0.0917089595,((Psp.PS1159_PS1159_v2.g324.t1:0.0854944368,Psp.PS1159_PS1159_v2.g389.t1:0.0446553707)100:0.0381376321,Psp.PS1159_PS1159_v2.g12507.t1:0.0325966114)100:0.1623362313)99:0.0851663610,Bxyl_CAG9116087.1:0.2630381886)93:0.0414268818,(Gpal_Gpal_D383_g05629.t1:0.2715758285,Mhap_MhA1_Contig2460.frz3.gene1:0.3101715159)100:0.1354818529)76:0.0369669697)24:0.0203327354,(((Asuu_AgR038_g055_t01:0.0000020539,Asuu_AgR038_g055_t02:0.0000025972)73:0.0000022049,Asuu_AgR038_g055_t03:0.0160792286)100:0.2425151039,((Sypmur_SMUV_0000445101-mRNA-1:0.2724730365,Ever_VDD93554.1:0.4074748910)100:0.1253537935,((Eela_EEL_0000621601-mRNA-1:0.0586545572,((((Bmal_XP_042938154.1:0.0000020562,(Bmal_XP_042938156.1:0.0000020539,Bmal_XP_042938155.1:0.0000020539)100:0.0079393068)100:0.0554311383,Wban_VDM09569.1:0.0172990682)100:0.0720100264,(Avit_KAL3985987.1:0.1159568008,(Ovol_OVOC7418:0.0899992889,Dimm_MCP9257078.1:0.1202421817)98:0.0721756907)54:0.0191777076)56:0.0229998814,Lloa_XP_020302510.1:0.1088172939)57:0.0265617580)100:0.3139032401,((((((Sypmur_SMUV_0000857501-mRNA-1:0.1582239450,Ever_VDD96702.1:0.2236327358)100:0.1866392884,(Asuu_AgR041_g085_t02:0.2538888875,((((((Bmal_XP_001901860.1:0.0257494994,Wban_VDM20947.1:0.0069174324)100:0.0442483256,Lloa_XP_003137186.1:0.0837990128)93:0.0090389700,Avit_KAL3985446.1:0.0476779482)71:0.0035525688,Lsig_VDK83062.1:0.0444174304)71:0.0046782725,Eela_EEL_0000867101-mRNA-1:0.0613655342)79:0.0155364764,Ovol_OVOC6760:0.0598730467)100:0.4617149435)90:0.0974412582)100:0.2599803599,Scar_TKR87274.1:0.6090296271)100:0.1660535756,((Psp.PS1159_PS1159_v2.g18770.t2:0.4943642548,Ddip_jg16273:0.7002113395)99:0.1642097988,Srat_XP_024502120.1:0.8751640538)84:0.0788369989)88:0.0731180459,(((Angcan_KAE9415335.1:0.2782119282,((Hcon_XGW03132.1:0.0000020539,Hcon_XGW03133.1:0.0000020539)100:0.1736388438,Hpol_VDO19089.1:0.2217180366)97:0.0300477312)100:0.2200578396,Otip_Oti_9578_t:0.6500679306)84:0.0813696714,((Diplco_DCO_010680:0.0062600992,Diplco_DCO_010679:0.0159568779)100:0.5693666994,(Mbel_CAJ0946548.1:0.4557079429,(Mjap_MIJAPON000011939.t1:0.4055053003,Priarc_PARCANUS000005538.t1:0.3955900267)100:0.2389918549)99:0.1612006142)76:0.0504275149)93:0.0785856136)100:0.5954298652,((((Apla_XP_022108582.1:0.1657873123,(Apla_XP_022089033.1:0.0000020539,Apla_XP_022089032.1:0.0000020539)100:0.2374898771)100:0.1521767209,Apla_XP_022112034.1:0.2718688668)96:0.0773024440,((Apla_XP_022086010.1:0.0000020539,Apla_XP_022086008.1:0.0000020539)100:0.1122532144,((Apla_XP_022086012.1:0.0587505696,Apla_XP_022086011.1:0.0347758192)100:0.3423013276,Apla_XP_022086117.1:0.2157293902)98:0.0408339001)100:0.2040574144)100:0.4468370114,(((Avag_UJR32047.1:0.3426989248,Avag_UJR06638.1:0.3650332701)100:0.4163183513,Emue_Em0005g1218a:0.7158827415)97:0.1514449387,((((Crei_XP_001696473.1:0.0000029675,(Crei_XP_042921653.1:0.0000024557,Crei_XP_042921654.1:0.0038762457)100:0.0574591608)100:0.3571001993,Sros_XP_004998163.1:0.5360938909)91:0.0604586365,Lpol_XP_013778849.1:0.4438211410)95:0.1122115869,Cint_XP_009861905.1:1.5406028558)100:0.3653756016)100:0.2642446356)100:0.8478456815)100:0.5664557906)88:0.1241172224)94:0.0931965093)94:0.1430027368)51:0.0427138835,Srat_XP_024498908.1:0.5261666395)93:0.0882105976,((Priarc_PARCANUS000006010.t1:0.1585861488,Mjap_MIJAPON000007607.t1:0.1963805152)97:0.1127642276,Mjap_MIJAPON000002865.t1:0.5911349742)99:0.1585626297)90:0.0661313707)66:0.0455482132)66:0.0434715797)100:0.0898524399);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t /Volumes/IlHwan5TB/ncbi_datasets/analysis/alignments//Rep.AOD.HG16.seqs.iqtree.treefile -m "LG+F+I{0.0591837}+G4{1.39265}" --length 464
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s /Volumes/IlHwan5TB/ncbi_datasets/analysis/alignments//Rep.AOD.HG16.seqs.lt.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s /Volumes/IlHwan5TB/ncbi_datasets/analysis/alignments//Rep.AOD.HG16.seqs.lt.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Sat Mar 21 11:18:57 2026
+Total CPU time used: 908.484184 seconds (0h:15m:8s)
+Total wall-clock time used: 133.085803 seconds (0h:2m:13s)
+

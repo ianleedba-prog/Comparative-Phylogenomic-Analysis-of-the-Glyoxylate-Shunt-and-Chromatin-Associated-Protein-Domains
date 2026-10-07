@@ -1,0 +1,195 @@
+IQ-TREE 2.4.0 built Feb 12 2025
+
+Input file name: /Volumes/IlHwan5TB/ncbi_datasets/analysis/alignments//Rep.AOD.HG23.seqs.lt.fasta
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 681998
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 13 sequences with 427 amino-acid sites
+Number of constant sites: 38 (= 8.8993% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 38 (= 8.8993% of all sites)
+Number of parsimony informative sites: 389
+Number of distinct site patterns: 416
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: LG+I+G4
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+LG+I+G4           -9053.264   18156.529 +    0.973   18159.771 +    0.999   18257.948 +        1
+WAG+I+G4          -9062.027   18174.054 - 0.000152   18177.296 - 0.000156   18275.474 - 0.000156
+LG+G4             -9067.076   18182.151 - 2.66e-06   18185.136 -  3.1e-06   18279.514 - 2.07e-05
+LG+F+I+G4         -9037.860   18163.719 -   0.0267   18174.086 - 0.000778   18342.218 - 5.02e-19
+JTT+I+G4          -9095.767   18241.534 - 3.39e-19   18244.775 - 3.48e-19   18342.953 - 3.48e-19
+WAG+F+I+G4        -9044.469   18176.939 -  3.6e-05   18187.305 - 1.05e-06   18355.437 - 6.77e-22
+LG+I              -9128.722   18305.445 - 4.48e-33   18308.430 - 5.23e-33   18402.808 -  3.5e-32
+JTT+F+I+G4        -9077.629   18243.259 - 1.43e-19   18253.625 - 4.16e-21   18421.757 - 2.69e-36
+LG                -9212.408   18470.816 - 5.52e-69   18473.555 - 7.28e-69   18564.122 - 3.27e-67
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG+I+G4
+
+State frequencies: (model)
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.0607
+Gamma shape alpha: 2.5409
+
+ Category  Relative_rate  Proportion
+  0         0              0.0607
+  1         0.3729         0.2348
+  2         0.7478         0.2348
+  3         1.1488         0.2348
+  4         1.9889         0.2348
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -9049.7381 (s.e. 158.9994)
+Unconstrained log-likelihood (without tree): -2567.9723
+Number of free parameters (#branches + #model parameters): 25
+Akaike information criterion (AIC) score: 18149.4762
+Corrected Akaike information criterion (AICc) score: 18152.7181
+Bayesian information criterion (BIC) score: 18250.8958
+
+Total tree length (sum of branch lengths): 10.0626
+Sum of internal branch lengths: 3.6683 (36.4544% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Avag_UJR17156.1' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++------Avag_UJR17156.1
+|
++---Avag_UJR18114.1
+|
+|                                       +------Hduj_OQV25469.1
+|                                   +---| (93)
+|                                   |   +---------------Hduj_OWA51242.1
+|                              +----| (95)
+|                              |    |     +-----------Hduj_OWA50772.1
+|                              |    |  +--| (61)
+|                              |    |  |  +----------Hduj_OQV16299.1
+|                              |    +--| (51)
+|                              |       +--------------Hduj_OWA50753.1
+|                          +---| (86)
+|                          |   +--------------Avag_UJR18945.1
+|                 +--------| (97)
+|                 |        |                   +--Rvar_GAU95025.1
+|                 |        |              +----| (95)
+|                 |        |              |    |         +**Rvar_GAU91626.1
+|                 |        |              |    +---------| (100)
+|                 |        |              |              +--Rvar_GAU91627.1
+|                 |        +--------------| (100)
+|                 |                       +-----Rvar_GAU91628.1
++-----------------| (100)
+                  +---------------------------------Cowc_XP_004349024.1
+
+Tree in newick format:
+
+(Avag_UJR17156.1:0.3507326917,Avag_UJR18114.1:0.2146474420,(((((Hduj_OQV25469.1:0.3417907548,Hduj_OWA51242.1:0.7912843051)93:0.2189724384,((Hduj_OWA50772.1:0.5693637769,Hduj_OQV16299.1:0.5327333729)61:0.1106062566,Hduj_OWA50753.1:0.7473883756)51:0.1013834937)95:0.2464718719,Avag_UJR18945.1:0.7431568907)86:0.1888260843,((Rvar_GAU95025.1:0.1736288887,(Rvar_GAU91626.1:0.0000010000,Rvar_GAU91627.1:0.0228261133)100:0.4951321394)95:0.2743356576,Rvar_GAU91628.1:0.2835004691)100:0.7250494215)97:0.4349616679,Cowc_XP_004349024.1:1.6232658965)100:0.8725174611);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -9049.738321
+Robinson-Foulds distance between ML tree and consensus tree: 0
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++------Avag_UJR17156.1
+|
++---Avag_UJR18114.1
+|
+|                                       +------Hduj_OQV25469.1
+|                                   +---| (93)
+|                                   |   +---------------Hduj_OWA51242.1
+|                              +----| (95)
+|                              |    |     +-----------Hduj_OWA50772.1
+|                              |    |  +--| (61)
+|                              |    |  |  +----------Hduj_OQV16299.1
+|                              |    +--| (51)
+|                              |       +--------------Hduj_OWA50753.1
+|                          +---| (86)
+|                          |   +--------------Avag_UJR18945.1
+|                 +--------| (97)
+|                 |        |                   +--Rvar_GAU95025.1
+|                 |        |              +----| (95)
+|                 |        |              |    |         +--Rvar_GAU91626.1
+|                 |        |              |    +---------| (100)
+|                 |        |              |              +--Rvar_GAU91627.1
+|                 |        +--------------| (100)
+|                 |                       +-----Rvar_GAU91628.1
++-----------------| (100)
+                  +---------------------------------Cowc_XP_004349024.1
+
+
+Consensus tree in newick format: 
+
+(Avag_UJR17156.1:0.3506585708,Avag_UJR18114.1:0.2146613686,(((((Hduj_OQV25469.1:0.3417671530,Hduj_OWA51242.1:0.7911473406)93:0.2189407871,((Hduj_OWA50772.1:0.5692627939,Hduj_OQV16299.1:0.5326228122)61:0.1106265111,Hduj_OWA50753.1:0.7472452164)51:0.1013657944)95:0.2465071883,Avag_UJR18945.1:0.7430460275)86:0.1888016599,((Rvar_GAU95025.1:0.1737301989,(Rvar_GAU91626.1:0.0000024810,Rvar_GAU91627.1:0.0228246017)100:0.4950330221)95:0.2740822762,Rvar_GAU91628.1:0.2836190041)100:0.7251996409)97:0.4351270509,Cowc_XP_004349024.1:1.6231041008)100:0.8723380370);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t /Volumes/IlHwan5TB/ncbi_datasets/analysis/alignments//Rep.AOD.HG23.seqs.iqtree.treefile -m "LG+I{0.0606861}+G4{2.54089}" --length 427
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s /Volumes/IlHwan5TB/ncbi_datasets/analysis/alignments//Rep.AOD.HG23.seqs.lt.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s /Volumes/IlHwan5TB/ncbi_datasets/analysis/alignments//Rep.AOD.HG23.seqs.lt.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Sat Mar 21 11:29:35 2026
+Total CPU time used: 164.541866 seconds (0h:2m:44s)
+Total wall-clock time used: 38.26170301 seconds (0h:0m:38s)
+

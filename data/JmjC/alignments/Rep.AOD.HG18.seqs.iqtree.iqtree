@@ -1,0 +1,379 @@
+IQ-TREE 2.4.0 built Feb 12 2025
+
+Input file name: /Volumes/IlHwan5TB/ncbi_datasets/analysis/alignments//Rep.AOD.HG18.seqs.lt.fasta
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 406921
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 59 sequences with 335 amino-acid sites
+Number of constant sites: 11 (= 3.28358% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 11 (= 3.28358% of all sites)
+Number of parsimony informative sites: 324
+Number of distinct site patterns: 335
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: LG+I+G4
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+LG+I+G4          -16070.853   32359.707 +    0.562   32466.285 +    0.996   32775.447 +    0.993
+LG+G4            -16078.664   32373.328 -  0.00062   32477.505 -  0.00365   32785.254 -  0.00737
+LG+F+I+G4        -16052.106   32360.213 +    0.437   32520.523 - 1.66e-12   32848.421 - 1.41e-16
+LG+F+G4          -16060.429   32374.857 - 0.000289   32531.920 - 5.57e-15   32859.252 - 6.29e-19
+WAG+I+G4         -16144.201   32506.402 - 7.86e-33   32612.979 - 1.39e-32   32922.142 - 1.39e-32
+WAG+G4           -16153.577   32523.154 - 1.81e-36   32627.331 - 1.07e-35   32935.080 - 2.15e-35
+WAG+F+I+G4       -16115.997   32487.995 - 7.81e-29   32648.305 - 2.97e-40   32976.203 - 2.53e-44
+WAG+F+G4         -16125.137   32504.274 - 2.28e-32   32661.337 -  4.4e-43   32988.669 - 4.97e-47
+JTT+I+G4         -16290.498   32798.995 - 2.29e-96   32905.573 - 4.06e-96   33214.735 - 4.04e-96
+JTT+G4           -16300.636   32817.272 - 2.46e-100   32921.449 - 1.45e-99   33229.198 - 2.92e-99
+JTT+F+I+G4       -16267.630   32791.259 -  1.1e-94   32951.570 - 4.17e-106   33279.468 - 3.55e-110
+JTT+F+G4         -16277.859   32809.718 - 1.07e-98   32966.781 - 2.08e-109   33294.113 - 2.34e-113
+LG+I             -16472.852   33161.704 - 3.97e-175   33265.881 - 2.33e-174   33573.630 - 4.72e-174
+LG               -16549.863   33313.726 - 3.87e-208   33415.541 - 7.42e-207   33721.838 - 3.1e-206
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG+I+G4
+
+State frequencies: (model)
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.0233
+Gamma shape alpha: 1.7725
+
+ Category  Relative_rate  Proportion
+  0         0              0.0233
+  1         0.2708         0.2442
+  2         0.6434         0.2442
+  3         1.0884         0.2442
+  4         2.0926         0.2442
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -16058.6272 (s.e. 344.5541)
+Unconstrained log-likelihood (without tree): -1947.7337
+Number of free parameters (#branches + #model parameters): 109
+Akaike information criterion (AIC) score: 32335.2543
+Corrected Akaike information criterion (AICc) score: 32441.8321
+Bayesian information criterion (BIC) score: 32750.9945
+
+Total tree length (sum of branch lengths): 19.2752
+Sum of internal branch lengths: 5.9055 (30.6375% of tree length)
+
+WARNING: 10 near-zero internal branches (<0.0030) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Apla_XP_022112095.1' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++----------Apla_XP_022112095.1
+|
+|               +**Spur_XP_011662385.2
+|            +**| (81)
+|            |  +**Spur_XP_030835840.1
++------------| (100)
+|            |  +--Spur_XP_030835841.1
+|            +--| (100)
+|               +--Spur_XP_011662386.2
+|
+|                              +**Lana_XP_013398785.1
+|                    +---------| (100)
+|                    |         +**Lana_XP_013398792.1
+|                 +--| (52)
+|                 |  |          +**Blan_XP_066304972.1
+|                 |  +----------| (100)
+|                 |             +--Blan_XP_066304971.1
+|              +--| (32)
+|              |  |               +--Drer_XP_005169511.1
+|              |  |        +------| (100)
+|              |  |        |      +**Drer_NP_001002607.1
+|              |  |     +--| (67)
+|              |  |     |  |      +--Xtro_NP_001090791.1
+|              |  |     |  +------| (100)
+|              |  |     |         +**Xtro_XP_012821281.2
+|              |  +-----| (64)
+|              |        |                 +**Hsap_NP_001026879.2
+|              |        |              +**| (91)
+|              |        |              |  +**Hsap_XP_005270005.1
+|              |        |           +--| (30)
+|              |        |           |  +**Hsap_XP_016871870.1
+|              |        |  +--------| (100)
+|              |        |  |        |     +--Hsap_XP_047281391.1
+|              |        |  |        |  +--| (81)
+|              |        |  |        |  |  |     +**Hsap_NP_060833.1
+|              |        |  |        |  |  |  +**| (31)
+|              |        |  |        |  |  |  |  +**Hsap_XP_016871871.1
+|              |        |  |        |  |  +--| (86)
+|              |        |  |        |  |     +**Hsap_XP_011538226.1
+|              |        |  |        +--| (42)
+|              |        |  |           |     +**Hsap_XP_011538229.1
+|              |        |  |           |  +--| (92)
+|              |        |  |           |  |  +**Hsap_XP_047281392.1
+|              |        |  |           +--| (78)
+|              |        |  |              |  +**Hsap_XP_005270006.1
+|              |        |  |              +--| (100)
+|              |        |  |                 |  +**Hsap_XP_005270004.1
+|              |        |  |                 +**| (71)
+|              |        |  |                    +**Hsap_XP_016871873.1
+|              |        +--| (47)
+|              |           |        +--Ggal_NP_001382922.1
+|              |           |  +-----| (100)
+|              |           |  |     |  +**Ggal_XP_015134165.1
+|              |           |  |     +--| (75)
+|              |           |  |        |  +**Ggal_XP_015134162.2
+|              |           |  |        +**| (84)
+|              |           |  |           +--Ggal_XP_040558315.1
+|              |           +--| (56)
+|              |              +--------------------------------------Tadh_XP_002112158.1
+|           +--| (32)
+|           |  +-------------------Cvir_XP_022319410.1
+|        +--| (43)
+|        |  |                    +**Lpol_XP_013784782.1
+|        |  |                 +**| (62)
+|        |  |                 |  +**Lpol_XP_022252949.1
+|        |  |    +------------| (100)
+|        |  |    |            +**Lpol_XP_022252951.1
+|        |  +----| (94)
+|        |       +------------------------Smar_SMAR002898-PA
+|     +--| (31)
+|     |  |                          +**Pvan_XP_027235532.1
+|     |  |                       +**| (90)
+|     |  |                       |  +**Pvan_XP_027235533.1
+|     |  |                    +**| (74)
+|     |  |                    |  +**Pvan_XP_069982539.1
+|     |  |                 +**| (91)
+|     |  |                 |  +**Pvan_XP_027235531.2
+|     |  |              +**| (51)
+|     |  |              |  +**Pvan_XP_027235536.2
+|     |  |  +-----------| (100)
+|     |  |  |           +--Pvan_XP_027235535.2
+|     |  +--| (43)
+|     |     |                   +**Dpul_XP_046453247.1
+|     |     |  +----------------| (100)
+|     |     |  |                +**Dpul_XP_046453248.1
+|     |     +--| (45)
+|     |        |      +-----------------------------Smed_h1SMcT0006877.2
+|     |        +------| (92)
+|     |               +-----------------------------Mlei_ML009013a-PA
+|  +--| (95)
+|  |  |  +-------------Ofus_CAH1795511.1
+|  |  +--| (31)
+|  |     |     +------------Aplcal_XP_005107682.1
+|  |     |  +--| (40)
+|  |     |  |  |                  +------------Rvar_GAU98935.1
+|  |     |  |  +------------------| (100)
+|  |     |  |                     +------------Hduj_OQV22619.1
+|  |     +--| (44)
+|  |        |  +-------------------Obim_XP_052833789.1
+|  |        +--| (44)
+|  |           |             +-----Twil_T_wilhelma_c31624_g2_i1|m.42876
+|  |           |        +----| (99)
+|  |           |        |    +----------Twil_T_wilhelma_c2458_g1_i1|m.373
+|  |           +--------| (100)
+|  |                    |  +-----------------Emue_Em0015g774a
+|  |                    +--| (96)
+|  |                       +-------------------Aque_XP_003387139.1
++--| (92)
+   +-----------------Skow_XP_006819898.1
+
+Tree in newick format:
+
+(Apla_XP_022112095.1:0.4235636658,((Spur_XP_011662385.2:0.0000010001,Spur_XP_030835840.1:0.0000010001)81:0.0000021273,(Spur_XP_030835841.1:0.0062748990,Spur_XP_011662386.2:0.0041204762)100:0.0257825389)100:0.5063510983,((((((((Lana_XP_013398785.1:0.0000010001,Lana_XP_013398792.1:0.0000010001)100:0.3987015664,(Blan_XP_066304972.1:0.0000022121,Blan_XP_066304971.1:0.0508086604)100:0.4423413197)52:0.0512427527,(((Drer_XP_005169511.1:0.0058010989,Drer_NP_001002607.1:0.0000022475)100:0.2878038439,(Xtro_NP_001090791.1:0.0033643737,Xtro_XP_012821281.2:0.0025167663)100:0.2892021946)67:0.0219157343,((((Hsap_NP_001026879.2:0.0000010001,Hsap_XP_005270005.1:0.0000010001)91:0.0000026089,Hsap_XP_016871870.1:0.0000010001)30:0.0033401700,((Hsap_XP_047281391.1:0.0117214817,((Hsap_NP_060833.1:0.0000010001,Hsap_XP_016871871.1:0.0000021420)31:0.0000021981,Hsap_XP_011538226.1:0.0000010001)86:0.0062155615)81:0.0305723335,((Hsap_XP_011538229.1:0.0000024547,Hsap_XP_047281392.1:0.0000022729)92:0.0030270690,(Hsap_XP_005270006.1:0.0000021253,(Hsap_XP_005270004.1:0.0000010001,Hsap_XP_016871873.1:0.0000010001)71:0.0000024508)100:0.1215476181)78:0.0115245255)42:0.0167599230)100:0.3392847640,((Ggal_NP_001382922.1:0.0174740459,(Ggal_XP_015134165.1:0.0000010001,(Ggal_XP_015134162.2:0.0000010001,Ggal_XP_040558315.1:0.0069596941)84:0.0000021671)75:0.0775660195)100:0.2496074567,Tadh_XP_002112158.1:1.4918860362)56:0.0722437676)47:0.0400024651)64:0.2604496544)32:0.0508836773,Cvir_XP_022319410.1:0.7492774290)32:0.0156792317,(((Lpol_XP_013784782.1:0.0000010001,Lpol_XP_022252949.1:0.0000010001)62:0.0000010001,Lpol_XP_022252951.1:0.0000010001)100:0.5154970167,Smar_SMAR002898-PA:0.9470770940)94:0.1892787415)43:0.0434885896,((((((Pvan_XP_027235532.1:0.0000010001,Pvan_XP_027235533.1:0.0000010001)90:0.0000010001,Pvan_XP_069982539.1:0.0000010001)74:0.0000010001,Pvan_XP_027235531.2:0.0000010001)91:0.0000022744,Pvan_XP_027235536.2:0.0000010001)51:0.0000023659,Pvan_XP_027235535.2:0.0057117282)100:0.4825542588,((Dpul_XP_046453247.1:0.0000020812,Dpul_XP_046453248.1:0.0000021276)100:0.6674295533,(Smed_h1SMcT0006877.2:1.1254585420,Mlei_ML009013a-PA:1.1524372666)92:0.2924062075)45:0.0767179550)43:0.1163706088)31:0.0385905819,(Ofus_CAH1795511.1:0.5561610531,((Aplcal_XP_005107682.1:0.5205938892,(Rvar_GAU98935.1:0.4899153170,Hduj_OQV22619.1:0.5006941867)100:0.7164423548)40:0.0836681889,(Obim_XP_052833789.1:0.7633046962,((Twil_T_wilhelma_c31624_g2_i1|m.42876:0.2594394032,Twil_T_wilhelma_c2458_g1_i1|m.373:0.4324586603)99:0.2206392385,(Emue_Em0015g774a:0.6991215675,Aque_XP_003387139.1:0.7550391158)96:0.1097316717)100:0.3439177677)44:0.0832461015)44:0.0631438807)31:0.0310726285)95:0.1306763040,Skow_XP_006819898.1:0.6727663788)92:0.0942902745);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -16058.772610
+Robinson-Foulds distance between ML tree and consensus tree: 4
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++----------Apla_XP_022112095.1
+|
+|               +--Spur_XP_011662385.2
+|            +--| (81)
+|            |  +--Spur_XP_030835840.1
++------------| (100)
+|            |  +--Spur_XP_030835841.1
+|            +--| (100)
+|               +--Spur_XP_011662386.2
+|
+|                                    +**Lana_XP_013398785.1
+|                                 +**|
+|                                 |  +**Lana_XP_013398800.1
+|                              +--|
+|                              |  +**Lana_XP_013398806.1
+|                    +---------| (100)
+|                    |         +--Lana_XP_013398792.1
+|                 +--| (52)
+|                 |  |          +--Blan_XP_066304972.1
+|                 |  +----------| (100)
+|                 |             +--Blan_XP_066304971.1
+|              +--| (32)
+|              |  |               +--Drer_XP_005169511.1
+|              |  |        +------| (100)
+|              |  |        |      +--Drer_NP_001002607.1
+|              |  |     +--| (67)
+|              |  |     |  |      +--Xtro_NP_001090791.1
+|              |  |     |  +------| (100)
+|              |  |     |         +--Xtro_XP_012821281.2
+|              |  +-----| (64)
+|              |        |              +--Hsap_NP_001026879.2
+|              |        |           +--| (91)
+|              |        |           |  +--Hsap_XP_005270005.1
+|              |        |  +--------| (100)
+|              |        |  |        |  +--Hsap_XP_016871870.1
+|              |        |  |        +--| (65)
+|              |        |  |           |     +--Hsap_XP_047281391.1
+|              |        |  |           |  +--| (81)
+|              |        |  |           |  |  |        +**Hsap_NP_060833.1
+|              |        |  |           |  |  |     +--|
+|              |        |  |           |  |  |     |  +**Hsap_XP_016871869.1
+|              |        |  |           |  |  |  +--| (52)
+|              |        |  |           |  |  |  |  +--Hsap_XP_011538226.1
+|              |        |  |           |  |  +--| (86)
+|              |        |  |           |  |     +--Hsap_XP_016871871.1
+|              |        |  |           +--| (42)
+|              |        |  |              |     +--Hsap_XP_011538229.1
+|              |        |  |              |  +--| (92)
+|              |        |  |              |  |  +--Hsap_XP_047281392.1
+|              |        |  |              +--| (78)
+|              |        |  |                 |  +--Hsap_XP_005270006.1
+|              |        |  |                 +--| (100)
+|              |        |  |                    |  +--Hsap_XP_005270004.1
+|              |        |  |                    +--| (71)
+|              |        |  |                       +--Hsap_XP_016871873.1
+|              |        +--| (47)
+|              |           |        +--Ggal_NP_001382922.1
+|              |           |  +-----| (100)
+|              |           |  |     |  +--Ggal_XP_015134165.1
+|              |           |  |     +--| (75)
+|              |           |  |        |  +--Ggal_XP_015134162.2
+|              |           |  |        +--| (84)
+|              |           |  |           +--Ggal_XP_040558315.1
+|              |           +--| (56)
+|              |              +--------------------------------------Tadh_XP_002112158.1
+|           +--| (32)
+|           |  +-------------------Cvir_XP_022319410.1
+|        +--| (43)
+|        |  |                       +**Lpol_XP_013784782.1
+|        |  |                    +--|
+|        |  |                    |  +**Lpol_XP_022252950.1
+|        |  |                 +--| (62)
+|        |  |                 |  +--Lpol_XP_022252949.1
+|        |  |    +------------| (100)
+|        |  |    |            +--Lpol_XP_022252951.1
+|        |  +----| (94)
+|        |       +------------------------Smar_SMAR002898-PA
+|     +--| (31)
+|     |  |                          +--Pvan_XP_027235532.1
+|     |  |                       +--| (90)
+|     |  |                       |  +--Pvan_XP_027235533.1
+|     |  |                    +--| (74)
+|     |  |                    |  +--Pvan_XP_069982539.1
+|     |  |                 +--| (91)
+|     |  |                 |  +--Pvan_XP_027235531.2
+|     |  |              +--| (51)
+|     |  |              |  +--Pvan_XP_027235536.2
+|     |  |  +-----------| (100)
+|     |  |  |           +--Pvan_XP_027235535.2
+|     |  +--| (43)
+|     |     |                   +--Dpul_XP_046453247.1
+|     |     |  +----------------| (100)
+|     |     |  |                +--Dpul_XP_046453248.1
+|     |     +--| (45)
+|     |        |      +-----------------------------Smed_h1SMcT0006877.2
+|     |        +------| (92)
+|     |               +-----------------------------Mlei_ML009013a-PA
+|  +--| (95)
+|  |  |  +-------------Ofus_CAH1795511.1
+|  |  +--| (31)
+|  |     |     +------------Aplcal_XP_005107682.1
+|  |     |  +--| (40)
+|  |     |  |  |                  +------------Rvar_GAU98935.1
+|  |     |  |  +------------------| (100)
+|  |     |  |                     +------------Hduj_OQV22619.1
+|  |     +--| (44)
+|  |        |  +-------------------Obim_XP_052833789.1
+|  |        +--| (44)
+|  |           |             +-----Twil_T_wilhelma_c31624_g2_i1|m.42876
+|  |           |        +----| (99)
+|  |           |        |    +----------Twil_T_wilhelma_c2458_g1_i1|m.373
+|  |           +--------| (100)
+|  |                    |  +-----------------Emue_Em0015g774a
+|  |                    +--| (96)
+|  |                       +-------------------Aque_XP_003387139.1
++--| (92)
+   +-----------------Skow_XP_006819898.1
+
+
+Consensus tree in newick format: 
+
+(Apla_XP_022112095.1:0.4234328388,((Spur_XP_011662385.2:0.0000024607,Spur_XP_030835840.1:0.0000024607)81:0.0000022238,(Spur_XP_030835841.1:0.0062735444,Spur_XP_011662386.2:0.0041182437)100:0.0257763204)100:0.5063104011,((((((((((Lana_XP_013398785.1:0.0000000000,Lana_XP_013398800.1:0.0000000000):0.0000000000,Lana_XP_013398806.1:0.0000000000):0.0000024607,Lana_XP_013398792.1:0.0000024607)100:0.3988947887,(Blan_XP_066304972.1:0.0000024195,Blan_XP_066304971.1:0.0507944039)100:0.4417642405)52:0.0511832783,(((Drer_XP_005169511.1:0.0057995150,Drer_NP_001002607.1:0.0000024607)100:0.2876801119,(Xtro_NP_001090791.1:0.0033625013,Xtro_XP_012821281.2:0.0025157528)100:0.2891394908)67:0.0219071340,(((Hsap_NP_001026879.2:0.0000024607,Hsap_XP_005270005.1:0.0000024607)91:0.0033419208,(Hsap_XP_016871870.1:0.0000024607,((Hsap_XP_047281391.1:0.0117172294,(((Hsap_NP_060833.1:0.0000000000,Hsap_XP_016871869.1:0.0000000000):0.0000024607,Hsap_XP_011538226.1:0.0000024607)52:0.0000024607,Hsap_XP_016871871.1:0.0000024607)86:0.0062163857)81:0.0305605087,((Hsap_XP_011538229.1:0.0000024607,Hsap_XP_047281392.1:0.0000024607)92:0.0030263746,(Hsap_XP_005270006.1:0.0000024871,(Hsap_XP_005270004.1:0.0000024607,Hsap_XP_016871873.1:0.0000024607)71:0.0000020603)100:0.1215088539)78:0.0115190075)42:0.0000025180)65:0.0167489848)100:0.3391579489,((Ggal_NP_001382922.1:0.0168573180,(Ggal_XP_015134165.1:0.0000024607,(Ggal_XP_015134162.2:0.0000024607,Ggal_XP_040558315.1:0.0069564922)84:0.0772593390)75:0.0000020782)100:0.2498457452,Tadh_XP_002112158.1:1.4910696962)56:0.0722209535)47:0.0400079977)64:0.2603476080)32:0.0508576166,Cvir_XP_022319410.1:0.7492895125)32:0.0155086090,((((Lpol_XP_013784782.1:0.0000000000,Lpol_XP_022252950.1:0.0000000000):0.0000024607,Lpol_XP_022252949.1:0.0000024607)62:0.0000028684,Lpol_XP_022252951.1:0.0000024607)100:0.5152928216,Smar_SMAR002898-PA:0.9471632658)94:0.1893710003)43:0.0436182904,((((((Pvan_XP_027235532.1:0.0000024607,Pvan_XP_027235533.1:0.0000024607)90:0.0000024607,Pvan_XP_069982539.1:0.0000024607)74:0.0000024607,Pvan_XP_027235531.2:0.0000024607)91:0.0005761519,Pvan_XP_027235536.2:0.0000024607)51:0.0000024721,Pvan_XP_027235535.2:0.0050360139)100:0.4821506646,((Dpul_XP_046453247.1:0.0000024607,Dpul_XP_046453248.1:0.0000024607)100:0.6676772849,(Smed_h1SMcT0006877.2:1.1252393255,Mlei_ML009013a-PA:1.1513078741)92:0.2921692699)45:0.0766100108)43:0.1163471855)31:0.0385131625,(Ofus_CAH1795511.1:0.5559868787,((Aplcal_XP_005107682.1:0.5199344444,(Rvar_GAU98935.1:0.4900299781,Hduj_OQV22619.1:0.5003577244)100:0.7162597219)40:0.0836766887,(Obim_XP_052833789.1:0.7630852989,((Twil_T_wilhelma_c31624_g2_i1|m.42876:0.2593736357,Twil_T_wilhelma_c2458_g1_i1|m.373:0.4323397845)99:0.2205725593,(Emue_Em0015g774a:0.6989007139,Aque_XP_003387139.1:0.7548509022)96:0.1097322415)100:0.3438431794)44:0.0832476028)44:0.0630402094)31:0.0310429070)95:0.1306819146,Skow_XP_006819898.1:0.6722362150)92:0.0945233375);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t /Volumes/IlHwan5TB/ncbi_datasets/analysis/alignments//Rep.AOD.HG18.seqs.iqtree.treefile -m "LG+I{0.0232507}+G4{1.77248}" --length 335
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s /Volumes/IlHwan5TB/ncbi_datasets/analysis/alignments//Rep.AOD.HG18.seqs.lt.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s /Volumes/IlHwan5TB/ncbi_datasets/analysis/alignments//Rep.AOD.HG18.seqs.lt.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Sat Mar 21 11:23:23 2026
+Total CPU time used: 971.492186 seconds (0h:16m:11s)
+Total wall-clock time used: 155.1780651 seconds (0h:2m:35s)
+
