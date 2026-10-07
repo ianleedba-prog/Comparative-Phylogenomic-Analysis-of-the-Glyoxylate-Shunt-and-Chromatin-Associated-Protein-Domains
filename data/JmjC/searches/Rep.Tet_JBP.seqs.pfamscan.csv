@@ -1,0 +1,221 @@
+# pfam_scan.pl,  run at Thu Mar  5 21:06:27 2026
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/searches//Rep.Tet_JBP.seqs.fasta
+#     cpu number specified: 8
+#        searching against: /Users/ianlee/Desktop/Data_Figure/Supplementary_code_data/Figure_1/Data/Pfam/Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: off
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan>
+
+Agrpla_XP_025834609.1                   220    341    220    473 PF12851.13  Tet_JBP           Domain     1   108   164    125.4   1.7e-36   1 CL0029   
+Agrpla_XP_025834621.1                  1244   1806   1244   1806 PF12851.13  Tet_JBP           Domain     1   164   164    169.9   3.4e-50   1 CL0029   
+Apimel_XP_006561260.1                   330    368    328    368 PF02008.25  zf-CXXC           Domain     3    48    48     26.6     6e-06   1 No_clan  
+Apimel_XP_006561260.1                  1728   2677   1728   2677 PF12851.13  Tet_JBP           Domain     1   164   164    162.6   5.9e-48   1 CL0029   
+Apimel_XP_016770977.1                  1279   2228   1279   2228 PF12851.13  Tet_JBP           Domain     1   164   164    163.1   4.1e-48   1 CL0029   
+Apimel_XP_026300193.1                   330    368    328    368 PF02008.25  zf-CXXC           Domain     3    48    48     26.6     6e-06   1 No_clan  
+Apimel_XP_026300193.1                  1728   2677   1728   2677 PF12851.13  Tet_JBP           Domain     1   164   164    162.6   5.9e-48   1 CL0029   
+Apimel_XP_026300194.1                   330    368    328    368 PF02008.25  zf-CXXC           Domain     3    48    48     26.6     6e-06   1 No_clan  
+Apimel_XP_026300194.1                  1728   2677   1728   2677 PF12851.13  Tet_JBP           Domain     1   164   164    162.6   5.9e-48   1 CL0029   
+Apimel_XP_026300195.1                   330    368    328    368 PF02008.25  zf-CXXC           Domain     3    48    48     26.6     6e-06   1 No_clan  
+Apimel_XP_026300195.1                  1728   2677   1728   2677 PF12851.13  Tet_JBP           Domain     1   164   164    162.6   5.9e-48   1 CL0029   
+Apla_XP_022088315.1                     518    558    517    558 PF02008.25  zf-CXXC           Domain     2    48    48     27.9   2.3e-06   1 No_clan  
+Apla_XP_022088315.1                    1227   1964   1227   1964 PF12851.13  Tet_JBP           Domain     1   164   164    166.9   2.9e-49   1 CL0029   
+Apla_XP_022088396.1                     518    558    517    558 PF02008.25  zf-CXXC           Domain     2    48    48     27.9   2.3e-06   1 No_clan  
+Apla_XP_022088396.1                    1227   1964   1227   1964 PF12851.13  Tet_JBP           Domain     1   164   164    166.9   2.9e-49   1 CL0029   
+Apla_XP_022088484.1                     518    558    517    558 PF02008.25  zf-CXXC           Domain     2    48    48     27.9   2.3e-06   1 No_clan  
+Apla_XP_022088484.1                    1196   1933   1196   1933 PF12851.13  Tet_JBP           Domain     1   164   164    166.9   2.8e-49   1 CL0029   
+Aplcal_XP_005092662.1                  1528   2622   1528   2622 PF12851.13  Tet_JBP           Domain     1   164   164    149.7   5.3e-44   1 CL0029   
+Aplcal_XP_012934816.1                  1362   2456   1362   2456 PF12851.13  Tet_JBP           Domain     1   164   164    149.9   4.8e-44   1 CL0029   
+Aque_XP_019849055.1                     369    874    369    874 PF12851.13  Tet_JBP           Domain     1   164   164    150.5   3.1e-44   1 CL0029   
+Blan_XP_066304211.1                     208    247    206    247 PF02008.25  zf-CXXC           Domain     3    48    48     31.9   1.3e-07   1 No_clan  
+Blan_XP_066304211.1                     948   1805    930   1805 PF12851.13  Tet_JBP           Domain    27   164   164    134.3     3e-39   1 CL0029   
+Blan_XP_066304212.1                     208    247    206    247 PF02008.25  zf-CXXC           Domain     3    48    48     31.9   1.3e-07   1 No_clan  
+Blan_XP_066304212.1                     902   1794    902   1794 PF12851.13  Tet_JBP           Domain     1   164   164    154.9   1.4e-45   1 CL0029   
+Blan_XP_066304213.1                     208    247    206    247 PF02008.25  zf-CXXC           Domain     3    48    48     31.9   1.3e-07   1 No_clan  
+Blan_XP_066304213.1                     902   1794    902   1794 PF12851.13  Tet_JBP           Domain     1   164   164    155.4   9.6e-46   1 CL0029   
+Blan_XP_066304214.1                     208    247    206    247 PF02008.25  zf-CXXC           Domain     3    48    48     32.0   1.3e-07   1 No_clan  
+Blan_XP_066304214.1                     902   1783    902   1783 PF12851.13  Tet_JBP           Domain     1   164   164    167.6   1.7e-49   1 CL0029   
+Blan_XP_066304215.1                     688   1545    670   1545 PF12851.13  Tet_JBP           Domain    27   164   164    134.8   2.1e-39   1 CL0029   
+Blan_XP_066304216.1                     688   1545    670   1545 PF12851.13  Tet_JBP           Domain    27   164   164    134.8   2.1e-39   1 CL0029   
+Blan_XP_066304217.1                     622   1479    604   1479 PF12851.13  Tet_JBP           Domain    27   164   164    135.0   1.8e-39   1 CL0029   
+Bmor_XP_021202702.2                    1583   2367   1583   2367 PF12851.13  Tet_JBP           Domain     1   164   164    157.8   1.7e-46   1 CL0029   
+Bmor_XP_037874987.1                    1577   2361   1577   2361 PF12851.13  Tet_JBP           Domain     1   164   164    157.8   1.7e-46   1 CL0029   
+Bmor_XP_037874988.1                    1554   2338   1554   2338 PF12851.13  Tet_JBP           Domain     1   164   164    157.9   1.7e-46   1 CL0029   
+Bmor_XP_037874989.1                    1548   2332   1548   2332 PF12851.13  Tet_JBP           Domain     1   164   164    157.9   1.7e-46   1 CL0029   
+Bmor_XP_037874990.1                    1172   1956   1172   1956 PF12851.13  Tet_JBP           Domain     1   164   164    158.4   1.2e-46   1 CL0029   
+Btab_XP_018895737.1                    1508   2356   1508   2356 PF12851.13  Tet_JBP           Domain     1   164   164    163.0   4.5e-48   1 CL0029   
+Cint_XP_002125458.3                     928   1441    928   1441 PF12851.13  Tet_JBP           Domain     1   164   164    153.4   3.9e-45   1 CL0029   
+Cscu_XP_023209742.1                     615    673    615    682 PF12851.13  Tet_JBP           Domain     1    61   164     59.0   4.3e-16   1 CL0029   
+Cscu_XP_023209742.1                    2043   2096   1751   2096 PF12851.13  Tet_JBP           Domain   112   164   164     40.6   1.9e-10   1 CL0029   
+Cvir_XP_022313682.1                     601   1253    601   1273 PF12851.13  Tet_JBP           Domain     1   161   164    165.2   9.1e-49   1 CL0029   
+Cvir_XP_022313682.1                     887   1013    886   1015 PF02759.24  RUN               Family     2   129   131     57.8   1.6e-15   1 No_clan  
+Dmel_NP_001246581.1                    1796   2666   1796   2666 PF12851.13  Tet_JBP           Domain     1   164   164    147.9     2e-43   1 CL0029   
+Dmel_NP_001246582.1                    1851   2721   1851   2721 PF12851.13  Tet_JBP           Domain     1   164   164    147.8     2e-43   1 CL0029   
+Dmel_NP_001246583.1                     992   1862    992   1862 PF12851.13  Tet_JBP           Domain     1   164   164    148.9   9.7e-44   1 CL0029   
+Dmel_NP_001261343.1                    1802   2672   1802   2672 PF12851.13  Tet_JBP           Domain     1   164   164    147.9     2e-43   1 CL0029   
+Dmel_NP_001261344.1                    1857   2727   1857   2727 PF12851.13  Tet_JBP           Domain     1   164   164    147.8     2e-43   1 CL0029   
+Dmel_NP_647750.4                        992   1862    992   1862 PF12851.13  Tet_JBP           Domain     1   164   164    148.9   9.7e-44   1 CL0029   
+Dpul_XP_046460497.1                    1160   1536   1160   1536 PF12851.13  Tet_JBP           Domain     1   164   164    159.5   5.3e-47   1 CL0029   
+Dpul_XP_046460499.1                    1160   1536   1160   1536 PF12851.13  Tet_JBP           Domain     1   164   164    159.5   5.3e-47   1 CL0029   
+Dpul_XP_046460500.1                    1160   1536   1160   1536 PF12851.13  Tet_JBP           Domain     1   164   164    159.5   5.3e-47   1 CL0029   
+Dpul_XP_046460501.1                    1160   1536   1160   1536 PF12851.13  Tet_JBP           Domain     1   164   164    159.5   5.3e-47   1 CL0029   
+Drer_NP_001314874.1                      71    111     70    111 PF02008.25  zf-CXXC           Domain     2    48    48     28.5   1.5e-06   1 No_clan  
+Drer_NP_001314874.1                    1261   1952   1261   1952 PF12851.13  Tet_JBP           Domain     1   164   164    179.1   4.9e-53   1 CL0029   
+Drer_NP_001314875.1                    1104   1795   1104   1795 PF12851.13  Tet_JBP           Domain     1   164   164    179.3   4.2e-53   1 CL0029   
+Drer_XP_003198655.2                    1104   1795   1104   1795 PF12851.13  Tet_JBP           Domain     1   164   164    179.3   4.2e-53   1 CL0029   
+Drer_XP_005156766.1                    1347   1765   1347   1765 PF12851.13  Tet_JBP           Domain     1   164   164    186.7   2.2e-55   1 CL0029   
+Drer_XP_005159960.1                    1055   1618   1055   1618 PF12851.13  Tet_JBP           Domain     1   164   164    198.9   3.9e-59   1 CL0029   
+Drer_XP_009299504.1                    1104   1795   1104   1795 PF12851.13  Tet_JBP           Domain     1   164   164    179.3   4.2e-53   1 CL0029   
+Drer_XP_009305542.1                     862   1280    862   1280 PF12851.13  Tet_JBP           Domain     1   164   164    187.5   1.3e-55   1 CL0029   
+Drer_XP_021328376.1                    1304   1722   1304   1722 PF12851.13  Tet_JBP           Domain     1   164   164    186.8   2.1e-55   1 CL0029   
+Drer_XP_021328377.1                     862   1280    862   1280 PF12851.13  Tet_JBP           Domain     1   164   164    187.5   1.3e-55   1 CL0029   
+Drer_XP_068069124.1                     833   1251    833   1251 PF12851.13  Tet_JBP           Domain     1   164   164    187.6   1.2e-55   1 CL0029   
+Drer_XP_068074829.1                    1278   1696   1278   1696 PF12851.13  Tet_JBP           Domain     1   164   164    186.8   2.1e-55   1 CL0029   
+Emue_Em0019g1209a                       314    799    313    799 PF12851.13  Tet_JBP           Domain     2   164   164    141.0   2.7e-41   1 CL0029   
+Ggal_NP_001264723.3                    1288   1883   1288   1883 PF12851.13  Tet_JBP           Domain     1   164   164    207.4   9.6e-62   1 CL0029   
+Ggal_XP_015131709.2                    1339   1934   1339   1934 PF12851.13  Tet_JBP           Domain     1   164   164    207.4     1e-61   1 CL0029   
+Ggal_XP_040507506.2                     810   1508    810   1508 PF12851.13  Tet_JBP           Domain     1   164   164    178.9   5.9e-53   1 CL0029   
+Ggal_XP_040559103.1                    1647   2156   1647   2156 PF12851.13  Tet_JBP           Domain     1   164   164    179.2   4.7e-53   1 CL0029   
+Ggal_XP_040559104.1                    1647   2156   1647   2156 PF12851.13  Tet_JBP           Domain     1   164   164    179.2   4.7e-53   1 CL0029   
+Ggal_XP_040559105.1                    1647   2156   1647   2156 PF12851.13  Tet_JBP           Domain     1   164   164    179.2   4.7e-53   1 CL0029   
+Ggal_XP_040559106.1                    1647   2149   1647   2149 PF12851.13  Tet_JBP           Domain     1   164   164    191.9   5.8e-57   1 CL0029   
+Ggal_XP_040559107.1                    1630   2139   1630   2139 PF12851.13  Tet_JBP           Domain     1   164   164    179.2   4.6e-53   1 CL0029   
+Ggal_XP_040559108.1                    1647   1757   1647   1853 PF12851.13  Tet_JBP           Domain     1   108   164    138.5   1.5e-40   1 CL0029   
+Ggal_XP_040559109.1                    1630   2132   1630   2132 PF12851.13  Tet_JBP           Domain     1   164   164    191.9   5.7e-57   1 CL0029   
+Hrob_XP_009022495.1                     158    276    158    319 PF12851.13  Tet_JBP           Domain     1   109   164    107.9   3.9e-31   1 CL0029   
+Hsap_NP_001120680.1                    1290   1905   1290   1905 PF12851.13  Tet_JBP           Domain     1   164   164    212.4   2.8e-63   1 CL0029   
+Hsap_NP_001274420.1                      51     89     49     89 PF02008.25  zf-CXXC           Domain     3    48    48     26.8   5.4e-06   1 No_clan  
+Hsap_NP_001274420.1                     985   1697    985   1697 PF12851.13  Tet_JBP           Domain     1   164   164    178.9   5.9e-53   1 CL0029   
+Hsap_NP_001352951.1                     892   1604    892   1604 PF12851.13  Tet_JBP           Domain     1   164   164    179.0   5.2e-53   1 CL0029   
+Hsap_NP_001393294.1                     585    624    584    624 PF02008.25  zf-CXXC           Domain     3    48    48     31.1   2.3e-07   1 No_clan  
+Hsap_NP_001393294.1                    1619   2081   1607   2081 PF12851.13  Tet_JBP           Domain    11   164   164    173.0   3.7e-51   1 CL0029   
+Hsap_NP_001393296.1                     982   1444    970   1444 PF12851.13  Tet_JBP           Domain    11   164   164    173.9     2e-51   1 CL0029   
+Hsap_NP_001393297.1                     948   1410    936   1410 PF12851.13  Tet_JBP           Domain    11   164   164    174.0   1.9e-51   1 CL0029   
+Hsap_NP_001393298.1                     948   1410    936   1410 PF12851.13  Tet_JBP           Domain    11   164   164    174.0   1.9e-51   1 CL0029   
+Hsap_NP_001393299.1                     948   1410    936   1410 PF12851.13  Tet_JBP           Domain    11   164   164    174.0   1.9e-51   1 CL0029   
+Hsap_NP_001393300.1                     909   1381    909   1381 PF12851.13  Tet_JBP           Domain     1   164   164    208.2   5.6e-62   1 CL0029   
+Hsap_NP_001393301.1                     909   1381    909   1381 PF12851.13  Tet_JBP           Domain     1   164   164    208.2   5.6e-62   1 CL0029   
+Hsap_NP_001393302.1                     585    624    584    624 PF02008.25  zf-CXXC           Domain     3    48    48     31.9   1.4e-07   1 No_clan  
+Hsap_NP_001393302.1                     788   1250    776   1250 PF12851.13  Tet_JBP           Domain    11   164   164    174.3   1.5e-51   1 CL0029   
+Hsap_NP_001393303.1                     585    624    584    624 PF02008.25  zf-CXXC           Domain     3    48    48     31.9   1.3e-07   1 No_clan  
+Hsap_NP_001393303.1                     749   1221    749   1221 PF12851.13  Tet_JBP           Domain     1   164   164    208.5   4.4e-62   1 CL0029   
+Hsap_NP_001393304.1                     167    629    155    629 PF12851.13  Tet_JBP           Domain    11   164   164    176.5   3.1e-52   1 CL0029   
+Hsap_NP_001393305.1                     128    600    128    600 PF12851.13  Tet_JBP           Domain     1   164   164    210.9   8.3e-63   1 CL0029   
+Hsap_NP_085128.2                        585    624    584    624 PF02008.25  zf-CXXC           Domain     3    48    48     31.1   2.3e-07   1 No_clan  
+Hsap_NP_085128.2                       1580   2052   1580   2052 PF12851.13  Tet_JBP           Domain     1   164   164    207.2   1.1e-61   1 CL0029   
+Hsap_XP_005263139.1                    1290   1905   1290   1905 PF12851.13  Tet_JBP           Domain     1   164   164    212.4   2.8e-63   1 CL0029   
+Hsap_XP_006714305.1                    1190   1805   1190   1805 PF12851.13  Tet_JBP           Domain     1   164   164    212.5   2.6e-63   1 CL0029   
+Hsap_XP_011530984.1                      51     89     49     89 PF02008.25  zf-CXXC           Domain     3    48    48     26.7   5.4e-06   1 No_clan  
+Hsap_XP_011530984.1                     985   1713    985   1713 PF12851.13  Tet_JBP           Domain     1   164   164    167.2   2.2e-49   1 CL0029   
+Hsap_XP_011530985.1                      51     89     49     89 PF02008.25  zf-CXXC           Domain     3    48    48     26.7   5.4e-06   1 No_clan  
+Hsap_XP_011530985.1                     985   1713    985   1713 PF12851.13  Tet_JBP           Domain     1   164   164    167.2   2.2e-49   1 CL0029   
+Hsap_XP_011530986.1                      51     89     49     89 PF02008.25  zf-CXXC           Domain     3    48    48     26.7   5.4e-06   1 No_clan  
+Hsap_XP_011530986.1                     985   1713    985   1713 PF12851.13  Tet_JBP           Domain     1   164   164    167.2   2.2e-49   1 CL0029   
+Hsap_XP_011530987.1                      51     89     49     89 PF02008.25  zf-CXXC           Domain     3    48    48     26.8   5.4e-06   1 No_clan  
+Hsap_XP_011530987.1                     966   1694    966   1694 PF12851.13  Tet_JBP           Domain     1   164   164    167.2   2.2e-49   1 CL0029   
+Hsap_XP_011530989.1                     892   1620    892   1620 PF12851.13  Tet_JBP           Domain     1   164   164    167.4     2e-49   1 CL0029   
+Hsap_XP_011530990.1                      51     89     49     89 PF02008.25  zf-CXXC           Domain     3    48    48     27.6   2.9e-06   1 No_clan  
+Hsap_XP_011530990.1                     985   1045    985   1048 PF12851.13  Tet_JBP           Domain     1    61   164     58.4   6.6e-16   1 CL0029   
+Hsap_XP_011530992.1                     127    855    127    855 PF12851.13  Tet_JBP           Domain     1   164   164    169.7   3.8e-50   1 CL0029   
+Hsap_XP_016859055.1                      51     89     49     89 PF02008.25  zf-CXXC           Domain     3    48    48     26.7   5.4e-06   1 No_clan  
+Hsap_XP_016859055.1                     985   1713    985   1713 PF12851.13  Tet_JBP           Domain     1   164   164    167.2   2.2e-49   1 CL0029   
+Hsap_XP_016872175.1                     970   1432    958   1432 PF12851.13  Tet_JBP           Domain    11   164   164    173.9     2e-51   1 CL0029   
+Hsap_XP_016872176.1                     966   1428    954   1428 PF12851.13  Tet_JBP           Domain    11   164   164    173.9   1.9e-51   1 CL0029   
+Hsap_XP_016872177.1                     966   1428    954   1428 PF12851.13  Tet_JBP           Domain    11   164   164    173.9   1.9e-51   1 CL0029   
+Hsap_XP_024308513.1                      51     89     49     89 PF02008.25  zf-CXXC           Domain     3    48    48     27.5   3.1e-06   1 No_clan  
+Hsap_XP_024308513.1                     985   1105    985   1105 PF12851.13  Tet_JBP           Domain     1   102   164    106.2   1.3e-30   1 CL0029   
+Hsap_XP_024308514.1                      51     89     49     89 PF02008.25  zf-CXXC           Domain     3    48    48     27.5   3.1e-06   1 No_clan  
+Hsap_XP_024308514.1                     985   1089    985   1089 PF12851.13  Tet_JBP           Domain     1   102   164    117.8   3.5e-34   1 CL0029   
+Hsap_XP_024309870.1                    1290   1905   1290   1905 PF12851.13  Tet_JBP           Domain     1   164   164    212.4   2.8e-63   1 CL0029   
+Hsap_XP_024309871.1                    1290   1905   1290   1905 PF12851.13  Tet_JBP           Domain     1   164   164    212.4   2.8e-63   1 CL0029   
+Hsap_XP_047299615.1                      51     89     49     89 PF02008.25  zf-CXXC           Domain     3    48    48     26.8   5.4e-06   1 No_clan  
+Hsap_XP_047299615.1                     985   1697    985   1697 PF12851.13  Tet_JBP           Domain     1   164   164    178.9   5.9e-53   1 CL0029   
+Hsap_XP_047299616.1                      51     89     49     89 PF02008.25  zf-CXXC           Domain     3    48    48     26.8   5.4e-06   1 No_clan  
+Hsap_XP_047299616.1                     985   1697    985   1697 PF12851.13  Tet_JBP           Domain     1   164   164    178.9   5.9e-53   1 CL0029   
+Hsap_XP_047299618.1                      51     89     49     89 PF02008.25  zf-CXXC           Domain     3    48    48     26.8   5.3e-06   1 No_clan  
+Hsap_XP_047299618.1                     966   1678    966   1678 PF12851.13  Tet_JBP           Domain     1   164   164    178.9   5.7e-53   1 CL0029   
+Hsap_XP_047299620.1                     127    855    127    855 PF12851.13  Tet_JBP           Domain     1   164   164    169.7   3.8e-50   1 CL0029   
+Lana_XP_013410269.1                     737   1548    737   1548 PF12851.13  Tet_JBP           Domain     1   164   164    182.3   5.1e-54   1 CL0029   
+Lana_XP_013410270.1                     737   1548    737   1548 PF12851.13  Tet_JBP           Domain     1   164   164    182.3   5.1e-54   1 CL0029   
+Lana_XP_013410271.1                     737   1548    737   1548 PF12851.13  Tet_JBP           Domain     1   164   164    182.3   5.1e-54   1 CL0029   
+Lcom_lcpid12098|                        231    269    228    269 PF02008.25  zf-CXXC           Domain     4    48    48     35.9   7.5e-09   1 No_clan  
+Lcom_lcpid12098|                        984   1166    953   1166 PF12851.13  Tet_JBP           Domain    21   164   164    103.4   9.3e-30   1 CL0029   
+Lcom_lcpid41144|                        102    142    101    142 PF02008.25  zf-CXXC           Domain     2    48    48     29.3   8.9e-07   1 No_clan  
+Lcom_lcpid41144|                        594    776    593    780 PF12851.13  Tet_JBP           Domain     2   160   164     85.0   4.4e-24   1 CL0029   
+Lcom_lcpid54347|                        458    640    457    644 PF12851.13  Tet_JBP           Domain     2   160   164     85.4   3.3e-24   1 CL0029   
+Lcom_lcpid55280|                        102    142    101    142 PF02008.25  zf-CXXC           Domain     2    48    48     29.7   6.4e-07   1 No_clan  
+Lcom_lcpid55280|                        594    659    593    663 PF12851.13  Tet_JBP           Domain     2    66   164     40.0   2.8e-10   1 CL0029   
+Lcom_lcpid73962|                        458    523    457    527 PF12851.13  Tet_JBP           Domain     2    66   164     40.5   2.1e-10   1 CL0029   
+Lpol_XP_022240586.1                     553    688    553   1182 PF12851.13  Tet_JBP           Domain     1   108   164    132.0   1.5e-38   1 CL0029   
+Lpol_XP_022240586.1                    2849   2898   2707   2898 PF12851.13  Tet_JBP           Domain   116   164   164     42.2   6.1e-11   1 CL0029   
+Lpol_XP_022241646.1                    1245   1535   1245   1588 PF12851.13  Tet_JBP           Domain     1   143   164    132.9     8e-39   1 CL0029   
+Mlei_ML048213a-PA                         1    106      1    119 PF12851.13  Tet_JBP           Domain     4   102   164     85.4   3.2e-24   1 CL0029   
+Obim_XP_014772827.1                    1392   2052   1392   2052 PF12851.13  Tet_JBP           Domain     1   164   164    154.1   2.4e-45   1 CL0029   
+Obim_XP_014772828.1                    1392   2052   1392   2052 PF12851.13  Tet_JBP           Domain     1   164   164    154.1   2.4e-45   1 CL0029   
+Obim_XP_052828821.1                    1392   2052   1392   2052 PF12851.13  Tet_JBP           Domain     1   164   164    154.1   2.4e-45   1 CL0029   
+Ofus_CAH1794055.1                       190    238     69    238 PF12851.13  Tet_JBP           Domain   117   164   164     47.0   2.1e-12   1 CL0029   
+Ofus_CAH1794056.1                      1141   1282   1141   1434 PF12851.13  Tet_JBP           Domain     1   114   164    135.0   1.8e-39   1 CL0029   
+Pvan_XP_069980505.1                     425    463    423    463 PF02008.25  zf-CXXC           Domain     3    48    48     26.7   5.6e-06   1 No_clan  
+Pvan_XP_069980505.1                    1448   2169   1448   2169 PF12851.13  Tet_JBP           Domain     1   164   164    157.3   2.5e-46   1 CL0029   
+Pvan_XP_069980506.1                     380    418    378    418 PF02008.25  zf-CXXC           Domain     3    48    48     26.7   5.5e-06   1 No_clan  
+Pvan_XP_069980506.1                    1403   2124   1403   2124 PF12851.13  Tet_JBP           Domain     1   164   164    157.4   2.4e-46   1 CL0029   
+Pvan_XP_069980507.1                     972   1693    972   1693 PF12851.13  Tet_JBP           Domain     1   164   164    157.8   1.7e-46   1 CL0029   
+Pvan_XP_069980508.1                     972   1693    972   1693 PF12851.13  Tet_JBP           Domain     1   164   164    157.8   1.7e-46   1 CL0029   
+Rcul_nRc.2.0.1.t28809-RA                527    800    527    800 PF12851.13  Tet_JBP           Domain     1   164   164    145.0   1.5e-42   1 CL0029   
+Scil_XP_065175429.1                     108    148    107    148 PF02008.25  zf-CXXC           Domain     2    48    48     28.5   1.6e-06   1 No_clan  
+Scil_XP_065175429.1                     717    904    716    907 PF12851.13  Tet_JBP           Domain     2   160   164     79.8   1.7e-22   1 CL0029   
+Scil_XP_065175430.1                     108    148    107    148 PF02008.25  zf-CXXC           Domain     2    48    48     28.5   1.6e-06   1 No_clan  
+Scil_XP_065175430.1                     715    902    714    905 PF12851.13  Tet_JBP           Domain     2   160   164     79.8   1.7e-22   1 CL0029   
+Scil_XP_065175431.1                     108    148    107    148 PF02008.25  zf-CXXC           Domain     2    48    48     28.5   1.5e-06   1 No_clan  
+Scil_XP_065175431.1                     717    904    716    907 PF12851.13  Tet_JBP           Domain     2   160   164     79.8   1.6e-22   1 CL0029   
+Scil_XP_065175432.1                     108    148    107    148 PF02008.25  zf-CXXC           Domain     2    48    48     28.5   1.5e-06   1 No_clan  
+Scil_XP_065175432.1                     717    904    716    907 PF12851.13  Tet_JBP           Domain     2   160   164     79.8   1.6e-22   1 CL0029   
+Scil_XP_065182918.1                    1452   1663   1451   1663 PF12851.13  Tet_JBP           Domain     2   164   164    109.3   1.4e-31   1 CL0029   
+Skow_XP_006816862.1                     295    949    295    949 PF12851.13  Tet_JBP           Domain     1   164   164    161.3   1.5e-47   1 CL0029   
+Smar_SMAR014123-PA                      568   1024    568   1024 PF12851.13  Tet_JBP           Domain     1   164   164    162.2   7.5e-48   1 CL0029   
+Spur_XP_030835480.1                     477    517    476    517 PF02008.25  zf-CXXC           Domain     2    48    48     28.3   1.8e-06   1 No_clan  
+Spur_XP_030835480.1                    1182   1880   1182   1880 PF12851.13  Tet_JBP           Domain     1   164   164    167.7   1.6e-49   1 CL0029   
+Spur_XP_030835481.1                     662   1360    662   1360 PF12851.13  Tet_JBP           Domain     1   164   164    168.7     8e-50   1 CL0029   
+Tadh_XP_002108965.1                       6     46      5     46 PF02008.25  zf-CXXC           Domain     2    48    48     27.6   2.9e-06   1 No_clan  
+Tadh_XP_002108965.1                     328    548    312    548 PF12851.13  Tet_JBP           Domain    24   164   164     86.8   1.2e-24   1 CL0029   
+Twil_T_wilhelma_c27731_g1_i1|m.21809    440    546    440    555 PF12851.13  Tet_JBP           Domain     1   105   164    107.8   4.1e-31   1 CL0029   
+Twil_T_wilhelma_c27731_g1_i1|m.21810    242    295      3    295 PF12851.13  Tet_JBP           Domain   118   164   164     39.7   3.7e-10   1 CL0029   
+Twil_T_wilhelma_c27731_g1_i3|m.21815    116    690    116    690 PF12851.13  Tet_JBP           Domain     1   164   164    155.7   7.9e-46   1 CL0029   
+Twil_T_wilhelma_c27731_g1_i4|m.21818    440   1014    440   1014 PF12851.13  Tet_JBP           Domain     1   164   164    154.4   1.9e-45   1 CL0029   
+Twil_T_wilhelma_c27731_g1_i6|m.21824    440   1014    440   1014 PF12851.13  Tet_JBP           Domain     1   164   164    154.4   1.9e-45   1 CL0029   
+Xtro_NP_001090656.1                      58     98     57     98 PF02008.25  zf-CXXC           Domain     2    48    48     27.8   2.6e-06   1 No_clan  
+Xtro_NP_001090656.1                    1114   1804   1114   1804 PF12851.13  Tet_JBP           Domain     1   164   164    182.7   3.7e-54   1 CL0029   
+Xtro_XP_002934823.2                    1122   1694   1122   1694 PF12851.13  Tet_JBP           Domain     1   164   164    205.1     5e-61   1 CL0029   
+Xtro_XP_012810969.1                    1090   1662   1090   1662 PF12851.13  Tet_JBP           Domain     1   164   164    205.2   4.8e-61   1 CL0029   
+Xtro_XP_031753342.1                      69    109     68    109 PF02008.25  zf-CXXC           Domain     2    48    48     27.8   2.6e-06   1 No_clan  
+Xtro_XP_031753342.1                    1145   1835   1145   1835 PF12851.13  Tet_JBP           Domain     1   164   164    182.7   3.9e-54   1 CL0029   
+Xtro_XP_031753343.1                      69    109     68    109 PF02008.25  zf-CXXC           Domain     2    48    48     27.8   2.6e-06   1 No_clan  
+Xtro_XP_031753343.1                    1145   1835   1145   1835 PF12851.13  Tet_JBP           Domain     1   164   164    182.7   3.9e-54   1 CL0029   
+Xtro_XP_031753345.1                      69    109     68    109 PF02008.25  zf-CXXC           Domain     2    48    48     27.8   2.6e-06   1 No_clan  
+Xtro_XP_031753345.1                    1145   1835   1145   1835 PF12851.13  Tet_JBP           Domain     1   164   164    182.7   3.9e-54   1 CL0029   
+Xtro_XP_031753346.1                      69    109     68    109 PF02008.25  zf-CXXC           Domain     2    48    48     27.8   2.6e-06   1 No_clan  
+Xtro_XP_031753346.1                    1126   1816   1126   1816 PF12851.13  Tet_JBP           Domain     1   164   164    182.7   3.8e-54   1 CL0029   
+Xtro_XP_031753347.1                     987   1677    987   1677 PF12851.13  Tet_JBP           Domain     1   164   164    183.0   3.2e-54   1 CL0029   
+Xtro_XP_031753348.1                     987   1677    987   1677 PF12851.13  Tet_JBP           Domain     1   164   164    183.0   3.2e-54   1 CL0029   
+Xtro_XP_031753349.1                     987   1677    987   1677 PF12851.13  Tet_JBP           Domain     1   164   164    183.0   3.2e-54   1 CL0029   
+Xtro_XP_031753350.1                     987   1677    987   1677 PF12851.13  Tet_JBP           Domain     1   164   164    183.0   3.2e-54   1 CL0029   
