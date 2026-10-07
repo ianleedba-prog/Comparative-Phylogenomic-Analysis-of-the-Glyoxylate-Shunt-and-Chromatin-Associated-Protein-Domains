@@ -1,0 +1,1610 @@
+Taxonomy_name	Abbreviation	NCBI_Taxonomy_ID	Source	File
+Aaosphaeria arxii CBS 175.79	Aarx	1450172	NCBI	GCF_010015735.1
+Absidia glauca	Agla	4829	NCBI	GCA_900079185.1
+Absidia repens	Arep	90262	NCBI	GCA_002105175.1
+Acaromyces ingoldii	Aing	215250	NCBI	GCF_003144295.1
+Hapsidospora chrysogenum ATCC 11550	Hchr	857340	NCBI	GCA_000769265.1
+Agaricus bisporus var. bisporus H97	Abis	936046	NCBI	GCF_000300575.1
+Akanthomyces lecanii RCEF 1005	Alec	1081108	NCBI	GCA_001636795.1
+Allomyces macrogynus ATCC 38327	Amac	578462	NCBI	GCA_000151295.1
+Alternaria alternata	Aalt	5599	NCBI	GCF_001642055.1
+Alternaria arborescens	Aarb	156630	NCBI	GCF_004154835.1
+Amanita muscaria Koide BX008	Amus	946122	NCBI	GCA_000827485.1
+Amanita thiersii Skay4041	Athi	703135	NCBI	GCA_002554575.1
+Amniculicola lignicola CBS 123094	Alig	1392246	NCBI	GCA_010015725.1
+Amorphotheca resinae ATCC 22711	Ares	857342	NCBI	GCF_003019875.1
+Anaeromyces robustus	Arob	1754192	NCBI	GCA_002104895.1
+Antrodiella citrinella	Acit	2447956	NCBI	GCA_004802725.1
+Apiotrichum porosum	Apor	105984	NCBI	GCF_003942205.1
+Aplosporella prunicola CBS 121167	Apru	1176127	NCBI	GCF_010093885.1
+Arthrobotrys flagrans	Afla	97331	NCBI	GCF_004000055.1
+Ascobolus immersus RN42	Aimm	1160509	NCBI	GCA_003788565.2
+Ascochyta rabiei	Arab	5454	NCBI	GCF_004011695.2
+Ascodesmis nigricans	Anig	341454	NCBI	GCA_004786065.1
+Ascoidea rubescens DSM 1968	Arub	1344418	NCBI	GCF_001661345.1
+Ascosphaera apis ARSEF 7405	Aapi	392613	NCBI	GCA_001636715.1
+Aspergillus aculeatinus CBS 121060	Aacu	1448322	NCBI	GCF_003184765.1
+Aspergillus aculeatus ATCC 16872	Aspacu	690307	NCBI	GCF_001890905.1
+Aspergillus alliaceus	Aall	209559	NCBI	GCF_009176365.1
+Aspergillus arachidicola	Aara	656916	NCBI	GCA_009193545.1
+Aspergillus avenaceus	Aave	36643	NCBI	GCA_009193465.1
+Aspergillus awamori	Aawa	105351	NCBI	GCA_003850985.1
+Aspergillus bertholletiae	Aber	1226010	NCBI	GCA_009193595.1
+Aspergillus bombycis	Abom	109264	NCBI	GCF_001792695.1
+Aspergillus brasiliensis CBS 101740	Abra	767769	NCBI	GCF_001889945.1
+Aspergillus brunneoviolaceus CBS 621.78	Abru	1450534	NCBI	GCF_003184695.1
+Aspergillus caelatus	Acae	61420	NCBI	GCF_009193585.1
+Aspergillus calidoustus	Acal	454130	NCBI	GCA_001511075.1
+Aspergillus campestris IBT 28561	Acam	1392248	NCBI	GCF_002847485.1
+Aspergillus candidus	Acan	41067	NCBI	GCF_002847045.1
+Aspergillus carbonarius ITEM 5010	Acar	602072	NCBI	GCA_001990825.1
+Aspergillus clavatus NRRL 1	Acla	344612	NCBI	GCF_000002715.2
+Aspergillus coremiiformis	Acor	138285	NCBI	GCA_009193565.1
+Aspergillus costaricaensis CBS 115574	Acos	1448317	NCBI	GCF_003184835.1
+Aspergillus ellipticus CBS 707.79	Aell	1448320	NCBI	GCA_003184645.1
+Aspergillus eucalypticola CBS 122712	Aeuc	1448314	NCBI	GCF_003184535.1
+Aspergillus fijiensis CBS 313.89	Afij	1448319	NCBI	GCF_003184825.1
+Aspergillus flavus NRRL3357	Aspfla	332952	NCBI	GCF_014117465.1
+Aspergillus fumigatus Af293	Afum	330879	NCBI	GCF_000002655.1
+Aspergillus glaucus CBS 516.65	Aspgla	1160497	NCBI	GCF_001890805.1
+Aspergillus heteromorphus CBS 117.55	Ahet	1448321	NCBI	GCF_003184545.1
+Aspergillus homomorphus CBS 101889	Ahom	1450537	NCBI	GCF_003184865.1
+Aspergillus ibericus CBS 121593	Aibe	1448316	NCBI	GCF_003184845.1
+Aspergillus indologenus CBS 114.80	Aind	1450541	NCBI	GCA_003184685.1
+Aspergillus japonicus CBS 114.51	Ajap	1448312	NCBI	GCF_003184785.1
+Aspergillus lentulus	Alen	293939	NCBI	GCF_010724455.1
+Aspergillus leporis	Alep	41062	NCBI	GCA_009176345.1
+Aspergillus luchuensis	Aluc	1069201	NCBI	GCF_016861625.1
+Aspergillus mulundensis	Amul	1810919	NCBI	GCF_003369625.1
+Aspergillus neoniger CBS 115656	Aneo	1448310	NCBI	GCF_003184625.1
+Aspergillus nidulans FGSC A4	Anid	227321	NCBI	GCF_000011425.1
+Aspergillus niger	Aspnig	5061	NCBI	GCF_000002855.4
+Aspergillus novofumigatus IBT 16806	Anov	1392255	NCBI	GCF_002847465.1
+Aspergillus novoparasiticus	Aspnov	986946	NCBI	GCA_009176405.1
+Aspergillus ochraceoroseus IBT 24754	Aoch	1392256	NCBI	GCF_002846915.1
+Aspergillus oryzae RIB40	Aory	510516	NCBI	GCF_000184455.2
+Aspergillus phoenicis ATCC 13157	Apho	1353007	NCBI	GCA_003344505.1
+Aspergillus piperis CBS 112811	Apip	1448313	NCBI	GCF_003184755.1
+Aspergillus pseudocaelatus	Apscae	1825620	NCBI	GCA_009193665.1
+Aspergillus pseudonomiae	Apsnom	1506151	NCBI	GCF_009193645.1
+Aspergillus pseudotamarii	Apstam	132259	NCBI	GCF_009193445.1
+Aspergillus rambellii	Aram	308745	NCBI	GCA_000986645.1
+Aspergillus ruber CBS 135680	Asprub	1388766	NCBI	GCF_000600275.1
+Aspergillus saccharolyticus JOP 1030-1	Asac	1450539	NCBI	GCF_003184585.1
+Aspergillus sclerotialis	Ascl	2070753	NCBI	GCA_003589665.1
+Aspergillus sclerotiicarbonarius CBS 121057	Asccar	1448318	NCBI	GCA_003184635.1
+Aspergillus sclerotioniger CBS 115572	Ascnig	1450535	NCBI	GCF_003184525.1
+Aspergillus sergii	Aser	1034303	NCBI	GCA_009193525.1
+Aspergillus steynii IBT 23096	Aste	1392250	NCBI	GCF_002849105.1
+Aspergillus sydowii CBS 593.65	Asyd	1036612	NCBI	GCF_001890705.1
+Aspergillus taichungensis	Atai	482145	NCBI	GCA_002850765.1
+Aspergillus tanneri	Atan	1220188	NCBI	GCF_003426965.1
+Aspergillus terreus NIH2624	Ater	341663	NCBI	GCF_000149615.1
+Aspergillus thermomutatus	Athe	41047	NCBI	GCF_002237265.1
+Aspergillus transmontanensis	Atra	1034304	NCBI	GCA_009193505.1
+Aspergillus tubingensis	Atub	5068	NCBI	GCF_013340325.1
+Aspergillus turcosus	Atur	1245748	NCBI	GCA_002234965.2
+Aspergillus udagawae	Auda	91492	NCBI	GCF_001078395.1
+Aspergillus uvarum CBS 121591	Auva	1448315	NCBI	GCF_003184745.1
+Aspergillus vadensis CBS 113365	Avad	1448311	NCBI	GCF_003184925.1
+Aspergillus versicolor CBS 583.65	Aver	1036611	NCBI	GCF_001890125.1
+Aspergillus violaceofuscus CBS 115571	Avio	1450538	NCBI	GCA_003184705.1
+Aspergillus welwitschiae	Awel	1341132	NCBI	GCF_003344945.1
+Aspergillus wentii DTO 134E9	Awen	1073089	NCBI	GCF_001890725.1
+Aulographum hederae CBS 113979	Ahed	1176131	NCBI	GCA_010015705.1
+Aureobasidium melanogenum CBS 110374	Amel	1043003	NCBI	GCF_000721775.1
+Aureobasidium namibiae CBS 147.97	Anam	1043004	NCBI	GCF_000721765.1
+Aureobasidium pullulans EXF-150	Apul	1043002	NCBI	GCF_000721785.1
+Aureobasidium subglaciale EXF-2481	Asub	1043005	NCBI	GCF_000721755.1
+Schizophyllum amplum	Samp	97359	NCBI	GCA_007026445.1
+Babjeviella inositovora NRRL Y-12698	Bino	984486	NCBI	GCF_001661335.1
+Batrachochytrium dendrobatidis JAM81	Bden	684364	NCBI	GCF_000203795.2
+Baudoinia panamericana UAMH 10762	Bpan	717646	NCBI	GCF_000338955.1
+Beauveria bassiana ARSEF 2860	Bbas	655819	NCBI	GCF_000280675.1
+Bifiguratus adelaidae	Bade	1938954	NCBI	GCA_002261195.1
+Bimuria novae-zelandiae CBS 107.79	Bnov	1447943	NCBI	GCA_010015655.1
+Bipolaris oryzae ATCC 44560	Bory	930090	NCBI	GCF_000523455.1
+Bipolaris sorokiniana ND90Pr	Bsor	665912	NCBI	GCF_000338995.1
+Bipolaris zeicola 26-R-13	Bzei	930089	NCBI	GCF_000523435.1
+Blastomyces dermatitidis ER-3	Bder	559297	NCBI	GCF_000003525.1
+Blastomyces gilchristii SLH14081	Bgil	559298	NCBI	GCF_000003855.2
+Blastomyces parvus	Bpar	2060905	NCBI	GCA_002572885.1
+Blastomyces silverae	Bsil	2060906	NCBI	GCA_001014755.1
+Blumeria graminis f. sp. triticale	Bgra	1689686	NCBI	GCA_905067625.1
+Bondarzewia mesenterica	Bmes	1095465	NCBI	GCA_004802705.1
+Botryobasidium botryosum FD-172 SS1	Bbot	930990	NCBI	GCA_000697705.1
+Botryotinia calthae	Bcal	38488	NCBI	GCA_004379285.1
+Botryotinia convoluta	Bcon	54673	NCBI	GCA_004786275.1
+Botryotinia narcissicola	Bnar	278944	NCBI	GCA_004786225.1
+Botrytis cinerea B05.10	Bcin	332648	NCBI	GCF_000143535.2
+Botrytis galanthina	Bgal	278940	NCBI	GCA_004916875.1
+Botrytis hyacinthi	Bhya	278943	NCBI	GCA_004786245.1
+Botrytis paeoniae	Bpae	278948	NCBI	GCA_004786145.1
+Botrytis porri	Bpor	87229	NCBI	GCF_014898465.1
+Botrytis tulipae	Btul	87230	NCBI	GCA_004786125.1
+Brettanomyces bruxellensis	Bbru	5007	NCBI	GCF_011074885.1
+Byssothecium circinans	Bcir	147558	NCBI	GCA_010015675.1
+Calocera cornea HHB12733	Ccor	1353952	NCBI	GCA_001632435.1
+Calocera viscosa TUFC12733	Cvis	1330018	NCBI	GCA_001630345.1
+Candida albicans SC5314	Calb	237561	NCBI	GCF_000182965.3
+Candida arabinofermentans NRRL YB-2248	Cara	983967	NCBI	GCA_001661425.1
+Candidozyma auris	Caur	498019	NCBI	GCF_003013715.1
+Candida dubliniensis CD36	Cdub	573826	NCBI	GCF_000026945.1
+Candidozyma duobushaemuli	Cduo	1231522	NCBI	GCF_002926085.2
+Candidozyma haemuli	Chae	45357	NCBI	GCF_002926055.2
+Pichia inconspicua	Pinc	52247	NCBI	GCA_004931855.1
+Sungouiella intermedia	Sint	45354	NCBI	GCA_900106115.1
+Candida orthopsilosis Co 90-125	Cort	1136231	NCBI	GCF_000315875.1
+Candida parapsilosis	Cpar	5480	NCBI	GCF_000182765.1
+Candidozyma pseudohaemuli	Cpse	418784	NCBI	GCF_003013735.1
+Candida tropicalis MYA-3404	Ctro	294747	NCBI	GCF_000006335.3
+Capronia coronata CBS 617.96	Capcor	1182541	NCBI	GCF_000585585.1
+Capronia epimyces CBS 606.96	Cepi	1182542	NCBI	GCF_000585565.1
+Caulochytrium protostelioides	Cpro	1555241	NCBI	GCA_003615045.1
+Cenococcum geophilum 1.58	Cgeo	794803	NCBI	GCF_001692895.1
+Ceraceosorus bombacis	Cbom	401625	NCBI	GCA_900000165.1
+Ceraceosorus guamensis	Cgua	1522189	NCBI	GCF_003144195.1
+Ceratocystis platani	Cpla	88771	NCBI	GCA_000978885.1
+Cercospora berteroae	Cber	357750	NCBI	GCA_002933655.1
+Cercospora beticola	Cbet	122368	NCBI	GCF_033473495.1
+Chaetomium globosum CBS 148.51	Cglo	306901	NCBI	GCF_000143365.1
+Choanephora cucurbitarum	Ccuc	101091	NCBI	GCA_025331435.1
+Choiromyces venosus 120613-1	Cven	1336337	NCBI	GCA_003788595.2
+Cladophialophora bantiana CBS 173.52	Cban	1442370	NCBI	GCF_000835475.1
+Cladophialophora carrionii CBS 160.54	Ccar	1279043	NCBI	GCF_000365165.1
+Cladophialophora immunda	Cimm	569365	NCBI	GCF_000835495.1
+Cladophialophora psammophila CBS 110553	Cpsa	1182543	NCBI	GCF_000585535.1
+Cladophialophora yegresii CBS 114405	Cyeg	1182544	NCBI	GCF_000585515.1
+Clathrospora elynae	Cely	706981	NCBI	GCA_010015635.1
+Clavispora lusitaniae	Clus	36911	NCBI	GCF_014636115.1
+Clohesyomyces aquaticus	Caqu	1231657	NCBI	GCA_002105025.1
+Coccidioides immitis RS	Cocimm	246410	NCBI	GCF_000149335.2
+Coccidioides posadasii str. Silveira	Cpos	443226	NCBI	GCF_018416015.2
+Coleophoma crateriformis	Ccra	565419	NCBI	GCA_003369635.1
+Coleophoma cylindrospora	Ccyl	1849047	NCBI	GCA_003369665.1
+Colletotrichum chlorophyti	Cchl	708187	NCBI	GCA_001937105.1
+Colletotrichum fioriniae	Cfio	710243	NCBI	GCF_027942845.1
+Colletotrichum fructicola Nara gc5	Cfru	1213859	NCBI	GCF_000319635.2
+Colletotrichum gloeosporioides	Colglo	474922	NCBI	GCF_011800055.1
+Colletotrichum graminicola M1.001	Cgra	645133	NCBI	GCF_000149035.1
+Colletotrichum higginsianum IMI 349063	Chig	759273	NCBI	GCF_001672515.1
+Colletotrichum incanum	Cinc	1573173	NCBI	GCA_001625285.1
+Colletotrichum orbiculare MAFF 240422	Corb	1213857	NCBI	GCA_000350065.2
+Colletotrichum orchidophilum	Corc	1209926	NCBI	GCF_001831195.1
+Colletotrichum salicis	Csal	1209931	NCBI	GCA_001563125.1
+Colletotrichum shisoi	Cshi	2078593	NCBI	GCA_006783085.1
+Colletotrichum sidae	Csid	1347389	NCBI	GCA_004367935.1
+Colletotrichum simmondsii	Csim	703756	NCBI	GCA_001563135.1
+Colletotrichum spinosum	Cspi	1347390	NCBI	GCA_004366825.1
+Colletotrichum tanaceti	Ctan	1306861	NCBI	GCA_005350895.1
+Colletotrichum tofieldiae	Ctof	708197	NCBI	GCA_022836555.1
+Colletotrichum trifolii	Ctri	5466	NCBI	GCA_004367215.1
+Conidiobolus coronatus NRRL 28638	Concor	796925	NCBI	GCA_001566745.1
+Coniella lustricola	Conlus	2025994	NCBI	GCA_003019895.1
+Coniochaeta ligniaria NRRL 30616	Clig	1408157	NCBI	GCA_001879275.1
+Coniochaeta pulveracea	Cpul	177199	NCBI	GCA_003635345.1
+Coniophora puteana RWD-64-598 SS2	Cput	741705	NCBI	GCF_000271625.1
+Coniosporium apollinis CBS 100218	Capo	1168221	NCBI	GCF_000281105.1
+Coprinopsis cinerea okayama7#130	Ccin	240176	NCBI	GCF_000182895.1
+Coprinopsis marcescibilis	Cmar	230819	NCBI	GCA_004369085.1
+Cordyceps fumosorosea ARSEF 2679	Cfum	1081104	NCBI	GCF_001636725.1
+Cordyceps militaris CM01	Cmil	983644	NCBI	GCF_000225605.1
+Crucibulum laeve	Clae	68775	NCBI	GCA_004379715.1
+Cryomyces minteri	Cmin	331657	NCBI	GCA_005059845.1
+Cryptococcus amylolentus CBS 6039	Camy	1295533	NCBI	GCF_001720205.1
+Cryptococcus depauperatus CBS 7841	Cdep	1295531	NCBI	GCF_001720195.1
+Cryptococcus bacillisporus CA1280	Cbac	1296109	NCBI	GCF_000836335.1
+Cryptococcus deuterogattii R265	Cdeu	294750	NCBI	GCF_002954075.1
+Cryptococcus tetragattii IND107	Ctet	1296105	NCBI	GCF_000835755.1
+Cryptococcus gattii WM276	Cgat	367775	NCBI	GCF_000185945.1
+Cryptococcus neoformans var. neoformans JEC21	Cneo	214684	NCBI	GCF_000091045.1
+Cryptococcus wingfieldii CBS 7118	Cwin	1295528	NCBI	GCF_001720155.1
+Cutaneotrichosporon oleaginosum	Cole	879819	NCBI	GCF_008065305.1
+Cyberlindnera jadinii NRRL Y-1542	Cjad	983966	NCBI	GCF_001661405.1
+Cyclocybe aegerita	Caeg	1973307	NCBI	GCA_902728275.1
+Cylindrobasidium torrendii FP15055 ss-10	Ctor	1314674	NCBI	GCA_000934385.1
+Cyphellophora europaea CBS 101466	Ceur	1220924	NCBI	GCF_000365145.1
+Cytospora leucostoma	Cleu	1230097	NCBI	GCA_003795295.1
+Dacryopinax primogenitus	Dpri	1858805	NCBI	GCF_000292625.1
+Daedalea quercina L-15889	Dque	1314783	NCBI	GCA_001632345.1
+Debaryomyces hansenii CBS767	Dhan	284592	NCBI	GCF_000006445.2
+Decorospora gaudefroyi	Dgau	184978	NCBI	GCA_010015605.1
+Dendrothele bispora CBS 962.96	Dbis	1314807	NCBI	GCA_004369135.1
+Dentipellis fragilis	Dfra	205917	NCBI	GCA_004679275.1
+Dichomitus squalens LYAD-421 SS1	Dsqu	732165	NCBI	GCF_000275845.1
+Didymella exigua CBS 183.55	Dexi	1150837	NCBI	GCF_010094145.1
+Diplocarpon rosae	Dros	946125	NCBI	GCA_032760415.1
+Diplodia corticola	Dcor	236234	NCBI	GCF_001883845.1
+Diplodia seriata	Dser	420778	NCBI	GCF_021436955.1
+Diutina rugosa	Drug	5481	NCBI	GCF_008704595.1
+Dothidotthia symphoricarpi CBS 119687	Dsym	1392245	NCBI	GCF_010015815.1
+Drechmeria coniospora	Dcon	98403	NCBI	GCF_001625195.1
+Drechslerella stenobrocha 248	Dste	1043628	NCBI	GCA_000525045.1
+Elaphomyces granulatus	Egra	519963	NCBI	GCA_002240705.1
+Emergomyces pasteurianus Ep9510	Epas	1447872	NCBI	GCA_001883825.1
+Emmonsia crescens	Ecre	73230	NCBI	GCA_002572855.1
+Endocarpon pusillum Z07020	Epus	1263415	NCBI	GCF_000464535.1
+Epicoccum nigrum	Enig	105696	NCBI	GCA_002116315.1
+Eremomyces bilateralis CBS 781.70	Ebil	1392243	NCBI	GCF_010015585.1
+Eremothecium cymbalariae DBVPG#7215	Ecym	931890	NCBI	GCF_000235365.1
+Eremothecium gossypii ATCC 10895	Egos	284811	NCBI	GCF_000091025.4
+Erysiphe necator	Enec	52586	NCBI	GCA_024703715.1
+Erysiphe pulchra	Epul	225359	NCBI	GCA_002918395.1
+Exidia glandulosa HHB12029	Egla	1314781	NCBI	GCA_001632375.1
+Exophiala aquamarina CBS 119918	Eaqu	1182545	NCBI	GCF_000709125.1
+Exophiala dermatitidis NIH/UT8656	Eder	858893	NCBI	GCF_000230625.1
+Exophiala mesophila	Emes	212818	NCBI	GCF_000836275.1
+Exophiala oligosperma	Eoli	215243	NCBI	GCF_000835515.1
+Exophiala sideris	Esid	1016849	NCBI	GCA_000835395.1
+Exophiala spinifera	Espi	91928	NCBI	GCF_000836115.1
+Exophiala xenobiotica	Exen	348802	NCBI	GCF_000835505.1
+Exserohilum turcica Et28A	Etur	671987	NCBI	GCF_000359705.1
+Fibroporia radiculosa	Frad	599839	NCBI	GCF_000313525.1
+Athelia psychrophila	Apsy	1759441	NCBI	GCA_001630335.1
+Fistulina hepatica ATCC 64428	Fhep	1128425	NCBI	GCA_000934395.1
+Fomitiporia mediterranea MF3/22	Fmed	694068	NCBI	GCF_000271605.1
+Rhodofomes roseus	Rros	34475	NCBI	GCF_022264815.1
+Fonsecaea erecta	Fere	1367422	NCBI	GCF_001651985.1
+Fonsecaea monophora	Fmon	254056	NCBI	GCF_001642475.1
+Fonsecaea multimorphosa CBS 102226	Fmul	1442371	NCBI	GCF_000836435.1
+Fonsecaea nubica	Fnub	856822	NCBI	GCF_001646965.1
+Fonsecaea pedrosoi CBS 271.37	Fped	1442368	NCBI	GCF_000835455.1
+Friedmanniomyces endolithicus	Fend	329885	NCBI	GCA_030411845.1
+Friedmanniomyces simplex	Fsim	329884	NCBI	GCA_005059865.1
+Fusarium ambrosium	Famb	131363	NCBI	GCA_003947045.1
+Fusarium coffeatum	Fcof	231269	NCBI	GCF_003316985.1
+Fusarium culmorum	Fcul	5516	NCBI	GCA_016952355.1
+Fusarium flagelliforme	Ffla	2675880	NCBI	GCF_020744385.1
+Fusarium floridanum	Fflo	1325733	NCBI	GCA_003947005.1
+Fusarium fujikuroi IMI 58289	Ffuj	1279085	NCBI	GCF_900079805.1
+Fusarium graminearum PH-1	Fgra	229533	NCBI	GCF_000240135.3
+Fusarium kuroshium	Fkur	2010991	NCBI	GCA_003698175.1
+Fusarium mangiferae	Fman	192010	NCBI	GCF_900044065.1
+Fusarium odoratissimum NRRL 54006	Fodo	1089451	NCBI	GCF_000260195.1
+Fusarium oxysporum Fo47	Foxy	660027	NCBI	GCF_013085055.1
+Fusarium poae	Fpoa	36050	NCBI	GCF_019609905.1
+Fusarium proliferatum ET1	Fpro	1227346	NCBI	GCF_900067095.1
+Fusarium pseudograminearum CS3096	Fpse	1028729	NCBI	GCF_000303195.2
+Fusarium solani	Fsol	169388	NCBI	GCF_023522795.1
+Fusarium venenatum	Fven	56646	NCBI	GCF_020744135.1
+Fusarium verticillioides 7600	Fver	334819	NCBI	GCF_000149555.1
+Ganoderma sinense ZZ0214-1	Gsin	1077348	NCBI	GCA_002760635.1
+Gelatoporia subvermispora B	Gsub	914234	NCBI	GCA_000320605.2
+Gigaspora margarita	Gmar	4874	NCBI	GCA_009809945.1
+Gigaspora rosea	Gros	44941	NCBI	GCA_003550325.1
+Glarea lozoyensis ATCC 20868	Gloz	1116229	NCBI	GCF_000409485.1
+Gloeophyllum trabeum ATCC 11539	Gtra	670483	NCBI	GCF_000344685.1
+Glomus cerebriforme	Gcer	658196	NCBI	GCA_003550305.1
+Glonium stellatum	Gste	574774	NCBI	GCA_001692915.1
+Golovinomyces cichoracearum	Gcic	62708	NCBI	GCA_003611235.1
+Gonapodya prolifera JEL478	Gpro	1344416	NCBI	GCA_001574975.1
+Grosmannia clavigera kw1407	Gcla	655863	NCBI	GCF_000143105.1
+Gymnopilus dilepis	Gdil	231916	NCBI	GCA_002938385.1
+Gymnopus androsaceus JB14	Gand	1447944	NCBI	GCA_009733575.1
+Collybiopsis luxurians FD-317 M1	Clux	944289	NCBI	GCA_000827265.1
+Hanseniaspora osmophila	Hosm	56408	NCBI	GCA_001747045.1
+Hanseniaspora uvarum	Huva	29833	NCBI	GCA_037102615.1
+Hebeloma cylindrosporum	Hcyl	76867	NCBI	GCA_000827355.1
+Helicocarpus griseus UAMH5409	Hgri	1447875	NCBI	GCA_002573585.1
+Heliocybe sulcata	Hsul	5364	NCBI	GCA_004369045.1
+Hericium alpestre	Halp	135208	NCBI	GCA_004681135.1
+Hesseltinella vesiculosa	Hves	101127	NCBI	GCA_002104935.1
+Heterobasidion irregulare TC 32-1	Hirr	747525	NCBI	GCF_000320585.1
+Hirsutella minnesotensis 3608	Hmin	1043627	NCBI	GCA_000956045.1
+Histoplasma capsulatum G186AR	Hcap	447093	NCBI	GCF_000150115.1
+Salinomyces thailandicus	Stha	706561	NCBI	GCA_005059885.1
+Hyaloscypha bicolor E	Hbic	1095630	NCBI	GCF_002865645.1
+Hyaloscypha variabilis F	Hvar	1149755	NCBI	GCA_002865655.1
+Hydnomerulius pinastri MD-312	Hpin	994086	NCBI	GCA_000827185.1
+Hyphopichia burtonii NRRL Y-1933	Hbur	984485	NCBI	GCF_001661395.1
+Jaapia argillacea MUCL 33604	Jarg	933084	NCBI	GCA_000697665.1
+Jaminaea rosea	Jros	1569628	NCBI	GCF_003144245.1
+Jimgerdemannia flammicorona	Jfla	994334	NCBI	GCA_003990745.1
+Kalmanozyma brasiliensis GHG001	Kbra	1365824	NCBI	GCF_000497045.1
+Kazachstania africana CBS 2517	Kafr	1071382	NCBI	GCF_000304475.1
+Huiozyma naganishii CBS 8797	Hnag	1071383	NCBI	GCF_000348985.1
+Kluyveromyces lactis	Klac	28985	NCBI	GCF_000002515.2
+Kluyveromyces marxianus DMKU3-1042	Kmar	1003335	NCBI	GCF_001417885.1
+Kockovaella imperatae	Kimp	4999	NCBI	GCF_002102565.1
+Komagataella pastoris	Kpas	4922	NCBI	GCA_001708105.1
+Komagataella phaffii GS115	Kpha	644223	NCBI	GCF_000027005.1
+Kuraishia capsulata CBS 1993	Kcap	1382522	NCBI	GCF_000576695.1
+Kwoniella bestiolae CBS 10118	Kbes	1296100	NCBI	GCF_000512585.2
+Kwoniella dejecticola CBS 10117	Kdej	1296121	NCBI	GCF_000512565.2
+Kwoniella heveanensis BCC8398	Khev	1296120	NCBI	GCA_000507405.3
+Kwoniella mangroviensis CBS 8507	Kman	1296122	NCBI	GCF_000507465.2
+Kwoniella pini CBS 10737	Kpin	1296096	NCBI	GCF_000512605.2
+Kwoniella shandongensis	Ksha	1734106	NCBI	GCF_008629635.2
+Laccaria amethystina LaAM-08-1	Lame	1095629	NCBI	GCA_000827195.1
+Laccaria bicolor S238N-H82	Lbic	486041	NCBI	GCF_000143565.1
+Lachancea dasiensis	Ldas	1072105	NCBI	GCA_900074725.1
+Lachancea fermentati	Lfer	4955	NCBI	GCA_900074765.1
+Lachancea lanzarotensis	Llan	1245769	NCBI	GCF_000938715.1
+Lachancea meyersii CBS 8951	Lmey	1266667	NCBI	GCA_900074715.1
+Lachancea mirantina	Lmir	1230905	NCBI	GCA_900074745.1
+Lachancea nothofagi CBS 11611	Lnot	1266666	NCBI	GCA_900074755.1
+Lachancea thermotolerans CBS 6340	Lthe	559295	NCBI	GCF_000142805.1
+Lachnellula arida	Lari	1316785	NCBI	GCA_007821475.1
+Lachnellula cervina	Lcer	1316786	NCBI	GCA_007825325.1
+Lachnellula hyalina	Lhya	1316788	NCBI	GCF_007821495.1
+Lachnellula occidentalis	Locc	215460	NCBI	GCA_007821535.1
+Lachnellula subtilissima	Lsub	602034	NCBI	GCA_007821545.1
+Lachnellula suecica	Lsue	602035	NCBI	GCA_007825345.1
+Lachnellula willkommii	Lwil	215461	NCBI	GCA_007825375.1
+Laetiporus sulphureus 93-53	Lsul	1314785	NCBI	GCF_001632365.1
+Lasiodiplodia theobromae	Lasthe	45133	NCBI	GCF_012971845.1
+Lentinula edodes	Ledo	5353	NCBI	GCF_021015755.1
+Lentinus tigrinus ALCF2SS1-7	Ltig	1328758	NCBI	GCF_003813185.1
+Lentithecium fluviatile CBS 122367	Lflu	1168545	NCBI	GCA_010405425.1
+Lepidopterella palustris CBS 459.81	Lpal	1314670	NCBI	GCA_001692735.1
+Lineolata rhizophorae	Lrhi	578093	NCBI	GCA_010093515.1
+Lobosporangium transversale	Ltra	64571	NCBI	GCF_002105155.1
+Lodderomyces elongisporus	Lelo	36914	NCBI	GCF_030384665.1
+Lophiostoma macrostomum CBS 122681	Lmac	1314788	NCBI	GCA_010405375.1
+Lophiotrema nucula	Lnuc	690887	NCBI	GCA_010015825.1
+Lophium mytilinum	Lmyt	390894	NCBI	GCA_010093605.1
+Magnaporthiopsis poae ATCC 64411	Mpoa	644358	NCBI	GCA_000193285.1
+Malassezia pachydermatis	Mpac	77020	NCBI	GCF_001278385.1
+Malassezia restricta	Mres	76775	NCBI	GCF_003290485.1
+Malassezia sympodialis ATCC 42132	Msym	1230383	NCBI	GCF_000349305.1
+Malassezia vespertilionis	Mves	2020962	NCBI	GCF_029542925.1
+Diplocarpon coronariae	Dipcor	2795749	NCBI	GCA_964058965.1
+Massarina eburnea CBS 473.64	Mebu	1395130	NCBI	GCA_010093635.1
+Meira miltonrushii	Mmil	1280837	NCBI	GCF_003144205.1
+Melampsora larici-populina 98AG31	Mlar	747676	NCBI	GCF_000204055.1
+Melanomma pulvis-pyrius CBS 109.77	Mpul	1314802	NCBI	GCA_010093585.1
+Metarhizium acridum	Macr	92637	NCBI	GCF_019434415.1
+Metarhizium album ARSEF 1941	Malb	1081103	NCBI	GCF_000804445.1
+Metarhizium anisopliae	Mani	5530	NCBI	GCA_013305495.1
+Metarhizium hybridum	Mhyb	3151832	NCBI	GCA_000814975.1
+Metarhizium brunneum	Mbru	500148	NCBI	GCF_013426205.1
+Metarhizium guizhouense ARSEF 977	Mgui	1276136	NCBI	GCA_000814955.1
+Metarhizium robertsii ARSEF 23	Mrob	655844	NCBI	GCF_000187425.2
+Metschnikowia bicuspidata var. bicuspidata NRRL YB-4993	Mbic	869754	NCBI	GCF_001664035.1
+Meyerozyma guilliermondii ATCC 6260	Meygui	294746	NCBI	GCF_000149425.1
+Microbotryum saponariae	Msap	289078	NCBI	GCA_900102585.1
+Microdochium bolleyi	Mbol	196109	NCBI	GCA_001566295.1
+Microsporum canis CBS 113480	Mcan	554155	NCBI	GCF_000151145.1
+Microthyrium microscopicum	Mmic	703497	NCBI	GCA_010405405.1
+Mixia osmundae IAM 14324	Mosm	764103	NCBI	GCF_000708205.1
+Moelleriella libera RCEF 2490	Mlib	1081109	NCBI	GCA_001636675.1
+Moesziomyces antarcticus	Mant	84753	NCBI	GCF_000747765.1
+Monascus purpureus	Mpur	5098	NCBI	GCA_025999795.1
+Monilinia fructicola	Mfru	38448	NCBI	GCA_008692225.1
+Monilinia laxa	Mlax	61186	NCBI	GCA_009299455.1
+Moniliophthora roreri	Mror	221103	NCBI	GCA_001466705.2
+Monosporascus cannonballus	Moncan	155416	NCBI	GCA_004154925.1
+Monosporascus ibericus	Mibe	155417	NCBI	GCA_004154915.1
+Linnemannia elongata	Linelo	310910	NCBI	GCA_036320915.1
+Podila verticillata NRRL 6337	Pver	1069443	NCBI	GCA_000739165.1
+Mucor ambiguus	Mamb	91626	NCBI	GCA_000950595.1
+Mucor lusitanicus	Mlus	29924	NCBI	GCA_040256725.1
+Mytilinidion resinicola	Mytres	574789	NCBI	GCF_010093595.1
+Nadsonia fulvescens var. elongata DSM 6958	Nful	857566	NCBI	GCA_001661315.1
+Naematelia encephala	Nenc	71784	NCBI	GCA_002105065.1
+Nakaseomyces glabratus	Ngla	5478	NCBI	GCF_010111755.1
+Nannizzia gypsea CBS 118893	Ngyp	535722	NCBI	GCF_000150975.2
+Naumovozyma castellii	Ncas	27288	NCBI	GCF_000237345.1
+Naumovozyma dairenensis CBS 421	Ndai	1071378	NCBI	GCF_000227115.2
+Neocallimastix californiae	Ncal	1754190	NCBI	GCA_002104975.1
+Neohortaea acidophila	Naci	245834	NCBI	GCF_010093505.1
+Neolecta irregularis DAH-3	Nirr	1198029	NCBI	GCA_001929475.1
+Neolentinus lepideus HHB14362 ss-1	Nlep	1314782	NCBI	GCA_001632425.1
+Aspergillus fischeri NRRL 181	Afis	331117	NCBI	GCF_000149645.3
+Neurospora crassa OR74A	Ncra	367110	NCBI	GCF_000182925.2
+Neurospora tetrasperma FGSC 2508	Ntet	510951	NCBI	GCF_000213175.1
+Obba rivulosa	Oriv	1052685	NCBI	GCA_001687445.1
+Ogataea parapolymorpha DL-1	Opar	871575	NCBI	GCF_000187245.1
+Ogataea polymorpha	Opol	460523	NCBI	GCF_001664045.1
+Oidiodendron maius Zn	Omai	913774	NCBI	GCA_000827325.1
+Erysiphe neolycopersici	Eneo	212602	NCBI	GCA_003610855.1
+Ophiobolus disseminans	Odis	1469910	NCBI	GCA_010093685.1
+Ophiocordyceps australis	Oaus	1399860	NCBI	GCA_002591415.1
+Ophiocordyceps camponoti-leonardi (nom. inval.)	Ocaleo	2039875	NCBI	GCA_003339455.1
+Ophiocordyceps camponoti-rufipedis	Ocaruf	2004952	NCBI	GCA_002591395.1
+Ophiocordyceps camponoti-saundersi (nom. inval.)	Ocasau	2039874	NCBI	GCA_003339415.1
+Ophiocordyceps polyrhachis-furcata BCC 54312	Ophpol	1330021	NCBI	GCA_001633055.2
+Ophiocordyceps unilateralis	Ouni	268505	NCBI	GCA_001272575.2
+Orbilia oligospora ATCC 24927	Ooli	756982	NCBI	GCF_000225545.1
+Pachysolen tannophilus NRRL Y-2460	Ptan	669874	NCBI	GCA_001661245.1
+Paecilomyces variotii	Pvar	264951	NCBI	GCF_004022145.1
+Paracoccidioides brasiliensis Pb18	Pbra	502780	NCBI	GCF_000150735.1
+Paracoccidioides lutzii Pb01	Plut	502779	NCBI	GCF_000150705.2
+Paramicrosporidium saccamoebae	Psac	1246581	NCBI	GCA_002794465.1
+Paraphaeosphaeria sporulosa	Pspo	1460663	NCBI	GCF_001642045.1
+Paxillus involutus ATCC 200175	Pinv	664439	NCBI	GCA_000827475.1
+Paxillus rubicundulus Ve08.2h10	Prub	930991	NCBI	GCA_000827395.1
+Peltaster fructicola	Pfru	286661	NCBI	GCA_001592805.2
+Penicilliopsis zonata CBS 506.65	Pzon	1073090	NCBI	GCF_001890105.1
+Penicillium antarcticum	Pant	416450	NCBI	GCF_028974205.1
+Penicillium arizonense	Pari	1835702	NCBI	GCF_001773325.1
+Penicillium brasilianum	Penbra	104259	NCBI	GCA_001048715.1
+Penicillium chrysogenum	Pchr	5076	NCBI	GCF_028827035.1
+Penicillium coprophilum	Pcop	36646	NCBI	GCF_028826855.1
+Penicillium expansum	Pexp	27334	NCBI	GCF_000769745.1
+Penicillium flavigenum	Pfla	254877	NCBI	GCA_002072365.1
+Penicillium freii	Pfre	48697	NCBI	GCA_028827385.1
+Penicillium griseofulvum	Pgri	5078	NCBI	GCF_001561935.1
+Penicillium nalgiovense	Pnal	60175	NCBI	GCA_911456355.1
+Penicillium occitanis (nom. inval.)	Pocc	290292	NCBI	GCA_002382855.1
+Penicillium oxalicum	Poxa	69781	NCBI	GCF_001723175.1
+Penicillium roqueforti	Proq	5082	NCBI	GCF_015533775.1
+Penicillium rubens	Penrub	1108849	NCBI	GCF_028828025.1
+Penicillium solitum	Psol	60172	NCBI	GCF_028829755.1
+Penicillium subrubescens	Psub	1316194	NCBI	GCF_028828155.1
+Penicillium vulpinum	Pvul	29845	NCBI	GCF_028829585.1
+Periconia macrospinosa	Pmac	97972	NCBI	GCA_003073855.1
+Pestalotiopsis fici W106-1	Pfic	1229662	NCBI	GCF_000516985.1
+Phaeoacremonium minimum UCRPA7	Pmin	1286976	NCBI	GCF_000392275.1
+Phaeomoniella chlamydospora	Pchl	158046	NCBI	GCA_001006345.1
+Parastagonospora nodorum SN15	Pnod	321614	NCBI	GCF_000146915.1
+Phanerochaete carnosa HHB-10118-sp	Pcar	650164	NCBI	GCF_000300595.1
+Phellinidium pouzarii	Ppou	167371	NCBI	GCA_004802695.1
+Mollisia scopiformis	Msco	149040	NCBI	GCF_001500285.1
+Phialocephala subalpina	Phisub	576137	NCBI	GCA_900073065.1
+Cyphellophora attinorum	Catt	1664694	NCBI	GCF_001299255.1
+Hermanssonia centrifuga	Hcen	98765	NCBI	GCA_001913855.2
+Phlebiopsis gigantea 11061_1 CR5-6	Pgig	745531	NCBI	GCA_000832265.1
+Pichia kudriavzevii	Pkud	4909	NCBI	GCF_003054445.1
+Pichia membranifaciens NRRL Y-2026	Pmem	763406	NCBI	GCF_001661235.1
+Piloderma croceum F 1598	Pcro	765440	NCBI	GCA_000827315.1
+Piromyces finnis	Pfin	1754191	NCBI	GCA_002104945.1
+Pisolithus microcarpus	Pmic	178872	NCBI	GCA_024613185.1
+Pisolithus tinctorius	Ptin	37468	NCBI	GCA_024663395.1
+Plenodomus tracheiphilus IPT5	Ptra	1408161	NCBI	GCA_010093695.1
+Pleomassaria siparia CBS 279.74	Psip	1314801	NCBI	GCA_010093715.1
+Pleurotus ostreatus	Post	5322	NCBI	GCF_014466165.1
+Plicaturopsis crispa FD-325 SS-3	Pcri	944288	NCBI	GCA_000827205.1
+Pluteus cervinus	Pcer	181527	NCBI	GCA_004369065.1
+Pneumocystis carinii B80	Pnecar	1408658	NCBI	GCF_001477545.1
+Pneumocystis jirovecii RU7	Pjir	1408657	NCBI	GCF_001477535.1
+Pneumocystis murina B123	Pmur	1069680	NCBI	GCF_000349005.2
+Pochonia chlamydosporia 170	Pocchl	1380566	NCBI	GCF_001653235.2
+Podospora anserina S mat+	Pans	515849	NCBI	GCF_000226545.1
+Polyporus arcularius HHB13444	Parc	1314778	NCBI	GCA_004369055.1
+Polytolypa hystricis UAMH7299	Phys	1447883	NCBI	GCA_002573605.1
+Postia placenta MAD-698-R-SB12	Ppla	670580	NCBI	GCF_002117355.1
+Powellomyces hirtus	Phir	109895	NCBI	GCA_025526995.1
+Protomyces lactucae-debilis	Plac	2754530	NCBI	GCF_002105105.1
+Candolleomyces aberdarensis	Cabe	2316362	NCBI	GCA_004126415.1
+Pseudocercospora eumusae	Peum	321146	NCBI	GCA_001578235.1
+Pseudocercospora fijiensis CIRAD86	Pfij	383855	NCBI	GCF_000340215.1
+Pseudocercospora musae	Pmus	113226	NCBI	GCA_001578225.1
+Pseudogymnoascus destructans	Pdes	655981	NCBI	GCF_001641265.1
+Pseudogymnoascus verrucosus	Psever	342668	NCBI	GCF_001662655.1
+Pseudomassariella vexata	Pvex	1141098	NCBI	GCF_002105095.1
+Pseudomicrostroma glucosiphilum	Pglu	1684307	NCBI	GCF_003144135.1
+Pseudovirgaria hyperparasitica	Phyp	470096	NCBI	GCF_010093815.1
+Pseudozyma flocculosa PF-1	Pflo	1277687	NCBI	GCF_000417875.1
+Pseudozyma hubeiensis SY62	Phub	1305764	NCBI	GCF_000403515.1
+Psilocybe cyanescens	Pcya	93625	NCBI	GCA_002938375.1
+Pterula gracilis	Pgra	1884261	NCBI	GCA_004369125.1
+Puccinia coronata f. sp. avenae	Pcor	200324	NCBI	GCA_002873125.1
+Puccinia graminis f. sp. tritici CRL 75-36-700-3	Pucgra	418459	NCBI	GCF_000149925.1
+Puccinia sorghi	Psor	27349	NCBI	GCA_001263375.1
+Puccinia striiformis f. sp. tritici	Pstr	168172	NCBI	GCF_021901695.1
+Puccinia triticina	Ptri	208348	NCBI	GCF_026914185.1
+Punctularia strigosozonata HHB-11173 SS5	Punstr	741275	NCBI	GCF_000264995.1
+Purpureocillium lilacinum	Plil	33203	NCBI	GCF_023168085.1
+Pyrenophora seminiperda CCB06	Psem	1302712	NCBI	GCA_000465215.2
+Pyrenophora tritici-repentis	Pyrtri	45151	NCBI	GCF_003171515.1
+Pyricularia oryzae 70-15	Pory	242507	NCBI	GCF_000002495.2
+Pyrrhoderma noxium	Pnox	2282107	NCBI	GCA_002287475.2
+Cryoendolithus antarcticus	Cant	1507870	NCBI	GCA_002077065.1
+Ramularia collo-cygni	Rcol	112498	NCBI	GCF_900074925.1
+Rasamsonia emersonii CBS 393.64	Reme	1408163	NCBI	GCF_000968595.1
+Rhinocladiella mackenziei CBS 650.93	Rmac	1442369	NCBI	GCF_000835555.1
+Rhizoclosmatium globosum	Rglo	329046	NCBI	GCA_002104985.1
+Rhizoctonia solani	Rsol	456999	NCBI	GCF_016906535.1
+Rhizophagus irregularis	Rirr	588596	NCBI	GCF_026210795.1
+Rhizopogon vesiculosus	Rves	180088	NCBI	GCA_001882365.1
+Rhizopogon vinicolor AM-OR11-026	Rvin	1314800	NCBI	GCA_001658105.1
+Rhizopus azygosporus	Razy	86630	NCBI	GCA_003325435.1
+Rhizopus delemar RA 99-880	Rdel	246409	NCBI	GCF_000149305.1
+Rhizopus microsporus ATCC 52813	Rmic	1340429	NCBI	GCF_002708625.1
+Rhodotorula diobovata	Rdio	5288	NCBI	GCA_006352295.1
+Rhodotorula graminis WP1	Rgra	578459	NCBI	GCF_001329695.1
+Rhodotorula taiwanensis	Rtai	741276	NCBI	GCA_002922495.1
+Rhodotorula toruloides NP11	Rtor	1130832	NCBI	GCF_000320785.1
+Rhynchosporium agropyri	Ragr	914238	NCBI	GCA_900074905.1
+Rhynchosporium graminicola	Rhygra	2792576	NCBI	GCA_046529785.1
+Rhynchosporium secalis	Rsec	38038	NCBI	GCA_900074895.1
+Rickenella mellea	Rmel	50990	NCBI	GCA_004355085.1
+Rozella allomycis CSF55	Rall	988480	NCBI	GCA_000442015.1
+Saccharomyces cerevisiae S288C	Scer	559292	NCBI	GCF_000146045.2
+Saccharomyces eubayanus	Seub	1080349	NCBI	GCF_001298625.1
+Saccharomyces kudriavzevii IFO 1802	Skud	226230	NCBI	GCF_947243775.1
+Saccharomyces pastorianus	Spas	27292	NCBI	GCA_011022315.1
+Saccharomycodes ludwigii	Slud	36035	NCBI	GCF_020623625.1
+Saitoella complicata NRRL Y-17804	Scom	698492	NCBI	GCF_001661265.1
+Saitozyma podzolica	Spod	1890683	NCBI	GCA_003942215.1
+Scedosporium apiospermum	Sapi	563466	NCBI	GCF_000732125.1
+Scheffersomyces stipitis CBS 6054	Ssti	322104	NCBI	GCF_000209165.1
+Schizophyllum commune H4-8	Schcom	578458	NCBI	GCF_000143185.2
+Schizopora paradoxa	Spar	27342	NCBI	GCA_001020605.1
+Schizosaccharomyces cryophilus OY26	Scry	653667	NCBI	GCF_000004155.1
+Schizosaccharomyces japonicus yFS275	Sjap	402676	NCBI	GCF_000149845.2
+Schizosaccharomyces octosporus yFS286	Soct	483514	NCBI	GCF_000150505.1
+Schizosaccharomyces pombe	Spom	4896	NCBI	GCF_000002945.2
+Sclerotinia borealis F-4128	Sbor	1432307	NCBI	GCA_000503235.1
+Sclerotinia sclerotiorum 1980 UF-70	Sscl	665079	NCBI	GCF_000146945.2
+Scytalidium lignicola	Slig	5539	NCBI	GCA_002812745.2
+Serendipita indica DSM 11827	Sind	1109443	NCBI	GCA_910890315.1
+Serendipita vermifera MAFF 305830	Sver	933852	NCBI	GCA_000827415.1
+Serpula lacrymans var. lacrymans S7.9	Slac	578457	NCBI	GCF_000218685.1
+Sistotremastrum niveocremeum HHB9708	Sniv	1314777	NCBI	GCA_001630475.1
+Sistotremastrum suecicum HHB10207 ss-3	Ssue	1314776	NCBI	GCA_001632355.1
+Sodiomyces alkalinus F11	Salk	1314773	NCBI	GCF_003711515.1
+Sordaria macrospora	Smac	5147	NCBI	GCF_033870435.1
+Sparassis crispa	Scri	139825	NCBI	GCF_003851025.1
+Spathaspora passalidarum NRRL Y-27907	Spapas	619300	NCBI	GCF_000223485.1
+Sphaceloma murrayae	Smur	2082308	NCBI	GCA_002895985.1
+Sphaerobolus stellatus SS14	Sste	990650	NCBI	GCA_000827215.1
+Sphaerosporella brunnea	Sbru	1250544	NCBI	GCA_008704415.1
+Sphaerulina musiva SO2202	Smus	692275	NCBI	GCF_000320565.1
+Sporisorium graminicola	Sgra	280036	NCBI	GCF_005498985.1
+Sporisorium reilianum f. sp. reilianum	Srei	72559	NCBI	GCA_900162835.1
+Sporormia fimetaria CBS 119925	Sfim	1340428	NCBI	GCA_010093795.1
+Sporothrix brasiliensis 5110	Sbra	1398154	NCBI	GCF_000820605.1
+Niveomyces insectorum RCEF 264	Nins	1081102	NCBI	GCA_001636815.1
+Sporothrix schenckii 1099-18	Ssch	1397361	NCBI	GCF_000961545.1
+Stachybotrys chlorohalonatus IBT 40285	Schl	1283841	NCBI	GCA_000732775.1
+Steccherinum ochraceum	Soch	92696	NCBI	GCA_004332605.1
+Stemphylium lycopersici	Slyc	183478	NCBI	GCA_003268315.1
+Stereum hirsutum FP-91666 SS1	Shir	721885	NCBI	GCF_000264905.1
+Sugiyamaella lignohabitans	Suglig	796027	NCBI	GCF_001640025.1
+Suhomyces tanzawaensis NRRL Y-17324	Stan	984487	NCBI	GCF_001661415.1
+Suillus luteus UH-Slu-Lm8-n1	Slut	930992	NCBI	GCA_000827255.1
+Syncephalastrum racemosum	Srac	13706	NCBI	GCA_002105135.1
+Synchytrium endobioticum	Send	286115	NCBI	GCA_006535955.1
+Synchytrium microbalum	Smic	1806994	NCBI	GCF_006535985.1
+Talaromyces amestolkiae	Tame	1196081	NCBI	GCF_001896365.1
+Talaromyces atroroseus	Tatr	1441469	NCBI	GCF_001907595.1
+Talaromyces islandicus	Tisl	28573	NCBI	GCA_000985935.1
+Talaromyces marneffei	Tmar	37727	NCBI	GCF_009556855.1
+Talaromyces rugulosus	Trug	121627	NCBI	GCF_013368755.1
+Talaromyces stipitatus ATCC 10500	Tsti	441959	NCBI	GCF_000003125.1
+Teratosphaeria nubilosa	Tnub	161662	NCBI	GCA_010093825.1
+Terfezia boudieri ATCC MYA-4762	Tbou	1051890	NCBI	GCA_003788615.2
+Testicularia cyperi	Tcyp	1882483	NCBI	GCA_003144125.1
+Henningerozyma blattae CBS 6284	Hbla	1071380	NCBI	GCF_000315915.1
+Tetrapisispora phaffii CBS 4417	Tpha	1071381	NCBI	GCF_000236905.1
+Thermochaetoides thermophila DSM 1495	Tthe	759272	NCBI	GCF_000221225.1
+Thermothelomyces thermophilus ATCC 42464	Thethe	573729	NCBI	GCF_000226095.1
+Thermothielavioides terrestris NRRL 8126	Tter	578455	NCBI	GCF_000226115.1
+Thyridium curvatum	Tcur	1093900	NCBI	GCF_004353045.1
+Tilletiaria anomala UBC 951	Tano	1037660	NCBI	GCF_000711695.1
+Tilletiopsis washingtonensis	Twas	58919	NCBI	GCF_003144115.1
+Tolypocladium capitatum	Tcap	45235	NCBI	GCA_002901185.1
+Tolypocladium ophioglossoides CBS 100239	Toph	1163406	NCBI	GCA_001189435.1
+Tolypocladium paradoxum	Tpar	94208	NCBI	GCA_002916505.1
+Torrubiella hemipterigena	Them	1531966	NCBI	GCA_000825705.1
+Tortispora caseinolytica NRRL Y-17796	Tcas	767744	NCBI	GCA_001661475.1
+Torulaspora delbrueckii	Tdel	4950	NCBI	GCF_000243375.1
+Torulaspora globosa	Tglo	48254	NCBI	GCF_014133895.1
+Trametes cinnabarina	Tcin	5643	NCBI	GCA_000765035.1
+Trametes coccinea BRFM310	Tcoc	1353009	NCBI	GCA_002092935.1
+Trametes pubescens	Tpub	154538	NCBI	GCA_001895945.1
+Trametes versicolor FP-101664 SS1	Tver	717944	NCBI	GCF_000271585.1
+Trematosphaeria pertusa	Tper	390896	NCBI	GCF_010094035.1
+Tremella mesenterica DSM 1558	Tmes	578456	NCBI	GCF_000271645.1
+Trichodelitschia bisporula	Tbis	703511	NCBI	GCA_010356995.1
+Trichoderma asperellum	Tasp	101201	NCBI	GCF_020647865.1
+Trichoderma atroviride	Triatr	63577	NCBI	GCF_020647795.1
+Trichoderma citrinoviride	Tcit	58853	NCBI	GCF_003025115.1
+Trichoderma gamsii	Tgam	398673	NCBI	GCF_001481775.2
+Trichoderma guizhouense	Tgui	1491466	NCBI	GCA_002022785.1
+Trichoderma harzianum CBS 226.95	Thar	983964	NCBI	GCF_003025095.1
+Trichoderma parareesei	Tripar	858221	NCBI	GCA_001050175.1
+Trichoderma reesei QM6a	Tree	431241	NCBI	GCF_000167675.1
+Trichoderma virens Gv29-8	Tvir	413071	NCBI	GCF_000170995.1
+Trichophyton benhamiae CBS 112371	Tben	663331	NCBI	GCF_000151125.1
+Trichophyton equinum CBS 127.97	Tequ	559882	NCBI	GCA_000151175.1
+Trichophyton rubrum CBS 118892	Trub	559305	NCBI	GCF_000151425.1
+Trichophyton verrucosum HKI 0517	Triver	663202	NCBI	GCF_000151505.1
+Trichosporon asahii var. asahii CBS 2479	Tasa	1186058	NCBI	GCF_000293215.1
+Tuber borchii	Tbor	42251	NCBI	GCA_003070745.1
+Tuber magnatum	Tmag	42249	NCBI	GCA_003182015.1
+Tuber melanosporum	Tmel	39416	NCBI	GCF_000151645.1
+Tulasnella calospora MUT 4182	Tcal	1051891	NCBI	GCA_000827465.1
+Uncinocarpus reesii 1704	Uree	336963	NCBI	GCF_000003515.1
+Ustilaginoidea virens	Uvir	1159556	NCBI	GCF_000687475.1
+Ustilago bromivora	Ubro	307758	NCBI	GCA_900080155.1
+Ustilago hordei	Uhor	120017	NCBI	GCF_900519145.1
+Mycosarcoma maydis	Mmay	5270	NCBI	GCF_000328475.2
+Ustilago trichophora	Utri	86804	NCBI	GCA_900323505.1
+Cytospora schulzeri	Csch	448051	NCBI	GCA_003795315.1
+Vanderwaltozyma polyspora DSM 70294	Vpol	436907	NCBI	GCF_000150035.1
+Vanrija humicola	Vhum	5417	NCBI	GCA_008065275.1
+Venturia effusa	Veff	50376	NCBI	GCA_007735645.1
+Venturia nashicola	Vnas	86259	NCBI	GCA_004522665.1
+Venustampulla echinocandica	Vech	2656787	NCBI	GCF_003357145.1
+Verruconis gallopava	Vgal	253628	NCBI	GCF_000836295.1
+Verticillium alfalfae VaMs.102	Valf	526221	NCBI	GCF_000150825.1
+Verticillium dahliae VdLs.17	Vdah	498257	NCBI	GCF_000150675.1
+Violaceomyces palustris	Vpal	1673888	NCBI	GCA_003144235.1
+Viridothelium virens	Vvir	1048519	NCBI	GCA_010094025.1
+Wallemia hederae	Whed	1540922	NCBI	GCA_004918325.1
+Wallemia ichthyophaga EXF-994	Wich	1299270	NCBI	GCF_000400465.1
+Wallemia mellicola CBS 633.66	Wmel	671144	NCBI	GCF_000263375.1
+Westerdykella ornata	Worn	318751	NCBI	GCF_010094085.1
+Wickerhamiella sorbophila	Wsor	45607	NCBI	GCF_002251995.1
+Wickerhamomyces anomalus NRRL Y-366-8	Wano	683960	NCBI	GCF_001661255.1
+Wickerhamomyces ciferrii	Wcif	1041607	NCBI	GCF_000313485.1
+Xylaria flabelliformis	Xfla	2512241	NCBI	GCA_007182795.1
+Xylaria multiplex	Xmul	323545	NCBI	GCA_011057905.1
+Xylona heveae TC161	Xhev	1328760	NCBI	GCF_001619985.1
+Yamadazyma tenuis	Yten	2315449	NCBI	GCF_029203305.1
+Yarrowia lipolytica	Ylip	4952	NCBI	GCF_001761485.1
+Zasmidium cellare ATCC 36951	Zcel	1080233	NCBI	GCF_010093935.1
+Zopfia rhizophila CBS 207.26	Zrhi	1314779	NCBI	GCA_010093925.1
+Zygosaccharomyces parabailii	Zpar	1365886	NCBI	GCA_001984395.2
+Zygosaccharomyces rouxii	Zrou	4956	NCBI	GCF_000026365.1
+Zygotorulaspora mrakii	Zmra	42260	NCBI	GCF_013402915.1
+Zymoseptoria tritici IPO323	Ztri	336722	NCBI	GCF_000219625.1
+Acanthamoeba castellanii str. Neff	Acas	1257118	NCBI	GCF_000313135.1
+Achlya hypogyna	Ahyp	1202772	NCBI	GCA_002081595.1
+Aphanomyces astaci	Aast	112090	NCBI	GCF_000520075.1
+Aphanomyces invadans	Ainv	157072	NCBI	GCF_000520115.1
+Aureococcus anophagefferens	Aano	44056	NCBI	GCF_000186865.1
+Babesia bovis T2Bo	Bbov	484906	NCBI	GCF_000165395.2
+Capsaspora owczarzaki ATCC 30864	Cowc	595528	NCBI	GCF_000151315.2
+Cavenderia fasciculata	Cfas	261658	NCBI	GCF_000203815.1
+Dictyostelium discoideum AX4	Ddis	352472	NCBI	GCF_000004695.1
+Dictyostelium purpureum	Dpur	5786	NCBI	GCF_000190715.1
+Ectocarpus siliculosus	Esil	2880	NCBI	GCA_000310025.1
+Emiliania huxleyi CCMP1516	Ehux	280463	NCBI	GCF_000372725.1
+Entamoeba dispar SAW760	Edis	370354	NCBI	GCF_000209125.1
+Entamoeba histolytica HM-1:IMSS	Ehis	294381	NCBI	GCF_000208925.1
+Fonticula alba	Falb	691883	NCBI	GCF_000388065.1
+Guillardia theta CCMP2712	Gthe	905079	NCBI	GCF_000315625.1
+Ichthyophthirius multifiliis	Imul	5932	NCBI	GCF_000220395.1
+Leishmania donovani	Ldon	5661	NCBI	GCF_000227135.1
+Leishmania infantum JPCM5	Linf	435258	NCBI	GCF_000002875.2
+Leishmania major strain Friedlin	Lmaj	347515	NCBI	GCF_000002725.2
+Leishmania panamensis	Lpan	5679	NCBI	GCF_000755165.1
+Leptomonas pyrrhocoris	Lpyr	157538	NCBI	GCF_001293395.1
+Leptomonas seymouri	Lsey	5684	NCBI	GCA_001299535.1
+Monosiga brevicollis MX1	Mbre	431895	NCBI	GCF_000002865.3
+Naegleria gruberi	Ngru	5762	NCBI	GCF_000004985.1
+Paramecium tetraurelia	Ptet	5888	NCBI	GCF_000165425.1
+Peronospora effusa	Peff	542832	NCBI	GCA_021491655.1
+Phaeodactylum tricornutum CCAP 1055/1	Phatri	556484	NCBI	GCF_000150955.2
+Phytophthora cactorum	Pcac	29920	NCBI	GCA_016864655.1
+Phytophthora infestans T30-4	Pinf	403677	NCBI	GCF_000142945.1
+Phytophthora megakarya	Pmeg	4795	NCBI	GCA_002215365.1
+Phytophthora nicotianae INRA-310	Pnic	761204	NCBI	GCF_000247585.1
+Phytophthora ramorum	Pram	164328	NCBI	GCF_020800215.1
+Phytophthora sojae	Psoj	67593	NCBI	GCF_000149755.1
+Planoprotostelium fungivorum	Pfun	1890364	NCBI	GCA_003024175.1
+Plasmodium berghei ANKA	Pber	5823	NCBI	GCF_900002375.2
+Plasmodium chabaudi chabaudi	Pcha	31271	NCBI	GCF_900002335.3
+Plasmodium coatneyi	Pcoa	208452	NCBI	GCF_001680005.1
+Plasmodium falciparum 3D7	Pfal	36329	NCBI	GCF_000002765.6
+Plasmodium fragile	Pfra	5857	NCBI	GCF_000956335.1
+Plasmodium gaboni	Pgab	647221	NCBI	GCF_001602025.1
+Plasmodium gallinaceum	Pgal	5849	NCBI	GCF_900005855.1
+Plasmodium gonderi	Pgon	77519	NCBI	GCF_002157705.1
+Plasmodium inui San Antonio 1	Pinu	1237626	NCBI	GCF_000524495.1
+Plasmodium knowlesi strain H	Pkno	5851	NCBI	GCF_000006355.2
+Plasmodium malariae	Pmal	5858	NCBI	GCF_900090045.1
+Plasmodium reichenowi	Prei	5854	NCBI	GCF_001601855.1
+Plasmodium relictum	Prel	85471	NCBI	GCF_900005765.1
+Plasmodium vinckei vinckei	Pvin	54757	NCBI	GCF_900681995.1
+Plasmodium vivax	Pviv	5855	NCBI	GCF_000002415.2
+Plasmodium yoelii	Pyoe	5861	NCBI	GCF_900002385.2
+Plasmopara halstedii	Phal	4781	NCBI	GCF_900000015.1
+Pseudocohnilembus persalinus	Pper	266149	NCBI	GCA_001447515.1
+Pseudo-nitzschia multistriata	Pmul	183589	NCBI	GCA_900660405.1
+Saprolegnia diclina VS20	Sdic	1156394	NCBI	GCF_000281045.1
+Saprolegnia parasitica CBS 223.65	Sappar	695850	NCBI	GCF_000151545.1
+Sphaeroforma arctica JP610	Sarc	667725	NCBI	GCF_001186125.1
+Stentor coeruleus	Scoe	5963	NCBI	GCA_001970955.1
+Stylonychia lemnae	Slem	5949	NCBI	GCA_000751175.1
+Symbiodinium microadriaticum	Symmic	2951	NCBI	GCA_001939145.1
+Tetrahymena thermophila SB210	Tetthe	312017	NCBI	GCF_000189635.1
+Thalassiosira pseudonana CCMP1335	Tpse	296543	NCBI	GCF_000149405.2
+Thecamonas trahens ATCC 50062	Ttra	461836	NCBI	GCF_000142905.1
+Theileria equi strain WA	Theequ	1537102	NCBI	GCF_000342415.1
+Theileria orientalis strain Shintoku	Tori	869250	NCBI	GCF_000740895.1
+Thraustotheca clavata	Tcla	74557	NCBI	GCA_002081575.1
+Tieghemostelium lacteum	Tlac	361077	NCBI	GCA_001606155.1
+Toxoplasma gondii ME49	Tgon	508771	NCBI	GCF_000006565.2
+Tritrichomonas foetus	Tfoe	1144522	NCBI	GCF_001839685.1
+Trypanosoma brucei brucei TREU927	Tbru	185431	NCBI	GCF_000002445.2
+Trypanosoma conorhini	Tcon	83891	NCBI	GCF_003719485.1
+Trypanosoma cruzi	Tcru	5693	NCBI	GCF_000209065.1
+Trypanosoma equiperdum	Tryequ	5694	NCBI	GCF_001457755.1
+Trypanosoma rangeli	Tran	5698	NCBI	GCF_003719475.1
+Trypanosoma theileri	Trythe	67003	NCBI	GCF_002087225.1
+Chondrus crispus	Ccri	2769	NCBI	GCF_000350225.1
+Trichomonas vaginalis G3	Tvag	412133	NCBI	GCF_026262505.1
+Vitrella brassicaformis CCMP3155	Vbra	1169540	NCBI	GCA_001179505.1
+Chrysochromulina tobinii	Ctob	1460289	NCBI	GCA_001275005.1
+Gracilariopsis chorda	Gcho	448386	NCBI	GCA_003194525.1
+Porphyridium purpureum	Ppur	35688	NCBI	GCA_008690995.1
+Heterostelium album PN500	Halb	670386	NCBI	GCF_000004825.1
+Volvox carteri f. nagariensis	Vcar	3068	NCBI	GCF_000143455.1
+Micromonas pusilla CCMP1545	Mpus	564608	NCBI	GCF_000151265.4
+Ostreococcus tauri	Otau	70448	NCBI	GCF_000214015.3
+Acanthaster planci	Apla	133434	NCBI	GCF_001949145.1
+Acromyrmex echinatior	Aech	103372	NCBI	GCF_000204515.1
+Acropora millepora	Amil	45264	NCBI	GCF_013753865.1
+Actinia tenebrosa	Aten	6105	NCBI	GCF_009602425.1
+Acyrthosiphon pisum	Apis	7029	NCBI	GCF_005508785.2
+Adineta vaga	Avag	104782	NCBI	GCA_021613535.1
+Aedes aegypti	Aaeg	7159	NCBI	GCF_002204515.2
+Aedes albopictus	Aalb	7160	NCBI	GCF_035046485.1
+Agrilus planipennis	Agrpla	224129	NCBI	GCF_000699045.2
+Amphibalanus amphitrite	Aamp	1232801	NCBI	GCF_019059575.1
+Amphimedon queenslandica	Aque	400682	NCBI	GCF_000090795.2
+Anneissia japonica	Annjap	1529436	NCBI	GCF_011630105.1
+Anopheles albimanus	Anoalb	7167	NCBI	GCF_013758885.1
+Anopheles arabiensis	Anoara	7173	NCBI	GCF_016920715.1
+Anopheles coluzzii	Acol	1518534	NCBI	GCF_943734685.1
+Anopheles darlingi	Adar	43151	NCBI	GCF_943734745.1
+Anopheles funestus	Afun	62324	NCBI	GCF_943734845.2
+Anopheles gambiae	Agam	7165	NCBI	GCF_943734735.2
+Anopheles merus	Amer	30066	NCBI	GCF_017562075.2
+Anopheles sinensis	Asin	74873	NCBI	GCA_000441895.2
+Anopheles stephensi	Anoste	30069	NCBI	GCF_013141755.1
+Anoplophora glabripennis	Anogla	217634	NCBI	GCF_000390285.2
+Aphidius gifuensis	Agif	684658	NCBI	GCF_014905175.1
+Apis dorsata	Ador	7462	NCBI	GCF_000469605.1
+Apis florea	Aflo	7463	NCBI	GCF_000184785.3
+Apis mellifera	Apimel	7460	NCBI	GCF_003254395.2
+Aplysia californica	Aplcal	6500	NCBI	GCF_000002075.1
+Asterias rubens	Astrub	7604	NCBI	GCF_902459465.1
+Athalia rosae	Aros	37344	NCBI	GCF_917208135.1
+Atta cephalotes	Acep	12957	NCBI	GCF_000143395.1
+Bactrocera dorsalis	Bdor	27457	NCBI	GCF_023373825.1
+Bactrocera latifrons	Blat	174628	NCBI	GCF_001853355.1
+Bactrocera tryoni	Btry	59916	NCBI	GCF_016617805.1
+Bemisia tabaci	Btab	7038	NCBI	GCF_001854935.1
+Biomphalaria glabrata	Bgla	6526	NCBI	GCF_947242115.1
+Bombus impatiens	Bimp	132113	NCBI	GCF_000188095.3
+Bombus terrestris	Bter	30195	NCBI	GCF_910591885.1
+Bombyx mandarina	Bman	7092	NCBI	GCF_003987935.1
+Bombyx mori	Bmor	7091	NCBI	GCF_030269925.1
+Branchiostoma lanceolatum	Blan	7740	NCBI	GCF_035083965.1
+Camponotus floridanus	Cflo	104421	NCBI	GCF_003227725.1
+Capitella teleta	Ctel	283909	NCBI	GCA_000328365.1
+Centruroides sculpturatus	Cscu	218467	NCBI	GCF_000671375.1
+Ceratitis capitata	Ccap	7213	NCBI	GCF_000347755.3
+Cimex lectularius	Clec	79782	NCBI	GCF_000648675.2
+Clytia hemisphaerica	Chem	252671	NCBI	GCF_902728285.1
+Copidosoma floridanum	Copflo	29053	NCBI	GCF_000648655.2
+Cotesia glomerata	Cotglo	32391	NCBI	GCF_020080835.1
+Magallana gigas	Mgig	29159	NCBI	GCF_963853765.1
+Crassostrea virginica	Cvir	6565	NCBI	GCF_002022765.2
+Culex quinquefasciatus	Cqui	7176	NCBI	GCF_015732765.1
+Danaus plexippus	Dple	13037	NCBI	GCF_018135715.1
+Daphnia magna	Dmag	35525	NCBI	GCF_020631705.1
+Daphnia pulex	Dpul	6669	NCBI	GCF_021134715.1
+Daphnia pulicaria	Dappul	35523	NCBI	GCF_021234035.1
+Dendroctonus ponderosae	Dpon	77166	NCBI	GCF_020466585.1
+Dendronephthya gigantea	Dgig	151771	NCBI	GCF_004324835.1
+Dermacentor silvarum	Dsil	543639	NCBI	GCF_013339745.2
+Dermatophagoides pteronyssinus	Dpte	6956	NCBI	GCF_001901225.1
+Diabrotica virgifera virgifera	Dvir	50390	NCBI	GCF_917563875.1
+Dimorphilus gyrociliatus	Dgyr	2664684	NCBI	GCA_904063045.1
+Dinothrombium tinctorium	Dtin	1965070	NCBI	GCA_003675995.1
+Diuraphis noxia	Dnox	143948	NCBI	GCF_001186385.1
+Drosophila ananassae	Dana	7217	NCBI	GCF_017639315.1
+Drosophila erecta	Dere	7220	NCBI	GCF_003286155.1
+Drosophila grimshawi	Dgri	7222	NCBI	GCF_018153295.1
+Drosophila melanogaster	Dmel	7227	NCBI	GCF_000001215.4
+Drosophila mojavensis	Dmoj	7230	NCBI	GCF_018153725.1
+Drosophila persimilis	Dper	7234	NCBI	GCF_003286085.1
+Drosophila pseudoobscura	Dpse	7237	NCBI	GCF_009870125.1
+Drosophila sechellia	Dsec	7238	NCBI	GCF_004382195.2
+Drosophila simulans	Dsim	7240	NCBI	GCF_016746395.2
+Drosophila virilis	Drovir	7244	NCBI	GCF_030788295.1
+Drosophila willistoni	Dwil	7260	NCBI	GCF_018902025.1
+Drosophila yakuba	Dyak	7245	NCBI	GCF_016746365.2
+Dufourea novaeangliae	Dnov	178035	NCBI	GCF_001272555.1
+Echinococcus granulosus	Echgra	6210	NCBI	GCF_000524195.1
+Eufriesea mexicana	Emex	516756	NCBI	GCF_001483705.2
+Exaiptasia diaphana	Edia	2652724	NCBI	GCF_001417965.1
+Folsomia candida	Fcan	158441	NCBI	GCF_002217175.1
+Galendromus occidentalis	Gocc	34638	NCBI	GCF_000255335.2
+Gigantopelta aegis	Gaeg	1735272	NCBI	GCF_016097555.1
+Glossina fuscipes	Gfus	7396	NCBI	GCF_014805625.2
+Habropoda laboriosa	Hlab	597456	NCBI	GCF_001263275.1
+Haliotis rubra	Hrub	36100	NCBI	GCF_003918875.1
+Haliotis rufescens	Hruf	6454	NCBI	GCF_023055435.1
+Harpegnathos saltator	Hsal	610380	NCBI	GCF_003227715.2
+Helobdella robusta	Hrob	6412	NCBI	GCF_000326865.2
+Hermetia illucens	Hill	343691	NCBI	GCF_905115235.1
+Homarus americanus	Hame	6706	NCBI	GCF_018991925.1
+Hyalella azteca	Hazt	294128	NCBI	GCF_000764305.2
+Hydra vulgaris	Hvul	6087	NCBI	GCF_038396675.1
+Hypsibius exemplaris	Hexe	2072580	NCBI	GCA_002082055.1
+Ixodes persulcatus	Iper	34615	NCBI	GCA_013358835.2
+Ixodes scapularis	Isca	6945	NCBI	GCF_016920785.2
+Lepeophtheirus salmonis	Lsal	72036	NCBI	GCF_016086655.3
+Leptinotarsa decemlineata	Ldec	7539	NCBI	GCF_000500325.1
+Leptotrombidium deliense	Ldel	299467	NCBI	GCA_003675905.2
+Limulus polyphemus	Lpol	6850	NCBI	GCF_000517525.1
+Linepithema humile	Lhum	83485	NCBI	GCF_040581485.1
+Lingula anatina	Lana	7574	NCBI	GCF_001039355.2
+Lottia gigantea	Lgig	225164	NCBI	GCF_000327385.1
+Lucilia cuprina	Lcup	7375	NCBI	GCF_022045245.1
+Lutzomyia longipalpis	Llon	7200	NCBI	GCF_024334085.1
+Lytechinus variegatus	Lvar	7654	NCBI	GCF_018143015.1
+Megachile rotundata	Mrot	143995	NCBI	GCF_000220905.1
+Melitaea cinxia	Mcin	113334	NCBI	GCF_905220565.1
+Mercenaria mercenaria	Mmer	6596	NCBI	GCF_021730395.1
+Mizuhopecten yessoensis	Myes	6573	NCBI	GCF_002113885.1
+Monomorium pharaonis	Mpha	307658	NCBI	GCF_013373865.1
+Musca domestica	Mdom	7370	NCBI	GCF_030504385.1
+Nasonia vitripennis	Nvit	7425	NCBI	GCF_009193385.2
+Nematostella vectensis	Nvec	45351	NCBI	GCF_932526225.1
+Octopus bimaculoides	Obim	37653	NCBI	GCF_001194135.2
+Octopus sinensis	Osin	2607531	NCBI	GCF_006345805.1
+Onthophagus taurus	Onttau	166361	NCBI	GCF_036711975.1
+Ooceraea biroi	Obir	2015173	NCBI	GCF_003672135.1
+Orbicella faveolata	Ofav	48498	NCBI	GCF_002042975.1
+Orchesella cincta	Ocin	48709	NCBI	GCA_001718145.1
+Orussus abietinus	Oabi	222816	NCBI	GCF_000612105.2
+Owenia fusiformis	Ofus	6347	NCBI	GCA_903813345.2
+Parasteatoda tepidariorum	Ptep	114398	NCBI	GCF_043381705.1
+Patiria miniata	Patmin	46514	NCBI	GCF_015706575.1
+Pediculus humanus corporis	Phum	121224	NCBI	GCF_000006295.1
+Penaeus chinensis	Pchi	139456	NCBI	GCF_019202785.1
+Penaeus japonicus	Pjap	27405	NCBI	GCF_017312705.1
+Penaeus monodon	Pmon	6687	NCBI	GCF_015228065.2
+Penaeus vannamei	Pvan	6689	NCBI	GCF_042767895.1
+Phlebotomus papatasi	Ppap	29031	NCBI	GCF_024763615.1
+Pocillopora damicornis	Pdam	46731	NCBI	GCF_003704095.1
+Pogonomyrmex barbatus	Pbar	144034	NCBI	GCF_000187915.1
+Pollicipes pollicipes	Ppol	41117	NCBI	GCF_011947565.3
+Pomacea canaliculata	Pcan	400727	NCBI	GCF_003073045.1
+Pomphorhynchus laevis	Plae	141832	NCBI	GCA_012934845.2
+Portunus trituberculatus	Portri	210409	NCBI	GCF_017591435.1
+Priapulus caudatus	Pcau	37621	NCBI	GCF_000485595.1
+Procambarus clarkii	Pcla	6728	NCBI	GCF_040958095.1
+Rhagoletis pomonella	Rpom	28610	NCBI	GCF_013731165.1
+Rhipicephalus microplus	Rhimic	6941	NCBI	GCF_013339725.1
+Rhipicephalus sanguineus	Rsan	34632	NCBI	GCF_013339695.2
+Rhopalosiphum maidis	Rmai	43146	NCBI	GCF_003676215.2
+Saccoglossus kowalevskii	Skow	10224	NCBI	GCF_000003605.2
+Sarcoptes scabiei	Ssca	52283	NCBI	GCA_020844145.1
+Schistosoma haematobium	Shae	6185	NCBI	GCF_000699445.3
+Schistosoma mansoni	Sman	6183	NCBI	GCF_000237925.1
+Sipha flava	Sfla	143950	NCBI	GCF_003268045.1
+Solenopsis invicta	Sinv	13686	NCBI	GCF_016802725.1
+Stegodyphus dumicola	Sdum	202533	NCBI	GCF_010614865.2
+Stomoxys calcitrans	Scal	35570	NCBI	GCF_963082655.1
+Strongylocentrotus purpuratus	Spur	7668	NCBI	GCF_000002235.5
+Stylophora pistillata	Spis	50429	NCBI	GCF_002571385.2
+Teleopsis dalmanni	Tdal	139649	NCBI	GCF_002237135.1
+Tetranychus urticae	Turt	32264	NCBI	GCF_000239435.1
+Tigriopus californicus	Tigcal	6832	NCBI	GCF_007210705.1
+Tribolium castaneum	Tricas	7070	NCBI	GCF_031307605.1
+Trichogramma pretiosum	Tpre	7493	NCBI	GCF_000599845.2
+Trichoplax adhaerens	Tadh	10228	NCBI	GCF_000150275.1
+Varroa destructor	Vdes	109461	NCBI	GCF_002443255.2
+Zootermopsis nevadensis	Znev	136037	NCBI	GCF_000696155.1
+Ciona intestinalis	Cint	7719	NCBI	GCF_000224145.3
+Echinococcus multilocularis	Emul	6211	NCBI	GCA_000469725.3
+Ramazzottius varieornatus	Rvar	947166	NCBI	GCA_001949185.1
+Paramuricea clavata	Parcla	317549	NCBI	GCA_902702795.2
+Acropora digitifera	Adig	70779	NCBI	GCF_000222465.1
+Sycon ciliatum	Scil	27933	NCBI	GCF_964019385.1
+Acanthocheilonema viteae	Avit	6277	NCBI	GCA_046563165.1
+Ancylostoma ceylanicum	Acey	53326	NCBI	GCA_000688135.1
+Angiostrongylus cantonensis	Angcan	6313	NCBI	GCA_009735665.1
+Angiostrongylus costaricensis	Angcos	334426	NCBI	GCA_900624975.1
+Aphelenchoides besseyi	Abes	269767	NCBI	GCA_024699855.1
+Aphelenchoides bicaudatus	Abic	293665	NCBI	GCA_024699845.1
+Aphelenchoides fujianensis	Afuj	1052528	NCBI	GCA_024699865.1
+Brugia malayi	Bmal	6279	NCBI	GCF_000002995.4
+Brugia pahangi	Bpah	6280	NCBI	GCA_012070555.1
+Bursaphelenchus okinawaensis	Boki	465554	NCBI	GCA_904066225.2
+Bursaphelenchus xylophilus	Bxyl	6326	NCBI	GCA_904066235.2
+Caenorhabditis auriculariae	Caeaur	2777116	NCBI	GCA_904845305.1
+Caenorhabditis bovis	Cbov	2654633	NCBI	GCA_902829315.1
+Caenorhabditis brenneri	Cbre	135651	NCBI	GCA_964036135.1
+Caenorhabditis briggsae	Cbri	6238	NCBI	GCF_000004555.2
+Caenorhabditis elegans	Cele	6239	NCBI	GCF_000002985.6
+Caenorhabditis remanei	Crem	31234	NCBI	GCF_010183535.1
+Cercopithifilaria johnstoni	Cjoh	2874296	NCBI	GCA_916381525.1
+Diploscapter pachys	Dpac	2018661	NCBI	GCA_002287525.1
+Dirofilaria immitis	Dimm	6287	NCBI	GCA_024305405.1
+Dracunculus medinensis	Dmed	318479	NCBI	GCA_900625125.1
+Enterobius vermicularis	Ever	51028	NCBI	GCA_900576705.1
+Haemonchus placei	Hpla	6290	NCBI	GCA_900617895.1
+Heterobilharzia americana	Hetame	39320	NCBI	GCA_944470555.2
+Loa loa	Lloa	7209	NCBI	GCF_000183805.2
+Meloidogyne enterolobii	Ment	390850	NCBI	GCA_963681835.1
+Mesorhabditis belari	Mbel	2138241	NCBI	GCA_958450365.1
+Necator americanus	Name	51031	NCBI	GCF_031761385.1
+Nippostrongylus brasiliensis	Nbra	27835	NCBI	GCA_030553155.1
+Pristionchus entomophagus	Pent	358040	NCBI	GCA_036245825.1
+Pristionchus fissidentatus	Pfis	1538716	NCBI	GCA_036245785.1
+Pristionchus mayeri	Pmay	1317129	NCBI	GCA_036245805.1
+Pristionchus pacificus	Ppac	54126	NCBI	GCA_000180635.4
+Steinernema carpocapsae	Scar	34508	NCBI	GCA_000757645.3
+Strongyloides ratti	Srat	34506	NCBI	GCF_001040885.1
+Thelazia callipaeda	Thecal	103827	NCBI	GCA_900618365.1
+Toxocara canis	Tcan	6265	NCBI	GCA_000803305.1
+Trichinella britovi	Tbri	45882	NCBI	GCA_001447585.1
+Trichinella nativa	Tnat	6335	NCBI	GCA_001447565.2
+Trichinella nelsoni	Tnel	6336	NCBI	GCA_001447455.1
+Trichinella papuae	Tpap	268474	NCBI	GCA_001447755.1
+Trichinella patagoniensis	Tpat	990121	NCBI	GCA_001447655.1
+Trichinella pseudospiralis	Tripse	6337	NCBI	GCA_040956935.1
+Trichinella spiralis	Tspi	6334	NCBI	GCF_000181795.1
+Trichinella zimbabwensis	Tzim	268475	NCBI	GCA_001447665.1
+Trichuris suis	Tsui	68888	NCBI	GCA_000797535.1
+Acanthochromis polyacanthus	Apol	80966	NCBI	GCF_021347895.1
+Ailuropoda melanoleuca	Ailmel	9646	NCBI	GCF_002007445.2
+Amphiprion ocellaris	Aoce	80972	NCBI	GCF_022539595.1
+Anabas testudineus	Ates	64144	NCBI	GCF_900324465.2
+Anas platyrhynchos	Anapla	8839	NCBI	GCF_015476345.1
+Anolis carolinensis	Anocar	28377	NCBI	GCF_035594765.1
+Anser cygnoides	Acyg	8845	NCBI	GCF_040182565.1
+Aotus nancymaae	Anan	37293	NCBI	GCF_030222135.1
+Apteryx rowi	Arow	308060	NCBI	GCF_003343035.1
+Aquila chrysaetos chrysaetos	Achr	223781	NCBI	GCF_900496995.4
+Astatotilapia calliptera	Astcal	8154	NCBI	GCF_900246225.1
+Astyanax mexicanus	Amex	7994	NCBI	GCF_023375975.1
+Athene cunicularia	Acun	194338	NCBI	GCF_003259725.1
+Balaenoptera musculus	Bmus	9771	NCBI	GCF_009873245.2
+Betta splendens	Bspl	158456	NCBI	GCF_900634795.4
+Bison bison bison	Bbis	43346	NCBI	GCF_000754665.1
+Bos indicus	Bind	9915	NCBI	GCF_029378745.1
+Bos mutus	Bmut	72004	NCBI	GCF_027580195.1
+Bos taurus	Btau	9913	NCBI	GCF_002263795.3
+Calidris pugnax	Cpug	198806	NCBI	GCF_001431845.1
+Callithrix jacchus	Cjac	9483	NCBI	GCF_011100555.1
+Callorhinchus milii	Calmil	7868	NCBI	GCF_018977255.1
+Camarhynchus parvulus	Campar	87175	NCBI	GCF_901933205.1
+Camelus dromedarius	Cdro	9838	NCBI	GCF_036321535.1
+Canis lupus familiaris	Clup	9615	NCBI	GCF_011100685.1
+Capra hircus	Chir	9925	NCBI	GCF_001704415.2
+Carassius auratus	Caraur	7957	NCBI	GCF_003368295.1
+Carlito syrichta	Csyr	1868482	NCBI	GCF_000164805.1
+Castor canadensis	Ccan	51338	NCBI	GCF_001984765.1
+Catharus ustulatus	Cust	91951	NCBI	GCF_009819885.2
+Cavia porcellus	Cpor	10141	NCBI	GCF_034190915.1
+Cebus imitator	Cimi	2715852	NCBI	GCF_001604975.1
+Cercocebus atys	Caty	9531	NCBI	GCF_000955945.1
+Cervus hanglu yarkandensis	Chan	84702	NCBI	GCA_010411085.1
+Chelonoidis abingdonii	Cabi	106734	NCBI	GCF_003597395.1
+Chinchilla lanigera	Clan	34839	NCBI	GCF_000276665.1
+Chlorocebus sabaeus	Csab	60711	NCBI	GCF_015252025.1
+Chrysemys picta bellii	Cpic	8478	NCBI	GCF_011386835.1
+Clupea harengus	Char	7950	NCBI	GCF_900700415.2
+Colobus angolensis palliatus	Cang	336983	NCBI	GCF_000951035.1
+Corvus moneduloides	Cmon	1196302	NCBI	GCF_009650955.1
+Cottoperca gobio	Cgob	56716	NCBI	GCF_900634415.1
+Cricetulus griseus	Cgri	10029	NCBI	GCF_003668045.3
+Crocodylus porosus	Cropor	8502	NCBI	GCF_001723895.1
+Cyanistes caeruleus	Ccae	156563	NCBI	GCF_002901205.1
+Cyclopterus lumpus	Clum	8103	NCBI	GCF_009769545.1
+Cynoglossus semilaevis	Csem	244447	NCBI	GCF_000523025.1
+Cyprinodon variegatus	Cvar	28743	NCBI	GCF_000732505.1
+Cyprinus carpio	Cypcar	7962	NCBI	GCF_018340385.1
+Danio rerio	Drer	7955	NCBI	GCF_000002035.6
+Dasypus novemcinctus	Dasnov	9361	NCBI	GCF_030445035.2
+Delphinapterus leucas	Dleu	9749	NCBI	GCF_002288925.2
+Denticeps clupeoides	Dclu	299321	NCBI	GCF_900700375.1
+Dicentrarchus labrax	Dlab	13489	NCBI	GCF_905237075.1
+Dipodomys ordii	Dord	10020	NCBI	GCF_000151885.1
+Dromaius novaehollandiae	Dronov	8790	NCBI	GCF_036370855.1
+Echeneis naucrates	Enau	173247	NCBI	GCF_900963305.1
+Echinops telfairi	Etel	9371	NCBI	GCF_000313985.2
+Electrophorus electricus	Eele	8005	NCBI	GCF_013358815.1
+Equus asinus	Easi	9793	NCBI	GCF_041296235.1
+Equus caballus	Ecab	9796	NCBI	GCF_041296265.1
+Erinaceus europaeus	Eeur	9365	NCBI	GCF_950295315.1
+Erpetoichthys calabaricus	Ecal	27687	NCBI	GCF_900747795.2
+Chloebia gouldiae	Cgou	44316	NCBI	GCA_003676055.1
+Esox lucius	Eluc	8010	NCBI	GCF_011004845.1
+Felis catus	Fcat	9685	NCBI	GCF_018350175.1
+Ficedula albicollis	Ficalb	59894	NCBI	GCF_000247815.1
+Fukomys damarensis	Fdam	885580	NCBI	GCF_012274545.1
+Fundulus heteroclitus	Fhet	8078	NCBI	GCF_011125445.2
+Gadus morhua	Gmor	8049	NCBI	GCF_902167405.1
+Gallus gallus	Ggal	9031	NCBI	GCF_016699485.2
+Gambusia affinis	Gaff	33528	NCBI	GCF_019740435.1
+Gasterosteus aculeatus aculeatus	Gacu	481459	NCBI	GCF_016920845.1
+Geospiza fortis	Gfor	48883	NCBI	GCF_000277835.1
+Gopherus evgoodei	Gevg	1825980	NCBI	GCF_007399415.2
+Gorilla gorilla gorilla	Ggor	9595	NCBI	GCF_029281585.2
+Gouania willdenowi	Gwil	441366	NCBI	GCF_900634775.1
+Haplochromis burtoni	Hapbur	8153	NCBI	GCF_018398535.1
+Heterocephalus glaber	Hgla	10181	NCBI	GCF_000247695.1
+Hippocampus comes	Hcom	109280	NCBI	GCF_001891065.2
+Homo sapiens	Hsap	9606	NCBI	GCF_000001405.40
+Ictalurus punctatus	Ipun	7998	NCBI	GCF_001660625.3
+Ictidomys tridecemlineatus	Itri	43179	NCBI	GCF_016881025.1
+Jaculus jaculus	Jjac	51337	NCBI	GCF_020740685.1
+Kryptolebias marmoratus	Krymar	37003	NCBI	GCF_001649575.2
+Labrus bergylta	Lber	56723	NCBI	GCF_963930695.1
+Larimichthys crocea	Lcro	215358	NCBI	GCF_000972845.2
+Lates calcarifer	Lcal	8187	NCBI	GCF_001640805.2
+Latimeria chalumnae	Lcha	7897	NCBI	GCF_037176945.1
+Lepidothrix coronata	Lcor	321398	NCBI	GCF_001604755.1
+Lepisosteus oculatus	Locu	7918	NCBI	GCF_040954835.1
+Lonchura striata	Lstr	40157	NCBI	GCF_005870125.1
+Loxodonta africana	Lafr	9785	NCBI	GCF_030014295.1
+Lynx canadensis	Lcan	61383	NCBI	GCF_007474595.2
+Macaca fascicularis	Mfas	9541	NCBI	GCF_037993035.1
+Macaca mulatta	Mmul	9544	NCBI	GCF_003339765.1
+Macaca nemestrina	Mnem	9545	NCBI	GCF_043159975.1
+Manacus vitellinus	Mvit	328815	NCBI	GCF_001715985.3
+Mandrillus leucophaeus	Mleu	9568	NCBI	GCF_000951045.1
+Marmota marmota marmota	Mmar	9994	NCBI	GCF_001458135.2
+Mastacembelus armatus	Marm	205130	NCBI	GCF_900324485.2
+Maylandia zebra	Mzeb	106582	NCBI	GCF_000238955.4
+Meleagris gallopavo	Mgal	9103	NCBI	GCF_000146605.3
+Melopsittacus undulatus	Mund	13146	NCBI	GCF_012275295.1
+Meriones unguiculatus	Mung	10047	NCBI	GCF_030254825.1
+Mesocricetus auratus	Maur	10036	NCBI	GCF_017639785.1
+Microcebus murinus	Mmur	30608	NCBI	GCF_000165445.2
+Microtus ochrogaster	Moch	79684	NCBI	GCF_000317375.1
+Monodon monoceros	Mmon	40151	NCBI	GCF_005190385.1
+Monopterus albus	Monalb	43700	NCBI	GCF_001952655.1
+Mus caroli	Mcar	10089	NCBI	GCF_900094665.2
+Mus musculus	Mmus	10090	NCBI	GCF_000001635.27
+Mus pahari	Mpah	10093	NCBI	GCF_900095145.1
+Mustela putorius furo	Mput	9669	NCBI	GCF_011764305.1
+Myotis lucifugus	Mluc	59463	NCBI	GCF_000147115.1
+Myripristis murdjan	Myrmur	586833	NCBI	GCF_902150065.1
+Naja naja	Nnaj	35670	NCBI	GCA_009733165.1
+Nannospalax galili	Ngal	1026970	NCBI	GCF_000622305.1
+Neolamprologus brichardi	Nbri	32507	NCBI	GCF_000239395.1
+Neogale vison	Nvis	452646	NCBI	GCF_020171115.1
+Nomascus leucogenys	Nleu	61853	NCBI	GCF_006542625.1
+Notechis scutatus	Nscu	8663	NCBI	GCF_900518725.1
+Nothobranchius furzeri	Nfur	105023	NCBI	GCF_043380555.1
+Nothoprocta perdicaria	Nper	30464	NCBI	GCF_003342845.1
+Numida meleagris	Nmel	8996	NCBI	GCF_002078875.1
+Ochotona princeps	Opri	9978	NCBI	GCF_030435755.1
+Octodon degus	Odeg	10160	NCBI	GCF_000260255.1
+Oncorhynchus kisutch	Okis	8019	NCBI	GCF_002021735.2
+Oncorhynchus mykiss	Omyk	8022	NCBI	GCF_013265735.2
+Oncorhynchus tshawytscha	Otsh	74940	NCBI	GCF_018296145.1
+Oreochromis aureus	Oaur	47969	NCBI	GCF_013358895.1
+Oreochromis niloticus	Onil	8128	NCBI	GCF_001858045.2
+Ornithorhynchus anatinus	Oana	9258	NCBI	GCF_004115215.2
+Oryctolagus cuniculus	Ocun	9986	NCBI	GCF_964237555.1
+Oryzias javanicus	Ojav	123683	NCBI	GCA_003999625.1
+Oryzias latipes	Olat	8090	NCBI	GCF_002234675.1
+Oryzias melastigma	Omel	30732	NCBI	GCF_002922805.2
+Otolemur garnettii	Ogar	30611	NCBI	GCF_000181295.1
+Ovis aries	Oari	9940	NCBI	GCF_016772045.2
+Pan paniscus	Ppan	9597	NCBI	GCF_029289425.2
+Pan troglodytes	Ptro	9598	NCBI	GCF_028858775.2
+Panthera leo	Pleo	9689	NCBI	GCF_018350215.1
+Panthera pardus	Ppar	9691	NCBI	GCF_024362965.1
+Panthera tigris	Ptig	9694	NCBI	GCF_018350195.1
+Papio anubis	Panu	9555	NCBI	GCF_008728515.1
+Parambassis ranga	Pran	210632	NCBI	GCF_900634625.1
+Paramormyrops kingsleyae	Pkin	1676925	NCBI	GCF_002872115.1
+Parus major	Pmaj	9157	NCBI	GCF_001522545.3
+Pelodiscus sinensis	Psin	13735	NCBI	GCF_000230535.1
+Periophthalmus magnuspinnatus	Pmag	409849	NCBI	GCF_009829125.3
+Peromyscus maniculatus bairdii	Pman	230844	NCBI	GCF_003704035.1
+Petromyzon marinus	Pmar	7757	NCBI	GCF_010993605.1
+Phascolarctos cinereus	Pcin	38626	NCBI	GCF_002099425.1
+Phasianus colchicus	Pcol	9054	NCBI	GCF_004143745.1
+Phocoena sinus	Phosin	42100	NCBI	GCF_008692025.1
+Physeter macrocephalus	Phymac	9755	NCBI	GCF_002837175.3
+Piliocolobus tephrosceles	Piltep	591936	NCBI	GCF_002776525.5
+Podarcis muralis	Podmur	64176	NCBI	GCF_004329235.1
+Poecilia formosa	Pfor	48698	NCBI	GCF_000485575.1
+Poecilia latipinna	Plat	48699	NCBI	GCF_001443285.1
+Poecilia mexicana	Pmex	48701	NCBI	GCF_001443325.1
+Poecilia reticulata	Pret	8081	NCBI	GCF_000633615.1
+Pogona vitticeps	Pvit	103695	NCBI	GCF_900067755.1
+Pongo abelii	Pabe	9601	NCBI	GCF_028885655.2
+Propithecus coquereli	Pcoq	379532	NCBI	GCF_000956105.1
+Pseudonaja textilis	Ptex	8673	NCBI	GCF_900518735.1
+Pteropus vampyrus	Pvam	132908	NCBI	GCF_902729225.1
+Pundamilia nyererei	Pnye	303518	NCBI	GCF_000239375.1
+Pygocentrus nattereri	Pnat	42514	NCBI	GCF_015220715.1
+Rattus norvegicus	Rnor	10116	NCBI	GCF_036323735.1
+Rhinolophus ferrumequinum	Rfer	59479	NCBI	GCF_004115265.2
+Rhinopithecus bieti	Rbie	61621	NCBI	GCF_001698545.2
+Rhinopithecus roxellana	Rrox	61622	NCBI	GCF_007565055.1
+Saimiri boliviensis boliviensis	Sbol	39432	NCBI	GCF_016699345.2
+Salarias fasciatus	Sfas	181472	NCBI	GCF_902148845.1
+Salmo salar	Salsal	8030	NCBI	GCF_905237065.1
+Salmo trutta	Stru	8032	NCBI	GCF_901001165.1
+Sander lucioperca	Sluc	283035	NCBI	GCF_008315115.2
+Sarcophilus harrisii	Shar	9305	NCBI	GCF_902635505.1
+Scleropages formosus	Sfor	113540	NCBI	GCF_900964775.1
+Scophthalmus maximus	Smax	52904	NCBI	GCF_022379125.1
+Serinus canaria	Scan	9135	NCBI	GCF_022539315.1
+Seriola dumerili	Serdum	41447	NCBI	GCF_002260705.1
+Seriola lalandi dorsalis	Slal	1841481	NCBI	GCF_002814215.2
+Sinocyclocheilus anshuiensis	Sans	1608454	NCBI	GCF_001515605.1
+Sinocyclocheilus grahami	Singra	75366	NCBI	GCF_001515645.1
+Sinocyclocheilus rhinocerous	Srhi	307959	NCBI	GCF_001515625.1
+Sorex araneus	Sara	42254	NCBI	GCF_027595985.1
+Sparus aurata	Saur	8175	NCBI	GCF_900880675.1
+Sphaeramia orbicularis	Sorb	375764	NCBI	GCF_902148855.1
+Stegastes partitus	Stepar	144197	NCBI	GCF_000690725.1
+Strigops habroptila	Shab	2489341	NCBI	GCF_004027225.2
+Struthio camelus	Scam	8801	NCBI	GCF_040807025.1
+Suricata suricatta	Ssur	37032	NCBI	GCF_006229205.1
+Sus scrofa	Sscr	9823	NCBI	GCF_000003025.6
+Taeniopygia guttata	Tgut	59729	NCBI	GCF_003957565.2
+Takifugu rubripes	Takrub	31033	NCBI	GCF_901000725.2
+Tetraodon nigroviridis	Tnig	99883	NCBI	GCA_000180735.1
+Theropithecus gelada	Tgel	9565	NCBI	GCF_003255815.1
+Tursiops truncatus	Ttru	9739	NCBI	GCF_011762595.1
+Urocitellus parryii	Upar	9999	NCBI	GCF_003426925.1
+Ursus americanus	Uame	9643	NCBI	GCF_020975775.1
+Ursus maritimus	Umar	29073	NCBI	GCF_017311325.1
+Varanus komodoensis	Vkom	61221	NCBI	GCF_004798865.1
+Vicugna pacos	Vpac	30538	NCBI	GCF_000164845.4
+Vombatus ursinus	Vurs	29139	NCBI	GCF_900497805.2
+Vulpes vulpes	Vvul	9627	NCBI	GCF_003160815.1
+Xenopus tropicalis	Xtro	8364	NCBI	GCF_000004195.4
+Xiphophorus couchianus	Xcou	32473	NCBI	GCF_001444195.1
+Xiphophorus maculatus	Xmac	8083	NCBI	GCF_002775205.1
+Zalophus californianus	Zcal	9704	NCBI	GCF_009762305.2
+Zonotrichia albicollis	Zalb	44394	NCBI	GCF_000385455.1
+Aegilops tauschii subsp. strangulata	Atau	200361	NCBI	GCF_002575655.2
+Amborella trichopoda	Atri	13333	NCBI	GCF_000471905.2
+Ananas comosus	Acom	4615	NCBI	GCF_001540865.1
+Arabidopsis halleri	Ahal	81970	NCBI	GCA_964271285.1
+Arabidopsis lyrata subsp. lyrata	Alyr	81972	NCBI	GCF_000004255.2
+Arabidopsis thaliana	Atha	3702	NCBI	GCF_000001735.4
+Asparagus officinalis	Aoff	4686	NCBI	GCF_001876935.1
+Beta vulgaris subsp. vulgaris	Bvul	3555	NCBI	GCF_026745355.1
+Brachypodium distachyon	Bdis	15368	NCBI	GCF_000005505.3
+Brassica napus	Bnap	3708	NCBI	GCF_020379485.1
+Brassica oleracea var. oleracea	Bole	109376	NCBI	GCF_000695525.1
+Brassica rapa	Brap	3711	NCBI	GCF_000309985.2
+Cajanus cajan	Ccaj	3821	NCBI	GCF_000340665.2
+Camelina sativa	Csat	90675	NCBI	GCF_000633955.1
+Capsicum annuum	Cann	4072	NCBI	GCF_002878395.1
+Chara braunii	Cbra	69332	NCBI	GCA_003427395.1
+Chenopodium quinoa	Chequi	63459	NCBI	GCF_001683475.1
+Chlamydomonas reinhardtii	Crei	3055	NCBI	GCF_000002595.2
+Citrus x clementina	Cx	85681	NCBI	GCF_000493195.1
+Corchorus capsularis	Corcap	210143	NCBI	GCA_001974805.1
+Corylus avellana	Cave	13451	NCBI	GCF_901000735.1
+Corymbia citriodora subsp. variegata	Ccit	360336	NCBI	GCA_014858505.1
+Cucumis melo	Cucmel	3656	NCBI	GCF_025177605.1
+Cucumis sativus	Cucsat	3659	NCBI	GCF_000004075.3
+Cyanidioschyzon merolae strain 10D	Cmer	280699	NCBI	GCF_000091205.1
+Cynara cardunculus var. scolymus	Cyncar	59895	NCBI	GCF_001531365.2
+Daucus carota subsp. sativus	Dcar	79200	NCBI	GCF_001625215.2
+Digitaria exilis	Digexi	1010633	NCBI	GCA_015342445.1
+Dioscorea cayenensis subsp. rotundata	Dcay	55577	NCBI	GCF_009730915.1
+Eragrostis curvula	Ecur	38414	NCBI	GCA_007726485.1
+Eucalyptus grandis	Eucgra	71139	NCBI	GCF_016545825.1
+Eutrema salsugineum	Esal	72664	NCBI	GCF_000478725.1
+Galdieria sulphuraria	Gsul	130081	NCBI	GCF_000341285.1
+Glycine max	Gmax	3847	NCBI	GCF_000004515.6
+Gossypium raimondii	Grai	29730	NCBI	GCF_025698545.1
+Helianthus annuus	Hann	4232	NCBI	GCF_002127325.2
+Hordeum vulgare subsp. vulgare	Horvul	112509	NCBI	GCF_904849725.1
+Ipomoea triloba	Ipotri	35885	NCBI	GCF_003576645.1
+Juglans regia	Jreg	51240	NCBI	GCF_001411555.2
+Lactuca sativa	Lsat	4236	NCBI	GCF_002870075.4
+Lolium perenne	Lper	4522	NCBI	GCF_019359855.1
+Lupinus angustifolius	Lang	3871	NCBI	GCF_001865875.1
+Manihot esculenta	Mesc	3983	NCBI	GCF_001659605.2
+Marchantia polymorpha subsp. ruderalis	Mpol	1480154	NCBI	GCA_037833965.1
+Medicago truncatula	Mtru	3880	NCBI	GCF_003473485.1
+Musa acuminata AAA Group	Macu	214697	NCBI	GCF_036884655.1
+Nicotiana attenuata	Natt	49451	NCBI	GCF_001879085.1
+Nymphaea colorata	Ncol	210225	NCBI	GCF_008831285.2
+Olea europaea var. sylvestris	Oeur	158386	NCBI	GCF_002742605.1
+Oryza brachyantha	Obra	4533	NCBI	GCF_000231095.2
+Oryza glaberrima	Ogla	4538	NCBI	GCF_000147395.1
+Oryza sativa Japonica Group	Osat	39947	NCBI	GCF_034140825.1
+Panicum hallii	Panhal	206008	NCBI	GCF_002211085.1
+Papaver somniferum	Psom	3469	NCBI	GCF_003573695.1
+Phaseolus vulgaris	Phavul	3885	NCBI	GCF_000499845.2
+Physcomitrium patens	Ppat	3218	NCBI	GCF_000002425.4
+Pistacia vera	Pisver	55513	NCBI	GCF_008641045.1
+Pisum sativum	Psat	3888	NCBI	GCF_024323335.1
+Populus trichocarpa	Poptri	3694	NCBI	GCF_000002775.5
+Prunus avium	Pavi	42229	NCBI	GCF_002207925.1
+Prunus dulcis	Pdul	3755	NCBI	GCF_902201215.1
+Prunus persica	Pruper	3760	NCBI	GCF_000346465.2
+Quercus lobata	Qlob	97700	NCBI	GCF_001633185.2
+Quercus suber	Qsub	58331	NCBI	GCF_002906115.3
+Rosa chinensis	Rchi	74649	NCBI	GCF_002994745.2
+Selaginella moellendorffii	Smoe	88036	NCBI	GCF_000143415.4
+Sesamum indicum	Sesind	4182	NCBI	GCF_000512975.1
+Setaria italica	Sita	4555	NCBI	GCF_000263155.2
+Setaria viridis	Svir	4556	NCBI	GCF_005286985.1
+Solanum lycopersicum	Sollyc	4081	NCBI	GCF_036512215.1
+Solanum tuberosum	Stub	4113	NCBI	GCF_000226075.1
+Sorghum bicolor	Sbic	4558	NCBI	GCF_000003195.3
+Theobroma cacao	Tcac	3641	NCBI	GCF_000208745.1
+Trifolium pratense	Tpra	57577	NCBI	GCF_020283565.1
+Triticum aestivum	Taes	4565	NCBI	GCF_018294505.1
+Triticum dicoccoides	Tdic	85692	NCBI	GCF_002162155.2
+Triticum turgidum subsp. durum	Ttur	4567	NCBI	GCA_900231445.1
+Triticum urartu	Tura	4572	NCBI	GCF_003073215.2
+Vigna angularis	Vang	3914	NCBI	GCF_016808095.1
+Vigna radiata var. radiata	Vrad	3916	NCBI	GCF_000741045.1
+Vigna unguiculata	Vung	3917	NCBI	GCF_004118075.2
+Vitis vinifera	Vvin	29760	NCBI	GCF_030704535.1
+Zea mays	Zmay	4577	NCBI	GCF_902167145.1
+Acrobeloides nanus	Acrnan	290746	WormBase_18	acrobeloides_nanus.PRJEB26554.WBPS18.protein.fa
+Ancylostoma caninum	Anccan	29170	NCBI	GCA_003336725.1
+Angiostrongylus vasorum	Avas	321387	WormBase_18	angiostrongylus_vasorum.PRJNA663250.WBPS18.protein.fa
+Ascaris lumbricoides	Alum	6252	WormBase_18	ascaris_lumbricoides.PRJEB4950.WBPS18.protein.fa
+Ascaris suum	Asuu	6253	WormBase_18	ascaris_suum.PRJNA62057.WBPS18.protein.fa
+Caenorhabditis angaria	Caeang	860376	NCBI	GCA_947459285.1
+Caenorhabditis becei	Cbec	2301260	WormBase_18	caenorhabditis_becei.PRJEB28243.WBPS18.protein.fa
+Caenorhabditis japonica	Cjap	281687	WormBase_18	caenorhabditis_japonica.PRJNA12591.WBPS18.protein.fa
+Caenorhabditis latens	Clat	1503980	WormBase_18	caenorhabditis_latens.PRJNA248912.WBPS18.protein.fa
+Caenorhabditis nigoni	Cnig	1611254	NCBI	GCA_002742825.1
+Caenorhabditis panamensis	Cpan	2301259	WormBase_18	caenorhabditis_panamensis.PRJEB28259.WBPS18.protein.fa
+Caenorhabditis parvicauda	Caepar	2305859	WormBase_18	caenorhabditis_parvicauda.PRJEB12595.WBPS18.protein.fa
+Caenorhabditis quiockensis	Caequi	2305861	WormBase_18	caenorhabditis_quiockensis.PRJEB11354.WBPS18.protein.fa
+Caenorhabditis sulstoni	Csul	2305862	WormBase_18	caenorhabditis_sulstoni.PRJEB12601.WBPS18.protein.fa
+Caenorhabditis tribulationis	Caetri	2306311	WormBase_18	caenorhabditis_tribulationis.PRJEB12608.WBPS18.protein.fa
+Caenorhabditis uteleia	Cute	2305860	WormBase_18	caenorhabditis_uteleia.PRJEB12600.WBPS18.protein.fa
+Caenorhabditis waitukubuli	Cwai	2305864	WormBase_18	caenorhabditis_waitukubuli.PRJEB12602.WBPS18.protein.fa
+Caenorhabditis zanzibari	Czan	2306312	WormBase_18	caenorhabditis_zanzibari.PRJEB12596.WBPS18.protein.fa
+Dictyocaulus viviparus	Dviv	29172	NCBI	GCA_000816705.1
+Diploscapter coronatus	Diplco	288516	WormBase_18	diploscapter_coronatus.PRJDB3143.WBPS18.protein.fa
+Ditylenchus destructor	Ddes	166010	NCBI	GCA_022814895.1
+Ditylenchus dipsaci	Ddip	166011	WormBase_18	ditylenchus_dipsaci.PRJNA498219.WBPS18.protein.fa
+Elaeophora elaphi	Eela	1147741	WormBase_18	elaeophora_elaphi.PRJEB502.WBPS18.protein.fa
+Globodera pallida	Gpal	36090	WormBase_18	globodera_pallida.PRJNA764088.WBPS18.protein.fa
+Globodera rostochiensis	Gloros	31243	WormBase_18	globodera_rostochiensis.L22_PRJNA695196.WBPS18.protein.fa
+Haemonchus contortus	Hcon	6289	NCBI	GCA_041937105.1
+Halicephalobus mephisto	Hmep	2559892	WormBase_18	halicephalobus_mephisto.PRJNA528747.WBPS18.protein.fa
+Halicephalobus sp. NKZ332	HalNKZ332	2598192	NCBI	GCA_009761265.1
+Heligmosomoides polygyrus	Hpol	6339	NCBI	GCA_900618505.1
+Heterodera glycines	Hgly	51029	WormBase_18	heterodera_glycines.PRJNA381081.WBPS18.protein.fa
+Heterodera schachtii	Hsch	97005	NCBI	GCA_044932975.1
+Litomosoides sigmodontis	Lsig	42156	NCBI	GCA_900537275.1
+Meloidogyne arenaria	Mare	6304	WormBase_18	meloidogyne_arenaria.PRJEB8714.WBPS18.protein.fa
+Meloidogyne hapla	Mhap	6305	WormBase_18	meloidogyne_hapla.PRJNA29083.WBPS18.protein.fa
+Meloidogyne incognita	Minc	6306	WormBase_18	meloidogyne_incognita.PRJEB8714.WBPS18.protein.fa
+Meloidogyne javanica	Mjav	6303	WormBase_18	meloidogyne_javanica.PRJEB8714.WBPS18.protein.fa
+Micoletzkya japonica	Mjap	1250332	WormBase_18	micoletzkya_japonica.PRJEB27334.WBPS18.protein.fa
+Onchocerca ochengi	Ooch	42157	NCBI	GCA_900537205.1
+Onchocerca volvulus	Ovol	6282	WormBase_18	onchocerca_volvulus.PRJEB513.WBPS18.protein.fa
+Oscheius tipulae	Otip	141969	WormBase_18	oscheius_tipulae.PRJNA644888.WBPS18.protein.fa
+Panagrellus redivivus	Pred	6233	WormBase_18	panagrellus_redivivus.PRJNA186477.WBPS18.protein.fa
+Panagrolaimus sp. ES5	Psp.ES5	591445	WormBase_18	panagrolaimus_es5.PRJEB32708.WBPS18.protein.fa
+Panagrolaimus sp. JU765	Psp.JU765	591449	WormBase_18	panagrolaimus_ju765.PRJEB32708.WBPS18.protein.fa
+Panagrolaimus sp. PS1159	Psp.PS1159	55785	WormBase_18	panagrolaimus_sp1159.PRJEB32708.WBPS18.protein.fa
+Parapristionchus giblindavisi	Pgib	1187980	WormBase_18	parapristionchus_giblindavisi.PRJEB53331.WBPS18.protein.fa
+Parascaris univalens	Puni	6257	WormBase_18	parascaris_univalens.PRJNA386823.WBPS18.protein.fa
+Parastrongyloides trichosuri	Partri	131310	WormBase_18	parastrongyloides_trichosuri.PRJEB515.WBPS18.protein.fa
+Plectus sambesii	Psam	2011161	WormBase_18	plectus_sambesii.PRJNA390260.WBPS18.protein.fa
+Pristionchus arcanus	Priarc	1195655	WormBase_18	pristionchus_arcanus.PRJEB27334.WBPS18.protein.fa
+Pristionchus exspectatus	Pexs	1195656	WormBase_18	pristionchus_exspectatus.PRJEB46690.WBPS18.protein.fa
+Pristionchus japonicus	Prijap	1195657	WormBase_18	pristionchus_japonicus.PRJEB27334.WBPS18.protein.fa
+Pristionchus maxplancki	Pmax	1317128	WormBase_18	pristionchus_maxplancki.PRJEB27334.WBPS18.protein.fa
+Rhabditophanes sp. KR3021	Rsp.KR3021	114890	WormBase_18	rhabditophanes_kr3021.PRJEB1297.WBPS18.protein.fa
+Romanomermis culicivorax	Rcul	13658	WormBase_18	romanomermis_culicivorax.PRJEB1358.WBPS18.protein.fa
+Soboliphyme baturini	Sbat	241478	NCBI	GCA_900618415.1
+Setaria digitata	Sdig	48799	WormBase_18	setaria_digitata.PRJNA479729.WBPS18.protein.fa
+Steinernema feltiae	Sfel	52066	WormBase_18	steinernema_feltiae.PRJNA204661.WBPS18.protein.fa
+Steinernema glaseri	Sgla	37863	WormBase_18	steinernema_glaseri.PRJNA204943.WBPS18.protein.fa
+Steinernema monticolum	Smon	90984	WormBase_18	steinernema_monticolum.PRJNA205067.WBPS18.protein.fa
+Steinernema scapterisci	Stesca	90986	WormBase_18	steinernema_scapterisci.PRJNA204942.WBPS18.protein.fa
+Strongyloides papillosus	Spap	174720	WormBase_18	strongyloides_papillosus.PRJEB525.WBPS18.protein.fa
+Strongyloides stercoralis	Strste	6248	WormBase_18	strongyloides_stercoralis.PRJEB528.WBPS18.protein.fa
+Strongyloides venezuelensis	Sven	75913	WormBase_18	strongyloides_venezuelensis.PRJEB530.WBPS18.protein.fa
+Syphacia muris	Sypmur	451379	WormBase_18	syphacia_muris.PRJEB524.WBPS18.protein.fa
+Trichinella murrelli	Tmur	144512	NCBI	GCA_001447425.1
+Trichinella sp. T6	Tsp.T6	92179	NCBI	GCA_001447435.1
+Trichinella sp. T8	Tsp.T8	92180	NCBI	GCA_001447745.1
+Trichinella sp. T9	Tsp.T9	181606	NCBI	GCA_001447505.1
+Trichuris muris	Trimur	70415	WormBase_18	trichuris_muris.PRJEB126.WBPS18.protein.fa
+Trichuris trichiura	Ttri	36087	NCBI	GCA_000613005.1
+Wuchereria bancrofti	Wban	6293	NCBI	GCA_900622535.1
+Alternaria tenuissima	Altten	119927	NCBI	GCA_004156035.1
+Ampelomyces quisqualis	Aqui	50730	NCBI	GCA_010094095.1
+Armillaria gallica	Agal	47427	NCBI	GCA_002307695.1
+Armillaria ostoyae	Aost	47428	NCBI	GCA_900157425.1
+Armillaria solidipes	Asol	1076256	NCBI	GCA_002307675.1
+Aspergillus cristatus	Acri	573508	NCBI	GCA_001717485.1
+Aspergillus minisclerotigenes	Amin	656917	NCBI	GCA_009176455.1
+Aspergillus parasiticus	Apar	5067	NCBI	GCA_009176385.1
+Aspergillus tamarii	Atam	41984	NCBI	GCA_009193485.1
+Beauveria brongniartii	Bbro	118266	NCBI	GCA_001636735.1
+Blastomyces percursus	Bper	1658174	NCBI	GCA_001883805.1
+Botrytis elliptica	Bell	278938	NCBI	GCA_014898555.1
+Brettanomyces naardenensis	Bnaa	13370	NCBI	GCA_900660285.1
+Candida maltosa	Cmal	5479	NCBI	GCA_000344705.1
+Ceratobasidium theobromae	Cthe	1582974	NCBI	GCA_009078325.1
+Cercospora zeina	Czei	348901	NCBI	GCA_002844615.1
+Claviceps purpurea	Cpur	5111	NCBI	GCA_000347355.1
+Colletotrichum asianum	Casi	702518	NCBI	GCA_045514765.1
+Colletotrichum nymphaeae	Cnym	306554	NCBI	GCA_001563115.1
+Colletotrichum sublineola	Csub	1173701	NCBI	GCA_030867325.1
+Coprinellus micaceus	Cmic	71717	NCBI	GCA_004369175.1
+Cordyceps javanica	Cjav	43265	NCBI	GCA_006981985.1
+Corynespora cassiicola	Ccas	59586	NCBI	GCA_003016335.1
+Cryptococcus floricola	Cryflo	2591691	NCBI	GCA_008355005.1
+Cyberlindnera fabianii	Cfab	36022	NCBI	GCA_001983305.1
+Diaporthe ampelina	Damp	1214573	NCBI	GCA_001006365.1
+Diaporthe helianthi	Dhel	158607	NCBI	GCA_001702395.2
+Dothistroma septosporum	Dsep	64363	NCBI	GCA_000340195.1
+Elsinoe ampelina	Eamp	302913	NCBI	GCA_010093995.1
+Elsinoe australis	Eaus	40998	NCBI	GCA_003013795.1
+Escovopsis weberi	Eweb	150374	NCBI	GCA_001278495.1
+Eutypa lata	Elat	97096	NCBI	GCA_000349385.1
+Fomitopsis pinicola	Fpin	40483	Ensembl_fungi_61	Fomitopsis_pinicola_fp_58527_ss1_gca_000344655.Fompi3.pep.all.fa
+Fusarium euwallaceae	Feuw	1147111	NCBI	GCA_003957675.1
+Fusarium langsethiae	Flan	179993	NCBI	GCA_001292635.1
+Fusarium longipes	Flon	694270	NCBI	GCA_003012285.1
+Fusarium nygamai	Fnyg	42673	NCBI	GCA_002894225.1
+Fusarium sporotrichioides	Fspo	5514	NCBI	GCA_003012315.1
+Galerina marginata	Galmar	109633	NCBI	GCA_000697645.1
+Grifola frondosa	Gfro	5627	NCBI	GCA_001683735.1
+Hanseniaspora guilliermondii	Hgui	56406	NCBI	GCA_900119595.1
+Hortaea werneckii	Hwer	91943	NCBI	GCA_003704345.1
+Hypholoma sublateritium	Hsub	71945	NCBI	GCA_000827495.1
+Hypsizygus marmoreus	Hmar	39966	NCBI	GCA_001605315.2
+Lachancea quebecensis	Lque	1654605	NCBI	GCA_002900925.1
+Lasallia pustulata	Lpus	136370	NCBI	GCA_008636195.1
+Leucosporidium creatinivorum	Lcre	106004	NCBI	GCA_002105055.1
+Lichtheimia corymbifera	Liccor	42458	NCBI	GCA_000723665.1
+Lichtheimia ramosa	Lram	688394	NCBI	GCA_000945115.1
+Lipomyces starkeyi	Lsta	29829	NCBI	GCA_001661325.1
+Lomentospora prolificans	Lpro	41688	NCBI	GCA_002276285.1
+Macrophomina phaseolina	Macpha	35725	NCBI	GCA_000302655.1
+Madurella mycetomatis	Mmyc	100816	NCBI	GCA_001275765.2
+Metarhizium rileyi	Mril	1649241	NCBI	GCA_001636745.1
+Microbotryum intermedium	Mint	269621	NCBI	GCA_900096595.1
+Microbotryum silenes-dioicae	Msil	796604	NCBI	GCA_900120095.1
+Microbotryum violaceum	Mvio	5272	Ensembl_fungi_61	Microbotryum_violaceum.GCA_000166175.1.pep.all.fa
+Millerozyma farinosa	Mfar	4920	NCBI	GCA_000315895.1
+Moesziomyces aphidis	Maph	84754	NCBI	GCA_000517465.1
+Morchella conica	Mcon	5194	NCBI	GCA_003790465.1
+Mucor circinelloides	Mcir	36080	NCBI	GCA_000401635.1
+Neofusicoccum parvum	Neopar	310453	NCBI	GCA_000385595.1
+Neonectria ditissima	Ndit	78410	NCBI	GCA_001306435.1
+Ophiostoma piceae	Opic	61273	NCBI	GCA_000410735.1
+Penicillium camemberti	Pcam	5075	NCBI	GCA_000513335.1
+Penicillium decumbens	Pdec	69771	NCBI	GCA_002072245.1
+Penicillium italicum	Pita	40296	NCBI	GCA_000769765.1
+Penicillium nordicum	Pnor	229535	NCBI	GCA_001278595.1
+Penicillium polonicum	Penpol	60169	NCBI	GCA_002072265.1
+Penicillium steckii	Pste	303698	NCBI	GCA_002072375.1
+Phaffia rhodozyma	Prho	264483	Ensembl_fungi_61	Phaffia_rhodozyma_gca_001007165.Xden1.pep.all.fa
+Phanerodontia chrysosporium	Phachr	2822231	Ensembl_fungi_61	Phanerochaete_chrysosporium.GCA000167175v1.pep.all.fa
+Phialophora americana	Pame	5601	Ensembl_fungi_61	Phialophora_americana_gca_000835435.Capr_semi_CBS27337_V1.pep.all.fa
+Lentinus brumalis	Lbru	2498619	NCBI	GCA_003367725.1
+Pyrenophora teres	Pter	53485	NCBI	GCA_000166005.1
+Pyrenophora teres f. maculata	Pyrter	97480	NCBI	GCA_900231935.2
+Rhizopus stolonifer	Rsto	4846	NCBI	GCA_003325415.1
+Rosellinia necatrix	Rnec	77044	NCBI	GCA_001445595.3
+Saccharomyces boulardii (nom. inval.)	Sbou	252598	NCBI	GCA_001298375.2
+Scleroderma citrinum	Scit	68788	NCBI	GCA_000827425.1
+Sporisorium scitamineum	Ssci	49012	NCBI	GCA_001243155.1
+Thielaviopsis punctulata	Tpun	72032	NCBI	GCA_000968615.1
+Trichoderma arundinaceum	Taru	490622	NCBI	GCA_003012105.1
+Trichoderma longibrachiatum	Tlon	5548	NCBI	GCA_003025155.1
+Trichophyton mentagrophytes	Tmen	523103	NCBI	GCA_003118255.1
+Trichophyton soudanense	Tsou	69891	NCBI	GCA_000616865.1
+Trichophyton tonsurans	Tton	34387	NCBI	GCA_000151455.1
+Trichophyton violaceum	Tvio	34388	NCBI	GCA_001651435.1
+Cytospora chrysosperma	Cchr	252740	NCBI	GCA_003795275.1
+Venturia inaequalis	Vina	5025	NCBI	GCA_003351075.1
+Verticillium longisporum	Vlon	100787	NCBI	GCA_001268145.1
+Wolfiporia cocos	Wcoc	81056	NCBI	GCA_000344635.1
+Xylaria grammica	Xgra	363999	NCBI	GCA_004014815.1
+Xylaria hypoxylon	Xhyp	37992	NCBI	GCA_004768795.1
+Zygosaccharomyces bailii	Zbai	4954	NCBI	GCA_000442885.1
+Zygosaccharomyces mellis	Zmel	42258	NCBI	GCA_005406105.1
+Zymoseptoria brevis	Zbre	1047168	NCBI	GCA_000966595.1
+Albugo laibachii	Alai	653948	Ensembl_protists_61	Albugo_laibachii.ENA1.pep.all.fa
+Bigelowiella natans	Bnat	227086	Ensembl_protists_61	Bigelowiella_natans.Bigna1.pep.all.fa
+Fragilariopsis cylindrus	Fcyl	186039	NCBI	GCA_001750085.1
+Hammondia hammondi	Hham	99158	NCBI	GCA_000258005.2
+Hondaea fermentalgiana	Hfer	2315210	NCBI	GCA_002897355.1
+Hyaloperonospora arabidopsidis	Hara	272952	Ensembl_protists_61	Hyaloperonospora_arabidopsidis.HyaAraEmoy2_2.0.pep.all.fa
+Phytophthora kernoviae	Pker	325452	NCBI	GCA_000333075.3
+Phytophthora lateralis	Phylat	129355	Ensembl_protists_61	Phytophthora_lateralis.MPF4_v1.0.pep.all.fa
+Plasmodiophora brassicae	Plabra	37360	NCBI	GCA_001049375.1
+Pythium aphanidermatum	Paph	65070	Ensembl_protists_61	Pythium_aphanidermatum.pag1_scaffolds_v1.pep.all.fa
+Pythium arrhenomanes	Parr	82932	Ensembl_protists_61	Pythium_arrhenomanes.par_scaffolds_v1.pep.all.fa
+Globisporangium irregulare	Girr	36331	Ensembl_protists_61	Pythium_irregulare.pir_scaffolds_v1.pep.all.fa
+Globisporangium iwayamae	Giwa	115417	Ensembl_protists_61	Pythium_iwayamai.piw_scaffolds_v1.pep.all.fa
+Globisporangium ultimum	Gult	2052682	Ensembl_protists_61	Pythium_ultimum.pug.pep.all.fa
+Phytopythium vexans	Phyvex	907947	Ensembl_protists_61	Pythium_vexans.pve_scaffolds_v1.pep.all.fa
+Thalassiosira oceanica	Toce	159749	NCBI	GCA_000296195.2
+Corallochytrium limacisporum	Clim	98351	https://figshare.com/articles/Genome_-_Corallochytrium_limacisporum/5426470	Clim_long.pep.fasta
+Chromera velia	Cvel	505693	https://cryptodb.org/common/downloads/Current_Release/CveliaCCMP2878/fasta/data/	CryptoDB-63_CveliaCCMP2878_AnnotatedProteins.fasta
+Ichthyophonus hoferi	Ihof	39843	https://figshare.com/articles/Genome_-_Ichthyophonus_hoferi/5426488	Ihof_long.pep.fasta
+Breviolum minutum	Bmin	2499525	https://mitra.stanford.edu/kundaje/marinovg/oak/various/genomes/Dinoflagellata/Symbiodinium_minutum_Clade_B1_Ver1.120123/	symbB.v1.2.augustus.prot.faa
+Actinia equina	Aequ	6106	Ensembl_metazoa_61	Actinia_equina_gca011057435.equina_smartden.arrow4.noredun.pep.all.fa
+Anopheles atroparvus	Aatr	41427	Ensembl_metazoa_61	Anopheles_atroparvus_gca914969975.atroparvus_hifiasm_n225_277Mb.pep.all.fa
+Anopheles christyi	Anochr	43041	Ensembl_metazoa_61	Anopheles_christyi.AchrA1.pep.all.fa
+Anopheles culicifacies	Acul	139723	Ensembl_metazoa_61	Anopheles_culicifacies.AculA1.pep.all.fa
+Anopheles dirus	Adir	7168	Ensembl_metazoa_61	Anopheles_dirus.AdirW1.pep.all.fa
+Anopheles epiroticus	Aepi	199890	Ensembl_metazoa_61	Anopheles_epiroticus.AepiE1.pep.all.fa
+Anopheles farauti	Afar	69004	Ensembl_metazoa_61	Anopheles_farauti.AfarF2.pep.all.fa
+Anopheles melas	Anomel	34690	Ensembl_metazoa_61	Anopheles_melas.AmelC2.pep.all.fa
+Anopheles minimus	Anomin	112268	Ensembl_metazoa_61	Anopheles_minimus.AminM1.pep.all.fa
+Anopheles quadriannulatus	Aqua	34691	Ensembl_metazoa_61	Anopheles_quadriannulatus.AquaS1.pep.all.fa
+Belgica antarctica	Bant	315563	Ensembl_metazoa_61	Belgica_antarctica.ASM77530v1.pep.all.fa
+Glossina austeni	Gloaus	7395	Ensembl_metazoa_61	Glossina_austeni.GausT1.pep.all.fa
+Glossina brevipalpis	Globre	37001	Ensembl_metazoa_61	Glossina_brevipalpis.GbreI1.pep.all.fa
+Glossina morsitans	Glomor	7394	Ensembl_metazoa_61	Glossina_morsitans.GmorY1.pep.all.fa
+Glossina pallidipes	Glopld	7398	Ensembl_metazoa_61	Glossina_pallidipes.GpalI1.pep.all.fa
+Glossina palpalis	Glopps	7397	Ensembl_metazoa_61	Glossina_palpalis.GpapI1.pep.all.fa
+Heliconius melpomene	Hmel	34740	Ensembl_metazoa_61	Heliconius_melpomene.Hmel1.pep.all.fa
+Hofstenia miamia	Hmia	442651	Ensembl_metazoa_61	Hofstenia_miamia.HmiaM1.pep.all.fa
+Hymenolepis microstoma	Hmic	85433	Ensembl_metazoa_61	Hymenolepis_microstoma.HMN_v3.pep.all.fa
+Mayetiola destructor	Mdes	39758	Ensembl_metazoa_61	Mayetiola_destructor.Mdes_1.0.pep.all.fa
+Mnemiopsis leidyi	Mlei	27923	Ensembl_metazoa_61	Mnemiopsis_leidyi.MneLei_Aug2011.pep.all.fa
+Rhodnius prolixus	Rpro	13249	Ensembl_metazoa_61	Rhodnius_prolixus.RproC3.pep.all.fa
+Stegodyphus mimosarum	Smim	407821	NCBI	GCA_000611955.2
+Strigamia maritima	Smar	126957	Ensembl_metazoa_61	Strigamia_maritima.Smar1.pep.all.fa
+Trialeurodes vaporariorum	Tvap	88556	Ensembl_metazoa_61	Trialeurodes_vaporariorum_gca011764245.ASM1176424v1.pep.all.fa
+Ephydatia muelleri	Emue	6052	https://spaces.facsci.ualberta.ca/ephybase/resources/	Emu_v1_prots.fasta
+Drosophila immigrans	Droimm	7250	NCBI	GCA_021223785.1
+Schmidtea mediterranea	Smed	79327	WormBase_18	schmidtea_mediterranea.S2F19H1_PRJNA885486.WBPS18.protein.fa
+Tethya wilhelma	Twil	463344	https://bitbucket.org/molpalmuc/tethya_wilhelma-genome/src/master/gene_sets/	twilhelma_trinity_transdecoder_proteins.fasta
+Accipiter nisus	Anis	211598	Ensembl_115	Accipiter_nisus.Accipiter_nisus_ver1.0.pep.all.fa
+Amazona collaria	Amacol	241587	Ensembl_115	Amazona_collaria.ASM394721v1.pep.all.fa
+Amphilophus citrinellus	Ampcit	61819	Ensembl_115	Amphilophus_citrinellus.Midas_v5.pep.all.fa
+Amphiprion percula	Aper	161767	Ensembl_115	Amphiprion_percula.Nemo_v1.pep.all.fa
+Anas zonorhyncha	Azon	75864	Ensembl_115	Anas_zonorhyncha.ASM222487v1.pep.all.fa
+Anser brachyrhynchus	Ansbra	132585	Ensembl_115	Anser_brachyrhynchus.ASM259213v1.pep.all.fa
+Apteryx haastii	Ahaa	8823	Ensembl_115	Apteryx_haastii.aptHaa1.pep.all.fa
+Apteryx owenii	Aowe	8824	Ensembl_115	Apteryx_owenii.aptOwe1.pep.all.fa
+Bos grunniens	Bgru	30521	Ensembl_115	Bos_grunniens.LU_Bosgru_v3.0.pep.all.fa
+Bubo bubo	Bbub	30461	Ensembl_115	Bubo_bubo.BubBub1.0.pep.all.fa
+Buteo japonicus	Bjap	224669	Ensembl_115	Buteo_japonicus.ButJap1.0.pep.all.fa
+Cairina moschata	Cmos	8855	Ensembl_115	Cairina_moschata_domestica.CaiMos1.0.pep.all.fa
+Calidris pygmaea	Cpyg	425635	Ensembl_115	Calidris_pygmaea.ASM369795v1.pep.all.fa
+Catagonus wagneri	Cwag	51154	Ensembl_115	Catagonus_wagneri.CatWag_v2_BIUU_UCD.pep.all.fa
+Chelydra serpentina	Cser	8475	NCBI	GCA_018859375.1
+Chrysolophus pictus	Chrpic	9089	Ensembl_115	Chrysolophus_pictus.Chrysolophus_pictus_GenomeV1.0.pep.all.fa
+Ciona savignyi	Csav	51511	Ensembl_115	Ciona_savignyi.CSAV2.0.pep.all.fa
+Eptatretus burgeri	Ebur	7764	Ensembl_115	Eptatretus_burgeri.Eburgeri_3.2.pep.all.fa
+Falco tinnunculus	Ftin	100819	Ensembl_115	Falco_tinnunculus.FalTin1.0.pep.all.fa
+Gopherus agassizii	Gaga	38772	Ensembl_115	Gopherus_agassizii.ASM289641v1.pep.all.fa
+Hucho hucho	Hhuc	62062	Ensembl_115	Hucho_hucho.ASM331708v1.pep.all.fa
+Junco hyemalis	Jhye	40217	Ensembl_115	Junco_hyemalis.ASM382977v1.pep.all.fa
+Laticauda laticaudata	Llat	8630	Ensembl_115	Laticauda_laticaudata.latLat_1.0.pep.all.fa
+Leptobrachium leishanense	Llei	445787	Ensembl_115	Leptobrachium_leishanense.ASM966780v1.pep.all.fa
+Malurus cyaneus	Mcya	55807	Ensembl_115	Malurus_cyaneus_samueli.mCya_1.0.pep.all.fa
+Mola mola	Mmol	94237	Ensembl_115	Mola_mola.ASM169857v1.pep.all.fa
+Moschus moschiferus	Mmos	68415	Ensembl_115	Moschus_moschiferus.MosMos_v2_BIUU_UCD.pep.all.fa
+Mus spicilegus	Mspi	10103	Ensembl_115	Mus_spicilegus.MUSP714.pep.all.fa
+Mus spretus	Mspr	10096	Ensembl_115	Mus_spretus.SPRET_EiJ_v3.pep.all.fa
+Neogobius melanostomus	Neomel	47308	Ensembl_115	Neogobius_melanostomus.RGoby_Basel_V2.pep.all.fa
+Otus sunia	Osun	257818	Ensembl_115	Otus_sunia.OtuSun1.0.pep.all.fa
+Pavo cristatus	Pavcri	9049	Ensembl_115	Pavo_cristatus.AIIM_Pcri_1.0.pep.all.fa
+Pelusios castaneus	Pcas	367368	Ensembl_115	Pelusios_castaneus.Pelusios_castaneus-1.0.pep.all.fa
+Procavia capensis	Pcap	9813	Ensembl_115	Procavia_capensis.proCap1.pep.all.fa
+Prolemur simus	Psim	1328070	Ensembl_115	Prolemur_simus.Prosim_1.0.pep.all.fa
+Salvator merianae	Smer	96440	Ensembl_115	Salvator_merianae.HLtupMer3.pep.all.fa
+Sciurus vulgaris	Scivul	55149	Ensembl_115	Sciurus_vulgaris.mSciVul1.1.pep.all.fa
+Spermophilus dauricus	Sdau	99837	Ensembl_115	Spermophilus_dauricus.ASM240643v1.pep.all.fa
+Sphenodon punctatus	Spun	8508	Ensembl_115	Sphenodon_punctatus.ASM311381v1.pep.all.fa
+Cyanoderma ruficeps	Cruf	181631	Ensembl_115	Stachyris_ruficeps.ASM869450v1.pep.all.fa
+Strix occidentalis	Socc	201991	Ensembl_115	Strix_occidentalis_caurina.Soccid_v01.pep.all.fa
+Terrapene carolina	Tcar	158814	Ensembl_115	Terrapene_carolina_triunguis.T_m_triunguis-2.0.pep.all.fa
+Ursus thibetanus	Uthi	9642	Ensembl_115	Ursus_thibetanus_thibetanus.ASM966005v1.pep.all.fa
+Zosterops lateralis	Zlat	43581	Ensembl_115	Zosterops_lateralis_melanops.ASM128173v1.pep.all.fa
+Actinidia chinensis	Achi	3625	NCBI	GCA_003024255.1
+Arabis alpina	Aalp	50452	NCBI	GCA_000733195.1
+Avena sativa 	Asat	4498	Ensembl_plants_61	Avena_sativa_ot3098.Oat_OT3098_v2.pep.all.fa
+Brassica juncea	Bjun	3707	Ensembl_plants_61	Brassica_juncea.ASM1870372v1.pep.all.fa
+Citrullus lanatus	Citlan	3654	Ensembl_plants_61	Citrullus_lanatus.Cla97_v1.pep.all.fa
+Coffea canephora	Cofcan	49390	NCBI	GCA_900059795.1
+Echinochloa crus-galli	Ecru	90397	Ensembl_plants_61	Echinochloa_crusgalli.ec_v3.pep.all.fa
+Eragrostis tef	Etef	110835	Ensembl_plants_61	Eragrostis_tef.Salk_teff_dabbi_3.0.pep.all.fa
+Ficus carica	Fcar	3494	NCBI	GCA_033242285.1
+Fraxinus excelsior	Fexc	38873	Ensembl_plants_61	Fraxinus_excelsior.BATG-0.5.pep.all.fa
+Kalanchoe fedtschenkoi	Kfed	63787	Ensembl_plants_61	Kalanchoe_fedtschenkoi.K_fedtschenkoi_M2_v1.pep.all.fa
+Leersia perrieri	Leeper	77586	Ensembl_plants_61	Leersia_perrieri.Lperr_V1.4.pep.all.fa
+Oryza barthii	Obar	65489	Ensembl_plants_61	Oryza_barthii.O.barthii_v1.pep.all.fa
+Oryza glumipatula	Oglu	40148	Ensembl_plants_61	Oryza_glumipatula.Oryza_glumaepatula_v1.5.pep.all.fa
+Oryza longistaminata	Olon	4528	Ensembl_plants_61	Oryza_longistaminata.O_longistaminata_v1.0.pep.all.fa
+Oryza meridionalis	Omer	40149	Ensembl_plants_61	Oryza_meridionalis.Oryza_meridionalis_v1.3.pep.all.fa
+Oryza nivara	Oniv	4536	Ensembl_plants_61	Oryza_nivara.Oryza_nivara_v1.0.pep.all.fa
+Oryza punctata	Opun	4537	Ensembl_plants_61	Oryza_punctata.Oryza_punctata_v1.2.pep.all.fa
+Oryza rufipogon	Oruf	4529	Ensembl_plants_61	Oryza_rufipogon.OR_W1943.pep.all.fa
+Saccharum spontaneum	Sspo	62335	Ensembl_plants_61	Saccharum_spontaneum.Sspon.HiC_chr_asm.pep.all.fa
+Secale cereale	Seccer	4550	Ensembl_plants_61	Secale_cereale.Rye_Lo7_2018_v1p1p1.pep.all.fa
+Acidomyces richmondensis BFW	Aric	766039	NCBI	GCA_001592465.1
+Acidomyces sp. 'richmondensis'	Asp.richmondensis	245562	NCBI	GCA_001572075.1
+Alternaria sp. MG1	Asp.MG1	1678846	NCBI	GCA_003574525.1
+Aspergillus sp. HF37	Asp.HF37	1960876	NCBI	GCA_003698115.1
+Bipolaris maydis ATCC 48331	Bmay	665024	NCBI	GCA_000354255.1
+Cadophora sp. DSE1049	Csp.DSE1049	1485229	NCBI	GCA_003073865.1
+Candida viswanathii	Canvis	5486	NCBI	GCA_003327735.1
+Cercospora zeae-maydis SCOH1-5	Czea	717836	NCBI	GCA_010093985.1
+Chaetothyriales sp. CBS 132003	Csp.CBS132003	2249419	NCBI	GCA_003709865.1
+Chaetothyriales sp. CBS 134916	Csp.CBS134916	2249418	NCBI	GCA_003709845.1
+Chaetothyriales sp. CBS 134920	Csp.CBS134920	2249417	NCBI	GCA_003693665.1
+Chaetothyriales sp. CBS 135597	Csp.CBS135597	2249420	NCBI	GCA_003709825.1
+Coniochaeta sp. 2T2.1	Csp.2T21	1571157	NCBI	GCA_009194965.1
+Cordyceps sp. RAO-2017	Csp.RAO2017	2004951	NCBI	GCA_002591385.1
+Daldinia sp. EC12	Dsp.EC12	1001832	NCBI	GCA_002120325.1
+Dentipellis sp. KUC8613	Dsp.KUC8613	1883078	NCBI	GCA_002286715.1
+Endogone sp. FLAS-F59071	Esp.FLASF59071	2340872	NCBI	GCA_003990785.1
+Golovinomyces magnicellulatus	Gmag	62714	NCBI	GCA_006912115.1
+Mollisiaceae sp. DMI_Dod_QoI	Msp.DMIDodQoI	2728926	NCBI	GCA_009613015.1
+Hypoxylon sp. CI-4A	Hsp.CI4A	1001833	NCBI	GCA_002120315.1
+Hypoxylon sp. CO27-5	Hsp.CO275	1001938	NCBI	GCA_002120305.1
+Hypoxylon sp. EC38	Hsp.EC38	1001937	NCBI	GCA_002120335.1
+Leucoagaricus sp. SymC.cos	Lsp.SymCcos	1714833	NCBI	GCA_001563735.1
+Metarhizium majus	Mmaj	1650735	NCBI	GCA_000814945.1
+Metschnikowia aff. pulcherrima	Maff	2163413	NCBI	GCA_004217705.1
+Metschnikowia sp. JCM 33374	Msp.JCM33374	2562755	NCBI	GCA_005406065.1
+Meyerozyma sp. JA9	Msp.JA9	2028340	NCBI	GCA_003676015.1
+Monosporascus sp. 5C6A	Msp.5C6A	2211642	NCBI	GCA_004155035.1
+Monosporascus sp. CRB-8-3	Msp.CRB83	2211644	NCBI	GCA_004155055.1
+Monosporascus sp. CRB-9-2	Msp.CRB92	2211643	NCBI	GCA_004155915.1
+Monosporascus sp. GIB2	Msp.GIB2	2211647	NCBI	GCA_004155935.1
+Monosporascus sp. MC13-8B	Msp.MC138B	2211646	NCBI	GCA_004154975.1
+Monosporascus sp. MG133	Msp.MG133	2211645	NCBI	GCA_004155925.1
+Monosporascus sp. mg162	Msp.mg162	1081914	NCBI	GCA_004155945.1
+Penicillium digitatum PHI26	Pdig	1170229	NCBI	GCA_000315665.1
+Peniophora sp. CONT	Psp.CONT	1314672	NCBI	GCA_001632445.1
+Pseudogymnoascus sp. 03VT05	Psp.03VT05	1622148	NCBI	GCA_001662645.1
+Pseudogymnoascus sp. 05NY08	Psp.05NY08	1622149	NCBI	GCA_001662605.1
+Pseudogymnoascus sp. 23342-1-I1	Psp.233421I1	1524831	NCBI	GCA_001662575.1
+Pseudogymnoascus sp. 24MN13	Psp.24MN13	1622150	NCBI	GCA_001662595.1
+Pseudogymnoascus sp. WSF 3629	Psp.WSF3629	1622147	NCBI	GCA_001662585.1
+Pseudogymnoascus sp. VKM F-103	Psp.VKMF103	1420912	NCBI	GCA_000750895.1
+Pseudogymnoascus sp. VKM F-3557	Psp.VKMF3557	1437433	NCBI	GCA_000750665.1
+Pseudogymnoascus sp. VKM F-3808	Psp.VKMF3808	1391699	NCBI	GCA_000750675.1
+Pseudogymnoascus sp. VKM F-4246	Psp.VKMF4246	1420902	NCBI	GCA_000750735.1
+Pseudogymnoascus sp. VKM F-4281 (FW-2241)	Psp.VKMF4281	1420906	NCBI	GCA_000750745.1
+Pseudogymnoascus sp. VKM F-4513 (FW-928)	Psp.VKMF4513	1420907	NCBI	GCA_000750755.1
+Pseudogymnoascus sp. VKM F-4514 (FW-929)	Psp.VKMF4514	1420908	NCBI	GCA_000750795.1
+Pseudogymnoascus sp. VKM F-4515 (FW-2607)	Psp.VKMF4515	1420909	NCBI	GCA_000750805.1
+Pseudogymnoascus sp. VKM F-4516 (FW-969)	Psp.VKMF4516	1420910	NCBI	GCA_000750815.1
+Pseudogymnoascus sp. VKM F-4517 (FW-2822)	Psp.VKMF4517	1420911	NCBI	GCA_000750875.1
+Pseudogymnoascus sp. VKM F-4518 (FW-2643)	Psp.VKMF4518	1420913	NCBI	GCA_000750925.1
+Pseudogymnoascus sp. VKM F-4519 (FW-2642)	Psp.VKMF4519	1420914	NCBI	GCA_000750935.1
+Pseudogymnoascus sp. VKM F-4520 (FW-2644)	Psp.VKMF4520	1420915	NCBI	GCA_000750995.1
+Pyrenochaeta sp. DS3sAY3a	Psp.DS3sAY3a	765867	NCBI	GCA_001644535.1
+Rhizophagus sp. MUCL 43196	Rsp.MUCL43196	1803374	NCBI	GCA_003549995.1
+Rhodotorula sp. JG-1b	Rsp.JG1b	1305733	NCBI	GCA_001541205.1
+Rutstroemia sp. NJR-2017a BBW	Rsp.NJR2017aBBW	2070414	NCBI	GCA_002946425.1
+Rutstroemia sp. NJR-2017a BVV2	Rsp.NJR2017aBVV2	2070413	NCBI	GCA_002946415.1
+Rutstroemia sp. NJR-2017a WRK4	Rsp.NJR-2017aWRK4	2070412	NCBI	GCA_002946385.1
+Spathaspora sp. JA1	Ssp.JA1	2028339	NCBI	GCA_003676035.1
+Spizellomyces sp. 'palustris'	Ssp.palustris	117820	NCBI	GCA_006535965.1
+Stachybotrys chartarum IBT 40288	Scha	1283842	NCBI	GCA_000732765.1
+Phaeosphaeriaceae sp. SRC1lsM3a	Psp.SRC1lsM3a	765868	NCBI	GCA_001644525.1
+Termitomyces sp. J132	Tsp.J132	1306850	NCBI	GCA_001263195.1
+Trichophyton interdigitale H6	Tint	1215336	NCBI	GCA_000616785.1
+Nothophytophthora sp. Chile5	Nsp.Chile5	2483409	NCBI	GCA_001712635.2
+Phytomonas sp. EM1	Psp.EM1	479712	NCBI	GCA_000582765.1
+Phytomonas sp. Hart1	Psp.Hart1	223615	NCBI	GCA_000982615.1
+Ostreococcus sp. 'lucimarinus'	Osp.lucimarinus	242159	NCBI	GCA_000092065.1
+Gaeumannomyces graminis	Ggra	29850	Ensembl_fungi_61	Gaeumannomyces_graminis.Gae_graminis_V2.pep.all.fa
+Rachicladosporium sp. CCFEE 5018	Rsp.CCFEE5018	1974281	Ensembl_fungi_61	Rachicladosporium_sp_ccfee_5018_gca_002077045.ASM207704v2.pep.all.fa
+Cladosiphon okamuranus	Coka	309737	https://marinegenomics.oist.jp/algae/viewer/download?project_id=53	160208_2k_oki_prot.fa
+Gefionella okellyi	Goke	2853422	https://megasun.bch.umontreal.ca/jakmal-download/Gefionella/	Gefionella_proteins_20170616.faa
+Jakoba bahamiensis	Jbah	221721	https://megasun.bch.umontreal.ca/jakmal-download/Jakoba_bahamiensis/	Jakoba_bahamiensis_proteins_20170509.faa
+Jakoba libera	Jlib	143017	https://megasun.bch.umontreal.ca/jakmal-download/Jakoba_libera/	Jakoba_libera_proteins_20171010.faa
+Malawimonas californiana	Mcal	221722	https://megasun.bch.umontreal.ca/jakmal-download/Malawimonas_californiana/	Malawimonas_californiana_proteins_20170924.faa
+Malawimonas jakobiformis	Mjak	136089	https://megasun.bch.umontreal.ca/jakmal-download/Malawimonas_jakobiformis/	Malawimonas_jakobiformis_proteins_20170616.faa
+Chromosphaera perkinsii	Cper	1932427	https://figshare.com/articles/Genome_-_Chromosphaera_perkinsii/5426494	Nk52_long.pep.fasta
+Pharyngomonas kirbyi	Pkir	63601	https://megasun.bch.umontreal.ca/jakmal-download/Pharyngomonas_kirbyi/	Pharyngomonas_kirbyi_proteinsV20181203.faa
+Planomonas micra	Plamic	554453	https://megasun.bch.umontreal.ca/jakmal-download/Planomonas/	Planomonas_micra_proteins_20170510.faa
+Reclinomonas americana	Rame	48483	https://megasun.bch.umontreal.ca/jakmal-download/Reclinomonas_americana/	Reclinomonas_americana_proteins_20170501.faa
+Culicoides sonorensis	Cson	179676	Ensembl_metazoa_61	Culicoides_sonorensis.Cson1.pep.all.fa
+Eurytemora affinis	Eaff	88015	Ensembl_metazoa_61	Eurytemora_carolleeae_gca000591075v1rs.Eaff_2.0.pep.all.fa
+Leucosolenia complicata	Lcom	433461	https://datadryad.org/dataset/doi:10.5061/dryad.tn0f3	leucosolenia.pep.fa
+Triticum spelta	Tspe	58933	Ensembl_plants_61	Triticum_spelta.PGSBv2.0.pep.all.fa
+Salpingoeca rosetta	Sros	946362	NCBI	GCF_000188695.1
+Ministeria vibrans	Mvib	134558	https://figshare.com/articles/dataset/Genomic_data_for_Ministeria_vibrans_Parvularia_atlantis_Pigoraptor_vietnamica_and_Pigoraptor_chileana/19895962	Mvib.correctedproteins.230818.fa
+Pigoraptor chileana	Pigchi	2006546	https://figshare.com/articles/dataset/Genomic_data_for_Ministeria_vibrans_Parvularia_atlantis_Pigoraptor_vietnamica_and_Pigoraptor_chileana/19895962	Pchi.corrected.230818.fa
+Pigoraptor vietnamica	Pigvie	2006545	https://figshare.com/articles/dataset/Genomic_data_for_Ministeria_vibrans_Parvularia_atlantis_Pigoraptor_vietnamica_and_Pigoraptor_chileana/19895962	Pvie.corrected.230818.fa
+Creolimax fragrantissima	Cfra	470921	https://figshare.com/articles/dataset/Creolimax_fragrantissima_genome_data/1403592	Creolimax_fragrantissima.pep.fasta
+Abeoforma whisleri	Awhi	749232	https://figshare.com/articles/dataset/Abeoforma_whisleri_s_transcriptome/3895752	Abeoforma_whisleri-Unigene.5-3.fa.transdecoder.pep
+Pirum gemmata	Pgem	749231	https://figshare.com/articles/dataset/Pirum_gemmata_s_Transcriptome/3900036	Pirum_gemmataUnigene.fa.transdecoder.pep

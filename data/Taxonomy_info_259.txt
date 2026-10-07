@@ -1,0 +1,260 @@
+Taxonomy_name	Abbreviation	NCBI_Taxonomy_ID	Species	Genus	Family	Order	Class	Phylum	Kingdom	Superkingdom
+Homo sapiens	Hsap	9606	Homo sapiens	Homo	Hominidae	Primates	Mammalia	Chordata	Metazoa	Eukaryota
+Sphenodon punctatus	Spun	8508	Sphenodon punctatus	Sphenodon	Sphenodontidae	Sphenodontia	Lepidosauria	Chordata	Metazoa	Eukaryota
+Gallus gallus	Ggal	9031	Gallus gallus	Gallus	Phasianidae	Galliformes	Aves	Chordata	Metazoa	Eukaryota
+Crocodylus porosus	Cropor	8502	Crocodylus porosus	Crocodylus	Crocodylidae	Crocodylia	Reptilia	Chordata	Metazoa	Eukaryota
+Xenopus tropicalis	Xtro	8364	Xenopus tropicalis	Xenopus	Pipidae	Anura	Amphibia	Chordata	Metazoa	Eukaryota
+Erpetoichthys calabaricus	Ecal	27687	Erpetoichthys calabaricus	Erpetoichthys	Polypteridae	Polypteriformes	Cladistia	Chordata	Metazoa	Eukaryota
+Danio rerio	Drer	7955	Danio rerio	Danio	Danionidae	Cypriniformes	Actinopteri	Chordata	Metazoa	Eukaryota
+Callorhinchus milii	Calmil	7868	Callorhinchus milii	Callorhinchus	Callorhinchidae	Chimaeriformes	Chondrichthyes	Chordata	Metazoa	Eukaryota
+Eptatretus burgeri	Ebur	7764	Eptatretus burgeri	Eptatretus	Myxinidae	Myxiniformes	Myxini	Chordata	Metazoa	Eukaryota
+Petromyzon marinus	Pmar	7757	Petromyzon marinus	Petromyzon	Petromyzontidae	Petromyzontiformes	Hyperoartia	Chordata	Metazoa	Eukaryota
+Branchiostoma lanceolatum	Blan	7740	Branchiostoma lanceolatum	Branchiostoma	Branchiostomatidae	Amphioxiformes	Leptocardii	Chordata	Metazoa	Eukaryota
+Ciona intestinalis	Cint	7719	Ciona intestinalis	Ciona	Cionidae	Phlebobranchia	Ascidiacea	Chordata	Metazoa	Eukaryota
+Saccoglossus kowalevskii	Skow	10224	Saccoglossus kowalevskii	Saccoglossus	Harrimaniidae	Enteropneusta	Enteropneusta	Hemichordata	Metazoa	Eukaryota
+Anneissia japonica	Annjap	1529436	Anneissia japonica	Anneissia	Comatulidae	Comatulida	Crinoidea	Echinodermata	Metazoa	Eukaryota
+Strongylocentrotus purpuratus	Spur	7668	Strongylocentrotus purpuratus	Strongylocentrotus	Strongylocentrotidae	Camarodonta	Echinoidea	Echinodermata	Metazoa	Eukaryota
+Lytechinus variegatus	Lvar	7654	Lytechinus variegatus	Lytechinus	Toxopneustidae	Temnopleuroida	Echinoidea	Echinodermata	Metazoa	Eukaryota
+Acanthaster planci	Apla	133434	Acanthaster planci	Acanthaster	Acanthasteridae	Valvatida	Asteroidea	Echinodermata	Metazoa	Eukaryota
+Patiria miniata	Patmin	46514	Patiria miniata	Patiria	Asterinidae	Valvatida	Asteroidea	Echinodermata	Metazoa	Eukaryota
+Asterias rubens	Astrub	7604	Asterias rubens	Asterias	Asteriidae	Forcipulatida	Asteroidea	Echinodermata	Metazoa	Eukaryota
+Ramazzottius varieornatus	Rvar	947166	Ramazzottius varieornatus	Ramazzottius	Ramazzottiidae	Parachela	Eutardigrada	Tardigrada	Metazoa	Eukaryota
+Hypsibius exemplaris	Hexe	2072580	Hypsibius exemplaris	Hypsibius	Hypsibiidae	Parachela	Eutardigrada	Tardigrada	Metazoa	Eukaryota
+Stegodyphus mimosarum	Smim	407821	Stegodyphus mimosarum	Stegodyphus	Eresidae	Araneae	Arachnida	Arthropoda	Metazoa	Eukaryota
+Limulus polyphemus	Lpol	6850	Limulus polyphemus	Limulus	Limulidae	Xiphosura	Merostomata	Arthropoda	Metazoa	Eukaryota
+Strigamia maritima	Smar	126957	Strigamia maritima	Strigamia	Linotaeniidae	Geophilomorpha	Chilopoda	Arthropoda	Metazoa	Eukaryota
+Folsomia candida	Fcan	158441	Folsomia candida	Folsomia	Isotomidae	Entomobryomorpha	Collembola	Arthropoda	Metazoa	Eukaryota
+Apis mellifera	Apimel	7460	Apis mellifera	Apis	Apidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota
+Drosophila melanogaster	Dmel	7227	Drosophila melanogaster	Drosophila	Drosophilidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota
+Bombyx mori	Bmor	7091	Bombyx mori	Bombyx	Bombycidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota
+Agrilus planipennis	Agrpla	224129	Agrilus planipennis	Agrilus	Buprestidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota
+Bemisia tabaci	Btab	7038	Bemisia tabaci	Bemisia	Aleyrodidae	Hemiptera	Insecta	Arthropoda	Metazoa	Eukaryota
+Daphnia pulex	Dpul	6669	Daphnia pulex	Daphnia	Daphniidae	Diplostraca	Branchiopoda	Arthropoda	Metazoa	Eukaryota
+Pollicipes pollicipes	Ppol	41117	Pollicipes pollicipes	Pollicipes	Pollicipedidae	Pollicipedomorpha	Thecostraca	Arthropoda	Metazoa	Eukaryota
+Tigriopus californicus	Tigcal	6832	Tigriopus californicus	Tigriopus	Harpacticidae	Harpacticoida	Hexanauplia	Arthropoda	Metazoa	Eukaryota
+Penaeus monodon	Pmon	6687	Penaeus monodon	Penaeus	Penaeidae	Decapoda	Malacostraca	Arthropoda	Metazoa	Eukaryota
+Soboliphyme baturini	Sbat	241478	Soboliphyme baturini	Soboliphyme	Soboliphymatidae	Dioctophymatida	Enoplea	Nematoda	Metazoa	Eukaryota
+Trichuris suis	Tsui	68888	Trichuris suis	Trichuris	Trichuridae	Trichinellida	Enoplea	Nematoda	Metazoa	Eukaryota
+Trichinella nelsoni	Tnel	6336	Trichinella nelsoni	Trichinella	Trichinellidae	Trichinellida	Enoplea	Nematoda	Metazoa	Eukaryota
+Trichinella spiralis	Tspi	6334	Trichinella spiralis	Trichinella	Trichinellidae	Trichinellida	Enoplea	Nematoda	Metazoa	Eukaryota
+Plectus sambesii	Psam	2011161	Plectus sambesii	Plectus	Plectidae	Plectida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Ancylostoma ceylanicum	Acey	53326	Ancylostoma ceylanicum	Ancylostoma	Ancylostomatidae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Angiostrongylus cantonensis	Angcan	6313	Angiostrongylus cantonensis	Angiostrongylus	Metastrongylidae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Heligmosomoides polygyrus	Hpol	6339	Heligmosomoides polygyrus	Heligmosomoides	Heligmosomidae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Haemonchus contortus	Hcon	6289	Haemonchus contortus	Haemonchus	Trichostrongylidae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Dracunculus medinensis	Dmed	318479	Dracunculus medinensis	Dracunculus	Dracunculidae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Syphacia muris	Sypmur	451379	Syphacia muris	Syphacia	Oxyuridae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Thelazia callipaeda	Thecal	103827	Thelazia callipaeda	Thelazia	Thelaziidae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Setaria digitata	Sdig	48799	Setaria digitata	Setaria	Setariidae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Loa loa	Lloa	7209	Loa loa	Loa	Onchocercidae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Wuchereria bancrofti	Wban	6293	Wuchereria bancrofti	Wuchereria	Onchocercidae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Onchocerca volvulus	Ovol	6282	Onchocerca volvulus	Onchocerca	Onchocercidae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Brugia malayi	Bmal	6279	Brugia malayi	Brugia	Onchocercidae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Toxocara canis	Tcan	6265	Toxocara canis	Toxocara	Toxocaridae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Ascaris suum	Asuu	6253	Ascaris suum	Ascaris	Ascarididae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Micoletzkya japonica	Mjap	1250332	Micoletzkya japonica	Micoletzkya	Diplogasteridae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Pristionchus arcanus	Priarc	1195655	Pristionchus arcanus	Pristionchus	Neodiplogasteridae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Caenorhabditis elegans	Cele	6239	Caenorhabditis elegans	Caenorhabditis	Rhabditidae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Ditylenchus dipsaci	Ddip	166011	Ditylenchus dipsaci	Ditylenchus	Anguinidae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Bursaphelenchus xylophilus	Bxyl	6326	Bursaphelenchus xylophilus	Bursaphelenchus	Aphelenchoididae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Globodera pallida	Gpal	36090	Globodera pallida	Globodera	Heteroderidae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Meloidogyne hapla	Mhap	6305	Meloidogyne hapla	Meloidogyne	Meloidogynidae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Steinernema carpocapsae	Scar	34508	Steinernema carpocapsae	Steinernema	Steinernematidae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Strongyloides ratti	Srat	34506	Strongyloides ratti	Strongyloides	Strongyloididae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Panagrellus redivivus	Pred	6233	Panagrellus redivivus	Panagrellus	Panagrolaimidae	Rhabditida	Chromadorea	Nematoda	Metazoa	Eukaryota
+Priapulus caudatus	Pcau	37621	Priapulus caudatus	Priapulus	Priapulidae	Priapulimorphida	Priapulimorpha	Priapulida	Metazoa	Eukaryota
+Octopus sinensis	Osin	2607531	Octopus sinensis	Octopus	Octopodidae	Octopoda	Cephalopoda	Mollusca	Metazoa	Eukaryota
+Octopus bimaculoides	Obim	37653	Octopus bimaculoides	Octopus	Octopodidae	Octopoda	Cephalopoda	Mollusca	Metazoa	Eukaryota
+Mercenaria mercenaria	Mmer	6596	Mercenaria mercenaria	Mercenaria	Veneridae	Venerida	Bivalvia	Mollusca	Metazoa	Eukaryota
+Mizuhopecten yessoensis	Myes	6573	Mizuhopecten yessoensis	Mizuhopecten	Pectinidae	Pectinida	Bivalvia	Mollusca	Metazoa	Eukaryota
+Magallana gigas	Mgig	29159	Magallana gigas	Magallana	Ostreidae	Ostreida	Bivalvia	Mollusca	Metazoa	Eukaryota
+Crassostrea virginica	Cvir	6565	Crassostrea virginica	Crassostrea	Ostreidae	Ostreida	Bivalvia	Mollusca	Metazoa	Eukaryota
+Gigantopelta aegis	Gaeg	1735272	Gigantopelta aegis	Gigantopelta	Peltospiridae	Neomphalida	Gastropoda	Mollusca	Metazoa	Eukaryota
+Pomacea canaliculata	Pcan	400727	Pomacea canaliculata	Pomacea	Ampullariidae	Architaenioglossa	Gastropoda	Mollusca	Metazoa	Eukaryota
+Lottia gigantea	Lgig	225164	Lottia gigantea	Lottia	Lottiidae	Nacellida	Gastropoda	Mollusca	Metazoa	Eukaryota
+Biomphalaria glabrata	Bgla	6526	Biomphalaria glabrata	Biomphalaria	Planorbidae	Hygrophila	Gastropoda	Mollusca	Metazoa	Eukaryota
+Aplysia californica	Aplcal	6500	Aplysia californica	Aplysia	Aplysiidae	Aplysiida	Gastropoda	Mollusca	Metazoa	Eukaryota
+Haliotis rubra	Hrub	36100	Haliotis rubra	Haliotis	Haliotidae	Lepetellida	Gastropoda	Mollusca	Metazoa	Eukaryota
+Haliotis rufescens	Hruf	6454	Haliotis rufescens	Haliotis	Haliotidae	Lepetellida	Gastropoda	Mollusca	Metazoa	Eukaryota
+Helobdella robusta	Hrob	6412	Helobdella robusta	Helobdella	Glossiphoniidae	Rhynchobdellida	Clitellata	Annelida	Metazoa	Eukaryota
+Dimorphilus gyrociliatus	Dgyr	2664684	Dimorphilus gyrociliatus	Dimorphilus	Dinophilidae	Orbiniida	Polychaeta	Annelida	Metazoa	Eukaryota
+Capitella teleta	Ctel	283909	Capitella teleta	Capitella	Capitellidae	Capitellida	Polychaeta	Annelida	Metazoa	Eukaryota
+Owenia fusiformis	Ofus	6347	Owenia fusiformis	Owenia	Oweniidae	Sabellida	Polychaeta	Annelida	Metazoa	Eukaryota
+Lingula anatina	Lana	7574	Lingula anatina	Lingula	Lingulidae	Lingulida	Lingulata	Brachiopoda	Metazoa	Eukaryota
+Schmidtea mediterranea	Smed	79327	Schmidtea mediterranea	Schmidtea	Dugesiidae	Tricladida	Rhabditophora	Platyhelminthes	Metazoa	Eukaryota
+Hymenolepis microstoma	Hmic	85433	Hymenolepis microstoma	Hymenolepis	Hymenolepididae	Cyclophyllidea	Cestoda	Platyhelminthes	Metazoa	Eukaryota
+Echinococcus multilocularis	Emul	6211	Echinococcus multilocularis	Echinococcus	Taeniidae	Cyclophyllidea	Cestoda	Platyhelminthes	Metazoa	Eukaryota
+Echinococcus granulosus	Echgra	6210	Echinococcus granulosus	Echinococcus	Taeniidae	Cyclophyllidea	Cestoda	Platyhelminthes	Metazoa	Eukaryota
+Heterobilharzia americana	Hetame	39320	Heterobilharzia americana	Heterobilharzia	Schistosomatidae	Strigeidida	Trematoda	Platyhelminthes	Metazoa	Eukaryota
+Schistosoma haematobium	Shae	6185	Schistosoma haematobium	Schistosoma	Schistosomatidae	Strigeidida	Trematoda	Platyhelminthes	Metazoa	Eukaryota
+Schistosoma mansoni	Sman	6183	Schistosoma mansoni	Schistosoma	Schistosomatidae	Strigeidida	Trematoda	Platyhelminthes	Metazoa	Eukaryota
+Adineta vaga	Avag	104782	Adineta vaga	Adineta	Adinetidae	Adinetida	Eurotatoria	Rotifera	Metazoa	Eukaryota
+Pomphorhynchus laevis	Plae	141832	Pomphorhynchus laevis	Pomphorhynchus	Pomphorhynchidae	Echinorhynchida	Palaeacanthocephala	Acanthocephala	Metazoa	Eukaryota
+Hofstenia miamia	Hmia	442651	Hofstenia miamia	Hofstenia	Hofsteniidae	Acoela	Acoelomorpha	Xenacoelomorpha	Metazoa	Eukaryota
+Paramuricea clavata	Parcla	317549	Paramuricea clavata	Paramuricea	Plexauridae	Malacalcyonacea	Anthozoa	Cnidaria	Metazoa	Eukaryota
+Dendronephthya gigantea	Dgig	151771	Dendronephthya gigantea	Dendronephthya	Nephtheidae	Malacalcyonacea	Anthozoa	Cnidaria	Metazoa	Eukaryota
+Orbicella faveolata	Ofav	48498	Orbicella faveolata	Orbicella	Merulinidae	Scleractinia	Anthozoa	Cnidaria	Metazoa	Eukaryota
+Stylophora pistillata	Spis	50429	Stylophora pistillata	Stylophora	Pocilloporidae	Scleractinia	Anthozoa	Cnidaria	Metazoa	Eukaryota
+Pocillopora damicornis	Pdam	46731	Pocillopora damicornis	Pocillopora	Pocilloporidae	Scleractinia	Anthozoa	Cnidaria	Metazoa	Eukaryota
+Acropora digitifera	Adig	70779	Acropora digitifera	Acropora	Acroporidae	Scleractinia	Anthozoa	Cnidaria	Metazoa	Eukaryota
+Acropora millepora	Amil	45264	Acropora millepora	Acropora	Acroporidae	Scleractinia	Anthozoa	Cnidaria	Metazoa	Eukaryota
+Exaiptasia diaphana	Edia	2652724	Exaiptasia diaphana	Exaiptasia	Aiptasiidae	Actiniaria	Anthozoa	Cnidaria	Metazoa	Eukaryota
+Nematostella vectensis	Nvec	45351	Nematostella vectensis	Nematostella	Edwardsiidae	Actiniaria	Anthozoa	Cnidaria	Metazoa	Eukaryota
+Actinia equina	Aequ	6106	Actinia equina	Actinia	Actiniidae	Actiniaria	Anthozoa	Cnidaria	Metazoa	Eukaryota
+Actinia tenebrosa	Aten	6105	Actinia tenebrosa	Actinia	Actiniidae	Actiniaria	Anthozoa	Cnidaria	Metazoa	Eukaryota
+Clytia hemisphaerica	Chem	252671	Clytia hemisphaerica	Clytia	Clytiidae	Leptothecata	Hydrozoa	Cnidaria	Metazoa	Eukaryota
+Hydra vulgaris	Hvul	6087	Hydra vulgaris	Hydra	Hydridae	Anthoathecata	Hydrozoa	Cnidaria	Metazoa	Eukaryota
+Trichoplax adhaerens	Tadh	10228	Trichoplax adhaerens	Trichoplax	Trichoplacidae	Trichoplacea	Uniplacotomia	Placozoa	Metazoa	Eukaryota
+Mnemiopsis leidyi	Mlei	27923	Mnemiopsis leidyi	Mnemiopsis	Bolinopsidae	Lobata	Tentaculata	Ctenophora	Metazoa	Eukaryota
+Leucosolenia complicata	Lcom	433461	Leucosolenia complicata	Leucosolenia	Leucosoleniidae	Leucosolenida	Calcarea	Porifera	Metazoa	Eukaryota
+Sycon ciliatum	Scil	27933	Sycon ciliatum	Sycon	Sycettidae	Leucosolenida	Calcarea	Porifera	Metazoa	Eukaryota
+Tethya wilhelma	Twil	463344	Tethya wilhelma	Tethya	Tethyidae	Tethyida	Demospongiae	Porifera	Metazoa	Eukaryota
+Amphimedon queenslandica	Aque	400682	Amphimedon queenslandica	Amphimedon	Niphatidae	Haplosclerida	Demospongiae	Porifera	Metazoa	Eukaryota
+Ephydatia muelleri	Emue	6052	Ephydatia muelleri	Ephydatia	Spongillidae	Spongillida	Demospongiae	Porifera	Metazoa	Eukaryota
+Salpingoeca rosetta	Sros	946362	Salpingoeca rosetta	Salpingoeca	Salpingoecidae	Craspedida	Choanoflagellata	Choanoflagellata	Premetazoa	Eukaryota
+Monosiga brevicollis MX1	Mbre	431895	Monosiga brevicollis	Monosiga	Salpingoecidae	Craspedida	Choanoflagellata	Choanoflagellata	Premetazoa	Eukaryota
+Capsaspora owczarzaki ATCC 30864	Cowc	595528	Capsaspora owczarzaki	Capsaspora	Capsasporidae	Ministeriida	Filasterea	Filasterea	Premetazoa	Eukaryota
+Ministeria vibrans	Mvib	134558	Ministeria vibrans	Ministeria	Ministeriidae	Ministeriida	Filasterea	Filasterea	Premetazoa	Eukaryota
+Pigoraptor chileana	Pigchi	2006546	Pigoraptor chileana	Pigoraptor	Incertae sedis	Incertae sedis	Filasterea	Filasterea	Premetazoa	Eukaryota
+Pigoraptor vietnamica	Pigvie	2006545	Pigoraptor vietnamica	Pigoraptor	Incertae sedis	Incertae sedis	Filasterea	Filasterea	Premetazoa	Eukaryota
+Corallochytrium limacisporum	Clim	98351	Corallochytrium limacisporum	Corallochytrium	Corallochytriidae	Corallochytrida	Corallochytrea	Corallochytrea	Premetazoa	Eukaryota
+Chromosphaera perkinsii	Cper	1932427	Chromosphaera perkinsii	Chromosphaera	Incertae sedis	Dermocystida	Ichthyosporea	Ichthyosporea	Premetazoa	Eukaryota
+Pirum gemmata	Pgem	749231	Pirum gemmata	Pirum	Piridae	Eccrinida	Ichthyosporea	Ichthyosporea	Premetazoa	Eukaryota
+Abeoforma whisleri	Awhi	749232	Abeoforma whisleri	Abeoforma	Incertae sedis	Ichthyophonida	Ichthyosporea	Ichthyosporea	Premetazoa	Eukaryota
+Creolimax fragrantissima	Cfra	470921	Creolimax fragrantissima	Creolimax	Creolimacidae	Ichthyophonida	Ichthyosporea	Ichthyosporea	Premetazoa	Eukaryota
+Sphaeroforma arctica JP610	Sarc	667725	Sphaeroforma arctica	Sphaeroforma	Creolimacidae	Ichthyophonida	Ichthyosporea	Ichthyosporea	Premetazoa	Eukaryota
+Ichthyophonus hoferi	Ihof	39843	Ichthyophonus hoferi	Ichthyophonus	Ichthyophonidae	Ichthyophonida	Ichthyosporea	Ichthyosporea	Premetazoa	Eukaryota
+Puccinia graminis f. sp. tritici CRL 75-36-700-3	Pucgra	418459	Puccinia graminis	Puccinia	Pucciniaceae	Pucciniales	Pucciniomycetes	Basidiomycota	Fungi	Eukaryota
+Rhodotorula diobovata	Rdio	5288	Rhodotorula diobovata	Rhodotorula	Sporidiobolaceae	Sporidiobolales	Microbotryomycetes	Basidiomycota	Fungi	Eukaryota
+Malassezia pachydermatis	Mpac	77020	Malassezia pachydermatis	Malassezia	Malasseziaceae	Malasseziales	Malasseziomycetes	Basidiomycota	Fungi	Eukaryota
+Tilletiopsis washingtonensis	Twas	58919	Tilletiopsis washingtonensis	Tilletiopsis	Entylomataceae	Entylomatales	Exobasidiomycetes	Basidiomycota	Fungi	Eukaryota
+Mycosarcoma maydis	Mmay	5270	Mycosarcoma maydis	Mycosarcoma	Ustilaginaceae	Ustilaginales	Ustilaginomycetes	Basidiomycota	Fungi	Eukaryota
+Piloderma croceum F 1598	Pcro	765440	Piloderma croceum	Piloderma	Atheliaceae	Atheliales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota
+Pisolithus tinctorius	Ptin	37468	Pisolithus tinctorius	Pisolithus	Pisolithaceae	Boletales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota
+Coprinopsis cinerea okayama7#130	Ccin	240176	Coprinopsis cinerea	Coprinopsis	Psathyrellaceae	Agaricales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota
+Punctularia strigosozonata HHB-11173 SS5	Punstr	741275	Punctularia strigosozonata	Punctularia	Punctulariaceae	Corticiales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota
+Rhizoctonia solani	Rsol	456999	Rhizoctonia solani	Rhizoctonia	Ceratobasidiaceae	Cantharellales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota
+Plicaturopsis crispa FD-325 SS-3	Pcri	944288	Plicatura crispa	Plicatura	Amylocorticiaceae	Amylocorticiales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota
+Hericium alpestre	Halp	135208	Hericium alpestre	Hericium	Hericiaceae	Russulales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota
+Schizopora paradoxa	Spar	27342	Schizopora paradoxa	Schizopora	Schizoporaceae	Hymenochaetales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota
+Heliocybe sulcata	Hsul	5364	Heliocybe sulcata	Heliocybe	Gloeophyllaceae	Gloeophyllales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota
+Grifola frondosa	Gfro	5627	Grifola frondosa	Grifola	Grifolaceae	Polyporales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota
+Phaffia rhodozyma	Prho	264483	Phaffia rhodozyma	Phaffia	Mrakiaceae	Cystofilobasidiales	Tremellomycetes	Basidiomycota	Fungi	Eukaryota
+Vanrija humicola	Vhum	5417	Vanrija humicola	Vanrija	Trichosporonaceae	Trichosporonales	Tremellomycetes	Basidiomycota	Fungi	Eukaryota
+Cryptococcus neoformans var. neoformans JEC21	Cneo	214684	Cryptococcus neoformans	Cryptococcus	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Fungi	Eukaryota
+Pseudogymnoascus verrucosus	Psever	342668	Pseudogymnoascus verrucosus	Pseudogymnoascus	Thelebolaceae	Thelebolales	Leotiomycetes	Ascomycota	Fungi	Eukaryota
+Botrytis cinerea B05.10	Bcin	332648	Botrytis cinerea	Botrytis	Sclerotiniaceae	Helotiales	Leotiomycetes	Ascomycota	Fungi	Eukaryota
+Xylaria hypoxylon	Xhyp	37992	Xylaria hypoxylon	Xylaria	Xylariaceae	Xylariales	Sordariomycetes	Ascomycota	Fungi	Eukaryota
+Neurospora crassa OR74A	Ncra	367110	Neurospora crassa	Neurospora	Sordariaceae	Sordariales	Sordariomycetes	Ascomycota	Fungi	Eukaryota
+Colletotrichum trifolii	Ctri	5466	Colletotrichum trifolii	Colletotrichum	Glomerellaceae	Glomerellales	Sordariomycetes	Ascomycota	Fungi	Eukaryota
+Fusarium sporotrichioides	Fspo	5514	Fusarium sporotrichioides	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fungi	Eukaryota
+Phialophora americana	Pame	5601	Phialophora americana	Phialophora	Herpotrichiellaceae	Chaetothyriales	Eurotiomycetes	Ascomycota	Fungi	Eukaryota
+Aspergillus nidulans FGSC A4	Anid	227321	Aspergillus nidulans	Aspergillus	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Fungi	Eukaryota
+Trichophyton tonsurans	Tton	34387	Trichophyton tonsurans	Trichophyton	Arthrodermataceae	Onygenales	Eurotiomycetes	Ascomycota	Fungi	Eukaryota
+Macrophomina phaseolina	Macpha	35725	Macrophomina phaseolina	Macrophomina	Botryosphaeriaceae	Botryosphaeriales	Dothideomycetes	Ascomycota	Fungi	Eukaryota
+Zymoseptoria tritici IPO323	Ztri	336722	Zymoseptoria tritici	Zymoseptoria	Mycosphaerellaceae	Mycosphaerellales	Dothideomycetes	Ascomycota	Fungi	Eukaryota
+Elsinoe australis	Eaus	40998	Elsinoe australis	Elsinoe	Elsinoaceae	Myriangiales	Dothideomycetes	Ascomycota	Fungi	Eukaryota
+Lophium mytilinum	Lmyt	390894	Lophium mytilinum	Lophium	Mytilinidiaceae	Mytilinidiales	Dothideomycetes	Ascomycota	Fungi	Eukaryota
+Venturia inaequalis	Vina	5025	Venturia inaequalis	Venturia	Venturiaceae	Venturiales	Dothideomycetes	Ascomycota	Fungi	Eukaryota
+Alternaria alternata	Aalt	5599	Alternaria alternata	Alternaria	Pleosporaceae	Pleosporales	Dothideomycetes	Ascomycota	Fungi	Eukaryota
+Candida albicans SC5314	Calb	237561	Candida albicans	Candida	Debaryomycetaceae	Serinales	Pichiomycetes	Ascomycota	Fungi	Eukaryota
+Saccharomyces cerevisiae S288C	Scer	559292	Saccharomyces cerevisiae	Saccharomyces	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Fungi	Eukaryota
+Schizosaccharomyces pombe	Spom	4896	Schizosaccharomyces pombe	Schizosaccharomyces	Schizosaccharomycetaceae	Schizosaccharomycetales	Schizosaccharomycetes	Ascomycota	Fungi	Eukaryota
+Lobosporangium transversale	Ltra	64571	Lobosporangium transversale	Lobosporangium	Mortierellaceae	Mortierellales	Mortierellomycetes	Mucoromycota	Fungi	Eukaryota
+Glomus cerebriforme	Gcer	658196	Glomus cerebriforme	Glomus	Glomeraceae	Glomerales	Glomeromycetes	Mucoromycota	Fungi	Eukaryota
+Gigaspora margarita	Gmar	4874	Gigaspora margarita	Gigaspora	Gigasporaceae	Diversisporales	Glomeromycetes	Mucoromycota	Fungi	Eukaryota
+Jimgerdemannia flammicorona	Jfla	994334	Jimgerdemannia flammicorona	Jimgerdemannia	Endogonaceae	Endogonales	Endogonomycetes	Mucoromycota	Fungi	Eukaryota
+Lichtheimia corymbifera	Liccor	42458	Lichtheimia corymbifera	Lichtheimia	Lichtheimiaceae	Mucorales	Mucoromycetes	Mucoromycota	Fungi	Eukaryota
+Mucor circinelloides	Mcir	36080	Mucor circinelloides	Mucor	Mucoraceae	Mucorales	Mucoromycetes	Mucoromycota	Fungi	Eukaryota
+Rhizopus azygosporus	Razy	86630	Rhizopus azygosporus	Rhizopus	Rhizopodaceae	Mucorales	Mucoromycetes	Mucoromycota	Fungi	Eukaryota
+Hesseltinella vesiculosa	Hves	101127	Hesseltinella vesiculosa	Hesseltinella	Cunninghamellaceae	Mucorales	Mucoromycetes	Mucoromycota	Fungi	Eukaryota
+Absidia glauca	Agla	4829	Absidia glauca	Absidia	Cunninghamellaceae	Mucorales	Mucoromycetes	Mucoromycota	Fungi	Eukaryota
+Conidiobolus coronatus NRRL 28638	Concor	796925	Conidiobolus coronatus	Conidiobolus	Ancylistaceae	Entomophthorales	Entomophthoromycetes	Zoopagomycota	Fungi	Eukaryota
+Allomyces macrogynus ATCC 38327	Amac	578462	Allomyces macrogynus	Allomyces	Blastocladiaceae	Blastocladiales	Blastocladiomycetes	Blastocladiomycota	Fungi	Eukaryota
+Neocallimastix californiae	Ncal	1754190	Neocallimastix californiae	Neocallimastix	Neocallimastigaceae	Neocallimastigales	Neocallimastigomycetes	Chytridiomycota	Fungi	Eukaryota
+Gonapodya prolifera JEL478	Gpro	1344416	Gonapodya prolifera	Gonapodya	Gonapodyaceae	Monoblepharidales	Monoblepharidomycetes	Chytridiomycota	Fungi	Eukaryota
+Batrachochytrium dendrobatidis JAM81	Bden	684364	Batrachochytrium dendrobatidis	Batrachochytrium	Batrachochytriaceae	Rhizophydiales	Chytridiomycetes	Chytridiomycota	Fungi	Eukaryota
+Synchytrium endobioticum	Send	286115	Synchytrium endobioticum	Synchytrium	Synchytriaceae	Synchytriales	Chytridiomycetes	Chytridiomycota	Fungi	Eukaryota
+Fonticula alba	Falb	691883	Fonticula alba	Fonticula	Fonticulaceae	Rotosphaerida	Rotosphaerida	Rotosphaerida	Rotosphaerida	Eukaryota
+Thecamonas trahens ATCC 50062	Ttra	461836	Thecamonas trahens	Thecamonas	Apusomonadidae	Apusomonadida	Apusomonadida	Apusomonadida	Apusomonadida	Eukaryota
+Planoprotostelium fungivorum	Pfun	1890364	Planoprotostelium fungivorum	Planoprotostelium	Cavosteliaceae	Cavosteliida	Variosea	Evosea	Amoebozoa	Eukaryota
+Heterostelium album PN500	Halb	670386	Heterostelium album	Heterostelium	Acytosteliaceae	Acytosteliales	Eumycetozoa	Evosea	Amoebozoa	Eukaryota
+Cavenderia fasciculata	Cfas	261658	Cavenderia fasciculata	Cavenderia	Cavenderiaceae	Acytosteliales	Eumycetozoa	Evosea	Amoebozoa	Eukaryota
+Tieghemostelium lacteum	Tlac	361077	Tieghemostelium lacteum	Tieghemostelium	Raperosteliaceae	Dictyosteliales	Eumycetozoa	Evosea	Amoebozoa	Eukaryota
+Dictyostelium discoideum AX4	Ddis	352472	Dictyostelium discoideum	Dictyostelium	Dictyosteliaceae	Dictyosteliales	Eumycetozoa	Evosea	Amoebozoa	Eukaryota
+Dictyostelium purpureum	Dpur	5786	Dictyostelium purpureum	Dictyostelium	Dictyosteliaceae	Dictyosteliales	Eumycetozoa	Evosea	Amoebozoa	Eukaryota
+Entamoeba dispar SAW760	Edis	370354	Entamoeba dispar	Entamoeba	Entamoebidae	Mastigamoebida	Archamoebea	Evosea	Amoebozoa	Eukaryota
+Entamoeba histolytica HM-1:IMSS	Ehis	294381	Entamoeba histolytica	Entamoeba	Entamoebidae	Mastigamoebida	Archamoebea	Evosea	Amoebozoa	Eukaryota
+Acanthamoeba castellanii str. Neff	Acas	1257118	Acanthamoeba castellanii	Acanthamoeba	Acanthamoebidae	Longamoebia	Centramoebia	Discosea	Amoebozoa	Eukaryota
+Gefionella okellyi	Goke	2853422	Gefionella okellyi	Gefionella	Malawimonadidae	Malawimonadida	Malawimonadea	Malawimonada	Malawimonada	Eukaryota
+Malawimonas californiana	Mcal	221722	Malawimonas californiana	Malawimonas	Malawimonadidae	Malawimonadida	Malawimonadea	Malawimonada	Malawimonada	Eukaryota
+Malawimonas jakobiformis	Mjak	136089	Malawimonas jakobiformis	Malawimonas	Malawimonadidae	Malawimonadida	Malawimonadea	Malawimonada	Malawimonada	Eukaryota
+Planomonas micra	Plamic	554453	Planomonas micra	Planomonas	Planomonadidae	Ancyromonadida	Ancyromonadida	Ancyromonadida	Ancyromonadida	Eukaryota
+Selaginella moellendorffii	Smoe	88036	Selaginella moellendorffii	Selaginella	Selaginellaceae	Selaginellales	Lycopodiopsida	Streptophyta	Viridiplantae	Eukaryota
+Amborella trichopoda	Atri	13333	Amborella trichopoda	Amborella	Amborellaceae	Amborellales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota
+Eragrostis curvula	Ecur	38414	Eragrostis curvula	Eragrostis	Poaceae	Poales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota
+Zea mays	Zmay	4577	Zea mays	Zea	Poaceae	Poales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota
+Oryza sativa Japonica Group	Osat	39947	Oryza sativa	Oryza	Poaceae	Poales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota
+Brachypodium distachyon	Bdis	15368	Brachypodium distachyon	Brachypodium	Poaceae	Poales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota
+Triticum urartu	Tura	4572	Triticum urartu	Triticum	Poaceae	Poales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota
+Coffea canephora	Cofcan	49390	Coffea canephora	Coffea	Rubiaceae	Gentianales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota
+Solanum lycopersicum	Sollyc	4081	Solanum lycopersicum	Solanum	Solanaceae	Solanales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota
+Lactuca sativa	Lsat	4236	Lactuca sativa	Lactuca	Asteraceae	Asterales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota
+Arabidopsis thaliana	Atha	3702	Arabidopsis thaliana	Arabidopsis	Brassicaceae	Brassicales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota
+Quercus lobata	Qlob	97700	Quercus lobata	Quercus	Fagaceae	Fagales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota
+Pisum sativum	Psat	3888	Pisum sativum	Pisum	Fabaceae	Fabales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota
+Manihot esculenta	Mesc	3983	Manihot esculenta	Manihot	Euphorbiaceae	Malpighiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota
+Rosa chinensis	Rchi	74649	Rosa chinensis	Rosa	Rosaceae	Rosales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota
+Physcomitrium patens	Ppat	3218	Physcomitrium patens	Physcomitrium	Funariaceae	Funariales	Bryopsida	Streptophyta	Viridiplantae	Eukaryota
+Marchantia polymorpha subsp. ruderalis	Mpol	1480154	Marchantia polymorpha	Marchantia	Marchantiaceae	Marchantiales	Marchantiopsida	Streptophyta	Viridiplantae	Eukaryota
+Chara braunii	Cbra	69332	Chara braunii	Chara	Characeae	Charales	Charophyceae	Streptophyta	Viridiplantae	Eukaryota
+Ostreococcus tauri	Otau	70448	Ostreococcus tauri	Ostreococcus	Bathycoccaceae	Mamiellales	Mamiellophyceae	Chlorophyta	Viridiplantae	Eukaryota
+Ostreococcus sp. 'lucimarinus'	Osp.lucimarinus	242159	Ostreococcus sp. 'lucimarinus'	Ostreococcus	Bathycoccaceae	Mamiellales	Mamiellophyceae	Chlorophyta	Viridiplantae	Eukaryota
+Micromonas pusilla CCMP1545	Mpus	564608	Micromonas pusilla	Micromonas	Mamiellaceae	Mamiellales	Mamiellophyceae	Chlorophyta	Viridiplantae	Eukaryota
+Volvox carteri f. nagariensis	Vcar	3068	Volvox carteri	Volvox	Volvocaceae	Chlamydomonadales	Chlorophyceae	Chlorophyta	Viridiplantae	Eukaryota
+Chlamydomonas reinhardtii	Crei	3055	Chlamydomonas reinhardtii	Chlamydomonas	Chlamydomonadaceae	Chlamydomonadales	Chlorophyceae	Chlorophyta	Viridiplantae	Eukaryota
+Galdieria sulphuraria	Gsul	130081	Galdieria sulphuraria	Galdieria	Galdieriaceae	Galdieriales	Bangiophyceae	Rhodophyta	Rhodophyta	Eukaryota
+Cyanidioschyzon merolae strain 10D	Cmer	280699	Cyanidioschyzon merolae	Cyanidioschyzon	Cyanidiaceae	Cyanidiales	Bangiophyceae	Rhodophyta	Rhodophyta	Eukaryota
+Porphyridium purpureum	Ppur	35688	Porphyridium purpureum	Porphyridium	Porphyridiaceae	Porphyridiales	Bangiophyceae	Rhodophyta	Rhodophyta	Eukaryota
+Gracilariopsis chorda	Gcho	448386	Gracilariopsis chorda	Gracilariopsis	Gracilariaceae	Gracilariales	Florideophyceae	Rhodophyta	Rhodophyta	Eukaryota
+Chondrus crispus	Ccri	2769	Chondrus crispus	Chondrus	Gigartinaceae	Gigartinales	Florideophyceae	Rhodophyta	Rhodophyta	Eukaryota
+Bigelowiella natans	Bnat	227086	Bigelowiella natans	Bigelowiella	Chlorarachniaceae	Chlorarachniales	Chlorarachniophyceae	Cercozoa	Chromista	Eukaryota
+Plasmodiophora brassicae	Plabra	37360	Plasmodiophora brassicae	Plasmodiophora	Plasmodiophoridae	Plasmodiophorida	Phytomyxea	Endomyxa	Chromista	Eukaryota
+Vitrella brassicaformis CCMP3155	Vbra	1169540	Vitrella brassicaformis	Vitrella	Vitrellaceae	Colpodellida	Colpodellophyceae	Chromerida	Chromista	Eukaryota
+Chromera velia	Cvel	505693	Chromera velia	Chromera	Chromeraceae	Colpodellida	Colpodellophyceae	Chromerida	Chromista	Eukaryota
+Stylonychia lemnae	Slem	5949	Stylonychia lemnae	Stylonychia	Oxytrichidae	Sporadotrichida	Spirotrichea	Ciliophora	Chromista	Eukaryota
+Ichthyophthirius multifiliis	Imul	5932	Ichthyophthirius multifiliis	Ichthyophthirius	Ichthyophthiriidae	Hymenostomatida	Oligohymenophorea	Ciliophora	Chromista	Eukaryota
+Paramecium tetraurelia	Ptet	5888	Paramecium tetraurelia	Paramecium	Parameciidae	Peniculida	Oligohymenophorea	Ciliophora	Chromista	Eukaryota
+Theileria orientalis strain Shintoku	Tori	869250	Theileria orientalis	Theileria	Theileriidae	Piroplasmida	Aconoidasida	Apicomplexa	Chromista	Eukaryota
+Babesia bovis T2Bo	Bbov	484906	Babesia bovis	Babesia	Babesiidae	Piroplasmida	Aconoidasida	Apicomplexa	Chromista	Eukaryota
+Plasmodium falciparum 3D7	Pfal	36329	Plasmodium falciparum	Plasmodium	Plasmodiidae	Haemosporida	Aconoidasida	Apicomplexa	Chromista	Eukaryota
+Toxoplasma gondii ME49	Tgon	508771	Toxoplasma gondii	Toxoplasma	Sarcocystidae	Eucoccidiorida	Conoidasida	Apicomplexa	Chromista	Eukaryota
+Breviolum minutum	Bmin	2499525	Breviolum minutum	Breviolum	Symbiodiniaceae	Suessiales	Dinophyceae	Dinoflagellata	Chromista	Eukaryota
+Symbiodinium microadriaticum	Symmic	2951	Symbiodinium microadriaticum	Symbiodinium	Symbiodiniaceae	Suessiales	Dinophyceae	Dinoflagellata	Chromista	Eukaryota
+Hondaea fermentalgiana	Hfer	2315210	Hondaea fermentalgiana	Hondaea	Thraustochytriaceae	Thraustochytrida	Bigyra	Bigyra	Chromista	Eukaryota
+Albugo laibachii	Alai	653948	Albugo laibachii	Albugo	Albuginaceae	Albuginales	Oomycetes	Oomycota	Chromista	Eukaryota
+Aphanomyces astaci	Aast	112090	Aphanomyces astaci	Aphanomyces	Saprolegniaceae	Saprolegniales	Oomycetes	Oomycota	Chromista	Eukaryota
+Thraustotheca clavata	Tcla	74557	Thraustotheca clavata	Thraustotheca	Saprolegniaceae	Saprolegniales	Oomycetes	Oomycota	Chromista	Eukaryota
+Pythium aphanidermatum	Paph	65070	Pythium aphanidermatum	Pythium	Pythiaceae	Pythiales	Oomycetes	Oomycota	Chromista	Eukaryota
+Globisporangium irregulare	Girr	36331	Globisporangium irregulare	Globisporangium	Pythiaceae	Pythiales	Oomycetes	Oomycota	Chromista	Eukaryota
+Phytophthora megakarya	Pmeg	4795	Phytophthora megakarya	Phytophthora	Peronosporaceae	Peronosporales	Oomycetes	Oomycota	Chromista	Eukaryota
+Plasmopara halstedii	Phal	4781	Plasmopara halstedii	Plasmopara	Peronosporaceae	Peronosporales	Oomycetes	Oomycota	Chromista	Eukaryota
+Cladosiphon okamuranus	Coka	309737	Cladosiphon okamuranus	Cladosiphon	Chordariaceae	Ectocarpales	Phaeophyceae	Ochrophyta	Chromista	Eukaryota
+Ectocarpus siliculosus	Esil	2880	Ectocarpus siliculosus	Ectocarpus	Ectocarpaceae	Ectocarpales	Phaeophyceae	Ochrophyta	Chromista	Eukaryota
+Thalassiosira oceanica	Toce	159749	Thalassiosira oceanica	Thalassiosira	Thalassiosiraceae	Thalassiosirales	Coscinodiscophyceae	Bacillariophyta	Chromista	Eukaryota
+Phaeodactylum tricornutum CCAP 1055/1	Phatri	556484	Phaeodactylum tricornutum	Phaeodactylum	Phaeodactylaceae	Naviculales	Bacillariophyceae	Bacillariophyta	Chromista	Eukaryota
+Chrysochromulina tobinii	Ctob	1460289	Chrysochromulina tobinii	Chrysochromulina	Chrysochromulinaceae	Prymnesiales	Prymnesiophyceae	Haptophyta	Chromista	Eukaryota
+Emiliania huxleyi CCMP1516	Ehux	280463	Emiliania huxleyi	Emiliania	Noelaerhabdaceae	Isochrysidales	Prymnesiophyceae	Haptophyta	Chromista	Eukaryota
+Guillardia theta CCMP2712	Gthe	905079	Guillardia theta	Guillardia	Geminigeraceae	Pyrenomonadales	Cryptophyceae	Cryptophyceae	Chromista	Eukaryota
+Jakoba bahamiensis	Jbah	221721	Jakoba bahamiensis	Jakoba	Jakobidae	Jakobida	Jakobea	Jakobea	Jakobea	Eukaryota
+Jakoba libera	Jlib	143017	Jakoba libera	Jakoba	Jakobidae	Jakobida	Jakobea	Jakobea	Jakobea	Eukaryota
+Reclinomonas americana	Rame	48483	Reclinomonas americana	Reclinomonas	Histionidae	Jakobida	Jakobea	Jakobea	Jakobea	Eukaryota
+Pharyngomonas kirbyi	Pkir	63601	Pharyngomonas kirbyi	Pharyngomonas	Pharyngomonadidae	Pharyngomonadida	Heterolobosea	Heterolobosea	Heterolobosea	Eukaryota
+Naegleria gruberi	Ngru	5762	Naegleria gruberi	Naegleria	Naegleriidae	Naegleriida	Heterolobosea	Heterolobosea	Heterolobosea	Eukaryota
+Phytomonas sp. Hart1	Psp.Hart1	223615	Phytomonas sp. Hart1	Phytomonas	Trypanosomatidae	Trypanosomatida	Kinetoplastea	Euglenozoa	Euglenozoa	Eukaryota
+Trypanosoma cruzi	Tcru	5693	Trypanosoma cruzi	Trypanosoma	Trypanosomatidae	Trypanosomatida	Kinetoplastea	Euglenozoa	Euglenozoa	Eukaryota
+Trypanosoma brucei brucei TREU927	Tbru	185431	Trypanosoma brucei	Trypanosoma	Trypanosomatidae	Trypanosomatida	Kinetoplastea	Euglenozoa	Euglenozoa	Eukaryota
+Leptomonas seymouri	Lsey	5684	Leptomonas seymouri	Leptomonas	Trypanosomatidae	Trypanosomatida	Kinetoplastea	Euglenozoa	Euglenozoa	Eukaryota
+Leishmania donovani	Ldon	5661	Leishmania donovani	Leishmania	Trypanosomatidae	Trypanosomatida	Kinetoplastea	Euglenozoa	Euglenozoa	Eukaryota
+Tritrichomonas foetus	Tfoe	1144522	Tritrichomonas foetus	Tritrichomonas	Tritrichomonadidae	Tritrichomonadida	Tritrichomonadea	Parabasalia	Parabasalia	Eukaryota
+Trichomonas vaginalis G3	Tvag	412133	Trichomonas vaginalis	Trichomonas	Trichomonadidae	Trichomonadida	Trichomonadea	Parabasalia	Parabasalia	Eukaryota
