@@ -1,0 +1,13 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/ianlee/Desktop/Data_Figure/Supplementary_code_data/Figure_1/Data/Pfam/hmm/2OG-FeII_Oxy_6.hmm
+# Target file:     /Volumes/IlHwan5TB/ncbi_datasets/compiled_faa/Compiled.Rep.fasta
+# Option settings: hmmsearch --domtblout /Volumes/IlHwan5TB/ncbi_datasets/analysis/searches//Rep.hmmsearch.domain_2OG-FeII_Oxy_6.domtable --cut_ga --cpu 8 /Users/ianlee/Desktop/Data_Figure/Supplementary_code_data/Figure_1/Data/Pfam/hmm/2OG-FeII_Oxy_6.hmm /Volumes/IlHwan5TB/ncbi_datasets/compiled_faa/Compiled.Rep.fasta 
+# Current dir:     /Volumes/IlHwan5TB/ncbi_datasets/Script
+# Date:            Thu Mar  5 21:06:22 2026
+# [ok]
