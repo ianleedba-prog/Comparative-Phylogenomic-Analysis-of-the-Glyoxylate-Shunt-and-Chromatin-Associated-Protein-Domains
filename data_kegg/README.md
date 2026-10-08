@@ -152,9 +152,8 @@ Per-cluster module lists with KEGG IDs and descriptions are saved as individual 
 
 ## Contact
 
-**Il-Hwan Lee** (first author, primary code maintainer)
+**Il-Hwan Lee** (first author, code maintainer) - ianlee.dba@snu.ac.kr  
 Department of Biomedical Sciences, Seoul National University College of Medicine, Seoul 03080, Republic of Korea
 
-**Hong-Duk Youn** (corresponding author)
-hdyoun@snu.ac.kr
+**Hong-Duk Youn** (corresponding author) - hdyoun@snu.ac.kr  
 Department of Biomedical Sciences, Seoul National University College of Medicine, Seoul 03080, Republic of Korea
