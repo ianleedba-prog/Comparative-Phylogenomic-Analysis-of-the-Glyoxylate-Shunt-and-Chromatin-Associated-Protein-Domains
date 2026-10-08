@@ -1,0 +1,896 @@
+IQ-TREE multicore version 2.4.0 for MacOS Intel 64-bit built Feb 12 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    Il-Hwans-Mac-Studio.local (SSE4.2, 64 GB RAM)
+Command: iqtree2 -s /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/MET/MET.JmjC.seqs.lt.fasta -m TEST -mset LG,WAG,JTT -bb 1000 -nt AUTO -ntmax 8 -pre /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/MET/MET.JmjC.iqtree -nstop 200 -cptime 1800 --quiet
+Seed:    373417 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Mar 23 21:23:33 2026
+Kernel:  SSE2 - auto-detect threads (10 CPU cores detected)
+
+Reading alignment file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/MET/MET.JmjC.seqs.lt.fasta ... Fasta format detected
+Reading fasta file: done in 0.00821304 secs using 91.22% CPU
+Alignment most likely contains protein sequences
+Alignment has 553 sequences with 738 columns, 738 distinct patterns
+738 parsimony-informative, 0 singleton sites, 0 constant sites
+                                 Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000446081 secs using 615.8% CPU
+   1  Pvan_XP_027230014.1               57.05%    failed      0.36%
+   2  Dmel_NP_001262832.1               54.20%    failed      0.02%
+   3  Apimel_XP_394543.3                56.91%    failed      2.73%
+   4  Bmor_XP_004923869.1               57.72%    failed      2.48%
+   5  Agrpla_XP_018322726.1             55.28%    passed     11.79%
+   6  Btab_XP_018902348.1               56.78%    passed     24.31%
+   7  Smar_SMAR003513-PA                58.40%    failed      0.13%
+   8  Lpol_XP_013777038.1               55.69%    failed      0.10%
+   9  Cscu_XP_023221812.1               60.30%    passed      7.11%
+  10  Dpul_XP_046437539.1               57.32%    failed      4.10%
+  11  Hsap_NP_001074930.1               55.69%    failed      2.77%
+  12  Lana_XP_013391904.1               54.34%    failed      0.00%
+  13  Lana_XP_013411786.1               54.34%    failed      0.00%
+  14  Aplcal_XP_005109011.1             53.66%    failed      0.02%
+  15  Cvir_XP_022310700.1               55.01%    failed      0.08%
+  16  Cvir_XP_022308793.1               55.01%    failed      0.08%
+  17  Ofus_CAH1786442.1                 46.88%    failed      0.03%
+  18  Obim_XP_014779679.1               55.56%    failed      2.26%
+  19  Otip_Oti_10936_t                  55.96%    failed      1.96%
+  20  Mbel_CAJ0937549.1                 55.42%    passed     13.67%
+  21  Mbel_CAJ0937093.1                 58.40%    passed     27.29%
+  22  Hcon_XGW26321.1                   55.96%    failed      1.00%
+  23  Hpol_VDP49940.1                   78.18%    failed      2.87%
+  24  Acey_EYB84191.1                   56.23%    failed      0.36%
+  25  Priarc_PARCANUS000021535.t1       55.56%    failed      0.76%
+  26  Mjap_MIJAPON000012379.t1          55.83%    failed      3.02%
+  27  Diplco_DCO_011218                 54.07%    passed     15.98%
+  28  Diplco_DCO_011217                 53.79%    passed     24.20%
+  29  Cele_NP_001294382.1               55.83%    failed      3.32%
+  30  Angcan_KAE9417471.1               59.89%    passed     34.43%
+  31  Eela_EEL_0000815201-mRNA-1        56.64%    passed     31.91%
+  32  Lloa_XP_020302870.1               55.56%    failed      1.57%
+  33  Bmal_XP_042929438.1               64.36%    passed     86.51%
+  34  Ever_VDD87703.1                   63.28%    passed     10.92%
+  35  Asuu_AgR006_g009_t01              83.47%    passed     30.19%
+  36  Asuu_AgE06_g004_t02               83.47%    passed     30.19%
+  37  Gpal_Gpal_D383_g04052.t2          52.85%    failed      0.12%
+  38  Mhap_MhA1_Contig14.frz3.gene21    64.23%    passed     91.85%
+  39  Bxyl_CAG9116257.1                 55.96%    failed      2.52%
+  40  Rcul_nRc.2.0.1.t47753-RA          60.03%    failed      0.29%
+  41  Trimur_TMUE_3000012387            57.72%    failed      0.00%
+  42  Ttri_CDW56225.1                   54.07%    failed      0.07%
+  43  Tsui_KHJ41041.1                   52.85%    failed      0.00%
+  44  Rvar_GAU87497.1                   54.20%    failed      1.32%
+  45  Rvar_GAU87498.1                   66.80%    passed     10.25%
+  46  Hduj_OWA51348.1                   54.34%    failed      0.01%
+  47  Smed_h1SMcT0014445.1              56.23%    failed      0.04%
+  48  Scar_TMS38301.1                   53.52%    passed      5.65%
+  49  Avag_UJR30778.1                   57.18%    passed     24.09%
+  50  Hrob_XP_009023436.1               47.56%    failed      0.00%
+  51  Smed_h1SMcT0022834.1              58.27%    failed      2.45%
+  52  Hcon_XGW27513.1                   50.00%    failed      0.71%
+  53  Hpol_VDO85643.1                   64.91%    passed     30.93%
+  54  Hcon_XGW27515.1                   50.95%    passed     73.21%
+  55  Angcan_KAE9413166.1               49.32%    passed     13.62%
+  56  Acey_EYB91913.1                   46.88%    failed      1.96%
+  57  Ddip_jg19727                      53.25%    passed     25.74%
+  58  Hpol_VDP14047.1                   63.14%    passed      7.27%
+  59  Psp.PS1159_PS1159_v2.g24341.t1    57.86%    passed     93.67%
+  60  Sman_XP_018646906.1               47.43%    failed      3.83%
+  61  Tbri_KRY54454.1                   79.81%    passed     59.82%
+  62  Tnat_KRZ52091.1                   77.78%    passed     88.07%
+  63  Rcul_nRc.2.0.1.t31497-RA          57.05%    passed     38.82%
+  64  Dpul_XP_046441855.1               49.59%    passed     42.45%
+  65  Dpul_XP_046441411.1               28.86%    passed     51.47%
+  66  Lana_XP_013403538.1               27.51%    failed      0.28%
+  67  Lana_XP_013402774.1               46.75%    failed      3.71%
+  68  Ofus_CAH1784256.1                 27.91%    passed     25.33%
+  69  Cvir_XP_022288326.1               29.13%    failed      3.11%
+  70  Hrob_XP_009019543.1               50.68%    passed     17.03%
+  71  Aplcal_XP_005091148.2             27.78%    passed     38.31%
+  72  Obim_XP_052828648.1               35.09%    passed     30.56%
+  73  Cscu_XP_023243623.1               31.30%    passed      6.32%
+  74  Smar_SMAR007148-PA                48.37%    passed     53.29%
+  75  Smar_SMAR008043-PA                49.86%    passed     64.15%
+  76  Smar_SMAR000623-PA                29.95%    passed      9.74%
+  77  Dmel_NP_788611.1                  48.78%    failed      0.58%
+  78  Apimel_XP_006560193.2             28.46%    failed      1.29%
+  79  Agrpla_XP_018331475.1             32.93%    passed     22.39%
+  80  Pvan_XP_027238100.2               28.46%    passed      7.18%
+  81  Lpol_XP_022246242.1               33.60%    passed     75.25%
+  82  Lpol_XP_022244634.1               44.44%    passed     14.52%
+  83  Btab_XP_018903093.1               27.51%    passed      7.03%
+  84  Bmor_XP_004932682.2               31.98%    failed      0.49%
+  85  Hsap_NP_057688.3                  29.54%    passed     53.19%
+  86  Hsap_NP_060903.2                  38.89%    passed     68.99%
+  87  Lpol_XP_022254005.1               36.59%    passed     54.47%
+  88  Cscu_XP_023237107.1               26.96%    passed     25.07%
+  89  Gpal_Gpal_D383_g15227.t1          75.47%    passed      7.28%
+  90  Hsap_NP_116165.1                  27.24%    failed      3.19%
+  91  Priarc_PARCANUS000012906.t1       36.04%    passed     21.72%
+  92  Priarc_PARCANUS000005531.t1       62.87%    passed     15.89%
+  93  Priarc_PARCANUS000017340.t1       80.35%    passed     26.07%
+  94  Priarc_PARCANUS000004391.t1       34.28%    passed     77.98%
+  95  Mjap_MIJAPON000003792.t1          73.71%    failed      1.96%
+  96  Hcon_XGW35845.1                   34.01%    passed     14.54%
+  97  Hpol_VDO77107.1                   50.27%    passed     56.68%
+  98  Acey_EYC10937.1                   48.24%    passed     10.65%
+  99  Angcan_KAE9415141.1               34.96%    passed     21.90%
+ 100  Diplco_DCO_003130                 34.01%    failed      4.13%
+ 101  Diplco_DCO_003129                 34.01%    failed      3.28%
+ 102  Otip_Oti_15919_t                  33.33%    failed      1.93%
+ 103  Lsig_VDK85076.1                   37.40%    passed     18.59%
+ 104  Avit_KAL3989667.1                 33.88%    passed     23.40%
+ 105  Lloa_XP_020306211.1               44.31%    passed     47.82%
+ 106  Bmal_XP_042930887.1               33.88%    passed     27.86%
+ 107  Ovol_OVOC3273                     34.28%    passed     28.63%
+ 108  Eela_EEL_0000828701-mRNA-1        38.62%    passed     17.50%
+ 109  Dimm_MCP9256960.1                 34.55%    passed     12.92%
+ 110  Asuu_AgB14_g128_t08               33.74%    passed     19.61%
+ 111  Sypmur_SMUV_0000514601-mRNA-1     42.41%    passed     60.63%
+ 112  Ever_VDD96090.1                   34.01%    passed     68.82%
+ 113  Ddip_jg1432                       86.72%    passed     28.90%
+ 114  Bxyl_CAG9128749.1                 46.61%    passed     87.88%
+ 115  Gpal_Gpal_D383_g10019.t1          33.33%    passed     44.96%
+ 116  Mhap_MhA1_Contig334.frz3.gene8    39.02%    passed     68.17%
+ 117  Scar_TKR80412.1                   54.20%    passed     14.12%
+ 118  Tnat_KRZ50227.1                   31.71%    passed      5.36%
+ 119  Tnel_KRX22007.1                   31.71%    passed      5.36%
+ 120  Tbri_KRY51786.1                   31.71%    passed      5.12%
+ 121  Tspi_XP_003379673.1               34.69%    failed      3.31%
+ 122  Sbat_VDO80899.1                   72.36%    passed     42.39%
+ 123  Rcul_nRc.2.0.1.t45704-RA          34.01%    passed     31.24%
+ 124  Tsui_KHJ41379.1                   31.30%    passed     15.54%
+ 125  Ttri_CDW58958.1                   36.18%    failed      3.64%
+ 126  Trimur_TMUE_3000013673            33.60%    passed     15.63%
+ 127  Mbel_CAJ0945113.1                 32.79%    failed      4.65%
+ 128  Priarc_PARCANUS000028174.t1       83.33%    passed      7.58%
+ 129  Echgra_XP_024352175.1             33.33%    failed      2.25%
+ 130  Sman_XP_018648214.1               33.06%    passed     12.00%
+ 131  Ever_VDD91235.1                   48.64%    passed     50.87%
+ 132  Srat_XP_024508309.1               33.06%    passed     32.45%
+ 133  Lana_XP_013421537.1               37.13%    failed      0.26%
+ 134  Lana_XP_013404840.1               74.12%    passed     52.88%
+ 135  Agrpla_XP_018332990.1             37.13%    passed     11.25%
+ 136  Apimel_XP_396315.6                32.93%    passed      5.13%
+ 137  Btab_XP_018916909.1               33.88%    failed      4.36%
+ 138  Cscu_XP_023229643.1               44.72%    failed      0.97%
+ 139  Lpol_XP_022258202.1               32.93%    passed     17.13%
+ 140  Hsap_NP_001387099.1               31.30%    passed     25.01%
+ 141  Hsap_NP_001406738.1               31.84%    passed     26.26%
+ 142  Ofus_CAH1781540.1                 33.74%    failed      3.33%
+ 143  Cvir_XP_022287881.1               33.60%    failed      0.64%
+ 144  Obim_XP_052824051.1               31.44%    failed      0.01%
+ 145  Pvan_XP_069980254.1               33.20%    failed      0.75%
+ 146  Dpul_XP_046441442.1               32.25%    failed      1.45%
+ 147  Bmor_XP_004932357.2               33.47%    failed      0.00%
+ 148  Dmel_NP_609368.3                  33.20%    failed      1.25%
+ 149  Lpol_XP_022242161.1               41.06%    passed     10.76%
+ 150  Avag_UJR27393.1                   35.37%    failed      0.01%
+ 151  Avag_UJR21520.1                   50.14%    passed     27.63%
+ 152  Aplcal_XP_035825836.1             43.63%    passed      5.37%
+ 153  Hsap_NP_001073893.1               39.97%    passed     18.98%
+ 154  Bxyl_CAG9109466.1                 43.77%    passed     81.33%
+ 155  Rvar_GAV03970.1                   33.74%    failed      1.10%
+ 156  Hduj_OQV25308.1                   34.01%    failed      0.09%
+ 157  Rvar_GAU89814.1                   48.64%    passed     20.20%
+ 158  Smed_h1SMcT0017959.2              33.20%    failed      0.13%
+ 159  Hrob_XP_009020839.1               36.45%    failed      0.01%
+ 160  Cele_NP_001309685.1               33.33%    passed     46.72%
+ 161  Priarc_PARCANUS000032095.t1       80.49%    passed     27.45%
+ 162  Btab_XP_018903595.1               12.74%    passed     56.28%
+ 163  Priarc_PARCANUS000023591.t1       76.83%    passed     29.76%
+ 164  Ddip_jg3102.2                     14.36%    passed     94.83%
+ 165  Angcan_KAE9415485.1               40.65%    passed     55.64%
+ 166  Hcon_XGW29091.1                   13.14%    passed     90.02%
+ 167  Acey_EYC40871.1                   37.40%    passed     65.78%
+ 168  Priarc_PARCANUS000005596.t1       31.84%    passed     45.76%
+ 169  Priarc_PARCANUS000013666.t1       56.50%    passed     62.99%
+ 170  Priarc_PARCANUS000020140.t1       76.02%    failed      2.86%
+ 171  Otip_Oti_10668_t                  14.23%    passed     22.86%
+ 172  Mjap_MIJAPON000012250.t1          13.69%    passed     28.56%
+ 173  Cele_NP_502032.2                  12.33%    passed     68.49%
+ 174  Asuu_AgR010_g263_t04              12.47%    passed     58.08%
+ 175  Mbel_CAJ0932695.1                 13.96%    passed     84.40%
+ 176  Mhap_MhA1_Contig256.frz3.gene11   31.44%    passed      7.91%
+ 177  Gpal_Gpal_D383_g06043.t1          13.82%    failed      1.30%
+ 178  Dimm_MCP9265616.1                 18.16%    passed     76.79%
+ 179  Eela_EEL_0000981001-mRNA-1        12.47%    passed     65.52%
+ 180  Lloa_XP_020303733.1               12.33%    passed     69.29%
+ 181  Wban_VDM08715.1                   33.20%    passed     45.18%
+ 182  Bmal_XP_042930238.1               12.47%    passed     64.16%
+ 183  Avit_KAL3982906.1                 12.33%    passed     66.95%
+ 184  Ovol_OVOC4221                     12.33%    passed     61.69%
+ 185  Lsig_VDK76679.1                   12.33%    passed     37.45%
+ 186  Sypmur_SMUV_0000518001-mRNA-1     15.18%    failed      0.60%
+ 187  Ever_VDD84943.1                   23.58%    passed     73.33%
+ 188  Diplco_DCO_002717                 13.41%    failed      4.19%
+ 189  Diplco_DCO_002718                 50.14%    passed      6.59%
+ 190  Tsui_KHJ43634.1                   56.91%    passed     56.07%
+ 191  Ttri_CDW52309.1                   16.94%    passed      6.19%
+ 192  Trimur_TMUE_3000012252            17.21%    passed     13.19%
+ 193  Pvan_XP_027231079.1               12.74%    passed     39.95%
+ 194  Cvir_XP_022330436.1               13.28%    passed     23.32%
+ 195  Sbat_VDP03392.1                   79.81%    passed     37.17%
+ 196  Lana_XP_013414674.1               18.16%    passed     54.12%
+ 197  Lpol_XP_013787088.1               13.55%    passed     42.92%
+ 198  Lpol_XP_022238310.1               12.87%    passed     47.94%
+ 199  Smar_SMAR004279-PA                19.65%    passed     99.49%
+ 200  Hsap_NP_001036068.1               13.01%    failed      3.81%
+ 201  Apimel_XP_003250774.1             12.74%    passed     71.05%
+ 202  Dpul_XP_046456516.1               13.01%    passed     54.79%
+ 203  Aplcal_XP_012946957.1             12.33%    passed     36.97%
+ 204  Agrpla_XP_025835613.1             12.33%    passed     64.20%
+ 205  Obim_XP_052834236.1               26.83%    passed     50.93%
+ 206  Bmor_NP_001191408.1               36.99%    passed     20.08%
+ 207  Lpol_XP_022245522.1               15.72%    passed     42.62%
+ 208  Hsap_NP_001300971.1               13.01%    passed      7.81%
+ 209  Hsap_NP_001140177.1               15.18%    passed      7.30%
+ 210  Hsap_NP_004178.2                  14.77%    failed      2.22%
+ 211  Bmor_XP_012553221.2               12.60%    failed      0.34%
+ 212  Tnel_KRX15452.1                   14.77%    passed     90.19%
+ 213  Tnat_KRZ58734.1                   14.23%    passed     85.37%
+ 214  Tbri_KRY55870.1                   14.77%    passed     87.23%
+ 215  Tspi_XP_003380411.1               60.03%    passed     76.58%
+ 216  Ttri_CDW54726.1                   41.87%    passed     21.85%
+ 217  Tsui_KHJ40148.1                   43.09%    passed     32.03%
+ 218  Trimur_TMUE_3000014438            41.33%    passed     18.64%
+ 219  Dmel_NP_001285649.1               11.65%    passed     20.75%
+ 220  Cscu_XP_023233588.1               17.21%    passed     49.91%
+ 221  Hrob_XP_009028799.1               44.04%    passed     42.78%
+ 222  Avag_UJR26447.1                   13.55%    passed     49.93%
+ 223  Hrob_XP_009014129.1               42.95%    passed     39.97%
+ 224  Hrob_XP_009029933.1               15.45%    passed     50.54%
+ 225  Rcul_nRc.2.0.1.t43528-RA          36.45%    passed     59.31%
+ 226  Smed_h1SMcT0011597.1              18.97%    passed     73.38%
+ 227  Srat_XP_024503121.1               41.87%    failed      0.28%
+ 228  Sman_XP_018651207.1               13.41%    passed     11.22%
+ 229  Sman_XP_018644891.1               15.85%    passed     21.48%
+ 230  Btab_XP_018916560.1               80.89%    passed     23.16%
+ 231  Smed_h1SMcT0019561.1              12.06%    passed      8.87%
+ 232  Psp.PS1159_PS1159_v2.g736.t1      16.94%    passed      9.15%
+ 233  Hduj_OQV24772.1                   53.93%    failed      4.14%
+ 234  Hduj_OQV12016.1                   54.47%    passed     48.28%
+ 235  Rvar_GAU91015.1                   50.27%    passed     72.60%
+ 236  Rvar_GAU91016.1                   52.57%    passed     47.10%
+ 237  Rvar_GAV03793.1                   51.08%    passed     37.99%
+ 238  Hduj_OQV23826.1                   12.87%    failed      2.53%
+ 239  Rvar_GAU93158.1                   13.55%    passed     65.19%
+ 240  Scar_TKR89430.1                   32.66%    passed     40.80%
+ 241  Ovol_OVOC3662                     57.99%    passed     32.44%
+ 242  Lloa_XP_003140884.1               58.13%    passed     87.16%
+ 243  Eela_EEL_0000590401-mRNA-1        58.27%    passed     62.36%
+ 244  Avit_KAL3989456.1                 58.13%    passed     83.64%
+ 245  Lsig_VDK83118.1                   63.82%    passed     92.80%
+ 246  Bmal_XP_001897040.1               58.13%    passed     76.77%
+ 247  Wban_VDM22157.1                   69.92%    passed     63.69%
+ 248  Dimm_MCP9257372.1                 51.76%    failed      0.23%
+ 249  Asuu_AgB01_g822_t03               57.72%    passed     31.13%
+ 250  Sypmur_SMUV_0000527301-mRNA-1     57.86%    passed     68.72%
+ 251  Ever_VDD93866.1                   58.54%    passed     44.72%
+ 252  Ddip_jg26533                      92.82%    passed     92.82%
+ 253  Ddip_jg26521                      61.92%    passed     68.64%
+ 254  Gpal_Gpal_D383_g00500.t1          60.03%    passed     24.24%
+ 255  Bxyl_CAG9128521.1                 61.92%    passed      9.60%
+ 256  Mhap_MhA1_Contig1994.frz3.gene4   77.64%    passed      6.70%
+ 257  Scar_TKR80642.1                   54.20%    passed     22.56%
+ 258  Acey_EYB86026.1                   59.49%    passed     10.29%
+ 259  Hpol_VDP19018.1                   85.91%    passed     47.16%
+ 260  Hcon_XGW18521.1                   59.21%    passed      5.88%
+ 261  Angcan_KAE9418089.1               50.54%    passed     30.04%
+ 262  Diplco_DCO_001492                 84.42%    passed     10.13%
+ 263  Diplco_DCO_001490                 57.99%    passed     17.35%
+ 264  Cele_NP_505831.1                  59.21%    passed     48.65%
+ 265  Tspi_XP_003380167.1               39.16%    failed      0.46%
+ 266  Tnel_KRX20255.1                   28.32%    failed      0.99%
+ 267  Tnat_KRZ50470.1                   28.73%    failed      1.85%
+ 268  Tbri_KRY47478.1                   33.47%    failed      0.22%
+ 269  Tspi_XP_003368987.1               74.25%    passed     23.72%
+ 270  Trimur_TMUE_0000000640            62.06%    passed     27.77%
+ 271  Trimur_TMUE_3000012690            62.06%    passed     24.50%
+ 272  Ttri_CDW53161.1                   62.87%    passed     79.51%
+ 273  Tsui_KHJ45102.1                   61.52%    passed     75.72%
+ 274  Ofus_CAH1779520.1                 60.57%    passed     74.99%
+ 275  Avag_UJR16219.1                   73.85%    passed     23.50%
+ 276  Cvir_XP_022338439.1               62.74%    passed     78.81%
+ 277  Plae_KAI0985441.1                 83.47%    passed     11.19%
+ 278  Cscu_XP_023216044.1               63.28%    failed      3.63%
+ 279  Lpol_XP_022241371.1               62.60%    passed     57.90%
+ 280  Sbat_VDO98087.1                   66.67%    passed     60.09%
+ 281  Hsap_NP_001138820.1               61.65%    passed     63.27%
+ 282  Rcul_nRc.2.0.1.t13431-RA          72.49%    passed     26.72%
+ 283  Aplcal_XP_005102629.2             61.38%    passed     59.59%
+ 284  Lana_XP_013411836.1               61.65%    passed     62.58%
+ 285  Obim_XP_014780508.1               60.43%    passed      8.67%
+ 286  Smar_SMAR008599-PA                62.74%    passed     37.57%
+ 287  Dpul_XP_046461813.1               58.13%    passed      7.73%
+ 288  Avag_UJR13408.1                   38.89%    failed      0.00%
+ 289  Hrob_XP_009019477.1               62.20%    passed     83.55%
+ 290  Rvar_GAU90323.1                   63.01%    passed     36.27%
+ 291  Hduj_OQV19329.1                   67.48%    passed     16.61%
+ 292  Mbel_CAJ0964053.1                 60.03%    passed     46.90%
+ 293  Srat_XP_024508351.1               63.41%    failed      0.00%
+ 294  Dmel_NP_612063.2                  62.60%    passed     23.14%
+ 295  Apimel_XP_026296208.1             63.28%    failed      0.48%
+ 296  Pvan_XP_069991585.1               60.84%    failed      0.05%
+ 297  Echgra_XP_024348645.1             44.99%    passed     13.19%
+ 298  Sman_XP_018654420.1               78.86%    failed      0.07%
+ 299  Bmor_XP_021207491.2               63.82%    passed     15.75%
+ 300  Mjap_MIJAPON000006756.t1          59.21%    failed      3.56%
+ 301  Priarc_PARCANUS000014441.t1       59.08%    passed      8.56%
+ 302  Otip_Oti_326_t                    53.52%    passed     10.15%
+ 303  Tnat_KRZ56413.1                   52.03%    passed     10.70%
+ 304  Tbri_KRY46855.1                   51.76%    passed      7.30%
+ 305  Tnel_KRX17318.1                   53.66%    passed      7.62%
+ 306  Tspi_XP_003381934.1               58.13%    passed     30.31%
+ 307  Lana_XP_023931467.1               68.70%    passed     43.41%
+ 308  Lana_XP_013409522.1               56.64%    passed     81.25%
+ 309  Ofus_CAH1786711.1                 55.96%    passed     22.52%
+ 310  Cvir_XP_022324955.1               58.40%    passed     41.54%
+ 311  Ttri_CDW52010.1                   57.18%    passed     14.49%
+ 312  Tsui_KHJ49349.1                   49.86%    passed     25.21%
+ 313  Trimur_TMUE_2000008621            56.50%    passed     89.61%
+ 314  Echgra_XP_024353342.1             18.29%    passed      6.70%
+ 315  Plae_KAI0984298.1                 72.36%    passed      5.81%
+ 316  Bxyl_CAG9113070.1                 13.55%    passed     59.30%
+ 317  Agrpla_XP_018331764.2             68.02%    passed     32.05%
+ 318  Rvar_GAV03783.1                   43.63%    passed     27.87%
+ 319  Hduj_OQV21745.1                   48.10%    passed     35.33%
+ 320  Mbel_CAJ0932171.1                 33.74%    passed     47.27%
+ 321  Mbel_CAJ0947731.1                 33.74%    passed     31.98%
+ 322  Asuu_AgR009X_g348_t02             33.20%    failed      1.56%
+ 323  Bmal_XP_042934909.1               32.79%    passed     32.27%
+ 324  Lloa_XP_020307077.1               33.06%    passed     34.41%
+ 325  Avit_KAL3994551.1                 33.06%    passed     32.68%
+ 326  Eela_EEL_0000422001-mRNA-1        33.06%    passed     59.26%
+ 327  Wban_VDM20064.1                   37.13%    passed     28.85%
+ 328  Ovol_OVOC10566                    33.06%    passed     52.56%
+ 329  Dimm_MCP9261945.1                 59.35%    passed     91.75%
+ 330  Sypmur_SMUV_0000937801-mRNA-1     36.45%    failed      0.48%
+ 331  Ever_VDD91961.1                   33.47%    failed      0.59%
+ 332  Ddip_jg9790.1                     34.15%    passed     63.23%
+ 333  Mhap_MhA1_Contig684.frz3.gene26   34.82%    failed      1.02%
+ 334  Hcon_XGW08052.1                   33.33%    passed     16.27%
+ 335  Hpol_VDO93762.1                   34.96%    passed     10.03%
+ 336  Acey_EYC12279.1                   53.25%    failed      3.61%
+ 337  Angcan_KAE9420848.1               42.68%    passed     19.86%
+ 338  Cele_NP_496969.2                  34.01%    passed     24.48%
+ 339  Otip_Oti_4063_t                   35.37%    failed      0.59%
+ 340  Gpal_Gpal_D383_g00938.t1          36.59%    passed     29.78%
+ 341  Bxyl_CAG9097285.1                 34.42%    passed     59.25%
+ 342  Psp.PS1159_PS1159_v2.g19199.t1    36.59%    failed      4.70%
+ 343  Diplco_DCO_003819                 32.11%    passed     65.54%
+ 344  Diplco_DCO_003820                 32.11%    passed     57.40%
+ 345  Hsap_NP_060509.2                  53.93%    passed     26.40%
+ 346  Hsap_NP_001400684.1               48.92%    passed     22.41%
+ 347  Hsap_NP_001155102.1               55.01%    passed     40.13%
+ 348  Hsap_NP_001398077.1               33.47%    passed      5.62%
+ 349  Lpol_XP_022255439.1               32.79%    passed     52.29%
+ 350  Lpol_XP_022237676.1               37.53%    passed     86.86%
+ 351  Hrob_XP_009029034.1               58.67%    passed     62.69%
+ 352  Hrob_XP_009016237.1               54.34%    passed     20.78%
+ 353  Cvir_XP_022315076.1               32.93%    passed     12.32%
+ 354  Cvir_XP_022314936.1               32.93%    passed     12.32%
+ 355  Lana_XP_013378692.1               33.06%    failed      4.50%
+ 356  Hrob_XP_009018328.1               57.05%    passed     28.33%
+ 357  Pvan_XP_069999750.1               46.34%    failed      2.76%
+ 358  Aplcal_XP_005110552.1             32.52%    passed     75.55%
+ 359  Dmel_NP_610331.1                  53.39%    failed      4.03%
+ 360  Agrpla_XP_018336496.1             42.28%    passed     29.87%
+ 361  Apimel_XP_016771723.2             34.28%    passed      6.43%
+ 362  Btab_XP_018898025.1               33.88%    passed     64.41%
+ 363  Cscu_XP_023237336.1               33.33%    passed     17.75%
+ 364  Dmel_NP_001260942.1               49.73%    failed      2.63%
+ 365  Bmor_NP_001243917.1               48.37%    passed      9.64%
+ 366  Hsap_NP_055478.2                  33.74%    passed     84.34%
+ 367  Hsap_NP_001340926.1               33.20%    passed     74.69%
+ 368  Dpul_XP_046439483.1               32.52%    passed     18.65%
+ 369  Cscu_XP_023230232.1               32.66%    passed     29.70%
+ 370  Cscu_XP_023230236.1               87.26%    passed     92.91%
+ 371  Sbat_VDO96914.1                   35.64%    failed      2.18%
+ 372  Ttri_CDW55602.1                   38.35%    failed      0.04%
+ 373  Tsui_KHJ49297.1                   38.48%    failed      0.03%
+ 374  Trimur_TMUE_2000006338            38.48%    failed      0.21%
+ 375  Smed_h1SMcT0017276.2              33.47%    passed      9.66%
+ 376  Smed_h1SMcT0015695.2              52.44%    failed      3.40%
+ 377  Echgra_XP_024353904.1             34.82%    failed      3.55%
+ 378  Sman_XP_018654887.1               40.38%    passed      8.38%
+ 379  Avag_UJR14913.1                   35.64%    passed     24.49%
+ 380  Avag_UJR31768.1                   34.69%    failed      1.58%
+ 381  Smar_SMAR004454-PA                36.72%    passed     71.20%
+ 382  Mjap_MIJAPON000009122.t1          37.80%    passed     29.40%
+ 383  Priarc_PARCANUS000010747.t1       35.64%    passed     36.16%
+ 384  Rcul_nRc.2.0.1.t24496-RA          42.68%    passed     11.26%
+ 385  Tspi_XP_003373668.1               55.01%    passed     15.15%
+ 386  Tnel_KRX22377.1                   37.53%    passed     32.36%
+ 387  Tnat_KRZ59713.1                   37.53%    passed     19.40%
+ 388  Tbri_KRY52111.1                   37.67%    passed     10.91%
+ 389  Bxyl_CAG9094855.1                 34.96%    passed      9.63%
+ 390  Btab_XP_018912230.1               58.81%    failed      1.60%
+ 391  Scar_TMS34876.1                   48.64%    failed      0.94%
+ 392  Tspi_XP_003373666.1               79.67%    passed      7.01%
+ 393  Tnel_KRX22320.1                   46.21%    passed      5.04%
+ 394  Tbri_KRY48017.1                   40.24%    passed     26.32%
+ 395  Tnat_KRZ59740.1                   41.33%    passed     84.74%
+ 396  Avag_UJR28542.1                   32.79%    failed      0.00%
+ 397  Avag_UJR20979.1                   34.15%    passed      6.48%
+ 398  Echgra_XP_024354495.1             46.07%    failed      0.31%
+ 399  Smed_h1SMcT0009561.1              24.93%    failed      0.00%
+ 400  Hduj_OQV11506.1                   48.92%    passed     28.34%
+ 401  Rvar_GAV02052.1                   42.55%    passed     45.61%
+ 402  Btab_XP_018915471.1               63.41%    passed     76.26%
+ 403  Btab_XP_018917662.1               63.41%    passed     76.26%
+ 404  Sman_XP_018649140.1               34.96%    passed      5.23%
+ 405  Dpul_XP_046438861.1               68.97%    passed      5.64%
+ 406  Hsap_NP_005081.1                  56.37%    failed      0.07%
+ 407  Hsap_NP_001108104.1               68.16%    failed      0.79%
+ 408  Lana_XP_013379747.1               67.34%    passed     39.86%
+ 409  Cvir_XP_022340536.1               68.56%    passed     36.55%
+ 410  Dpul_XP_046440730.1               68.83%    passed     84.56%
+ 411  Dpul_XP_046440732.1               68.83%    passed     89.48%
+ 412  Pvan_XP_027211147.1               66.80%    passed     69.57%
+ 413  Pvan_XP_069980168.1               68.16%    passed     60.33%
+ 414  Lpol_XP_013784350.1               68.29%    passed     80.01%
+ 415  Aplcal_XP_005105261.1             68.02%    passed     34.49%
+ 416  Ofus_CAH1786742.1                 69.92%    passed     31.04%
+ 417  Dmel_NP_648651.1                  68.70%    passed     95.81%
+ 418  Bmor_XP_004927524.2               58.40%    passed     59.85%
+ 419  Agrpla_XP_018336639.1             68.29%    passed     18.84%
+ 420  Avag_UJR36813.1                   56.64%    passed     39.67%
+ 421  Hrob_XP_009014715.1               69.51%    passed     65.86%
+ 422  Obim_XP_052823191.1               40.65%    passed     31.55%
+ 423  Lpol_XP_022242531.1               42.55%    passed     77.80%
+ 424  Cscu_XP_023230315.1               64.23%    passed     66.59%
+ 425  Smar_SMAR005173-PA                44.04%    passed     41.89%
+ 426  Lana_XP_023932416.1               45.66%    passed     25.70%
+ 427  Aplcal_XP_012941200.1             41.60%    passed     47.61%
+ 428  Hrob_XP_009022276.1               54.88%    passed     55.92%
+ 429  Apimel_XP_026302302.1             44.17%    passed     38.74%
+ 430  Agrpla_XP_018325994.1             43.50%    passed     28.97%
+ 431  Ofus_CAH1784410.1                 42.82%    passed     18.60%
+ 432  Pvan_XP_070000953.1               43.77%    passed      6.19%
+ 433  Dpul_XP_046457070.1               45.53%    passed     25.45%
+ 434  Hsap_NP_001171825.1               45.80%    passed     90.87%
+ 435  Hrob_XP_009028336.1               57.05%    passed      6.64%
+ 436  Hsap_NP_085150.1                  45.26%    passed     22.81%
+ 437  Hsap_NP_005383.3                  44.31%    failed      4.36%
+ 438  Ttri_CDW53554.1                   63.55%    passed     14.19%
+ 439  Trimur_TMUE_3000014631            47.70%    passed     15.11%
+ 440  Hpol_VDO83868.1                   63.69%    passed     14.54%
+ 441  Angcan_KAE9417147.1               49.73%    passed     80.60%
+ 442  Acey_EYB89574.1                   48.24%    passed     27.25%
+ 443  Hcon_XGW30569.1                   48.10%    passed     23.16%
+ 444  Hcon_XGW30739.1                   48.10%    passed     23.16%
+ 445  Otip_Oti_9897_t                   47.56%    passed     16.46%
+ 446  Ever_VDD94636.1                   72.22%    passed     31.26%
+ 447  Asuu_AgR009X_g184_t05             46.07%    passed     60.70%
+ 448  Mjap_MIJAPON000001555.t1          45.53%    failed      3.02%
+ 449  Priarc_PARCANUS000006601.t1       52.03%    passed     30.12%
+ 450  Scar_TKR96579.1                   53.93%    passed     22.78%
+ 451  Gpal_Gpal_D383_g13851.t1          53.39%    failed      0.89%
+ 452  Cele_NP_496520.1                  52.57%    passed     30.26%
+ 453  Cele_NP_001294381.1               47.83%    passed     16.31%
+ 454  Mbel_CAJ0929036.1                 48.51%    passed     17.82%
+ 455  Psp.PS1159_PS1159_v2.g21005.t1    55.42%    passed      7.51%
+ 456  Psp.PS1159_PS1159_v2.g6595.t1     73.04%    passed     21.65%
+ 457  Psp.PS1159_PS1159_v2.g8688.t1     50.00%    failed      0.58%
+ 458  Rvar_GAU93307.1                   55.28%    passed      9.29%
+ 459  Rvar_GAU93308.1                   55.28%    passed      9.29%
+ 460  Rvar_GAU93306.1                   55.28%    passed      9.29%
+ 461  Hduj_OQV23936.1                   54.88%    passed     63.20%
+ 462  Smed_h1SMcT0013145.1              56.37%    failed      1.05%
+ 463  Sman_XP_018648529.1               52.17%    passed     10.56%
+ 464  Echgra_XP_024350687.1             47.83%    failed      0.89%
+ 465  Mjap_MIJAPON000001293.t1          37.80%    passed     27.87%
+ 466  Hpol_VDO64892.1                   61.11%    passed     27.22%
+ 467  Hcon_XGW16589.1                   46.34%    failed      0.64%
+ 468  Acey_EYC20807.1                   45.26%    failed      1.57%
+ 469  Angcan_KAE9420235.1               57.99%    passed      8.15%
+ 470  Cele_NP_498418.3                  43.77%    passed     14.60%
+ 471  Diplco_DCO_002927                 41.87%    passed     15.95%
+ 472  Diplco_DCO_002928                 41.87%    passed      8.73%
+ 473  Priarc_PARCANUS000003453.t1       36.45%    failed      4.23%
+ 474  Priarc_PARCANUS000003063.t1       36.45%    passed      5.70%
+ 475  Bmal_XP_042933214.1               50.95%    passed     59.54%
+ 476  Avit_KAL4002846.1                 51.22%    passed     36.67%
+ 477  Lloa_XP_020303735.1               50.95%    passed     47.77%
+ 478  Ovol_OVOC8642                     50.81%    passed     70.28%
+ 479  Ever_VDD88057.1                   61.92%    passed     67.33%
+ 480  Scar_TKR68166.1                   47.97%    passed      9.88%
+ 481  Gpal_Gpal_D383_g10379.t1          58.94%    passed     78.13%
+ 482  Ddip_jg10423                      48.24%    passed     10.56%
+ 483  Ddip_jg23958                      65.99%    passed     81.62%
+ 484  Dpul_XP_046452221.1               48.37%    passed     11.81%
+ 485  Lpol_XP_013778988.1               41.73%    passed     10.83%
+ 486  Lpol_XP_022243922.1               41.60%    passed     11.53%
+ 487  Hrob_XP_009031639.1               58.81%    passed     72.43%
+ 488  Bmor_XP_004928906.1               42.68%    failed      4.92%
+ 489  Agrpla_XP_018328670.2             42.01%    passed      7.48%
+ 490  Apimel_XP_026294963.1             44.04%    passed     14.69%
+ 491  Pvan_XP_069969648.1               43.50%    passed     14.15%
+ 492  Ofus_CAH1801472.1                 41.87%    passed     51.56%
+ 493  Lana_XP_013394792.1               42.82%    failed      2.37%
+ 494  Hsap_NP_115979.3                  39.84%    passed      9.64%
+ 495  Hsap_XP_047282579.1               49.86%    passed      5.80%
+ 496  Smed_h1SMcT0005069.1              55.01%    passed     25.35%
+ 497  Avag_UJR09124.1                   47.43%    passed      6.70%
+ 498  Hduj_OQV18915.1                   55.69%    passed     62.27%
+ 499  Rvar_GAU93788.1                   53.39%    passed     15.74%
+ 500  Bmor_XP_037876785.1               42.82%    passed      8.34%
+ 501  Priarc_PARCANUS000003142.t1       52.17%    passed     21.77%
+ 502  Priarc_PARCANUS000001070.t1       53.52%    passed     25.14%
+ 503  Mbel_CAJ0962955.1                 37.40%    passed      6.52%
+ 504  Otip_Oti_2625_t                   47.43%    failed      0.82%
+ 505  Priarc_PARCANUS000008636.t1       56.10%    passed     28.62%
+ 506  Srat_XP_024503932.1               38.48%    failed      0.00%
+ 507  Avag_UJR12825.1                   47.15%    failed      0.00%
+ 508  Avag_UJR35292.1                   42.82%    failed      0.01%
+ 509  Avag_UJR13492.1                   67.75%    failed      0.01%
+ 510  Avag_UJR18773.1                   58.27%    failed      0.00%
+ 511  Avag_UJR10273.1                   47.70%    failed      0.01%
+ 512  Avag_UJR37616.1                   43.90%    failed      1.95%
+ 513  Lsig_VDK74886.1                   43.22%    passed     20.24%
+ 514  Lloa_XP_020307440.1               43.36%    failed      4.78%
+ 515  Avit_KAL3981453.1                 43.90%    failed      2.60%
+ 516  Ovol_OVOC5708                     45.26%    passed     32.80%
+ 517  Wban_VDM11499.1                   49.73%    passed      7.23%
+ 518  Bmal_XP_042929092.1               43.36%    failed      2.30%
+ 519  Dimm_MCP9266457.1                 47.29%    passed     10.77%
+ 520  Asuu_AgB13X_g097_t03              61.65%    passed     15.71%
+ 521  Ever_VDD89389.1                   44.31%    passed     94.91%
+ 522  Sypmur_SMUV_0000513501-mRNA-1     42.01%    passed     35.90%
+ 523  Ddip_jg1072                       62.60%    passed     90.85%
+ 524  Echgra_XP_024351088.1             48.64%    failed      0.12%
+ 525  Smed_h1SMcT0005056.3              56.64%    failed      0.74%
+ 526  Aplcal_XP_005099656.1             61.92%    passed      8.04%
+ 527  Lana_XP_013383727.1               58.54%    passed     31.50%
+ 528  Lana_XP_013384460.1               73.31%    passed     50.21%
+ 529  Cvir_XP_022335631.1               60.98%    passed     75.55%
+ 530  Hsap_NP_005135.2                  31.71%    failed      0.00%
+ 531  Btab_XP_018900098.1               57.59%    passed      8.49%
+ 532  Avag_UJR32194.1                   48.24%    failed      0.00%
+ 533  Hrob_XP_009015763.1               34.96%    failed      4.55%
+ 534  Hrob_XP_009019479.1               62.20%    passed     23.56%
+ 535  Cele_NP_510405.1                  44.04%    failed      4.79%
+ 536  Cele_NP_001309680.1               47.15%    passed     12.37%
+ 537  Cele_NP_509451.2                  39.57%    passed     69.64%
+ 538  Priarc_PARCANUS000007126.t1       45.53%    passed     68.60%
+ 539  Hduj_OWA54289.1                   57.45%    passed     44.30%
+ 540  Scar_TMS37353.1                   42.95%    passed     24.36%
+ 541  Cvir_XP_022313990.1               57.99%    passed     11.57%
+ 542  Cvir_XP_022313879.1               57.99%    passed     16.05%
+ 543  Aplcal_XP_005105773.1             58.13%    passed     18.49%
+ 544  Lpol_XP_022252931.1               63.82%    passed     82.83%
+ 545  Otip_Oti_11277_t                  37.26%    passed     15.82%
+ 546  Hduj_OWA50677.1                   53.39%    passed     49.35%
+ 547  Rvar_GAU92728.1                   59.49%    passed     14.13%
+ 548  Psp.PS1159_PS1159_v2.g7770.t1     55.96%    passed     79.42%
+ 549  Hrob_XP_009017064.1               39.16%    failed      0.00%
+ 550  Avag_UJR27129.1                   60.70%    passed      6.03%
+ 551  Psp.PS1159_PS1159_v2.g4348.t1     47.56%    passed     50.65%
+ 552  Psp.PS1159_PS1159_v2.g966.t1      58.13%    failed      0.01%
+ 553  Hrob_XP_009015675.1               54.61%    failed      0.23%
+WARNING: 239 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                             46.18%  145 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: Cvir_XP_022308793.1 is identical to Cvir_XP_022310700.1 but kept for subsequent analysis
+NOTE: Asuu_AgE06_g004_t02 is identical to Asuu_AgR006_g009_t01 but kept for subsequent analysis
+NOTE: Tnel_KRX22007.1 is identical to Tnat_KRZ50227.1 but kept for subsequent analysis
+NOTE: Cvir_XP_022314936.1 is identical to Cvir_XP_022315076.1 but kept for subsequent analysis
+NOTE: Btab_XP_018917662.1 is identical to Btab_XP_018915471.1 but kept for subsequent analysis
+NOTE: Hcon_XGW30739.1 is identical to Hcon_XGW30569.1 but kept for subsequent analysis
+NOTE: Rvar_GAU93308.1 is identical to Rvar_GAU93307.1 but kept for subsequent analysis
+NOTE: 1 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: Rvar_GAU93306.1 (identical to Rvar_GAU93307.1) is ignored but added at the end
+Alignment was printed to /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/MET/MET.JmjC.iqtree.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/MET/MET.JmjC.iqtree.uniqueseq.phy
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.323 seconds
+Measuring multi-threading efficiency up to 8 CPU cores
+9 trees examined
+Threads: 1 / Time: 8.784 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -503561
+Threads: 2 / Time: 5.695 sec / Speedup: 1.543 / Efficiency: 77% / LogL: -503561
+Threads: 3 / Time: 4.024 sec / Speedup: 2.183 / Efficiency: 73% / LogL: -503561
+Threads: 4 / Time: 3.107 sec / Speedup: 2.827 / Efficiency: 71% / LogL: -503561
+Threads: 5 / Time: 2.748 sec / Speedup: 3.196 / Efficiency: 64% / LogL: -503561
+Threads: 6 / Time: 2.492 sec / Speedup: 3.525 / Efficiency: 59% / LogL: -503561
+Threads: 7 / Time: 2.266 sec / Speedup: 3.876 / Efficiency: 55% / LogL: -503561
+Threads: 8 / Time: 2.031 sec / Speedup: 4.326 / Efficiency: 54% / LogL: -503561
+BEST NUMBER OF THREADS: 8
+
+Perform fast likelihood tree search using LG+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -286133.802
+Optimal log-likelihood: -286133.749
+Gamma shape alpha: 2.006
+Parameters optimization took 1 rounds (0.492 sec)
+Time for fast ML tree search: 8.758 seconds
+
+NOTE: ModelFinder requires 261 MB RAM!
+ModelFinder will test up to 12 protein models (sample size: 738 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  LG            293654.823   1101 589511.646   3016115.646  594580.588
+  2  LG+G4         286133.749   1102 574471.499   3005483.499  579545.045
+  4  LG+F+G4       285903.672   1121 574049.344   3089573.344  579210.365
+  6  WAG+G4        286594.356   1102 575392.711   3006404.711  580466.257
+  8  WAG+F+G4      286042.804   1121 574327.607   3089851.607  579488.628
+ 10  JTT+G4        288737.977   1102 579679.955   3010691.955  584753.501
+ 12  JTT+F+G4      287962.867   1121 578167.733   3093691.733  583328.754
+Akaike Information Criterion:           LG+F+G4
+Corrected Akaike Information Criterion: LG+G4
+Bayesian Information Criterion:         LG+F+G4
+Best-fit model: LG+F+G4 chosen according to BIC
+
+All model information printed to /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/MET/MET.JmjC.iqtree.model.gz
+CPU time for ModelFinder: 281.541 seconds (0h:4m:41s)
+Wall-clock time for ModelFinder: 53.498 seconds (0h:0m:53s)
+Generating 1000 samples for ultrafast bootstrap (seed: 373417)...
+
+NOTE: 261 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -285935.982
+2. Current log-likelihood: -285904.083
+3. Current log-likelihood: -285903.669
+Optimal log-likelihood: -285903.650
+Gamma shape alpha: 1.988
+Parameters optimization took 3 rounds (1.859 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 3.1723 secs using 798.3% CPU
+Computing ML distances took 3.172688 sec (of wall-clock time) 25.326464 sec (of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Setting up auxiliary I and S matrices: done in 0.00108504 secs using 728% CPU
+Computing RapidNJ tree took 0.047172 sec (of wall-clock time) 0.375097 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -289654.327
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 31.346 second
+Computing log-likelihood of 98 initial trees ... 20.320 seconds
+Current best score: -285903.650
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -285886.390
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 6: -285871.812
+Iteration 10 / LogL: -285913.679 / Time: 0h:2m:59s
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 14: -285846.760
+Iteration 20 / LogL: -285980.675 / Time: 0h:4m:14s
+Finish initializing candidate tree set (20)
+Current best tree score: -285846.760 / CPU time: 193.907
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 22: -285824.578
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 23: -285803.216
+Iteration 30 / LogL: -285835.614 / Time: 0h:5m:10s (0h:28m:29s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 33: -285795.212
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 38: -285787.001
+Iteration 40 / LogL: -285828.316 / Time: 0h:6m:6s (0h:26m:27s left)
+Iteration 50 / LogL: -285812.619 / Time: 0h:6m:57s (0h:23m:15s left)
+Log-likelihood cutoff on original alignment: -285951.062
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 51: -285781.176
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 60: -285771.363
+Iteration 60 / LogL: -285771.363 / Time: 0h:7m:51s (0h:23m:36s left)
+Iteration 70 / LogL: -285820.595 / Time: 0h:8m:40s (0h:21m:27s left)
+Iteration 80 / LogL: -285808.487 / Time: 0h:9m:33s (0h:19m:44s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 81: -285760.976
+Iteration 90 / LogL: -285793.109 / Time: 0h:10m:24s (0h:20m:24s left)
+Iteration 100 / LogL: -285831.090 / Time: 0h:11m:14s (0h:18m:54s left)
+Log-likelihood cutoff on original alignment: -285929.138
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.975
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 107: -285741.588
+Iteration 110 / LogL: -285760.797 / Time: 0h:12m:6s (0h:20m:17s left)
+Iteration 120 / LogL: -285830.223 / Time: 0h:12m:56s (0h:18m:56s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 122: -285738.176
+Iteration 130 / LogL: -285766.666 / Time: 0h:13m:45s (0h:19m:9s left)
+Iteration 140 / LogL: -285766.604 / Time: 0h:14m:36s (0h:17m:57s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 146: -285737.139
+Iteration 150 / LogL: -285758.523 / Time: 0h:15m:26s (0h:19m:8s left)
+Log-likelihood cutoff on original alignment: -285929.138
+Iteration 160 / LogL: -285780.150 / Time: 0h:16m:19s (0h:18m:3s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 163: -285731.269
+Iteration 170 / LogL: -285815.194 / Time: 0h:17m:7s (0h:18m:32s left)
+Iteration 180 / LogL: -285759.150 / Time: 0h:17m:59s (0h:17m:29s left)
+Iteration 190 / LogL: -285747.368 / Time: 0h:18m:50s (0h:16m:25s left)
+Iteration 200 / LogL: -285756.247 / Time: 0h:19m:37s (0h:15m:20s left)
+Log-likelihood cutoff on original alignment: -285929.138
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.970
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 210 / LogL: -285761.240 / Time: 0h:20m:30s (0h:14m:21s left)
+Iteration 220 / LogL: -285768.697 / Time: 0h:21m:21s (0h:13m:21s left)
+Iteration 230 / LogL: -285742.058 / Time: 0h:22m:11s (0h:12m:22s left)
+Iteration 240 / LogL: -285732.021 / Time: 0h:23m:1s (0h:11m:23s left)
+Iteration 250 / LogL: -285795.117 / Time: 0h:23m:51s (0h:10m:25s left)
+Log-likelihood cutoff on original alignment: -285929.138
+Iteration 260 / LogL: -285828.649 / Time: 0h:24m:42s (0h:9m:28s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 266: -285729.582
+Iteration 270 / LogL: -285754.385 / Time: 0h:25m:33s (0h:17m:58s left)
+Iteration 280 / LogL: -285741.384 / Time: 0h:26m:24s (0h:17m:0s left)
+Iteration 290 / LogL: -285756.269 / Time: 0h:27m:15s (0h:16m:3s left)
+Iteration 300 / LogL: -285764.405 / Time: 0h:28m:4s (0h:15m:5s left)
+Log-likelihood cutoff on original alignment: -285929.138
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.994
+Iteration 310 / LogL: -285743.608 / Time: 0h:28m:54s (0h:14m:8s left)
+Iteration 320 / LogL: -285832.897 / Time: 0h:29m:46s (0h:13m:12s left)
+Iteration 330 / LogL: -285742.246 / Time: 0h:30m:36s (0h:12m:17s left)
+Iteration 340 / LogL: -285773.946 / Time: 0h:31m:35s (0h:11m:24s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 348: -285725.846
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 350: -285724.874
+Iteration 350 / LogL: -285724.874 / Time: 0h:32m:25s (0h:18m:4s left)
+Log-likelihood cutoff on original alignment: -285929.138
+Iteration 360 / LogL: -285763.023 / Time: 0h:33m:17s (0h:17m:8s left)
+Iteration 370 / LogL: -285766.162 / Time: 0h:34m:6s (0h:16m:12s left)
+Iteration 380 / LogL: -285753.130 / Time: 0h:34m:57s (0h:15m:16s left)
+Iteration 390 / LogL: -285795.652 / Time: 0h:35m:47s (0h:14m:21s left)
+Iteration 400 / LogL: -285760.742 / Time: 0h:36m:37s (0h:13m:25s left)
+Log-likelihood cutoff on original alignment: -285929.138
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.994
+Iteration 410 / LogL: -285777.793 / Time: 0h:37m:29s (0h:12m:31s left)
+Iteration 420 / LogL: -285740.403 / Time: 0h:38m:18s (0h:11m:36s left)
+Iteration 430 / LogL: -285745.767 / Time: 0h:39m:9s (0h:10m:42s left)
+Iteration 440 / LogL: -285772.933 / Time: 0h:39m:57s (0h:9m:47s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 447: -285715.052
+Iteration 450 / LogL: -285741.333 / Time: 0h:40m:48s (0h:17m:30s left)
+Log-likelihood cutoff on original alignment: -285929.138
+Iteration 460 / LogL: -285761.443 / Time: 0h:41m:39s (0h:16m:36s left)
+Iteration 470 / LogL: -285729.355 / Time: 0h:42m:30s (0h:15m:42s left)
+Iteration 480 / LogL: -285763.860 / Time: 0h:43m:19s (0h:14m:47s left)
+Iteration 490 / LogL: -285739.915 / Time: 0h:44m:10s (0h:13m:53s left)
+Iteration 500 / LogL: -285729.399 / Time: 0h:45m:3s (0h:13m:0s left)
+Log-likelihood cutoff on original alignment: -285929.138
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.989
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 510 / LogL: -285749.474 / Time: 0h:45m:58s (0h:12m:8s left)
+Iteration 520 / LogL: -285740.342 / Time: 0h:46m:48s (0h:11m:14s left)
+Iteration 530 / LogL: -285733.945 / Time: 0h:47m:38s (0h:10m:20s left)
+Iteration 540 / LogL: -285728.774 / Time: 0h:48m:28s (0h:9m:26s left)
+Iteration 550 / LogL: -285721.627 / Time: 0h:49m:19s (0h:8m:33s left)
+Log-likelihood cutoff on original alignment: -285929.138
+Iteration 560 / LogL: -285738.412 / Time: 0h:50m:11s (0h:7m:40s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 564: -285714.197
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 568: -285712.602
+Iteration 570 / LogL: -286004.518 / Time: 0h:51m:8s (0h:17m:29s left)
+Iteration 580 / LogL: -285748.030 / Time: 0h:51m:58s (0h:16m:35s left)
+Iteration 590 / LogL: -285749.379 / Time: 0h:52m:49s (0h:15m:41s left)
+Iteration 600 / LogL: -285752.727 / Time: 0h:53m:42s (0h:14m:48s left)
+Log-likelihood cutoff on original alignment: -285929.138
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.985
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 610 / LogL: -285736.543 / Time: 0h:54m:35s (0h:13m:55s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 615: -285711.691
+Iteration 620 / LogL: -285722.207 / Time: 0h:55m:32s (0h:17m:12s left)
+Iteration 630 / LogL: -285745.137 / Time: 0h:56m:23s (0h:16m:19s left)
+Iteration 640 / LogL: -285734.283 / Time: 0h:57m:15s (0h:15m:26s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 649: -285708.505
+Iteration 650 / LogL: -285742.396 / Time: 0h:58m:7s (0h:17m:33s left)
+Log-likelihood cutoff on original alignment: -285929.138
+Iteration 660 / LogL: -285741.145 / Time: 0h:59m:1s (0h:16m:40s left)
+Iteration 670 / LogL: -285726.545 / Time: 0h:59m:52s (0h:15m:46s left)
+Iteration 680 / LogL: -285725.026 / Time: 1h:0m:45s (0h:14m:54s left)
+Iteration 690 / LogL: -285735.152 / Time: 1h:1m:42s (0h:14m:2s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 694: -285706.020
+Iteration 700 / LogL: -285758.737 / Time: 1h:2m:34s (0h:17m:7s left)
+Log-likelihood cutoff on original alignment: -285929.138
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.984
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 710 / LogL: -285833.126 / Time: 1h:3m:28s (0h:16m:14s left)
+Iteration 720 / LogL: -285712.321 / Time: 1h:4m:21s (0h:15m:21s left)
+Iteration 730 / LogL: -285769.665 / Time: 1h:5m:13s (0h:14m:28s left)
+Iteration 740 / LogL: -285739.367 / Time: 1h:6m:5s (0h:13m:35s left)
+Iteration 750 / LogL: -285757.799 / Time: 1h:6m:55s (0h:12m:41s left)
+Log-likelihood cutoff on original alignment: -285929.138
+Iteration 760 / LogL: -285717.473 / Time: 1h:7m:48s (0h:11m:48s left)
+Iteration 770 / LogL: -285770.771 / Time: 1h:8m:39s (0h:10m:55s left)
+Iteration 780 / LogL: -285750.902 / Time: 1h:9m:30s (0h:10m:2s left)
+Iteration 790 / LogL: -285711.873 / Time: 1h:10m:22s (0h:9m:9s left)
+Iteration 800 / LogL: -285738.202 / Time: 1h:11m:12s (0h:8m:16s left)
+Log-likelihood cutoff on original alignment: -285929.138
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.985
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 810 / LogL: -285744.925 / Time: 1h:12m:6s (0h:7m:55s left)
+Iteration 820 / LogL: -285732.452 / Time: 1h:12m:57s (0h:7m:2s left)
+Iteration 830 / LogL: -285901.709 / Time: 1h:13m:49s (0h:6m:9s left)
+Iteration 840 / LogL: -285717.657 / Time: 1h:14m:40s (0h:5m:16s left)
+Iteration 850 / LogL: -286128.372 / Time: 1h:15m:30s (0h:4m:23s left)
+Log-likelihood cutoff on original alignment: -285929.138
+Iteration 860 / LogL: -285723.275 / Time: 1h:16m:23s (0h:3m:30s left)
+Iteration 870 / LogL: -285747.400 / Time: 1h:17m:15s (0h:2m:38s left)
+Iteration 880 / LogL: -285721.270 / Time: 1h:18m:7s (0h:1m:45s left)
+Iteration 890 / LogL: -285727.816 / Time: 1h:18m:59s (0h:0m:52s left)
+Iteration 900 / LogL: -285731.754 / Time: 1h:19m:49s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -285929.138
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.988
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 910 / LogL: -285729.548 / Time: 1h:20m:43s (0h:7m:54s left)
+Iteration 920 / LogL: -285747.205 / Time: 1h:21m:33s (0h:7m:1s left)
+Iteration 930 / LogL: -285739.667 / Time: 1h:22m:23s (0h:6m:8s left)
+Iteration 940 / LogL: -285720.949 / Time: 1h:23m:16s (0h:5m:15s left)
+Iteration 950 / LogL: -285737.944 / Time: 1h:24m:7s (0h:4m:23s left)
+Log-likelihood cutoff on original alignment: -285929.138
+Iteration 960 / LogL: -285740.150 / Time: 1h:24m:57s (0h:3m:30s left)
+Iteration 970 / LogL: -285721.286 / Time: 1h:25m:49s (0h:2m:37s left)
+Iteration 980 / LogL: -285752.504 / Time: 1h:26m:42s (0h:1m:45s left)
+Iteration 990 / LogL: -285724.426 / Time: 1h:27m:34s (0h:0m:52s left)
+Iteration 1000 / LogL: -285736.244 / Time: 1h:28m:23s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -285929.138
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.989
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 1010 / LogL: -285734.344 / Time: 1h:29m:17s (0h:7m:53s left)
+Iteration 1020 / LogL: -285710.177 / Time: 1h:30m:11s (0h:7m:0s left)
+Iteration 1030 / LogL: -285808.003 / Time: 1h:31m:3s (0h:6m:8s left)
+Iteration 1040 / LogL: -285934.589 / Time: 1h:31m:54s (0h:5m:15s left)
+Iteration 1050 / LogL: -285726.858 / Time: 1h:32m:48s (0h:4m:22s left)
+Log-likelihood cutoff on original alignment: -285929.138
+Iteration 1060 / LogL: -285724.723 / Time: 1h:33m:40s (0h:3m:30s left)
+Iteration 1070 / LogL: -285716.153 / Time: 1h:34m:36s (0h:2m:37s left)
+Iteration 1080 / LogL: -285729.877 / Time: 1h:35m:30s (0h:1m:45s left)
+Iteration 1090 / LogL: -285733.527 / Time: 1h:36m:21s (0h:0m:52s left)
+Iteration 1100 / LogL: -285735.313 / Time: 1h:37m:14s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -285929.138
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.991
+TREE SEARCH COMPLETED AFTER 1100 ITERATIONS / Time: 1h:37m:15s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -285706.020
+Optimal log-likelihood: -285706.019
+Gamma shape alpha: 2.044
+Parameters optimization took 1 rounds (0.479 sec)
+BEST SCORE FOUND : -285706.019
+Creating bootstrap support values...
+Split supports printed to NEXUS file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/MET/MET.JmjC.iqtree.splits.nex
+Total tree length: 236.373
+
+Total number of iterations: 1100
+CPU time used for tree search: 45163.114 sec (12h:32m:43s)
+Wall-clock time used for tree search: 5775.086 sec (1h:36m:15s)
+Total CPU time used: 45510.631 sec (12h:38m:30s)
+Total wall-clock time used: 5845.981 sec (1h:37m:25s)
+
+Computing bootstrap consensus tree...
+Reading input file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/MET/MET.JmjC.iqtree.splits.nex...
+552 taxa and 2489 splits.
+Consensus tree written to /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/MET/MET.JmjC.iqtree.contree
+Reading input trees file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/MET/MET.JmjC.iqtree.contree
+Log-likelihood of consensus tree: -285705.468
+
+Analysis results written to: 
+  IQ-TREE report:                /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/MET/MET.JmjC.iqtree.iqtree
+  Maximum-likelihood tree:       /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/MET/MET.JmjC.iqtree.treefile
+  Likelihood distances:          /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/MET/MET.JmjC.iqtree.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/MET/MET.JmjC.iqtree.splits.nex
+  Consensus tree:                /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/MET/MET.JmjC.iqtree.contree
+  Screen log file:               /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/MET/MET.JmjC.iqtree.log
+
+Date and Time: Mon Mar 23 23:01:01 2026
