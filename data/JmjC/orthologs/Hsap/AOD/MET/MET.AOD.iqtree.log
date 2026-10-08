@@ -1,0 +1,344 @@
+IQ-TREE multicore version 2.4.0 for MacOS Intel 64-bit built Feb 12 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    Il-Hwans-Mac-Studio.local (SSE4.2, 64 GB RAM)
+Command: iqtree2 -s /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/MET/MET.AOD.seqs.lt.fasta -m TEST -mset LG,WAG,JTT -bb 1000 -nt AUTO -ntmax 8 -pre /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/MET/MET.AOD.iqtree -nstop 200 -cptime 1800 --quiet
+Seed:    714657 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Mar 23 18:00:45 2026
+Kernel:  SSE2 - auto-detect threads (10 CPU cores detected)
+
+Reading alignment file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/MET/MET.AOD.seqs.lt.fasta ... Fasta format detected
+Reading fasta file: done in 0.00276899 secs using 93.9% CPU
+Alignment most likely contains protein sequences
+Alignment has 137 sequences with 870 columns, 870 distinct patterns
+866 parsimony-informative, 0 singleton sites, 4 constant sites
+                                 Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000104904 secs using 508.1% CPU
+   1  Rcul_nRc.2.0.1.t03601-RA          81.95%    passed     30.00%
+   2  Lsig_VDK86407.1                   55.06%    passed     15.73%
+   3  Bmal_XP_042935975.1               50.69%    failed      1.59%
+   4  Wban_VDM16565.1                   85.75%    failed      0.03%
+   5  Eela_EEL_0000107201-mRNA-1        55.98%    passed     13.56%
+   6  Ovol_OVOC180                      50.34%    passed     14.59%
+   7  Avit_KAL3997434.1                 50.92%    passed      9.03%
+   8  Lloa_XP_003143430.1               55.98%    failed      2.50%
+   9  Dimm_MCP9264193.1                 50.80%    passed     35.38%
+  10  Asuu_AgR021X_g104_t03             23.91%    passed     97.58%
+  11  Scar_TKR94121.1                   17.93%    passed     69.91%
+  12  Gpal_Gpal_D383_g14601.t1          89.89%    passed     11.11%
+  13  Mhap_MhA1_Contig579.frz3.gene31   71.72%    passed     48.91%
+  14  Priarc_PARCANUS000012879.t1       23.45%    passed     10.05%
+  15  Mjap_MIJAPON000009709.t1          23.33%    passed     49.45%
+  16  Acey_EYC23217.1                   40.80%    passed     11.11%
+  17  Hcon_XGW23205.1                   21.84%    passed     67.21%
+  18  Angcan_KAE9419295.1               24.25%    passed     93.17%
+  19  Acey_EYC23220.1                   73.33%    passed     38.35%
+  20  Avit_KAL3997431.1                 69.66%    passed     82.66%
+  21  Eela_EEL_0000483401-mRNA-1        70.11%    passed     51.95%
+  22  Bmal_XP_042935972.1               81.49%    passed     24.67%
+  23  Lloa_XP_020306301.1               72.07%    passed     76.26%
+  24  Ovol_OVOC184                      80.80%    passed     46.49%
+  25  Lsig_VDK87987.1                   70.23%    passed     92.30%
+  26  Dimm_MCP9264196.1                 69.54%    passed     51.58%
+  27  Wban_VDM11463.1                   78.39%    passed     14.42%
+  28  Bmor_XP_037875164.1               12.53%    passed     53.96%
+  29  Pvan_XP_027214242.1               19.43%    passed     45.26%
+  30  Smar_SMAR006137-PA                53.79%    passed     17.49%
+  31  Smar_SMAR013509-PA                19.43%    failed      3.84%
+  32  Btab_XP_018916027.1               19.08%    passed     49.73%
+  33  Lana_XP_013406438.1               14.71%    failed      4.00%
+  34  Ofus_CAH1799050.1                 21.61%    passed     21.58%
+  35  Cvir_XP_022301563.1               17.36%    passed      7.76%
+  36  Cvir_XP_022292741.1               17.36%    passed      7.76%
+  37  Obim_XP_014771252.1               14.71%    passed     89.93%
+  38  Cscu_XP_023240468.1               21.61%    failed      3.34%
+  39  Lpol_XP_013779750.1               15.40%    passed     20.25%
+  40  Aplcal_XP_005100139.1             15.98%    passed     18.66%
+  41  Apimel_XP_016769858.1             19.20%    passed      7.81%
+  42  Hsap_NP_001397691.1               15.86%    failed      3.48%
+  43  Agrpla_XP_018323683.1             20.00%    passed     25.49%
+  44  Dpul_XP_046461903.1               17.24%    passed     66.68%
+  45  Hrob_XP_009031024.1               27.01%    passed     38.30%
+  46  Dmel_NP_649194.1                  15.40%    passed     24.35%
+  47  Avag_UJR21936.1                   25.63%    passed     43.63%
+  48  Rcul_nRc.2.0.1.t26280-RA          71.61%    passed     85.48%
+  49  Sbat_VDP05882.1                   75.40%    passed     45.39%
+  50  Sman_XP_018652619.1               18.16%    failed      3.06%
+  51  Plae_KAI0982820.1                 32.07%    passed     11.31%
+  52  Gpal_Gpal_D383_g16178.t1          22.76%    passed     28.42%
+  53  Gpal_Gpal_D383_g09963.t1          85.63%    passed     11.03%
+  54  Mhap_MhA1_Contig579.frz3.fgene1   49.54%    passed     11.93%
+  55  Ddip_jg3947.2                     23.91%    passed     54.34%
+  56  Echgra_XP_024347468.1             17.82%    passed      5.47%
+  57  Diplco_DCO_004528                 23.56%    passed     52.56%
+  58  Diplco_DCO_004527                 21.72%    passed     38.80%
+  59  Psp.PS1159_PS1159_v2.g22586.t1    61.03%    failed      0.33%
+  60  Psp.PS1159_PS1159_v2.g1042.t1     20.69%    passed     80.29%
+  61  Sypmur_SMUV_0000564301-mRNA-1     28.28%    passed     17.82%
+  62  Ever_VDD92143.1                   26.90%    failed      2.34%
+  63  Mbel_CAJ0946194.1                 24.25%    passed     35.78%
+  64  Sbat_VDP10071.1                   67.70%    passed     73.80%
+  65  Hduj_OWA54114.1                   17.70%    passed      9.11%
+  66  Rvar_GAV02234.1                   18.28%    failed      0.94%
+  67  Hduj_OWA50781.1                   16.21%    failed      0.03%
+  68  Otip_Oti_1643_t                   24.37%    passed     23.65%
+  69  Bxyl_CAG9082586.1                 20.23%    passed     12.08%
+  70  Smar_SMAR000742-PA                17.59%    passed     67.00%
+  71  Cvir_XP_022322256.1               17.36%    passed     45.66%
+  72  Lana_XP_013396905.1               57.93%    passed     28.11%
+  73  Lana_XP_013396909.1               74.71%    passed     14.44%
+  74  Trimur_TMUE_3000014219            17.47%    passed     74.66%
+  75  Ttri_CDW52911.1                   18.97%    passed     87.35%
+  76  Tsui_KHJ43428.1                   35.86%    passed     89.39%
+  77  Tsui_KHJ43427.1                   84.02%    passed     94.70%
+  78  Tspi_XP_003380813.1               69.89%    passed     57.11%
+  79  Tnel_KRX24877.1                   16.78%    passed     17.56%
+  80  Tspi_XP_003368207.1               83.33%    passed     16.70%
+  81  Tbri_KRY54519.1                   18.16%    passed     23.71%
+  82  Tnat_KRZ59296.1                   15.98%    passed     36.71%
+  83  Tspi_XP_003380814.1               56.44%    passed     69.39%
+  84  Tspi_XP_003370186.1               58.28%    passed     41.37%
+  85  Sbat_VDP18494.1                   64.37%    passed     55.16%
+  86  Rcul_nRc.2.0.1.t24552-RA          44.83%    passed     96.37%
+  87  Cscu_XP_023231104.1               18.85%    passed     23.56%
+  88  Cscu_XP_023231112.1               58.51%    passed     44.58%
+  89  Lpol_XP_022252437.1               17.70%    passed     98.83%
+  90  Hsap_NP_001351543.1               18.05%    passed     17.44%
+  91  Otip_Oti_15228_t                  57.47%    passed     30.07%
+  92  Acey_EYC03979.1                   49.31%    passed     12.38%
+  93  Hcon_XGW18112.1                   17.01%    passed     31.02%
+  94  Hpol_VDO19148.1                   58.85%    failed      2.07%
+  95  Angcan_KAE9419828.1               14.14%    passed     62.78%
+  96  Hpol_VDO92144.1                   57.70%    passed     62.67%
+  97  Diplco_DCO_005561                 53.22%    passed     88.14%
+  98  Avit_KAL3989759.1                 15.29%    passed     62.15%
+  99  Eela_EEL_0000856901-mRNA-1        15.86%    passed     61.70%
+ 100  Lloa_XP_003150441.1               87.01%    passed     30.48%
+ 101  Wban_VDM07649.1                   15.29%    passed     87.42%
+ 102  Bmal_XP_042930800.1               15.52%    passed     90.60%
+ 103  Ovol_OVOC3134                     18.74%    passed     64.76%
+ 104  Lsig_VDK76248.1                   15.29%    passed     43.20%
+ 105  Lloa_XP_020301681.1               39.66%    passed     52.04%
+ 106  Dimm_MCP9257004.1                 19.43%    passed     51.87%
+ 107  Asuu_AgR026_g084_t06              20.34%    passed     63.92%
+ 108  Asuu_AgR021X_g010_t01             49.20%    passed     80.90%
+ 109  Ever_VDD92991.1                   36.67%    passed     87.62%
+ 110  Sypmur_SMUV_0000777101-mRNA-1     35.40%    passed     89.44%
+ 111  Priarc_PARCANUS000021762.t1       15.86%    failed      3.80%
+ 112  Mjap_MIJAPON000006181.t1          16.90%    passed     97.54%
+ 113  Ddip_jg4089                       38.39%    passed     16.92%
+ 114  Ddip_jg4083                       34.25%    passed     21.89%
+ 115  Psp.PS1159_PS1159_v2.g24762.t2    18.28%    passed     78.02%
+ 116  Bxyl_CAG9130920.1                 15.29%    passed     87.13%
+ 117  Srat_XP_024508073.1               18.62%    failed      0.00%
+ 118  Ofus_CAH1773154.1                 13.56%    passed     83.28%
+ 119  Aplcal_XP_035828739.1             16.90%    failed      2.01%
+ 120  Mbel_CAJ0951833.1                 65.17%    passed     74.66%
+ 121  Scar_TKR71681.1                   24.94%    passed     96.86%
+ 122  Diplco_DCO_007948                 50.46%    passed      9.64%
+ 123  Diplco_DCO_007947                 50.46%    passed     17.10%
+ 124  Otip_Oti_15227_t                  58.28%    passed     47.09%
+ 125  Hrob_XP_009012395.1               15.29%    passed      8.14%
+ 126  Obim_XP_052822078.1               15.86%    passed      8.21%
+ 127  Cele_NP_497772.2                  17.70%    passed     15.34%
+ 128  Lana_XP_013400926.1               49.77%    passed     21.44%
+ 129  Acey_EYC03970.1                   62.87%    passed     84.15%
+ 130  Cele_NP_510000.2                  21.95%    passed      6.70%
+ 131  Cele_NP_493366.1                  25.63%    passed     34.87%
+ 132  Smed_h1SMcT0021871.3              17.70%    passed      5.10%
+ 133  Smed_h1SMcT0002450.1              22.64%    failed      0.16%
+ 134  Avag_UJR09922.1                   53.91%    failed      2.56%
+ 135  Psp.PS1159_PS1159_v2.g22585.t1    63.68%    passed     15.59%
+ 136  Mbel_CAJ0951837.1                 54.48%    passed     70.52%
+ 137  Srat_XP_024505754.1               27.59%    failed      0.00%
+WARNING: 48 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                             37.62%  19 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: Cvir_XP_022292741.1 is identical to Cvir_XP_022301563.1 but kept for subsequent analysis
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.058 seconds
+Measuring multi-threading efficiency up to 8 CPU cores
+Increase to 10 rounds for branch lengths
+4 trees examined
+Threads: 1 / Time: 8.253 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -144553
+Threads: 2 / Time: 5.365 sec / Speedup: 1.538 / Efficiency: 77% / LogL: -144553
+Threads: 3 / Time: 3.788 sec / Speedup: 2.179 / Efficiency: 73% / LogL: -144553
+Threads: 4 / Time: 2.957 sec / Speedup: 2.791 / Efficiency: 70% / LogL: -144553
+Threads: 5 / Time: 2.456 sec / Speedup: 3.361 / Efficiency: 67% / LogL: -144553
+Threads: 6 / Time: 2.247 sec / Speedup: 3.672 / Efficiency: 61% / LogL: -144553
+Threads: 7 / Time: 1.964 sec / Speedup: 4.202 / Efficiency: 60% / LogL: -144553
+Threads: 8 / Time: 1.795 sec / Speedup: 4.598 / Efficiency: 57% / LogL: -144553
+BEST NUMBER OF THREADS: 8
+
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -99053.816
+Optimal log-likelihood: -99053.723
+Proportion of invariable sites: 0.004
+Gamma shape alpha: 1.605
+Parameters optimization took 1 rounds (0.139 sec)
+Time for fast ML tree search: 2.207 seconds
+
+NOTE: ModelFinder requires 78 MB RAM!
+ModelFinder will test up to 24 protein models (sample size: 870 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  LG            102249.470   271 205040.939   205287.468   206333.201
+  2  LG+I          102169.636   272 204883.272   205132.036   206180.302
+  3  LG+G4         99069.217    272 198682.433   198931.197   199979.463
+  4  LG+I+G4       99053.726    273 198653.453   198904.466   199955.251
+  8  LG+F+I+G4     98912.436    292 198408.873   198705.428   199801.273
+ 12  WAG+I+G4      99516.479    273 199578.957   199829.971   200880.756
+ 16  WAG+F+I+G4    99256.031    292 199096.062   199392.617   200488.462
+ 20  JTT+I+G4      99897.142    273 200340.285   200591.298   201642.083
+ 24  JTT+F+I+G4    99653.525    292 199891.049   200187.604   201283.450
+Akaike Information Criterion:           LG+F+I+G4
+Corrected Akaike Information Criterion: LG+F+I+G4
+Bayesian Information Criterion:         LG+F+I+G4
+Best-fit model: LG+F+I+G4 chosen according to BIC
+
+All model information printed to /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/MET/MET.AOD.iqtree.model.gz
+CPU time for ModelFinder: 146.755 seconds (0h:2m:26s)
+Wall-clock time for ModelFinder: 35.337 seconds (0h:0m:35s)
+Generating 1000 samples for ultrafast bootstrap (seed: 714657)...
+
+NOTE: 78 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+Thoroughly optimizing +I+G parameters from 10 start values...
+Init pinv, alpha: 0.000, 1.655 / Estimate: 0.004, 1.586 / LogL: -98912.433
+Init pinv, alpha: 0.001, 1.655 / Estimate: 0.004, 1.592 / LogL: -98912.472
+Init pinv, alpha: 0.001, 1.655 / Estimate: 0.004, 1.589 / LogL: -98912.448
+Init pinv, alpha: 0.002, 1.655 / Estimate: 0.004, 1.589 / LogL: -98912.448
+Init pinv, alpha: 0.002, 1.655 / Estimate: 0.004, 1.592 / LogL: -98912.473
+Init pinv, alpha: 0.003, 1.655 / Estimate: 0.004, 1.592 / LogL: -98912.473
+Init pinv, alpha: 0.003, 1.655 / Estimate: 0.004, 1.592 / LogL: -98912.473
+Init pinv, alpha: 0.004, 1.655 / Estimate: 0.004, 1.592 / LogL: -98912.472
+Init pinv, alpha: 0.004, 1.655 / Estimate: 0.004, 1.592 / LogL: -98912.472
+Init pinv, alpha: 0.005, 1.655 / Estimate: 0.004, 1.592 / LogL: -98912.471
+Optimal pinv,alpha: 0.004, 1.586 / LogL: -98912.433
+
+Parameters optimization took 5.428 sec
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.185935 secs using 792.3% CPU
+Computing ML distances took 0.186082 sec (of wall-clock time) 1.474150 sec (of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Setting up auxiliary I and S matrices: done in 0.000231981 secs using 463% CPU
+Computing RapidNJ tree took 0.011011 sec (of wall-clock time) 0.081858 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -102431.022
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 4.717 second
+Computing log-likelihood of 98 initial trees ... 5.834 seconds
+Current best score: -98912.433
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -98897.939
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 6: -98896.441
+Iteration 10 / LogL: -98925.272 / Time: 0h:1m:9s
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 15: -98880.316
+Iteration 20 / LogL: -98922.869 / Time: 0h:1m:27s
+Finish initializing candidate tree set (20)
+Current best tree score: -98880.316 / CPU time: 43.817
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 23: -98877.128
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 25: -98865.771
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 26: -98864.330
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 28: -98860.544
+Iteration 30 / LogL: -99016.368 / Time: 0h:1m:41s (0h:7m:32s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 36: -98860.355
+Iteration 40 / LogL: -98872.743 / Time: 0h:1m:55s (0h:6m:41s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 44: -98858.799
+Iteration 50 / LogL: -98862.241 / Time: 0h:2m:8s (0h:6m:9s left)
+Log-likelihood cutoff on original alignment: -98962.876
+Iteration 60 / LogL: -98860.390 / Time: 0h:2m:23s (0h:5m:36s left)
+Iteration 70 / LogL: -98891.810 / Time: 0h:2m:36s (0h:5m:4s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 74: -98857.963
+Iteration 80 / LogL: -98871.335 / Time: 0h:2m:50s (0h:5m:31s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 85: -98856.359
+Iteration 90 / LogL: -98869.144 / Time: 0h:3m:3s (0h:5m:25s left)
+Iteration 100 / LogL: -98860.012 / Time: 0h:3m:18s (0h:5m:4s left)
+Log-likelihood cutoff on original alignment: -98962.876
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.996
+Iteration 110 / LogL: -98856.965 / Time: 0h:3m:31s (0h:4m:43s left)
+Iteration 120 / LogL: -98859.738 / Time: 0h:3m:44s (0h:4m:22s left)
+Iteration 130 / LogL: -98858.243 / Time: 0h:3m:58s (0h:4m:3s left)
+Iteration 140 / LogL: -98865.790 / Time: 0h:4m:11s (0h:3m:45s left)
+Iteration 150 / LogL: -98874.684 / Time: 0h:4m:25s (0h:3m:28s left)
+Log-likelihood cutoff on original alignment: -98962.876
+Iteration 160 / LogL: -98857.749 / Time: 0h:4m:39s (0h:3m:11s left)
+Iteration 170 / LogL: -98869.476 / Time: 0h:4m:53s (0h:2m:55s left)
+Iteration 180 / LogL: -98863.444 / Time: 0h:5m:7s (0h:2m:39s left)
+Iteration 190 / LogL: -98962.228 / Time: 0h:5m:19s (0h:2m:22s left)
+Iteration 200 / LogL: -98859.890 / Time: 0h:5m:32s (0h:2m:7s left)
+Log-likelihood cutoff on original alignment: -98962.876
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.991
+Iteration 210 / LogL: -98875.400 / Time: 0h:5m:47s (0h:2m:14s left)
+Iteration 220 / LogL: -98862.655 / Time: 0h:6m:0s (0h:1m:58s left)
+Iteration 230 / LogL: -98856.687 / Time: 0h:6m:12s (0h:1m:43s left)
+Iteration 240 / LogL: -98859.428 / Time: 0h:6m:27s (0h:1m:28s left)
+Iteration 250 / LogL: -98869.382 / Time: 0h:6m:41s (0h:1m:13s left)
+Log-likelihood cutoff on original alignment: -98962.876
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -98856.345
+Iteration 260 / LogL: -98869.883 / Time: 0h:6m:56s (0h:0m:58s left)
+Iteration 270 / LogL: -98867.428 / Time: 0h:7m:10s (0h:0m:44s left)
+Iteration 280 / LogL: -98862.429 / Time: 0h:7m:23s (0h:0m:29s left)
+TREE SEARCH COMPLETED AFTER 286 ITERATIONS / Time: 0h:7m:30s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -98856.345
+Optimal log-likelihood: -98856.345
+Proportion of invariable sites: 0.004
+Gamma shape alpha: 1.584
+Parameters optimization took 1 rounds (0.144 sec)
+BEST SCORE FOUND : -98856.345
+Creating bootstrap support values...
+Split supports printed to NEXUS file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/MET/MET.AOD.iqtree.splits.nex
+Total tree length: 78.708
+
+Total number of iterations: 286
+CPU time used for tree search: 3142.696 sec (0h:52m:22s)
+Wall-clock time used for tree search: 407.200 sec (0h:6m:47s)
+Total CPU time used: 3356.875 sec (0h:55m:56s)
+Total wall-clock time used: 451.118 sec (0h:7m:31s)
+
+Computing bootstrap consensus tree...
+Reading input file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/MET/MET.AOD.iqtree.splits.nex...
+137 taxa and 763 splits.
+Consensus tree written to /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/MET/MET.AOD.iqtree.contree
+Reading input trees file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/MET/MET.AOD.iqtree.contree
+Log-likelihood of consensus tree: -98856.356
+
+Analysis results written to: 
+  IQ-TREE report:                /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/MET/MET.AOD.iqtree.iqtree
+  Maximum-likelihood tree:       /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/MET/MET.AOD.iqtree.treefile
+  Likelihood distances:          /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/MET/MET.AOD.iqtree.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/MET/MET.AOD.iqtree.splits.nex
+  Consensus tree:                /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/MET/MET.AOD.iqtree.contree
+  Screen log file:               /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/MET/MET.AOD.iqtree.log
+
+Date and Time: Mon Mar 23 18:08:17 2026

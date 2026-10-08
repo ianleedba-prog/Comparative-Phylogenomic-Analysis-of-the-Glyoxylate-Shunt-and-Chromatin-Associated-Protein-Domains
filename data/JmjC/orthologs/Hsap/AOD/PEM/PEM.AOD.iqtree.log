@@ -1,0 +1,237 @@
+IQ-TREE multicore version 2.4.0 for MacOS Intel 64-bit built Feb 12 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    Il-Hwans-Mac-Studio.local (SSE4.2, 64 GB RAM)
+Command: iqtree2 -s /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/PEM/PEM.AOD.seqs.lt.fasta -m TEST -mset LG,WAG,JTT -bb 1000 -nt AUTO -ntmax 8 -pre /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/PEM/PEM.AOD.iqtree -nstop 200 -cptime 1800 --quiet
+Seed:    900550 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Mar 23 17:56:40 2026
+Kernel:  SSE2 - auto-detect threads (10 CPU cores detected)
+
+Reading alignment file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/PEM/PEM.AOD.seqs.lt.fasta ... Fasta format detected
+Reading fasta file: done in 0.00180387 secs using 75.01% CPU
+Alignment most likely contains protein sequences
+Alignment has 54 sequences with 720 columns, 720 distinct patterns
+713 parsimony-informative, 0 singleton sites, 7 constant sites
+                                              Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 4.79221e-05 secs using 538.4% CPU
+   1  Sros_XP_004993174.1                            29.72%    failed      0.01%
+   2  Tadh_XP_002118392.1                             9.86%    failed      0.16%
+   3  Hsap_NP_001397691.1                             5.00%    passed     85.33%
+   4  Emue_Em0022g12a                                10.97%    passed     14.31%
+   5  Emue_Em0022g26a                                10.97%    passed     14.31%
+   6  Twil_T_wilhelma_c30980_g1_i1|m.38945           11.25%    passed     31.81%
+   7  Aque_XP_019848756.1                             9.86%    passed     43.45%
+   8  Lcom_lcpid36350|                               10.56%    passed     48.41%
+   9  Lcom_lcpid73589|                               49.17%    passed     80.38%
+  10  Scil_XP_065176492.1                             5.97%    passed     87.77%
+  11  Mlei_ML06333a-PA                                5.14%    passed     13.85%
+  12  Awhi_Unigene6491_Abeoforma_whisleri|m.3647     84.44%    passed     39.09%
+  13  Pgem_Unigene31076_Pirum_gemmata|m.18507        45.56%    failed      3.28%
+  14  Ihof_Ihof_evm4s38                              32.36%    passed     64.15%
+  15  Aque_XP_019850257.1                            15.28%    passed      7.37%
+  16  Emue_Em0005g1571a                              16.67%    passed     30.02%
+  17  Emue_Em0005g1560a                              17.78%    passed      8.20%
+  18  Twil_T_wilhelma_c33615_g1_i3|m.56446           73.19%    passed     90.22%
+  19  Twil_T_wilhelma_c33615_g1_i2|m.56441           73.19%    passed     90.22%
+  20  Mlei_ML095310a-PA                              13.89%    passed     23.67%
+  21  Hsap_NP_001351543.1                            16.81%    passed     56.64%
+  22  Scil_XP_065184780.1                             8.19%    passed     94.62%
+  23  Lcom_lcpid31687|                                8.06%    passed     12.51%
+  24  Clim_Clim_evm24s158                             7.22%    passed     78.17%
+  25  Cper_Nk52_evm1s280                             10.28%    failed      2.12%
+  26  Twil_T_wilhelma_c33235_g1_i1|m.53607           23.06%    failed      0.00%
+  27  Twil_T_wilhelma_c33235_g1_i3|m.53610           22.92%    failed      0.01%
+  28  Twil_T_wilhelma_c33235_g1_i2|m.53608           26.81%    failed      0.00%
+  29  Twil_T_wilhelma_c1239_g1_i1|m.180              85.00%    passed     45.31%
+  30  Emue_Em0005g1427a                              21.11%    failed      4.04%
+  31  Emue_Em0001g1965a                              38.89%    failed      0.01%
+  32  Emue_Em0001g2013a                              38.61%    failed      0.29%
+  33  Emue_Em0005g1116a                              20.00%    failed      0.09%
+  34  Emue_Em0019g125a                               72.78%    failed      0.68%
+  35  Emue_Em0001g2011a                              80.97%    passed     87.46%
+  36  Emue_Em0001g1976a                              74.44%    failed      0.11%
+  37  Emue_Em0001g1964a                              79.17%    passed      5.08%
+  38  Pigvie_Pvie_g14537                              9.58%    failed      0.00%
+  39  Pigchi_Pchi_g958                                9.58%    failed      0.00%
+  40  Mbre_XP_001748941.1                            17.92%    failed      2.63%
+  41  Pigchi_Pchi_g4643                              53.61%    failed      0.48%
+  42  Pigvie_Pvie_g14612                             43.06%    failed      0.80%
+  43  Awhi_Unigene37680_Abeoforma_whisleri|m.24429   75.00%    passed     65.95%
+  44  Cowc_XP_004365590.1                            20.00%    failed      0.00%
+  45  Lcom_lcpid45766|                               37.50%    passed      8.07%
+  46  Scil_XP_065184846.1                            35.14%    failed      4.47%
+  47  Lcom_lcpid56361|                               36.81%    failed      0.61%
+  48  Lcom_lcpid31938|                               40.83%    failed      0.50%
+  49  Lcom_lcpid35917|                               29.72%    passed      8.67%
+  50  Scil_XP_065193469.1                            36.67%    passed      8.35%
+  51  Sarc_XP_014158170.1                            35.14%    failed      3.94%
+  52  Clim_Clim_evm95s150                            33.47%    passed     76.77%
+  53  Pgem_Unigene33395_Pirum_gemmata|m.20145        43.61%    failed      0.08%
+  54  Sros_XP_004995713.1                            41.81%    failed      0.05%
+WARNING: 10 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                          32.68%  25 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: Emue_Em0022g26a is identical to Emue_Em0022g12a but kept for subsequent analysis
+NOTE: Twil_T_wilhelma_c33615_g1_i2|m.56441 is identical to Twil_T_wilhelma_c33615_g1_i3|m.56446 but kept for subsequent analysis
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.011 seconds
+Measuring multi-threading efficiency up to 8 CPU cores
+Increase to 10 rounds for branch lengths
+13 trees examined
+Threads: 1 / Time: 8.438 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -57488
+Threads: 2 / Time: 5.485 sec / Speedup: 1.539 / Efficiency: 77% / LogL: -57488
+Threads: 3 / Time: 3.830 sec / Speedup: 2.203 / Efficiency: 73% / LogL: -57488
+Threads: 4 / Time: 2.970 sec / Speedup: 2.841 / Efficiency: 71% / LogL: -57488
+Threads: 5 / Time: 2.565 sec / Speedup: 3.290 / Efficiency: 66% / LogL: -57488
+Threads: 6 / Time: 2.244 sec / Speedup: 3.760 / Efficiency: 63% / LogL: -57488
+Threads: 7 / Time: 2.078 sec / Speedup: 4.061 / Efficiency: 58% / LogL: -57488
+Threads: 8 / Time: 2.024 sec / Speedup: 4.168 / Efficiency: 52% / LogL: -57488
+BEST NUMBER OF THREADS: 7
+
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -43925.001
+Optimal log-likelihood: -43924.948
+Proportion of invariable sites: 0.007
+Gamma shape alpha: 1.892
+Parameters optimization took 1 rounds (0.053 sec)
+Time for fast ML tree search: 0.589 seconds
+
+NOTE: ModelFinder requires 27 MB RAM!
+ModelFinder will test up to 24 protein models (sample size: 720 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  LG            44948.402    105 90106.803    90143.057    90587.625
+  2  LG+I          44887.557    106 89987.114    90024.119    90472.515
+  3  LG+G4         43935.465    106 88082.931    88119.936    88568.332
+  4  LG+I+G4       43924.949    107 88063.898    88101.662    88553.877
+  8  LG+F+I+G4     43841.131    126 87934.262    87988.232    88511.248
+ 12  WAG+I+G4      43994.657    107 88203.314    88241.078    88693.293
+ 16  WAG+F+I+G4    43947.747    126 88147.495    88201.464    88724.480
+ 20  JTT+I+G4      44274.633    107 88763.266    88801.030    89253.246
+ 24  JTT+F+I+G4    44249.043    126 88750.086    88804.056    89327.072
+Akaike Information Criterion:           LG+F+I+G4
+Corrected Akaike Information Criterion: LG+F+I+G4
+Bayesian Information Criterion:         LG+F+I+G4
+Best-fit model: LG+F+I+G4 chosen according to BIC
+
+All model information printed to /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/PEM/PEM.AOD.iqtree.model.gz
+CPU time for ModelFinder: 113.341 seconds (0h:1m:53s)
+Wall-clock time for ModelFinder: 31.570 seconds (0h:0m:31s)
+Generating 1000 samples for ultrafast bootstrap (seed: 900550)...
+
+NOTE: 27 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+Thoroughly optimizing +I+G parameters from 10 start values...
+Init pinv, alpha: 0.000, 1.912 / Estimate: 0.007, 1.909 / LogL: -43841.133
+Init pinv, alpha: 0.001, 1.912 / Estimate: 0.007, 1.913 / LogL: -43841.136
+Init pinv, alpha: 0.002, 1.912 / Estimate: 0.007, 1.913 / LogL: -43841.134
+Init pinv, alpha: 0.003, 1.912 / Estimate: 0.007, 1.913 / LogL: -43841.133
+Init pinv, alpha: 0.004, 1.912 / Estimate: 0.007, 1.913 / LogL: -43841.139
+Init pinv, alpha: 0.005, 1.912 / Estimate: 0.007, 1.912 / LogL: -43841.138
+Init pinv, alpha: 0.006, 1.912 / Estimate: 0.007, 1.913 / LogL: -43841.136
+Init pinv, alpha: 0.008, 1.912 / Estimate: 0.007, 1.913 / LogL: -43841.135
+Init pinv, alpha: 0.009, 1.912 / Estimate: 0.007, 1.913 / LogL: -43841.135
+Init pinv, alpha: 0.010, 1.912 / Estimate: 0.007, 1.914 / LogL: -43841.134
+Optimal pinv,alpha: 0.007, 1.913 / LogL: -43841.133
+
+Parameters optimization took 1.475 sec
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.0358169 secs using 673.8% CPU
+Computing ML distances took 0.035966 sec (of wall-clock time) 0.242165 sec (of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Setting up auxiliary I and S matrices: done in 8.51154e-05 secs using 457% CPU
+Computing RapidNJ tree took 0.002004 sec (of wall-clock time) 0.014470 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -43977.342
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 1.123 second
+Computing log-likelihood of 98 initial trees ... 1.972 seconds
+Current best score: -43841.133
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -43841.040
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -43837.284
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 6: -43837.101
+Iteration 10 / LogL: -43837.530 / Time: 0h:0m:40s
+Iteration 20 / LogL: -43842.337 / Time: 0h:0m:43s
+Finish initializing candidate tree set (11)
+Current best tree score: -43837.101 / CPU time: 10.566
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -43837.041
+Iteration 30 / LogL: -43843.550 / Time: 0h:0m:48s (0h:1m:40s left)
+Iteration 40 / LogL: -43837.476 / Time: 0h:0m:52s (0h:1m:28s left)
+Iteration 50 / LogL: -43842.854 / Time: 0h:0m:56s (0h:1m:19s left)
+Log-likelihood cutoff on original alignment: -43881.595
+Iteration 60 / LogL: -43838.029 / Time: 0h:1m:0s (0h:1m:12s left)
+Iteration 70 / LogL: -43837.544 / Time: 0h:1m:4s (0h:1m:5s left)
+Iteration 80 / LogL: -43838.879 / Time: 0h:1m:8s (0h:0m:59s left)
+Iteration 90 / LogL: -43838.055 / Time: 0h:1m:13s (0h:0m:54s left)
+Iteration 100 / LogL: -43841.057 / Time: 0h:1m:17s (0h:0m:49s left)
+Log-likelihood cutoff on original alignment: -43881.595
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.998
+Iteration 110 / LogL: -43837.199 / Time: 0h:1m:22s (0h:0m:44s left)
+Iteration 120 / LogL: -43837.213 / Time: 0h:1m:26s (0h:0m:39s left)
+Iteration 130 / LogL: -43840.862 / Time: 0h:1m:30s (0h:0m:34s left)
+Iteration 140 / LogL: -43839.202 / Time: 0h:1m:34s (0h:0m:30s left)
+Iteration 150 / LogL: -43838.113 / Time: 0h:1m:38s (0h:0m:25s left)
+Log-likelihood cutoff on original alignment: -43881.595
+Iteration 160 / LogL: -43838.925 / Time: 0h:1m:43s (0h:0m:20s left)
+Iteration 170 / LogL: -43837.101 / Time: 0h:1m:47s (0h:0m:16s left)
+Iteration 180 / LogL: -43838.025 / Time: 0h:1m:51s (0h:0m:11s left)
+Iteration 190 / LogL: -43837.967 / Time: 0h:1m:55s (0h:0m:7s left)
+Iteration 200 / LogL: -43838.239 / Time: 0h:1m:59s (0h:0m:2s left)
+Log-likelihood cutoff on original alignment: -43881.595
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 1.000
+TREE SEARCH COMPLETED AFTER 207 ITERATIONS / Time: 0h:2m:2s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -43837.041
+Optimal log-likelihood: -43837.035
+Proportion of invariable sites: 0.007
+Gamma shape alpha: 1.925
+Parameters optimization took 1 rounds (0.052 sec)
+BEST SCORE FOUND : -43837.035
+Creating bootstrap support values...
+Split supports printed to NEXUS file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/PEM/PEM.AOD.iqtree.splits.nex
+Total tree length: 42.225
+
+Total number of iterations: 207
+CPU time used for tree search: 605.954 sec (0h:10m:5s)
+Wall-clock time used for tree search: 89.182 sec (0h:1m:29s)
+Total CPU time used: 732.025 sec (0h:12m:12s)
+Total wall-clock time used: 122.588 sec (0h:2m:2s)
+
+Computing bootstrap consensus tree...
+Reading input file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/PEM/PEM.AOD.iqtree.splits.nex...
+54 taxa and 272 splits.
+Consensus tree written to /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/PEM/PEM.AOD.iqtree.contree
+Reading input trees file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/PEM/PEM.AOD.iqtree.contree
+Log-likelihood of consensus tree: -43837.039
+
+Analysis results written to: 
+  IQ-TREE report:                /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/PEM/PEM.AOD.iqtree.iqtree
+  Maximum-likelihood tree:       /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/PEM/PEM.AOD.iqtree.treefile
+  Likelihood distances:          /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/PEM/PEM.AOD.iqtree.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/PEM/PEM.AOD.iqtree.splits.nex
+  Consensus tree:                /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/PEM/PEM.AOD.iqtree.contree
+  Screen log file:               /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/PEM/PEM.AOD.iqtree.log
+
+Date and Time: Mon Mar 23 17:58:43 2026

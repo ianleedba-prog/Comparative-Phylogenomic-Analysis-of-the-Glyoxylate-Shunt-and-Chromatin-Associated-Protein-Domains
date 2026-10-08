@@ -1,0 +1,380 @@
+IQ-TREE 2.4.0 built Feb 12 2025
+
+Input file name: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/PEM/PEM.AOD.seqs.lt.fasta
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 900550
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 54 sequences with 720 amino-acid sites
+Number of constant sites: 7 (= 0.972222% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 7 (= 0.972222% of all sites)
+Number of parsimony informative sites: 713
+Number of distinct site patterns: 720
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: LG+F+I+G4
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+LG+F+I+G4        -43841.131   87934.262 +        1   87988.232 +        1   88511.248 +        1
+LG+I+G4          -43924.949   88063.898 - 7.08e-29   88101.662 - 2.34e-25   88553.877 - 5.53e-10
+LG+G4            -43935.465   88082.931 - 5.21e-33   88119.936 - 2.52e-29   88568.332 - 4.02e-13
+WAG+I+G4         -43994.657   88203.314 - 3.77e-59   88241.078 - 1.24e-55   88693.293 - 2.95e-40
+WAG+F+I+G4       -43947.747   88147.495 - 4.98e-47   88201.464 - 4.98e-47   88724.480 - 4.98e-47
+JTT+I+G4         -44274.633   88763.266 - 9.64e-181   88801.030 - 3.18e-177   89253.245 - 7.54e-162
+JTT+F+I+G4       -44249.043   88750.087 - 7.01e-178   88804.056 - 7.01e-178   89327.072 - 7.01e-178
+LG+I             -44887.557   89987.114 -        0   90024.119 -        0   90472.515 -        0
+LG               -44948.402   90106.803 -        0   90143.057 -        0   90587.625 -        0
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG+F+I+G4
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.0884
+  pi(R) = 0.0576
+  pi(N) = 0.0368
+  pi(D) = 0.0607
+  pi(C) = 0.0164
+  pi(Q) = 0.0405
+  pi(E) = 0.0606
+  pi(G) = 0.0601
+  pi(H) = 0.0286
+  pi(I) = 0.0494
+  pi(L) = 0.0913
+  pi(K) = 0.0467
+  pi(M) = 0.0221
+  pi(F) = 0.0392
+  pi(P) = 0.0507
+  pi(S) = 0.0743
+  pi(T) = 0.0547
+  pi(W) = 0.0166
+  pi(Y) = 0.0318
+  pi(V) = 0.0733
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.0074
+Gamma shape alpha: 1.9251
+
+ Category  Relative_rate  Proportion
+  0         0              0.0074
+  1         0.2863         0.2482
+  2         0.6516         0.2482
+  3         1.0759         0.2482
+  4         2.0159         0.2482
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -43837.0354 (s.e. 584.9676)
+Unconstrained log-likelihood (without tree): -4737.0609
+Number of free parameters (#branches + #model parameters): 126
+Akaike information criterion (AIC) score: 87926.0708
+Corrected Akaike information criterion (AICc) score: 87980.0405
+Bayesian information criterion (BIC) score: 88503.0565
+
+Total tree length (sum of branch lengths): 42.2245
+Sum of internal branch lengths: 15.2324 (36.0749% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Sros_XP_004993174.1' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++----------------------------Sros_XP_004993174.1
+|
+|                                 +------Tadh_XP_002118392.1
+|                              +--| (99)
+|                              |  +---Hsap_NP_001397691.1
+|                           +--| (86)
+|                           |  +--------Mlei_ML06333a-PA
+|                        +--| (84)
+|                        |  |        +**Lcom_lcpid36350|
+|                        |  |     +--| (100)
+|                        |  |     |  +--Lcom_lcpid73589|
+|                        |  +-----| (100)
+|                        |        +--Scil_XP_065176492.1
+|                    +---| (100)
+|                    |   |           +**Emue_Em0022g12a
+|                    |   |        +--| (100)
+|                    |   |        |  +**Emue_Em0022g26a
+|                    |   |     +--| (98)
+|                    |   |     |  +--Twil_T_wilhelma_c30980_g1_i1|m.38945
+|                    |   +-----| (100)
+|                    |         +--Aque_XP_019848756.1
+|                 +--| (81)
+|                 |  +--------------------Mbre_XP_001748941.1
+|              +--| (77)
+|              |  |  +------------------Clim_Clim_evm24s158
+|              |  +--| (73)
+|              |     +------------Cper_Nk52_evm1s280
+|           +--| (97)
+|           |  |                +-------Pigvie_Pvie_g14537
+|           |  +----------------| (100)
+|           |                   +-----Pigchi_Pchi_g958
+|        +--| (65)
+|        |  |                +--------Awhi_Unigene6491_Abeoforma_whisleri|m.3647
+|        |  |             +--| (97)
+|        |  |             |  +-------Pgem_Unigene31076_Pirum_gemmata|m.18507
+|        |  |  +----------| (100)
+|        |  |  |          +-----Awhi_Unigene37680_Abeoforma_whisleri|m.24429
+|        |  +--| (74)
+|        |     |   +------------Ihof_Ihof_evm4s38
+|        |     +---| (73)
+|        |         +-----------------------------Pgem_Unigene33395_Pirum_gemmata|m.20145
+|     +--| (78)
+|     |  |              +---------Aque_XP_019850257.1
+|     |  |          +---| (100)
+|     |  |          |   |        +**Emue_Em0005g1571a
+|     |  |          |   |  +-----| (100)
+|     |  |          |   |  |     +--Emue_Em0005g1560a
+|     |  |          |   +--| (99)
+|     |  |          |      |      +**Twil_T_wilhelma_c33615_g1_i3|m.56446
+|     |  |          |      +------| (100)
+|     |  |          |             +**Twil_T_wilhelma_c33615_g1_i2|m.56441
+|     |  +----------| (100)
+|     |             |     +----------Mlei_ML095310a-PA
+|     |             |  +--| (77)
+|     |             |  |  +--------Hsap_NP_001351543.1
+|     |             +--| (91)
+|     |                |        +---Scil_XP_065184780.1
+|     |                +--------| (100)
+|     |                         +--Lcom_lcpid31687|
+|  +--| (32)
+|  |  |                                        +----Pigchi_Pchi_g4643
+|  |  |                       +----------------| (100)
+|  |  |                       |                +----Pigvie_Pvie_g14612
+|  |  |                   +---| (92)
+|  |  |                   |   +------------------------Cowc_XP_004365590.1
+|  |  |  +----------------| (100)
+|  |  |  |                |                +-------Lcom_lcpid45766|
+|  |  |  |                |            +---| (99)
+|  |  |  |                |            |   +-----Scil_XP_065184846.1
+|  |  |  |                |  +---------| (100)
+|  |  |  |                |  |         |            +**Lcom_lcpid56361|
+|  |  |  |                |  |         +------------| (100)
+|  |  |  |                |  |                      +**Lcom_lcpid31938|
+|  |  |  |                +--| (66)
+|  |  |  |                   |            +-----------Lcom_lcpid35917|
+|  |  |  |                   +------------| (100)
+|  |  |  |                                +-------Scil_XP_065193469.1
+|  |  +--| (43)
+|  |     +-------------------------------------------Sarc_XP_014158170.1
++--| (57)
+|  |                                                  +--Twil_T_wilhelma_c33235_g1_i1|m.53607
+|  |                                               +--| (100)
+|  |                                               |  +--Twil_T_wilhelma_c33235_g1_i3|m.53610
+|  |                                            +--| (99)
+|  |                                            |  +--Twil_T_wilhelma_c33235_g1_i2|m.53608
+|  |                                       +----| (100)
+|  |                                       |    +---Twil_T_wilhelma_c1239_g1_i1|m.180
+|  |       +-------------------------------| (100)
+|  |       |                               |        +----Emue_Em0005g1427a
+|  |       |                               |     +--| (82)
+|  |       |                               |     |  |        +--Emue_Em0001g1965a
+|  |       |                               |     |  |     +--| (100)
+|  |       |                               |     |  |     |  +--Emue_Em0001g2013a
+|  |       |                               |     |  |  +--| (90)
+|  |       |                               |     |  |  |  +--Emue_Em0005g1116a
+|  |       |                               |     |  +--| (60)
+|  |       |                               |     |     +---Emue_Em0019g125a
+|  |       |                               +-----| (100)
+|  |       |                                     |  +--Emue_Em0001g2011a
+|  |       |                                     +--| (98)
+|  |       |                                        |   +--Emue_Em0001g1976a
+|  |       |                                        +---| (100)
+|  |       |                                            +--Emue_Em0001g1964a
+|  +-------| (65)
+|          +-----------------------------------Sros_XP_004995713.1
+|
++------------------------------Clim_Clim_evm95s150
+
+Tree in newick format:
+
+(Sros_XP_004993174.1:1.6890179693,(((((((((((Tadh_XP_002118392.1:0.4232043455,Hsap_NP_001397691.1:0.2711111121)99:0.0719873567,Mlei_ML06333a-PA:0.5255771611)86:0.0720989115,((Lcom_lcpid36350|:0.0000021916,Lcom_lcpid73589|:0.0259665927)100:0.2072508968,Scil_XP_065176492.1:0.1888740873)100:0.3478632322)84:0.1044264552,(((Emue_Em0022g12a:0.0000010000,Emue_Em0022g26a:0.0000010000)100:0.1497339780,Twil_T_wilhelma_c30980_g1_i1|m.38945:0.1220560479)98:0.0682372874,Aque_XP_019848756.1:0.1911919560)100:0.3450404223)100:0.2518130588,Mbre_XP_001748941.1:1.2379830842)81:0.1306380343,(Clim_Clim_evm24s158:1.0864386897,Cper_Nk52_evm1s280:0.7772658664)73:0.1247494334)77:0.1124691897,(Pigvie_Pvie_g14537:0.4617992486,Pigchi_Pchi_g958:0.3757715036)100:1.0160820150)97:0.1809769368,(((Awhi_Unigene6491_Abeoforma_whisleri|m.3647:0.5367335665,Pgem_Unigene31076_Pirum_gemmata|m.18507:0.5031423430)97:0.1988800219,Awhi_Unigene37680_Abeoforma_whisleri|m.24429:0.3608681005)100:0.6783140950,(Ihof_Ihof_evm4s38:0.7576169898,Pgem_Unigene33395_Pirum_gemmata|m.20145:1.7280980712)73:0.2427990084)74:0.1489600403)65:0.1413705247,((Aque_XP_019850257.1:0.6265027346,((Emue_Em0005g1571a:0.0000010000,Emue_Em0005g1560a:0.0322162714)100:0.3895558372,(Twil_T_wilhelma_c33615_g1_i3|m.56446:0.0000010000,Twil_T_wilhelma_c33615_g1_i2|m.56441:0.0000010000)100:0.4524869097)99:0.1332879648)100:0.2362999278,((Mlei_ML095310a-PA:0.6298355717,Hsap_NP_001351543.1:0.5333297649)77:0.1040612087,(Scil_XP_065184780.1:0.2341405533,Lcom_lcpid31687|:0.2271730439)100:0.5398436113)91:0.1126933462)100:0.6431297526)78:0.1554413640,((((Pigchi_Pchi_g4643:0.3125417661,Pigvie_Pvie_g14612:0.3124037441)100:0.9853258430,Cowc_XP_004365590.1:1.4539029265)92:0.2595617918,(((Lcom_lcpid45766|:0.5004332454,Scil_XP_065184846.1:0.3569035577)99:0.2631989294,(Lcom_lcpid56361|:0.0000010000,Lcom_lcpid31938|:0.0000010000)100:0.7410432789)100:0.5813273342,(Lcom_lcpid35917|:0.6985388516,Scil_XP_065193469.1:0.5079769526)100:0.7624376266)66:0.1031388833)100:0.9713499253,Sarc_XP_014158170.1:2.5330459935)43:0.2174945966)32:0.1762740852,(((((Twil_T_wilhelma_c33235_g1_i1|m.53607:0.0209909000,Twil_T_wilhelma_c33235_g1_i3|m.53610:0.0015321654)100:0.0232149471,Twil_T_wilhelma_c33235_g1_i2|m.53608:0.0288764508)99:0.1439105386,Twil_T_wilhelma_c1239_g1_i1|m.180:0.2717175216)100:0.3403768437,((Emue_Em0005g1427a:0.2933941073,(((Emue_Em0001g1965a:0.0402014842,Emue_Em0001g2013a:0.1555628053)100:0.1421303639,Emue_Em0005g1116a:0.2138441481)90:0.0664276945,Emue_Em0019g125a:0.2677345261)60:0.0439222038)82:0.0623170015,(Emue_Em0001g2011a:0.1286327965,(Emue_Em0001g1976a:0.0875147392,Emue_Em0001g1964a:0.0415878224)100:0.2569874043)98:0.1713092488)100:0.3572409823)100:1.8656469230,Sros_XP_004995713.1:2.0574927844)65:0.4615571116)57:0.2190293020,Clim_Clim_evm95s150:1.8180503318);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -43837.038821
+Robinson-Foulds distance between ML tree and consensus tree: 0
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++----------------------------Sros_XP_004993174.1
+|
+|                                 +------Tadh_XP_002118392.1
+|                              +--| (99)
+|                              |  +---Hsap_NP_001397691.1
+|                           +--| (86)
+|                           |  +--------Mlei_ML06333a-PA
+|                        +--| (84)
+|                        |  |        +--Lcom_lcpid36350|
+|                        |  |     +--| (100)
+|                        |  |     |  +--Lcom_lcpid73589|
+|                        |  +-----| (100)
+|                        |        +--Scil_XP_065176492.1
+|                    +---| (100)
+|                    |   |           +--Emue_Em0022g12a
+|                    |   |        +--| (100)
+|                    |   |        |  +--Emue_Em0022g26a
+|                    |   |     +--| (98)
+|                    |   |     |  +--Twil_T_wilhelma_c30980_g1_i1|m.38945
+|                    |   +-----| (100)
+|                    |         +--Aque_XP_019848756.1
+|                 +--| (81)
+|                 |  +--------------------Mbre_XP_001748941.1
+|              +--| (77)
+|              |  |  +------------------Clim_Clim_evm24s158
+|              |  +--| (73)
+|              |     +------------Cper_Nk52_evm1s280
+|           +--| (97)
+|           |  |                +-------Pigvie_Pvie_g14537
+|           |  +----------------| (100)
+|           |                   +-----Pigchi_Pchi_g958
+|        +--| (65)
+|        |  |                +--------Awhi_Unigene6491_Abeoforma_whisleri|m.3647
+|        |  |             +--| (97)
+|        |  |             |  +-------Pgem_Unigene31076_Pirum_gemmata|m.18507
+|        |  |  +----------| (100)
+|        |  |  |          +-----Awhi_Unigene37680_Abeoforma_whisleri|m.24429
+|        |  +--| (74)
+|        |     |   +------------Ihof_Ihof_evm4s38
+|        |     +---| (73)
+|        |         +-----------------------------Pgem_Unigene33395_Pirum_gemmata|m.20145
+|     +--| (78)
+|     |  |              +---------Aque_XP_019850257.1
+|     |  |          +---| (100)
+|     |  |          |   |        +--Emue_Em0005g1571a
+|     |  |          |   |  +-----| (100)
+|     |  |          |   |  |     +--Emue_Em0005g1560a
+|     |  |          |   +--| (99)
+|     |  |          |      |      +--Twil_T_wilhelma_c33615_g1_i3|m.56446
+|     |  |          |      +------| (100)
+|     |  |          |             +--Twil_T_wilhelma_c33615_g1_i2|m.56441
+|     |  +----------| (100)
+|     |             |     +----------Mlei_ML095310a-PA
+|     |             |  +--| (77)
+|     |             |  |  +--------Hsap_NP_001351543.1
+|     |             +--| (91)
+|     |                |        +---Scil_XP_065184780.1
+|     |                +--------| (100)
+|     |                         +--Lcom_lcpid31687|
+|  +--| (32)
+|  |  |                                        +----Pigchi_Pchi_g4643
+|  |  |                       +----------------| (100)
+|  |  |                       |                +----Pigvie_Pvie_g14612
+|  |  |                   +---| (92)
+|  |  |                   |   +------------------------Cowc_XP_004365590.1
+|  |  |  +----------------| (100)
+|  |  |  |                |                +-------Lcom_lcpid45766|
+|  |  |  |                |            +---| (99)
+|  |  |  |                |            |   +-----Scil_XP_065184846.1
+|  |  |  |                |  +---------| (100)
+|  |  |  |                |  |         |            +--Lcom_lcpid56361|
+|  |  |  |                |  |         +------------| (100)
+|  |  |  |                |  |                      +--Lcom_lcpid31938|
+|  |  |  |                +--| (66)
+|  |  |  |                   |            +-----------Lcom_lcpid35917|
+|  |  |  |                   +------------| (100)
+|  |  |  |                                +-------Scil_XP_065193469.1
+|  |  +--| (43)
+|  |     +-------------------------------------------Sarc_XP_014158170.1
++--| (57)
+|  |                                                  +--Twil_T_wilhelma_c33235_g1_i1|m.53607
+|  |                                               +--| (100)
+|  |                                               |  +--Twil_T_wilhelma_c33235_g1_i3|m.53610
+|  |                                            +--| (99)
+|  |                                            |  +--Twil_T_wilhelma_c33235_g1_i2|m.53608
+|  |                                       +----| (100)
+|  |                                       |    +---Twil_T_wilhelma_c1239_g1_i1|m.180
+|  |       +-------------------------------| (100)
+|  |       |                               |        +----Emue_Em0005g1427a
+|  |       |                               |     +--| (82)
+|  |       |                               |     |  |        +--Emue_Em0001g1965a
+|  |       |                               |     |  |     +--| (100)
+|  |       |                               |     |  |     |  +--Emue_Em0001g2013a
+|  |       |                               |     |  |  +--| (90)
+|  |       |                               |     |  |  |  +--Emue_Em0005g1116a
+|  |       |                               |     |  +--| (60)
+|  |       |                               |     |     +---Emue_Em0019g125a
+|  |       |                               +-----| (100)
+|  |       |                                     |  +--Emue_Em0001g2011a
+|  |       |                                     +--| (98)
+|  |       |                                        |   +--Emue_Em0001g1976a
+|  |       |                                        +---| (100)
+|  |       |                                            +--Emue_Em0001g1964a
+|  +-------| (65)
+|          +-----------------------------------Sros_XP_004995713.1
+|
++------------------------------Clim_Clim_evm95s150
+
+
+Consensus tree in newick format: 
+
+(Sros_XP_004993174.1:1.6885369794,(((((((((((Tadh_XP_002118392.1:0.4231082004,Hsap_NP_001397691.1:0.2710394047)99:0.0719801390,Mlei_ML06333a-PA:0.5254406038)86:0.0721106774,((Lcom_lcpid36350|:0.0000023433,Lcom_lcpid73589|:0.0259602617)100:0.2071920380,Scil_XP_065176492.1:0.1888564616)100:0.3477497528)84:0.1044795180,(((Emue_Em0022g12a:0.0000023569,Emue_Em0022g26a:0.0000023569)100:0.1497027864,Twil_T_wilhelma_c30980_g1_i1|m.38945:0.1220315914)98:0.0682071071,Aque_XP_019848756.1:0.1911795338)100:0.3448940554)100:0.2518180837,Mbre_XP_001748941.1:1.2376951373)81:0.1305949858,(Clim_Clim_evm24s158:1.0860994209,Cper_Nk52_evm1s280:0.7770818534)73:0.1247839055)77:0.1124377744,(Pigvie_Pvie_g14537:0.4617484684,Pigchi_Pchi_g958:0.3756882946)100:1.0158855014)97:0.1809610769,(((Awhi_Unigene6491_Abeoforma_whisleri|m.3647:0.5389837977,Pgem_Unigene31076_Pirum_gemmata|m.18507:0.4943550803)97:0.2129631632,Awhi_Unigene37680_Abeoforma_whisleri|m.24429:0.3589790850)100:0.6716210370,(Ihof_Ihof_evm4s38:0.7570523369,Pgem_Unigene33395_Pirum_gemmata|m.20145:1.7276265708)73:0.2429588216)74:0.1497298840)65:0.1413409552,((Aque_XP_019850257.1:0.6263516206,((Emue_Em0005g1571a:0.0000020240,Emue_Em0005g1560a:0.0322116000)100:0.3894030123,(Twil_T_wilhelma_c33615_g1_i3|m.56446:0.0000023569,Twil_T_wilhelma_c33615_g1_i2|m.56441:0.0000023569)100:0.4523499643)99:0.1334288343)100:0.2360831209,((Mlei_ML095310a-PA:0.6297249314,Hsap_NP_001351543.1:0.5332278690)77:0.1040861325,(Scil_XP_065184780.1:0.2341416158,Lcom_lcpid31687|:0.2271116178)100:0.5397174812)91:0.1128508511)100:0.6430343281)78:0.1553278318,((((Pigchi_Pchi_g4643:0.3125080566,Pigvie_Pvie_g14612:0.3123680927)100:0.9850409598,Cowc_XP_004365590.1:1.4536260585)92:0.2596198590,(((Lcom_lcpid45766|:0.5003732936,Scil_XP_065184846.1:0.3568455199)99:0.2632056587,(Lcom_lcpid56361|:0.0000022057,Lcom_lcpid31938|:0.0000023569)100:0.7409066081)100:0.5812326953,(Lcom_lcpid35917|:0.6983894748,Scil_XP_065193469.1:0.5079511312)100:0.7622843887)66:0.1031758131)100:0.9709479356,Sarc_XP_014158170.1:2.5319803217)43:0.2177599235)32:0.1760370663,(((((Twil_T_wilhelma_c33235_g1_i1|m.53607:0.0209879245,Twil_T_wilhelma_c33235_g1_i3|m.53610:0.0015309785)100:0.0232071436,Twil_T_wilhelma_c33235_g1_i2|m.53608:0.0288812142)99:0.1439687879,Twil_T_wilhelma_c1239_g1_i1|m.180:0.2715794067)100:0.3407067079,((Emue_Em0005g1427a:0.2933525630,(((Emue_Em0001g1965a:0.0401981474,Emue_Em0001g2013a:0.1555425406)100:0.1421115070,Emue_Em0005g1116a:0.2138208149)90:0.0664179103,Emue_Em0019g125a:0.2677011651)60:0.0439290425)82:0.0623011634,(Emue_Em0001g2011a:0.1286188153,(Emue_Em0001g1976a:0.0875074939,Emue_Em0001g1964a:0.0415834150)100:0.2569573932)98:0.1713126970)100:0.3568876544)100:1.8647582142,Sros_XP_004995713.1:2.0567377488)65:0.4622739587)57:0.2192707968,Clim_Clim_evm95s150:1.8176717876);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/PEM/PEM.AOD.iqtree.treefile -m "LG+F+I{0.00736927}+G4{1.92505}" --length 720
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/PEM/PEM.AOD.seqs.lt.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/AOD/PEM/PEM.AOD.seqs.lt.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Mon Mar 23 17:58:43 2026
+Total CPU time used: 732.025167 seconds (0h:12m:12s)
+Total wall-clock time used: 122.7581499 seconds (0h:2m:2s)
+
