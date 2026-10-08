@@ -1,0 +1,482 @@
+IQ-TREE multicore version 2.4.0 for MacOS Intel 64-bit built Feb 12 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    Il-Hwans-Mac-Studio.local (SSE4.2, 64 GB RAM)
+Command: iqtree2 -s /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/PEM.JmjC.seqs.lt.fasta -m TEST -mset LG,WAG,JTT -bb 1000 -nt AUTO -ntmax 8 -pre /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/PEM.JmjC.iqtree -nstop 200 -cptime 1800 --quiet
+Seed:    228727 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Mar 23 18:38:09 2026
+Kernel:  SSE2 - auto-detect threads (10 CPU cores detected)
+
+Reading alignment file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/PEM.JmjC.seqs.lt.fasta ... Fasta format detected
+Reading fasta file: done in 0.00351095 secs using 94.25% CPU
+Alignment most likely contains protein sequences
+Alignment has 247 sequences with 623 columns, 623 distinct patterns
+623 parsimony-informative, 0 singleton sites, 0 constant sites
+                                              Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 8.67844e-05 secs using 500.1% CPU
+   1  Sros_XP_004993443.1                            30.34%    failed      0.02%
+   2  Mbre_XP_001747476.1                            52.33%    failed      2.09%
+   3  Pigvie_Pvie_g5127                              34.67%    passed      5.89%
+   4  Pigchi_Pchi_g12950                             33.39%    passed     16.73%
+   5  Awhi_Unigene23312_Abeoforma_whisleri|m.15383   65.97%    passed     23.97%
+   6  Pgem_Unigene10739_Pirum_gemmata|m.7054         43.50%    failed      1.29%
+   7  Cfra_CFRG0953T1                                34.83%    passed      7.66%
+   8  Sarc_XP_014149136.1                            44.46%    failed      0.04%
+   9  Cper_Nk52_evm9s284                             34.83%    failed      0.59%
+  10  Clim_Clim_evm10s18                             31.62%    passed     82.64%
+  11  Sros_XP_004997244.1                            34.35%    passed     39.82%
+  12  Pigchi_Pchi_g13045                             36.92%    failed      3.80%
+  13  Pigvie_Pvie_g10471                             81.06%    passed     35.75%
+  14  Pigvie_Pvie_g14228                             52.81%    failed      0.01%
+  15  Cper_Nk52_evm1s394                             41.41%    passed     15.89%
+  16  Lcom_lcpid93134|                               50.72%    passed     50.94%
+  17  Scil_XP_065186832.1                            50.72%    passed     34.96%
+  18  Emue_Em0017g113a                               50.72%    passed     48.62%
+  19  Emue_Em0017g98a                                36.60%    passed     61.07%
+  20  Twil_T_wilhelma_c27378_g1_i3|m.20436           76.73%    failed      0.24%
+  21  Twil_T_wilhelma_c27378_g1_i1|m.20434           82.18%    failed      1.08%
+  22  Twil_T_wilhelma_c27378_g1_i2|m.20435           50.72%    passed     36.49%
+  23  Pgem_Unigene15001_Pirum_gemmata|m.9551         81.38%    failed      0.30%
+  24  Awhi_Unigene37258_Abeoforma_whisleri|m.24128   50.88%    failed      0.41%
+  25  Aque_XP_003382573.1                            50.72%    passed     89.68%
+  26  Tadh_XP_002107811.1                            50.72%    failed      2.84%
+  27  Hsap_NP_001074930.1                            50.72%    passed     50.88%
+  28  Cowc_XP_011270466.1                            49.44%    passed     34.79%
+  29  Pigvie_Pvie_g11970                             51.52%    failed      0.01%
+  30  Pigchi_Pchi_g6798                              49.92%    failed      0.20%
+  31  Cfra_CFRG2969T1                                44.78%    passed     26.35%
+  32  Sarc_XP_014157534.1                            45.10%    passed     15.69%
+  33  Clim_Clim_evm40s246                            49.28%    passed     87.07%
+  34  Sros_XP_004998744.1                            54.74%    failed      4.77%
+  35  Mlei_ML04335a-PA                               62.44%    failed      3.58%
+  36  Sarc_XP_014147272.1                            64.37%    passed     81.63%
+  37  Pgem_Unigene22442_Pirum_gemmata|m.14445        63.40%    passed     80.28%
+  38  Cowc_XP_004363982.1                            49.76%    passed     56.74%
+  39  Sros_XP_004991635.1                            36.44%    passed      7.35%
+  40  Emue_Em0020g558a                               44.78%    passed      9.74%
+  41  Aque_XP_019849210.1                            60.19%    passed     26.29%
+  42  Twil_T_wilhelma_c27089_g1_i2|m.19387           44.46%    failed      1.58%
+  43  Twil_T_wilhelma_c27089_g1_i1|m.19386           84.11%    passed     49.89%
+  44  Tadh_XP_002109902.1                            42.86%    failed      3.92%
+  45  Lcom_lcpid87521|                               64.85%    passed     47.57%
+  46  Lcom_lcpid20211|                               31.94%    passed     12.00%
+  47  Lcom_lcpid24861|                               32.10%    passed     13.54%
+  48  Scil_XP_065177892.1                            30.50%    failed      0.00%
+  49  Hsap_NP_001387099.1                            27.45%    passed      7.96%
+  50  Hsap_NP_001406738.1                            25.52%    failed      4.14%
+  51  Mlei_ML070265a-PA                              45.91%    passed     13.83%
+  52  Tadh_XP_002111819.1                            61.48%    failed      0.00%
+  53  Hsap_NP_001073893.1                            33.55%    failed      0.00%
+  54  Twil_T_wilhelma_c34019_g1_i2|m.59298           32.26%    failed      0.00%
+  55  Twil_T_wilhelma_c34019_g1_i3|m.59300           44.46%    failed      0.38%
+  56  Aque_XP_019864243.1                            42.86%    failed      0.08%
+  57  Emue_Em0021g24a                                34.03%    failed      0.07%
+  58  Pgem_Unigene11582_Pirum_gemmata|m.7502         52.33%    failed      2.65%
+  59  Awhi_Unigene37213_Abeoforma_whisleri|m.24092   80.42%    passed     20.20%
+  60  Tadh_XP_002117485.1                            69.50%    failed      1.33%
+  61  Emue_Em0013g993a                               36.28%    passed      5.93%
+  62  Emue_Em0013g997a                               40.29%    failed      3.19%
+  63  Emue_Em0013g992a                               38.84%    passed     16.89%
+  64  Twil_T_wilhelma_c33186_g2_i2|m.53279           45.43%    passed     15.92%
+  65  Twil_T_wilhelma_c33186_g2_i3|m.53281           75.76%    passed     34.37%
+  66  Aque_XP_019850041.1                            35.96%    passed     14.59%
+  67  Lcom_lcpid128773|                              76.73%    passed     19.38%
+  68  Hsap_NP_057688.3                               35.31%    passed     23.19%
+  69  Hsap_NP_060903.2                               44.94%    passed     31.34%
+  70  Lcom_lcpid66700|                               65.65%    passed     92.28%
+  71  Hsap_NP_116165.1                               26.16%    failed      0.23%
+  72  Scil_XP_065187051.1                            28.25%    failed      0.65%
+  73  Lcom_lcpid22367|                               28.25%    failed      0.30%
+  74  Scil_XP_065185344.1                            26.97%    failed      1.99%
+  75  Lcom_lcpid122030|                              58.91%    passed     77.88%
+  76  Lcom_lcpid142543|                              67.42%    passed     15.20%
+  77  Lcom_lcpid23282|                               34.99%    passed     15.77%
+  78  Lcom_lcpid227761|                              83.31%    passed      8.41%
+  79  Lcom_lcpid74518|                               41.09%    passed     36.78%
+  80  Lcom_lcpid101478|                              41.09%    passed     36.78%
+  81  Scil_XP_065177489.1                            30.02%    passed     29.08%
+  82  Aque_XP_003385970.1                            19.58%    failed      0.03%
+  83  Pigvie_Pvie_g162                               58.27%    passed     13.72%
+  84  Pigchi_Pchi_g9185                              21.51%    failed      0.10%
+  85  Sarc_XP_014147351.1                            78.49%    passed     21.85%
+  86  Cfra_CFRG7358T1                                16.85%    failed      2.93%
+  87  Ihof_Ihof_evm1s850                             62.60%    passed     21.11%
+  88  Twil_T_wilhelma_c16344_g1_i2|m.3695            19.42%    failed      4.57%
+  89  Emue_Em0001g235a                               20.87%    passed      6.41%
+  90  Awhi_Unigene35309_Abeoforma_whisleri|m.22405   34.99%    failed      1.01%
+  91  Pgem_Unigene31208_Pirum_gemmata|m.18610        85.07%    passed     79.49%
+  92  Pgem_Unigene31207_Pirum_gemmata|m.18609        87.64%    passed     95.42%
+  93  Hsap_NP_001036068.1                            18.78%    passed      5.20%
+  94  Hsap_NP_001300971.1                            23.43%    passed     29.17%
+  95  Scil_XP_065178094.1                            23.60%    failed      3.39%
+  96  Lcom_lcpid16538|                               21.51%    passed     17.43%
+  97  Tadh_XP_002111443.1                            36.76%    passed     57.01%
+  98  Mbre_XP_001745341.1                            72.23%    passed     27.28%
+  99  Hsap_NP_001140177.1                            23.92%    failed      3.43%
+ 100  Hsap_NP_004178.2                               23.76%    passed      6.31%
+ 101  Lcom_lcpid17231|                               20.87%    passed     16.83%
+ 102  Scil_XP_065185461.1                            27.45%    failed      2.00%
+ 103  Mlei_ML04276a-PA                               41.73%    passed     85.10%
+ 104  Cowc_XP_004349098.2                            10.91%    passed      7.83%
+ 105  Cper_Nk52_evm10s559                            25.36%    passed      9.60%
+ 106  Clim_Clim_evm17s14                             18.46%    passed     11.36%
+ 107  Cfra_CFRG3953T1                                53.13%    passed     51.55%
+ 108  Sarc_XP_014159214.1                            48.31%    passed      5.00%
+ 109  Awhi_Unigene40667_Abeoforma_whisleri|m.26009   49.28%    failed      3.08%
+ 110  Pgem_Unigene12170_Pirum_gemmata|m.7832         64.21%    passed      6.78%
+ 111  Cfra_CFRG5311T1                                43.34%    passed     68.03%
+ 112  Pgem_Unigene22502_Pirum_gemmata|m.14473        82.18%    failed      0.68%
+ 113  Sarc_XP_014149975.1                            56.18%    passed     26.26%
+ 114  Sros_XP_004994251.1                            11.88%    failed      0.00%
+ 115  Mbre_XP_001742895.1                            66.93%    failed      3.72%
+ 116  Lcom_lcpid67550|                               48.96%    passed     16.40%
+ 117  Lcom_lcpid51678|                               61.80%    passed      8.10%
+ 118  Lcom_lcpid115304|                              74.48%    passed     12.26%
+ 119  Scil_XP_065185214.1                            49.60%    passed     52.38%
+ 120  Tadh_XP_002109881.1                            50.08%    failed      3.49%
+ 121  Pigvie_Pvie_g14601                             47.67%    failed      0.05%
+ 122  Pigchi_Pchi_g4251                              46.07%    failed      0.14%
+ 123  Aque_XP_019853293.1                            47.99%    passed     13.84%
+ 124  Cfra_CFRG8355T1                                48.80%    passed     83.94%
+ 125  Sarc_XP_014151949.1                            68.38%    passed     63.33%
+ 126  Hsap_NP_001138820.1                            47.83%    passed     72.55%
+ 127  Pgem_Unigene20972_Pirum_gemmata|m.13675        58.91%    passed     13.12%
+ 128  Awhi_Unigene29846_Abeoforma_whisleri|m.18337   57.14%    passed     34.13%
+ 129  Emue_Em0011g644a                               48.48%    passed     68.90%
+ 130  Twil_T_wilhelma_c33435_g2_i2|m.55195           62.28%    failed      1.63%
+ 131  Sros_XP_004991404.1                            45.43%    failed      0.92%
+ 132  Cper_Nk52_evm32s628                            39.49%    passed     24.36%
+ 133  Sros_XP_004994314.1                            52.33%    passed     12.29%
+ 134  Cper_Nk52_evm2s495                             42.05%    passed     27.70%
+ 135  Clim_Clim_evm23s206                            26.16%    passed      8.45%
+ 136  Awhi_Unigene20372_Abeoforma_whisleri|m.13988   46.23%    failed      0.25%
+ 137  Pigchi_Pchi_g4964                              26.65%    passed     50.25%
+ 138  Pigvie_Pvie_g12840                             18.30%    passed      7.26%
+ 139  Tadh_XP_002113920.1                            56.34%    failed      3.61%
+ 140  Twil_T_wilhelma_c28608_g1_i2|m.25601           24.24%    passed     81.48%
+ 141  Twil_T_wilhelma_c28608_g1_i1|m.25599           54.90%    passed     43.41%
+ 142  Twil_T_wilhelma_c28608_g1_i3|m.25602           24.24%    passed     81.48%
+ 143  Twil_T_wilhelma_c28608_g1_i4|m.25603           33.71%    passed     63.22%
+ 144  Aque_XP_003392033.1                            77.85%    passed     50.22%
+ 145  Emue_Em0011g1184a                              34.19%    passed     84.45%
+ 146  Lcom_lcpid21970|                               17.98%    passed     12.02%
+ 147  Hsap_NP_001340926.1                            19.42%    passed     14.27%
+ 148  Hsap_NP_055478.2                               18.78%    passed     13.41%
+ 149  Scil_XP_065175051.1                            18.14%    passed     42.87%
+ 150  Hsap_NP_001398077.1                            19.10%    passed     22.68%
+ 151  Hsap_NP_060509.2                               50.08%    passed     54.36%
+ 152  Hsap_NP_001400684.1                            35.96%    passed     64.99%
+ 153  Hsap_NP_001155102.1                            49.92%    passed     80.25%
+ 154  Cper_Nk52_evm58s215                            45.43%    failed      4.33%
+ 155  Cfra_CFRG3744T1                                17.34%    passed     18.64%
+ 156  Sarc_XP_014152310.1                            18.30%    passed     11.84%
+ 157  Pgem_Unigene34896_Pirum_gemmata|m.21455        41.89%    failed      0.00%
+ 158  Pgem_Unigene34895_Pirum_gemmata|m.21454        41.09%    failed      0.00%
+ 159  Pgem_Unigene34898_Pirum_gemmata|m.21457        44.62%    failed      0.00%
+ 160  Pgem_Unigene34897_Pirum_gemmata|m.21456        43.82%    failed      0.00%
+ 161  Cowc_XP_004346999.1                            14.29%    passed     65.32%
+ 162  Sros_XP_004989734.1                            18.14%    passed      7.02%
+ 163  Mbre_XP_001748049.1                            20.55%    failed      0.03%
+ 164  Awhi_Unigene36217_Abeoforma_whisleri|m.23381   49.92%    failed      0.05%
+ 165  Pgem_Unigene32040_Pirum_gemmata|m.19281        85.23%    failed      0.48%
+ 166  Pgem_Unigene36658_Pirum_gemmata|m.22751        66.93%    failed      0.15%
+ 167  Mbre_XP_001749742.1                            23.11%    failed      0.42%
+ 168  Pigchi_Pchi_g7137                              40.13%    failed      0.00%
+ 169  Pigvie_Pvie_g10514                             58.11%    failed      0.04%
+ 170  Awhi_Unigene28178_Abeoforma_whisleri|m.16888   59.71%    passed     21.92%
+ 171  Sarc_XP_014155610.1                            53.93%    passed     35.74%
+ 172  Cfra_CFRG6338T1                                62.12%    passed     68.28%
+ 173  Ihof_Ihof_evm2s296                             61.64%    passed     38.88%
+ 174  Cowc_XP_004346810.1                            51.20%    passed      9.55%
+ 175  Cper_Nk52_evm39s1705                           54.90%    passed     12.29%
+ 176  Scil_XP_065195925.1                            54.09%    passed     75.16%
+ 177  Lcom_lcpid79937|                               55.22%    passed     66.43%
+ 178  Hsap_NP_005081.1                               54.41%    failed      4.64%
+ 179  Hsap_NP_001108104.1                            56.02%    failed      1.19%
+ 180  Sros_XP_004995856.1                            52.81%    failed      4.17%
+ 181  Mlei_ML05732a-PA                               57.30%    passed     65.87%
+ 182  Mbre_XP_001743350.1                            57.95%    passed     19.55%
+ 183  Pigvie_Pvie_g12776                             66.29%    passed     18.50%
+ 184  Pigchi_Pchi_g7145                              61.48%    failed      1.55%
+ 185  Clim_Clim_evm36s144                            59.87%    passed     70.22%
+ 186  Sarc_XP_014161631.1                            56.34%    passed     56.13%
+ 187  Cfra_CFRG3561T1                                62.28%    passed     86.93%
+ 188  Sros_XP_004991443.1                            55.38%    passed     29.37%
+ 189  Scil_XP_065178289.1                            44.62%    passed     74.43%
+ 190  Tadh_XP_002108928.1                            52.81%    passed     29.86%
+ 191  Aque_XP_019851976.1                            47.19%    passed     10.74%
+ 192  Twil_T_wilhelma_c30832_g1_i1|m.38086           43.82%    passed      5.01%
+ 193  Twil_T_wilhelma_c30832_g1_i5|m.38090           50.40%    passed     14.72%
+ 194  Twil_T_wilhelma_c30832_g1_i8|m.38093           43.82%    passed      5.01%
+ 195  Twil_T_wilhelma_c30832_g1_i6|m.38091           74.80%    passed     21.80%
+ 196  Emue_Em0001g106a                               45.26%    passed     21.99%
+ 197  Hsap_NP_001171825.1                            41.89%    passed     30.41%
+ 198  Hsap_NP_085150.1                               42.54%    passed     79.04%
+ 199  Hsap_NP_115979.3                               47.19%    passed     20.45%
+ 200  Scil_XP_065189801.1                            81.38%    passed     16.90%
+ 201  Hsap_XP_047282579.1                            62.92%    passed      9.29%
+ 202  Tadh_XP_002108337.1                            65.49%    failed      3.16%
+ 203  Twil_T_wilhelma_c29644_g1_i1|m.31020           52.81%    passed     17.20%
+ 204  Twil_T_wilhelma_c29644_g1_i3|m.31022           66.61%    passed      8.66%
+ 205  Aque_XP_011404618.2                            47.19%    failed      0.18%
+ 206  Pigvie_Pvie_g8102                              43.98%    passed     45.17%
+ 207  Cfra_CFRG5440T1                                49.60%    passed     10.67%
+ 208  Sarc_XP_014161452.1                            69.66%    passed     51.73%
+ 209  Scil_XP_065178623.1                            47.51%    passed     56.94%
+ 210  Lcom_lcpid48482|                               47.51%    passed     26.60%
+ 211  Clim_Clim_evm3s239                             48.48%    passed      9.73%
+ 212  Pgem_Unigene18287_Pirum_gemmata|m.11913        53.29%    passed     24.09%
+ 213  Cper_Nk52_evm46s208                            47.19%    passed      5.15%
+ 214  Hsap_NP_005383.3                               45.26%    passed     11.95%
+ 215  Emue_Em0005g1222a                              55.22%    passed     75.12%
+ 216  Emue_Em0005g1221a                              54.25%    passed     43.29%
+ 217  Emue_Em0005g1227a                              59.71%    passed     22.91%
+ 218  Sros_XP_004995891.1                            33.71%    failed      3.72%
+ 219  Mbre_XP_001743130.1                            40.93%    passed     32.45%
+ 220  Lcom_lcpid61873|                               42.86%    failed      0.00%
+ 221  Lcom_lcpid77143|                               41.25%    failed      0.06%
+ 222  Scil_XP_065186999.1                            45.26%    failed      2.83%
+ 223  Pigchi_Pchi_g1554                              26.00%    failed      1.38%
+ 224  Pigvie_Pvie_g7250                              45.10%    failed      0.83%
+ 225  Pigchi_Pchi_g5238                              70.95%    passed     91.62%
+ 226  Scil_XP_065185446.1                            42.54%    passed     75.64%
+ 227  Lcom_lcpid53642|                               42.05%    passed     21.23%
+ 228  Emue_Em0020g919a                               42.54%    passed     34.73%
+ 229  Twil_T_wilhelma_c29091_g1_i2|m.28048           40.61%    passed      8.73%
+ 230  Aque_XP_003387667.2                            44.94%    passed     12.19%
+ 231  Tadh_XP_002114207.1                            45.75%    failed      2.49%
+ 232  Mbre_XP_001750675.1                            41.89%    failed      0.00%
+ 233  Cper_Nk52_evm12s1705                           32.58%    passed     34.74%
+ 234  Clim_Clim_evm8s203                             42.22%    passed     27.67%
+ 235  Hsap_NP_005135.2                               35.31%    failed      0.00%
+ 236  Clim_Clim_evm70s215                            44.78%    passed     30.66%
+ 237  Awhi_Unigene9828_Abeoforma_whisleri|m.6802     54.25%    failed      0.15%
+ 238  Sros_XP_004995958.1                            53.13%    passed      5.93%
+ 239  Sros_XP_004995940.1                            52.33%    passed     58.27%
+ 240  Sros_XP_004996654.1                            53.77%    passed      6.19%
+ 241  Cper_Nk52_evm66s2367                           51.52%    passed     72.73%
+ 242  Ihof_Ihof_evm8s188                             46.71%    passed      7.12%
+ 243  Mbre_XP_001746989.1                            49.76%    failed      0.00%
+ 244  Tadh_XP_002108617.1                            47.35%    failed      0.19%
+ 245  Sros_XP_004993835.1                            59.07%    failed      1.11%
+ 246  Sros_XP_004998112.1                            40.61%    passed     43.20%
+ 247  Clim_Clim_evm84s25                             42.22%    failed      0.04%
+WARNING: 98 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                          46.68%  84 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: Lcom_lcpid101478| is identical to Lcom_lcpid74518| but kept for subsequent analysis
+NOTE: Twil_T_wilhelma_c28608_g1_i3|m.25602 is identical to Twil_T_wilhelma_c28608_g1_i2|m.25601 but kept for subsequent analysis
+NOTE: Twil_T_wilhelma_c30832_g1_i8|m.38093 is identical to Twil_T_wilhelma_c30832_g1_i1|m.38086 but kept for subsequent analysis
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.072 seconds
+Measuring multi-threading efficiency up to 8 CPU cores
+Increase to 10 rounds for branch lengths
+3 trees examined
+Threads: 1 / Time: 8.100 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -192805
+Threads: 2 / Time: 5.330 sec / Speedup: 1.520 / Efficiency: 76% / LogL: -192805
+Threads: 3 / Time: 3.712 sec / Speedup: 2.182 / Efficiency: 73% / LogL: -192805
+Threads: 4 / Time: 2.863 sec / Speedup: 2.829 / Efficiency: 71% / LogL: -192805
+Threads: 5 / Time: 2.538 sec / Speedup: 3.191 / Efficiency: 64% / LogL: -192805
+Threads: 6 / Time: 2.211 sec / Speedup: 3.663 / Efficiency: 61% / LogL: -192805
+Threads: 7 / Time: 2.053 sec / Speedup: 3.946 / Efficiency: 56% / LogL: -192805
+Threads: 8 / Time: 1.892 sec / Speedup: 4.281 / Efficiency: 54% / LogL: -192805
+BEST NUMBER OF THREADS: 8
+
+Perform fast likelihood tree search using LG+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -133387.845
+Optimal log-likelihood: -133387.668
+Gamma shape alpha: 2.329
+Parameters optimization took 1 rounds (0.184 sec)
+Time for fast ML tree search: 3.062 seconds
+
+NOTE: ModelFinder requires 100 MB RAM!
+ModelFinder will test up to 12 protein models (sample size: 623 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  LG            135872.102   491 272726.203   276414.325   274903.565
+  2  LG+G4         133387.677   492 267759.355   271490.986   269941.152
+  4  LG+F+G4       133265.211   511 267552.422   272266.512   269818.475
+  6  WAG+G4        133366.706   492 267717.412   271449.043   269899.209
+  8  WAG+F+G4      133305.110   511 267632.220   272346.310   269898.274
+ 10  JTT+G4        134607.783   492 270199.566   273931.197   272381.363
+ 12  JTT+F+G4      134529.324   511 270080.647   274794.738   272346.701
+Akaike Information Criterion:           LG+F+G4
+Corrected Akaike Information Criterion: WAG+G4
+Bayesian Information Criterion:         LG+F+G4
+Best-fit model: LG+F+G4 chosen according to BIC
+
+All model information printed to /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/PEM.JmjC.iqtree.model.gz
+CPU time for ModelFinder: 153.347 seconds (0h:2m:33s)
+Wall-clock time for ModelFinder: 35.915 seconds (0h:0m:35s)
+Generating 1000 samples for ultrafast bootstrap (seed: 228727)...
+
+NOTE: 100 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -133277.636
+2. Current log-likelihood: -133265.405
+3. Current log-likelihood: -133265.217
+Optimal log-likelihood: -133265.197
+Gamma shape alpha: 2.373
+Parameters optimization took 3 rounds (0.591 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.64683 secs using 795.2% CPU
+Computing ML distances took 0.647074 sec (of wall-clock time) 5.144952 sec (of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Setting up auxiliary I and S matrices: done in 0.000442982 secs using 581.1% CPU
+Computing RapidNJ tree took 0.018036 sec (of wall-clock time) 0.142528 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -135261.570
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 8.576 second
+Computing log-likelihood of 98 initial trees ... 7.848 seconds
+Current best score: -133265.197
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -133254.586
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -133217.726
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 4: -133209.385
+Iteration 10 / LogL: -133225.728 / Time: 0h:1m:18s
+Iteration 20 / LogL: -133237.531 / Time: 0h:1m:44s
+Finish initializing candidate tree set (20)
+Current best tree score: -133209.385 / CPU time: 66.567
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 22: -133208.755
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 23: -133199.049
+Iteration 30 / LogL: -133199.363 / Time: 0h:2m:5s (0h:9m:57s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 36: -133198.251
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 40: -133196.097
+Iteration 40 / LogL: -133196.097 / Time: 0h:2m:25s (0h:9m:20s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 46: -133196.017
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 47: -133195.909
+Iteration 50 / LogL: -133203.571 / Time: 0h:2m:44s (0h:8m:37s left)
+Log-likelihood cutoff on original alignment: -133285.059
+Iteration 60 / LogL: -133205.519 / Time: 0h:3m:4s (0h:7m:50s left)
+Iteration 70 / LogL: -133201.759 / Time: 0h:3m:24s (0h:7m:11s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 79: -133195.467
+Iteration 80 / LogL: -133215.483 / Time: 0h:3m:45s (0h:7m:57s left)
+Iteration 90 / LogL: -133197.631 / Time: 0h:4m:6s (0h:7m:27s left)
+Iteration 100 / LogL: -133198.957 / Time: 0h:4m:27s (0h:6m:57s left)
+Log-likelihood cutoff on original alignment: -133285.059
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.998
+Iteration 110 / LogL: -133207.678 / Time: 0h:4m:48s (0h:6m:31s left)
+Iteration 120 / LogL: -133196.499 / Time: 0h:5m:8s (0h:6m:4s left)
+Iteration 130 / LogL: -133202.064 / Time: 0h:5m:29s (0h:5m:39s left)
+Iteration 140 / LogL: -133198.052 / Time: 0h:5m:50s (0h:5m:14s left)
+Iteration 150 / LogL: -133199.252 / Time: 0h:6m:12s (0h:4m:51s left)
+Log-likelihood cutoff on original alignment: -133280.122
+Iteration 160 / LogL: -133208.820 / Time: 0h:6m:33s (0h:4m:27s left)
+Iteration 170 / LogL: -133204.601 / Time: 0h:6m:56s (0h:4m:5s left)
+Iteration 180 / LogL: -133195.854 / Time: 0h:7m:18s (0h:3m:42s left)
+Iteration 190 / LogL: -133203.986 / Time: 0h:7m:39s (0h:3m:19s left)
+Iteration 200 / LogL: -133199.292 / Time: 0h:8m:0s (0h:2m:56s left)
+Log-likelihood cutoff on original alignment: -133280.122
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.999
+Iteration 210 / LogL: -133201.343 / Time: 0h:8m:23s (0h:3m:21s left)
+Iteration 220 / LogL: -133216.414 / Time: 0h:8m:43s (0h:2m:58s left)
+Iteration 230 / LogL: -133256.977 / Time: 0h:9m:4s (0h:2m:35s left)
+Iteration 240 / LogL: -133198.226 / Time: 0h:9m:24s (0h:2m:12s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 245: -133195.383
+Iteration 250 / LogL: -133196.231 / Time: 0h:9m:46s (0h:7m:10s left)
+Log-likelihood cutoff on original alignment: -133280.122
+Iteration 260 / LogL: -133205.888 / Time: 0h:10m:6s (0h:6m:47s left)
+Iteration 270 / LogL: -133196.839 / Time: 0h:10m:26s (0h:6m:23s left)
+Iteration 280 / LogL: -133201.273 / Time: 0h:10m:46s (0h:6m:1s left)
+Iteration 290 / LogL: -133197.367 / Time: 0h:11m:6s (0h:5m:38s left)
+Iteration 300 / LogL: -133203.643 / Time: 0h:11m:27s (0h:5m:16s left)
+Log-likelihood cutoff on original alignment: -133280.122
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 1.000
+Iteration 310 / LogL: -133202.177 / Time: 0h:11m:48s (0h:4m:53s left)
+Iteration 320 / LogL: -133202.869 / Time: 0h:12m:8s (0h:4m:31s left)
+Iteration 330 / LogL: -133201.058 / Time: 0h:12m:27s (0h:4m:8s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 332: -133194.981
+Iteration 340 / LogL: -133201.325 / Time: 0h:12m:47s (0h:6m:54s left)
+Iteration 350 / LogL: -133200.548 / Time: 0h:13m:8s (0h:6m:32s left)
+Log-likelihood cutoff on original alignment: -133280.122
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 351: -133194.703
+Iteration 360 / LogL: -133194.737 / Time: 0h:13m:29s (0h:6m:51s left)
+Iteration 370 / LogL: -133204.726 / Time: 0h:13m:49s (0h:6m:29s left)
+Iteration 380 / LogL: -133197.787 / Time: 0h:14m:10s (0h:6m:7s left)
+Iteration 390 / LogL: -133198.884 / Time: 0h:14m:30s (0h:5m:45s left)
+Iteration 400 / LogL: -133221.068 / Time: 0h:14m:52s (0h:5m:24s left)
+Log-likelihood cutoff on original alignment: -133280.122
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.999
+Iteration 410 / LogL: -133229.951 / Time: 0h:15m:13s (0h:5m:2s left)
+Iteration 420 / LogL: -133198.087 / Time: 0h:15m:34s (0h:4m:40s left)
+Iteration 430 / LogL: -133200.518 / Time: 0h:15m:54s (0h:4m:19s left)
+Iteration 440 / LogL: -133196.170 / Time: 0h:16m:14s (0h:3m:57s left)
+Iteration 450 / LogL: -133195.085 / Time: 0h:16m:33s (0h:3m:35s left)
+Log-likelihood cutoff on original alignment: -133280.122
+Iteration 460 / LogL: -133205.619 / Time: 0h:16m:55s (0h:3m:14s left)
+Iteration 470 / LogL: -133197.354 / Time: 0h:17m:15s (0h:2m:52s left)
+Iteration 480 / LogL: -133211.654 / Time: 0h:17m:36s (0h:2m:31s left)
+Iteration 490 / LogL: -133260.418 / Time: 0h:17m:58s (0h:2m:10s left)
+Iteration 500 / LogL: -133206.515 / Time: 0h:18m:20s (0h:1m:48s left)
+Log-likelihood cutoff on original alignment: -133280.122
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.999
+Iteration 510 / LogL: -133209.497 / Time: 0h:18m:43s (0h:3m:12s left)
+Iteration 520 / LogL: -133202.136 / Time: 0h:19m:4s (0h:2m:50s left)
+Iteration 530 / LogL: -133206.319 / Time: 0h:19m:24s (0h:2m:29s left)
+Iteration 540 / LogL: -133197.180 / Time: 0h:19m:43s (0h:2m:7s left)
+Iteration 550 / LogL: -133201.126 / Time: 0h:20m:4s (0h:1m:46s left)
+Log-likelihood cutoff on original alignment: -133280.122
+TREE SEARCH COMPLETED AFTER 552 ITERATIONS / Time: 0h:20m:8s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -133194.703
+Optimal log-likelihood: -133194.689
+Gamma shape alpha: 2.300
+Parameters optimization took 1 rounds (0.193 sec)
+BEST SCORE FOUND : -133194.689
+Creating bootstrap support values...
+Split supports printed to NEXUS file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/PEM.JmjC.iqtree.splits.nex
+Total tree length: 131.645
+
+Total number of iterations: 552
+CPU time used for tree search: 9030.090 sec (2h:30m:30s)
+Wall-clock time used for tree search: 1170.764 sec (0h:19m:30s)
+Total CPU time used: 9202.678 sec (2h:33m:22s)
+Total wall-clock time used: 1209.350 sec (0h:20m:9s)
+
+Computing bootstrap consensus tree...
+Reading input file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/PEM.JmjC.iqtree.splits.nex...
+247 taxa and 1087 splits.
+Consensus tree written to /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/PEM.JmjC.iqtree.contree
+Reading input trees file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/PEM.JmjC.iqtree.contree
+Log-likelihood of consensus tree: -133199.677
+
+Analysis results written to: 
+  IQ-TREE report:                /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/PEM.JmjC.iqtree.iqtree
+  Maximum-likelihood tree:       /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/PEM.JmjC.iqtree.treefile
+  Likelihood distances:          /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/PEM.JmjC.iqtree.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/PEM.JmjC.iqtree.splits.nex
+  Consensus tree:                /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/PEM.JmjC.iqtree.contree
+  Screen log file:               /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/PEM.JmjC.iqtree.log
+
+Date and Time: Mon Mar 23 18:58:19 2026

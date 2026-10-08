@@ -1,0 +1,531 @@
+## Conserved sites identification (ref: Human) | PEM | JmjC | Retrieving domain info & Expand regions (-100 +50)
+## Conserved sites identification (ref: Human) | PEM | JmjC | Organize domain info & get fasta sequences
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | HR.JMJD1C.KDM3A.KDM3B | Preparing data
+Creating SSI index for /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_HR.JMJD1C.KDM3A.KDM3B.fasta...    done.
+Indexed 19 sequences (19 names).
+SSI index written to file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_HR.JMJD1C.KDM3A.KDM3B.fasta.ssi
+[INFO][0m 1 duplicated records removed
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | HR.JMJD1C.KDM3A.KDM3B | Multiple sequence alignment
+-------------
+| Arguments |
+-------------
+Input file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_HR.JMJD1C.KDM3A.KDM3B.dedup.l.fasta (format: fasta)
+Output file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_HR.JMJD1C.KDM3A.KDM3B.dedup.lt.fasta (format: fasta)
+Sequence type: Protein
+Gaps threshold: 0.7
+Trimming mode: kpic-gappy
+Create complementary output: False
+Create log file: False
+
+
+------------------------
+| Processing Alignment |
+------------------------
+
+  0%|          | 0/336 [00:00<?, ?it/s]100%|██████████| 336/336 [00:00<00:00, 57921.42it/s]
+
+
+------------------------
+| Writing output files |
+------------------------
+trimmed alignment: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_HR.JMJD1C.KDM3A.KDM3B.dedup.lt.fasta
+complement file: False
+log file: False
+
+
+---------------------
+| Output Statistics |
+---------------------
+Number of sites kept: 201
+Number of sites trimmed: 135
+
+Percentage of alignment trimmed: 40.179%
+
+Execution time: 0.023s
+
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | HR.JMJD1C.KDM3A.KDM3B | Sites Identification
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | JMJD6 | Preparing data
+Creating SSI index for /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_JMJD6.fasta...    done.
+Indexed 21 sequences (21 names).
+SSI index written to file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_JMJD6.fasta.ssi
+[INFO][0m 0 duplicated records removed
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | JMJD6 | Multiple sequence alignment
+-------------
+| Arguments |
+-------------
+Input file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_JMJD6.dedup.l.fasta (format: fasta)
+Output file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_JMJD6.dedup.lt.fasta (format: fasta)
+Sequence type: Protein
+Gaps threshold: 0.7
+Trimming mode: kpic-gappy
+Create complementary output: False
+Create log file: False
+
+
+------------------------
+| Processing Alignment |
+------------------------
+
+  0%|          | 0/496 [00:00<?, ?it/s]100%|██████████| 496/496 [00:00<00:00, 52127.96it/s]
+
+
+------------------------
+| Writing output files |
+------------------------
+trimmed alignment: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_JMJD6.dedup.lt.fasta
+complement file: False
+log file: False
+
+
+---------------------
+| Output Statistics |
+---------------------
+Number of sites kept: 292
+Number of sites trimmed: 204
+
+Percentage of alignment trimmed: 41.129%
+
+Execution time: 0.031s
+
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | JMJD6 | Sites Identification
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | JMJD7.JMJD7-PLA2G4B | Preparing data
+Creating SSI index for /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_JMJD7.JMJD7-PLA2G4B.fasta...    done.
+Indexed 16 sequences (16 names).
+SSI index written to file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_JMJD7.JMJD7-PLA2G4B.fasta.ssi
+[INFO][0m 0 duplicated records removed
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | JMJD7.JMJD7-PLA2G4B | Multiple sequence alignment
+-------------
+| Arguments |
+-------------
+Input file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_JMJD7.JMJD7-PLA2G4B.dedup.l.fasta (format: fasta)
+Output file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_JMJD7.JMJD7-PLA2G4B.dedup.lt.fasta (format: fasta)
+Sequence type: Protein
+Gaps threshold: 0.7
+Trimming mode: kpic-gappy
+Create complementary output: False
+Create log file: False
+
+
+------------------------
+| Processing Alignment |
+------------------------
+
+  0%|          | 0/617 [00:00<?, ?it/s]100%|██████████| 617/617 [00:00<00:00, 64271.34it/s]
+
+
+------------------------
+| Writing output files |
+------------------------
+trimmed alignment: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_JMJD7.JMJD7-PLA2G4B.dedup.lt.fasta
+complement file: False
+log file: False
+
+
+---------------------
+| Output Statistics |
+---------------------
+Number of sites kept: 290
+Number of sites trimmed: 327
+
+Percentage of alignment trimmed: 52.998%
+
+Execution time: 0.031s
+
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | JMJD7.JMJD7-PLA2G4B | Sites Identification
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | KDM2A.KDM2B | Preparing data
+Creating SSI index for /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM2A.KDM2B.fasta...    done.
+Indexed 9 sequences (9 names).
+SSI index written to file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM2A.KDM2B.fasta.ssi
+[INFO][0m 1 duplicated records removed
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | KDM2A.KDM2B | Multiple sequence alignment
+-------------
+| Arguments |
+-------------
+Input file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM2A.KDM2B.dedup.l.fasta (format: fasta)
+Output file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM2A.KDM2B.dedup.lt.fasta (format: fasta)
+Sequence type: Protein
+Gaps threshold: 0.7
+Trimming mode: kpic-gappy
+Create complementary output: False
+Create log file: False
+
+
+------------------------
+| Processing Alignment |
+------------------------
+
+  0%|          | 0/369 [00:00<?, ?it/s]100%|██████████| 369/369 [00:00<00:00, 97107.43it/s]
+
+
+------------------------
+| Writing output files |
+------------------------
+trimmed alignment: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM2A.KDM2B.dedup.lt.fasta
+complement file: False
+log file: False
+
+
+---------------------
+| Output Statistics |
+---------------------
+Number of sites kept: 216
+Number of sites trimmed: 153
+
+Percentage of alignment trimmed: 41.463%
+
+Execution time: 0.017s
+
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | KDM2A.KDM2B | Sites Identification
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | KDM4A.KDM4B.KDM4C.KDM4D.KDM4E.KDM4F | Preparing data
+Creating SSI index for /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM4A.KDM4B.KDM4C.KDM4D.KDM4E.KDM4F.fasta...    done.
+Indexed 29 sequences (29 names).
+SSI index written to file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM4A.KDM4B.KDM4C.KDM4D.KDM4E.KDM4F.fasta.ssi
+[INFO][0m 1 duplicated records removed
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | KDM4A.KDM4B.KDM4C.KDM4D.KDM4E.KDM4F | Multiple sequence alignment
+-------------
+| Arguments |
+-------------
+Input file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM4A.KDM4B.KDM4C.KDM4D.KDM4E.KDM4F.dedup.l.fasta (format: fasta)
+Output file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM4A.KDM4B.KDM4C.KDM4D.KDM4E.KDM4F.dedup.lt.fasta (format: fasta)
+Sequence type: Protein
+Gaps threshold: 0.7
+Trimming mode: kpic-gappy
+Create complementary output: False
+Create log file: False
+
+
+------------------------
+| Processing Alignment |
+------------------------
+
+  0%|          | 0/310 [00:00<?, ?it/s]100%|██████████| 310/310 [00:00<00:00, 40778.87it/s]
+
+
+------------------------
+| Writing output files |
+------------------------
+trimmed alignment: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM4A.KDM4B.KDM4C.KDM4D.KDM4E.KDM4F.dedup.lt.fasta
+complement file: False
+log file: False
+
+
+---------------------
+| Output Statistics |
+---------------------
+Number of sites kept: 275
+Number of sites trimmed: 35
+
+Percentage of alignment trimmed: 11.29%
+
+Execution time: 0.027s
+
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | KDM4A.KDM4B.KDM4C.KDM4D.KDM4E.KDM4F | Sites Identification
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | KDM5A.KDM5B.KDM5C.KDM5D | Preparing data
+Creating SSI index for /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM5A.KDM5B.KDM5C.KDM5D.fasta...    done.
+Indexed 26 sequences (26 names).
+SSI index written to file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM5A.KDM5B.KDM5C.KDM5D.fasta.ssi
+[INFO][0m 0 duplicated records removed
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | KDM5A.KDM5B.KDM5C.KDM5D | Multiple sequence alignment
+-------------
+| Arguments |
+-------------
+Input file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM5A.KDM5B.KDM5C.KDM5D.dedup.l.fasta (format: fasta)
+Output file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM5A.KDM5B.KDM5C.KDM5D.dedup.lt.fasta (format: fasta)
+Sequence type: Protein
+Gaps threshold: 0.7
+Trimming mode: kpic-gappy
+Create complementary output: False
+Create log file: False
+
+
+------------------------
+| Processing Alignment |
+------------------------
+
+  0%|          | 0/415 [00:00<?, ?it/s]100%|██████████| 415/415 [00:00<00:00, 45152.69it/s]
+
+
+------------------------
+| Writing output files |
+------------------------
+trimmed alignment: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM5A.KDM5B.KDM5C.KDM5D.dedup.lt.fasta
+complement file: False
+log file: False
+
+
+---------------------
+| Output Statistics |
+---------------------
+Number of sites kept: 256
+Number of sites trimmed: 159
+
+Percentage of alignment trimmed: 38.313%
+
+Execution time: 0.031s
+
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | KDM5A.KDM5B.KDM5C.KDM5D | Sites Identification
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | KDM6A.KDM6B.UTY | Preparing data
+Creating SSI index for /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM6A.KDM6B.UTY.fasta...    done.
+Indexed 15 sequences (15 names).
+SSI index written to file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM6A.KDM6B.UTY.fasta.ssi
+[INFO][0m 1 duplicated records removed
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | KDM6A.KDM6B.UTY | Multiple sequence alignment
+-------------
+| Arguments |
+-------------
+Input file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM6A.KDM6B.UTY.dedup.l.fasta (format: fasta)
+Output file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM6A.KDM6B.UTY.dedup.lt.fasta (format: fasta)
+Sequence type: Protein
+Gaps threshold: 0.7
+Trimming mode: kpic-gappy
+Create complementary output: False
+Create log file: False
+
+
+------------------------
+| Processing Alignment |
+------------------------
+
+  0%|          | 0/317 [00:00<?, ?it/s]100%|██████████| 317/317 [00:00<00:00, 68525.20it/s]
+
+
+------------------------
+| Writing output files |
+------------------------
+trimmed alignment: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM6A.KDM6B.UTY.dedup.lt.fasta
+complement file: False
+log file: False
+
+
+---------------------
+| Output Statistics |
+---------------------
+Number of sites kept: 248
+Number of sites trimmed: 69
+
+Percentage of alignment trimmed: 21.767%
+
+Execution time: 0.02s
+
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | KDM6A.KDM6B.UTY | Sites Identification
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | KDM7A.PHF2.PHF8 | Preparing data
+Creating SSI index for /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM7A.PHF2.PHF8.fasta...    done.
+Indexed 22 sequences (22 names).
+SSI index written to file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM7A.PHF2.PHF8.fasta.ssi
+[INFO][0m 0 duplicated records removed
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | KDM7A.PHF2.PHF8 | Multiple sequence alignment
+-------------
+| Arguments |
+-------------
+Input file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM7A.PHF2.PHF8.dedup.l.fasta (format: fasta)
+Output file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM7A.PHF2.PHF8.dedup.lt.fasta (format: fasta)
+Sequence type: Protein
+Gaps threshold: 0.7
+Trimming mode: kpic-gappy
+Create complementary output: False
+Create log file: False
+
+
+------------------------
+| Processing Alignment |
+------------------------
+
+  0%|          | 0/422 [00:00<?, ?it/s]100%|██████████| 422/422 [00:00<00:00, 51420.50it/s]
+
+
+------------------------
+| Writing output files |
+------------------------
+trimmed alignment: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM7A.PHF2.PHF8.dedup.lt.fasta
+complement file: False
+log file: False
+
+
+---------------------
+| Output Statistics |
+---------------------
+Number of sites kept: 297
+Number of sites trimmed: 125
+
+Percentage of alignment trimmed: 29.621%
+
+Execution time: 0.029s
+
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | KDM7A.PHF2.PHF8 | Sites Identification
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | KDM8 | Preparing data
+Creating SSI index for /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM8.fasta...    done.
+Indexed 29 sequences (29 names).
+SSI index written to file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM8.fasta.ssi
+[INFO][0m 1 duplicated records removed
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | KDM8 | Multiple sequence alignment
+-------------
+| Arguments |
+-------------
+Input file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM8.dedup.l.fasta (format: fasta)
+Output file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM8.dedup.lt.fasta (format: fasta)
+Sequence type: Protein
+Gaps threshold: 0.7
+Trimming mode: kpic-gappy
+Create complementary output: False
+Create log file: False
+
+
+------------------------
+| Processing Alignment |
+------------------------
+
+  0%|          | 0/688 [00:00<?, ?it/s]100%|██████████| 688/688 [00:00<00:00, 41651.24it/s]
+
+
+------------------------
+| Writing output files |
+------------------------
+trimmed alignment: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_KDM8.dedup.lt.fasta
+complement file: False
+log file: False
+
+
+---------------------
+| Output Statistics |
+---------------------
+Number of sites kept: 325
+Number of sites trimmed: 363
+
+Percentage of alignment trimmed: 52.762%
+
+Execution time: 0.048s
+
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | KDM8 | Sites Identification
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | like.JMJD6 | Preparing data
+Creating SSI index for /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_like.JMJD6.fasta...    done.
+Indexed 32 sequences (32 names).
+SSI index written to file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_like.JMJD6.fasta.ssi
+[INFO][0m 0 duplicated records removed
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | like.JMJD6 | Multiple sequence alignment
+-------------
+| Arguments |
+-------------
+Input file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_like.JMJD6.dedup.l.fasta (format: fasta)
+Output file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_like.JMJD6.dedup.lt.fasta (format: fasta)
+Sequence type: Protein
+Gaps threshold: 0.7
+Trimming mode: kpic-gappy
+Create complementary output: False
+Create log file: False
+
+
+------------------------
+| Processing Alignment |
+------------------------
+
+  0%|          | 0/709 [00:00<?, ?it/s]100%|██████████| 709/709 [00:00<00:00, 37206.44it/s]
+
+
+------------------------
+| Writing output files |
+------------------------
+trimmed alignment: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_like.JMJD6.dedup.lt.fasta
+complement file: False
+log file: False
+
+
+---------------------
+| Output Statistics |
+---------------------
+Number of sites kept: 407
+Number of sites trimmed: 302
+
+Percentage of alignment trimmed: 42.595%
+
+Execution time: 0.056s
+
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | like.JMJD6 | Sites Identification
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | like.JMJD7.JMJD7-PLA2G4B | Preparing data
+Creating SSI index for /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_like.JMJD7.JMJD7-PLA2G4B.fasta...    done.
+Indexed 27 sequences (27 names).
+SSI index written to file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_like.JMJD7.JMJD7-PLA2G4B.fasta.ssi
+[INFO][0m 0 duplicated records removed
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | like.JMJD7.JMJD7-PLA2G4B | Multiple sequence alignment
+-------------
+| Arguments |
+-------------
+Input file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_like.JMJD7.JMJD7-PLA2G4B.dedup.l.fasta (format: fasta)
+Output file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_like.JMJD7.JMJD7-PLA2G4B.dedup.lt.fasta (format: fasta)
+Sequence type: Protein
+Gaps threshold: 0.7
+Trimming mode: kpic-gappy
+Create complementary output: False
+Create log file: False
+
+
+------------------------
+| Processing Alignment |
+------------------------
+
+  0%|          | 0/978 [00:00<?, ?it/s]100%|██████████| 978/978 [00:00<00:00, 42928.91it/s]
+
+
+------------------------
+| Writing output files |
+------------------------
+trimmed alignment: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_like.JMJD7.JMJD7-PLA2G4B.dedup.lt.fasta
+complement file: False
+log file: False
+
+
+---------------------
+| Output Statistics |
+---------------------
+Number of sites kept: 395
+Number of sites trimmed: 583
+
+Percentage of alignment trimmed: 59.611%
+
+Execution time: 0.063s
+
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | like.JMJD7.JMJD7-PLA2G4B | Sites Identification
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | like.KDM6A.KDM6B.UTY | Preparing data
+Creating SSI index for /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_like.KDM6A.KDM6B.UTY.fasta...    done.
+Indexed 3 sequences (3 names).
+SSI index written to file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_like.KDM6A.KDM6B.UTY.fasta.ssi
+[INFO][0m 0 duplicated records removed
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | like.KDM6A.KDM6B.UTY | Multiple sequence alignment
+-------------
+| Arguments |
+-------------
+Input file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_like.KDM6A.KDM6B.UTY.dedup.l.fasta (format: fasta)
+Output file: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_like.KDM6A.KDM6B.UTY.dedup.lt.fasta (format: fasta)
+Sequence type: Protein
+Gaps threshold: 0.7
+Trimming mode: kpic-gappy
+Create complementary output: False
+Create log file: False
+
+
+------------------------
+| Processing Alignment |
+------------------------
+
+  0%|          | 0/309 [00:00<?, ?it/s]100%|██████████| 309/309 [00:00<00:00, 140782.09it/s]
+
+
+------------------------
+| Writing output files |
+------------------------
+trimmed alignment: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/JmjC/PEM/conserved_sites/PEM.JmjC.domains_like.KDM6A.KDM6B.UTY.dedup.lt.fasta
+complement file: False
+log file: False
+
+
+---------------------
+| Output Statistics |
+---------------------
+Number of sites kept: 77
+Number of sites trimmed: 232
+
+Percentage of alignment trimmed: 75.081%
+
+Execution time: 0.014s
+
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | like.KDM6A.KDM6B.UTY | Sites Identification
+## Conserved sites identification (ref: Human) | PEM | JmjC | Processing each HG | like.KDM6A.KDM6B.UTY | Sites Identification
