@@ -1,7 +1,7 @@
 # README — KEGG Metabolic Module Presence Analysis
 
 **Associated Manuscript: NCOMMS-26-022536 / Submission Date: 17th March 26**  
-*Resurrecting the glyoxylate cycle constrains TET epigenetics through 2-oxoglutarate limitation*  
+*Resurrecting the glyoxylate cycle constrains TET epigenetics via governing 2-oxoglutarate and its competitive inhibitors*  
 Il-Hwan Lee, Jinmi Choi, So-Yeon Kim, Young Ah Kim, Yufei Li, Joo-Youn Cho, Eun-Jung Cho, Hong-Duk Youn
 
 **Corresponding author:** Hong-Duk Youn (hdyoun@snu.ac.kr)  
