@@ -4,7 +4,7 @@
 *Resurrecting the glyoxylate cycle constrains TET epigenetics through 2-oxoglutarate limitation*  
 Il-Hwan Lee, Jinmi Choi, So-Yeon Kim, Young Ah Kim, Yufei Li, Joo-Youn Cho, Eun-Jung Cho, Hong-Duk Youn
 
-**Corresponding author:** Hong-Duk Youn (hdyoun@snu.ac.kr)
+**Corresponding author:** Hong-Duk Youn (hdyoun@snu.ac.kr)  
 **Figure produced by this workflow:** Supplementary Figure 1A
 
 ---
