@@ -1,0 +1,208 @@
+IQ-TREE multicore version 2.4.0 for MacOS Intel 64-bit built Feb 12 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    Il-Hwans-Mac-Studio.local (SSE4.2, 64 GB RAM)
+Command: iqtree2 -s /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/Tet_JBP/PLT/PLT.Tet_JBP.seqs.lt.fasta -m TEST -mset LG,WAG,JTT -bb 1000 -nt AUTO -ntmax 8 -pre /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/Tet_JBP/PLT/PLT.Tet_JBP.iqtree -nstop 200 -cptime 1800 --quiet
+Seed:    76532 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Mar 24 16:49:21 2026
+Kernel:  SSE2 - auto-detect threads (10 CPU cores detected)
+
+Reading alignment file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/Tet_JBP/PLT/PLT.Tet_JBP.seqs.lt.fasta ... Fasta format detected
+Reading fasta file: done in 0.00187397 secs using 92.37% CPU
+Alignment most likely contains protein sequences
+Alignment has 31 sequences with 2069 columns, 2058 distinct patterns
+2017 parsimony-informative, 0 singleton sites, 52 constant sites
+                       Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 6.81877e-05 secs using 495.7% CPU
+   1  Mlei_ML048213a-PA       81.88%    failed      0.32%
+   2  Aplcal_XP_005092662.1   18.12%    failed      0.10%
+   3  Apla_XP_022088315.1     30.45%    failed      0.00%
+   4  Hrob_XP_009022495.1     87.34%    failed      0.12%
+   5  Skow_XP_006816862.1     59.84%    failed      0.78%
+   6  Lana_XP_013410270.1     43.93%    failed      0.00%
+   7  Apimel_XP_026300195.1   16.92%    failed      0.00%
+   8  Blan_XP_066304211.1     30.06%    passed     55.75%
+   9  Ggal_XP_040559103.1     21.22%    failed      0.00%
+  10  Hsap_NP_001393294.1     27.31%    failed      0.00%
+  11  Drer_NP_001314874.1     23.92%    passed     54.62%
+  12  Hsap_NP_001274420.1     28.27%    failed      0.00%
+  13  Ggal_XP_040507506.2     36.25%    failed      0.00%
+  14  Xtro_NP_001090656.1     27.94%    failed      0.00%
+  15  Hsap_NP_001120680.1     21.46%    passed      5.82%
+  16  Ggal_NP_001264723.3     22.47%    failed      4.40%
+  17  Xtro_XP_002934823.2     28.81%    failed      0.04%
+  18  Drer_XP_005159960.1     29.19%    failed      1.61%
+  19  Drer_XP_005156766.1     30.59%    failed      0.02%
+  20  Drer_XP_021328376.1     31.32%    failed      0.01%
+  21  Bmor_XP_021202702.2     20.69%    failed      0.00%
+  22  Spur_XP_030835480.1     30.30%    failed      0.00%
+  23  Pvan_XP_069980505.1     20.78%    failed      0.00%
+  24  Dpul_XP_046460497.1     43.55%    failed      0.00%
+  25  Dmel_NP_001261344.1     13.77%    failed      0.00%
+  26  Tadh_XP_002108965.1     74.53%    failed      0.00%
+  27  Cint_XP_002125458.3     40.07%    failed      0.02%
+  28  Scil_XP_065182918.1     19.82%    failed      0.00%
+  29  Aque_XP_019849055.1     61.14%    failed      0.00%
+  30  Cscu_XP_023209742.1     41.23%    failed      0.00%
+  31  Scil_XP_065175429.1     39.25%    failed      0.00%
+WARNING: 5 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                   35.56%  28 sequences failed composition chi2 test (p-value<5%; df=19)
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.012 seconds
+Measuring multi-threading efficiency up to 8 CPU cores
+Increase to 10 rounds for branch lengths
+8 trees examined
+Threads: 1 / Time: 8.205 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -94963
+Threads: 2 / Time: 5.317 sec / Speedup: 1.543 / Efficiency: 77% / LogL: -94963
+Threads: 3 / Time: 3.605 sec / Speedup: 2.276 / Efficiency: 76% / LogL: -94963
+Threads: 4 / Time: 2.751 sec / Speedup: 2.982 / Efficiency: 75% / LogL: -94963
+Threads: 5 / Time: 2.249 sec / Speedup: 3.649 / Efficiency: 73% / LogL: -94963
+Threads: 6 / Time: 1.947 sec / Speedup: 4.214 / Efficiency: 70% / LogL: -94963
+Threads: 7 / Time: 1.793 sec / Speedup: 4.577 / Efficiency: 65% / LogL: -94963
+Threads: 8 / Time: 1.726 sec / Speedup: 4.755 / Efficiency: 59% / LogL: -94963
+BEST NUMBER OF THREADS: 7
+
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -90211.021
+Optimal log-likelihood: -90210.829
+Proportion of invariable sites: 0.022
+Gamma shape alpha: 1.529
+Parameters optimization took 1 rounds (0.082 sec)
+Time for fast ML tree search: 0.877 seconds
+
+NOTE: ModelFinder requires 47 MB RAM!
+ModelFinder will test up to 24 protein models (sample size: 2069 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  LG            92511.693    59  185141.386   185144.910   185473.840
+  2  LG+I          91891.742    60  183903.483   183907.129   184241.572
+  3  LG+G4         90331.356    60  180782.712   180786.357   181120.801
+  4  LG+I+G4       90210.825    61  180543.651   180547.419   180887.375
+  8  LG+F+I+G4     88934.795    80  178029.590   178036.109   178480.375
+ 12  WAG+I+G4      90046.677    61  180215.354   180219.123   180559.078
+ 16  WAG+F+I+G4    89047.424    80  178254.848   178261.368   178705.634
+ 20  JTT+I+G4      90021.411    61  180164.822   180168.590   180508.546
+ 24  JTT+F+I+G4    89118.082    80  178396.164   178402.683   178846.949
+Akaike Information Criterion:           LG+F+I+G4
+Corrected Akaike Information Criterion: LG+F+I+G4
+Bayesian Information Criterion:         LG+F+I+G4
+Best-fit model: LG+F+I+G4 chosen according to BIC
+
+All model information printed to /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/Tet_JBP/PLT/PLT.Tet_JBP.iqtree.model.gz
+CPU time for ModelFinder: 118.568 seconds (0h:1m:58s)
+Wall-clock time for ModelFinder: 31.913 seconds (0h:0m:31s)
+Generating 1000 samples for ultrafast bootstrap (seed: 76532)...
+
+NOTE: 47 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+Thoroughly optimizing +I+G parameters from 10 start values...
+Init pinv, alpha: 0.000, 1.370 / Estimate: 0.022, 1.235 / LogL: -88934.795
+Init pinv, alpha: 0.003, 1.370 / Estimate: 0.022, 1.246 / LogL: -88934.758
+Init pinv, alpha: 0.006, 1.370 / Estimate: 0.022, 1.247 / LogL: -88934.762
+Init pinv, alpha: 0.008, 1.370 / Estimate: 0.022, 1.248 / LogL: -88934.764
+Init pinv, alpha: 0.011, 1.370 / Estimate: 0.022, 1.249 / LogL: -88934.766
+Init pinv, alpha: 0.014, 1.370 / Estimate: 0.022, 1.249 / LogL: -88934.768
+Init pinv, alpha: 0.017, 1.370 / Estimate: 0.022, 1.249 / LogL: -88934.769
+Init pinv, alpha: 0.020, 1.370 / Estimate: 0.022, 1.249 / LogL: -88934.770
+Init pinv, alpha: 0.022, 1.370 / Estimate: 0.022, 1.250 / LogL: -88934.770
+Init pinv, alpha: 0.025, 1.370 / Estimate: 0.022, 1.250 / LogL: -88934.771
+Optimal pinv,alpha: 0.022, 1.246 / LogL: -88934.758
+
+Parameters optimization took 4.448 sec
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.0132148 secs using 690.2% CPU
+Computing ML distances took 0.013359 sec (of wall-clock time) 0.092079 sec (of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Setting up auxiliary I and S matrices: done in 7.79629e-05 secs using 460.5% CPU
+Computing RapidNJ tree took 0.001238 sec (of wall-clock time) 0.008446 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -88979.902
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 1.428 second
+Computing log-likelihood of 98 initial trees ... 2.759 seconds
+Current best score: -88934.758
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -88928.702
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -88925.004
+Iteration 10 / LogL: -88927.648 / Time: 0h:0m:46s
+Iteration 20 / LogL: -88932.678 / Time: 0h:0m:52s
+Finish initializing candidate tree set (13)
+Current best tree score: -88925.004 / CPU time: 15.314
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -88925.465 / Time: 0h:0m:57s (0h:2m:31s left)
+Iteration 40 / LogL: -88927.315 / Time: 0h:1m:3s (0h:2m:9s left)
+Iteration 50 / LogL: -88969.880 / Time: 0h:1m:8s (0h:1m:52s left)
+Log-likelihood cutoff on original alignment: -88971.918
+Iteration 60 / LogL: -88925.249 / Time: 0h:1m:12s (0h:1m:38s left)
+Iteration 70 / LogL: -88925.160 / Time: 0h:1m:17s (0h:1m:27s left)
+Iteration 80 / LogL: -88927.282 / Time: 0h:1m:22s (0h:1m:18s left)
+Iteration 90 / LogL: -88925.251 / Time: 0h:1m:27s (0h:1m:10s left)
+Iteration 100 / LogL: -88927.755 / Time: 0h:1m:32s (0h:1m:2s left)
+Log-likelihood cutoff on original alignment: -88971.918
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.999
+Iteration 110 / LogL: -88926.055 / Time: 0h:1m:37s (0h:0m:55s left)
+Iteration 120 / LogL: -88925.174 / Time: 0h:1m:43s (0h:0m:49s left)
+Iteration 130 / LogL: -88927.591 / Time: 0h:1m:48s (0h:0m:42s left)
+Iteration 140 / LogL: -88925.444 / Time: 0h:1m:53s (0h:0m:36s left)
+Iteration 150 / LogL: -88925.352 / Time: 0h:1m:58s (0h:0m:30s left)
+Log-likelihood cutoff on original alignment: -88971.918
+Iteration 160 / LogL: -88926.193 / Time: 0h:2m:4s (0h:0m:24s left)
+Iteration 170 / LogL: -88925.320 / Time: 0h:2m:9s (0h:0m:18s left)
+Iteration 180 / LogL: -88926.267 / Time: 0h:2m:14s (0h:0m:12s left)
+Iteration 190 / LogL: -88927.301 / Time: 0h:2m:19s (0h:0m:6s left)
+Iteration 200 / LogL: -88925.256 / Time: 0h:2m:25s (0h:0m:1s left)
+Log-likelihood cutoff on original alignment: -88971.918
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.999
+TREE SEARCH COMPLETED AFTER 203 ITERATIONS / Time: 0h:2m:26s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -88925.004
+Optimal log-likelihood: -88924.990
+Proportion of invariable sites: 0.022
+Gamma shape alpha: 1.240
+Parameters optimization took 1 rounds (0.076 sec)
+BEST SCORE FOUND : -88924.990
+Creating bootstrap support values...
+Split supports printed to NEXUS file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/Tet_JBP/PLT/PLT.Tet_JBP.iqtree.splits.nex
+Total tree length: 54.723
+
+Total number of iterations: 203
+CPU time used for tree search: 745.948 sec (0h:12m:25s)
+Wall-clock time used for tree search: 109.551 sec (0h:1m:49s)
+Total CPU time used: 899.220 sec (0h:14m:59s)
+Total wall-clock time used: 146.651 sec (0h:2m:26s)
+
+Computing bootstrap consensus tree...
+Reading input file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/Tet_JBP/PLT/PLT.Tet_JBP.iqtree.splits.nex...
+31 taxa and 146 splits.
+Consensus tree written to /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/Tet_JBP/PLT/PLT.Tet_JBP.iqtree.contree
+Reading input trees file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/Tet_JBP/PLT/PLT.Tet_JBP.iqtree.contree
+Log-likelihood of consensus tree: -88925.079
+
+Analysis results written to: 
+  IQ-TREE report:                /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/Tet_JBP/PLT/PLT.Tet_JBP.iqtree.iqtree
+  Maximum-likelihood tree:       /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/Tet_JBP/PLT/PLT.Tet_JBP.iqtree.treefile
+  Likelihood distances:          /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/Tet_JBP/PLT/PLT.Tet_JBP.iqtree.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/Tet_JBP/PLT/PLT.Tet_JBP.iqtree.splits.nex
+  Consensus tree:                /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/Tet_JBP/PLT/PLT.Tet_JBP.iqtree.contree
+  Screen log file:               /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/Tet_JBP/PLT/PLT.Tet_JBP.iqtree.log
+
+Date and Time: Tue Mar 24 16:51:47 2026
