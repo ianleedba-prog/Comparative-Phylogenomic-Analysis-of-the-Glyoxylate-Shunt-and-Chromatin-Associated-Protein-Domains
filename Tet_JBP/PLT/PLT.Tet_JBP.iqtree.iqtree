@@ -1,0 +1,288 @@
+IQ-TREE 2.4.0 built Feb 12 2025
+
+Input file name: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/Tet_JBP/PLT/PLT.Tet_JBP.seqs.lt.fasta
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 76532
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 31 sequences with 2069 amino-acid sites
+Number of constant sites: 52 (= 2.51329% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 52 (= 2.51329% of all sites)
+Number of parsimony informative sites: 2017
+Number of distinct site patterns: 2058
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: LG+F+I+G4
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+LG+F+I+G4        -88934.795  178029.590 +        1  178036.109 +        1  178480.375 +        1
+WAG+F+I+G4       -89047.424  178254.848 - 1.22e-49  178261.368 - 1.22e-49  178705.634 - 1.22e-49
+JTT+F+I+G4       -89118.082  178396.164 - 2.51e-80  178402.683 - 2.51e-80  178846.949 - 2.51e-80
+JTT+I+G4         -90021.411  180164.822 -        0  180168.590 -        0  180508.546 -        0
+WAG+I+G4         -90046.677  180215.354 -        0  180219.123 -        0  180559.078 -        0
+LG+I+G4          -90210.825  180543.651 -        0  180547.419 -        0  180887.375 -        0
+LG+G4            -90331.356  180782.712 -        0  180786.357 -        0  181120.801 -        0
+LG+I             -91891.742  183903.483 -        0  183907.129 -        0  184241.572 -        0
+LG               -92511.693  185141.386 -        0  185144.910 -        0  185473.840 -        0
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG+F+I+G4
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.0735
+  pi(R) = 0.0478
+  pi(N) = 0.0555
+  pi(D) = 0.0387
+  pi(C) = 0.0197
+  pi(Q) = 0.0780
+  pi(E) = 0.0647
+  pi(G) = 0.0528
+  pi(H) = 0.0327
+  pi(I) = 0.0326
+  pi(L) = 0.0667
+  pi(K) = 0.0667
+  pi(M) = 0.0205
+  pi(F) = 0.0233
+  pi(P) = 0.0828
+  pi(S) = 0.1044
+  pi(T) = 0.0614
+  pi(W) = 0.0054
+  pi(Y) = 0.0228
+  pi(V) = 0.0501
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.0220
+Gamma shape alpha: 1.2404
+
+ Category  Relative_rate  Proportion
+  0         0              0.0220
+  1         0.1864         0.2445
+  2         0.5508         0.2445
+  3         1.0538         0.2445
+  4         2.2988         0.2445
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -88924.9898 (s.e. 687.2019)
+Unconstrained log-likelihood (without tree): -15776.7832
+Number of free parameters (#branches + #model parameters): 80
+Akaike information criterion (AIC) score: 178009.9795
+Corrected Akaike information criterion (AICc) score: 178016.4987
+Bayesian information criterion (BIC) score: 178460.7652
+
+Total tree length (sum of branch lengths): 54.7230
+Sum of internal branch lengths: 10.1720 (18.5882% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Mlei_ML048213a-PA' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++------------------------------------------------Mlei_ML048213a-PA
+|
+|                        +-----------------Aplcal_XP_005092662.1
+|                     +--| (45)
+|                     |  +-------------------Hrob_XP_009022495.1
+|                 +---| (88)
+|                 |   +---------------Lana_XP_013410270.1
+|              +--| (92)
+|              |  |         +----------Apimel_XP_026300195.1
+|              |  |     +---| (100)
+|              |  |     |   |  +-----------Bmor_XP_021202702.2
+|              |  |     |   +--| (88)
+|              |  |     |      +---------------Dmel_NP_001261344.1
+|              |  |  +--| (99)
+|              |  |  |  |  +-------------------Pvan_XP_069980505.1
+|              |  |  |  +--| (74)
+|              |  |  |     +--------------Dpul_XP_046460497.1
+|              |  +--| (99)
+|              |     +-------------------Cscu_XP_023209742.1
+|           +--| (85)
+|           |  |         +----------Apla_XP_022088315.1
+|           |  |     +---| (100)
+|           |  |     |   +-------------Spur_XP_030835480.1
+|           |  |  +--| (43)
+|           |  |  |  +------------------Blan_XP_066304211.1
+|           |  +--| (76)
+|           |     +----------------Skow_XP_006816862.1
+|        +--| (79)
+|        |  |       +------------------------------------Tadh_XP_002108965.1
+|        |  |  +----| (98)
+|        |  |  |    |            +--------------------Scil_XP_065182918.1
+|        |  |  |    |   +--------| (100)
+|        |  |  |    |   |        +---------------------------Scil_XP_065175429.1
+|        |  |  |    +---| (97)
+|        |  |  |        +---------------------------Aque_XP_019849055.1
+|        |  +--| (62)
+|        |     +----------------------------Cint_XP_002125458.3
+|     +--| (65)
+|     |  |              +--Hsap_NP_001120680.1
+|     |  |           +--| (100)
+|     |  |           |  +--Ggal_NP_001264723.3
+|     |  |       +---| (100)
+|     |  |       |   +-----Xtro_XP_002934823.2
+|     |  +-------| (99)
+|     |          +---------Drer_XP_005159960.1
+|  +--| (60)
+|  |  |     +--------Drer_NP_001314874.1
+|  |  +-----| (100)
+|  |        |      +--Hsap_NP_001274420.1
+|  |        |   +--| (95)
+|  |        |   |  +--Ggal_XP_040507506.2
+|  |        +---| (100)
+|  |            +----Xtro_NP_001090656.1
++--| (58)
+|  |            +--Drer_XP_005156766.1
+|  +------------| (100)
+|               +--Drer_XP_021328376.1
+|
+|  +-----Ggal_XP_040559103.1
++--| (85)
+   +----------Hsap_NP_001393294.1
+
+Tree in newick format:
+
+(Mlei_ML048213a-PA:4.6808901702,((((((((Aplcal_XP_005092662.1:1.7408138688,Hrob_XP_009022495.1:1.9099600461)45:0.3243985986,Lana_XP_013410270.1:1.5850794021)88:0.4659765643,(((Apimel_XP_026300195.1:1.1021539306,(Bmor_XP_021202702.2:1.1493369190,Dmel_NP_001261344.1:1.5509229352)88:0.2610880086)100:0.3926275319,(Pvan_XP_069980505.1:1.9388894429,Dpul_XP_046460497.1:1.4650303555)74:0.1868011069)99:0.2878257703,Cscu_XP_023209742.1:1.9431047114)99:0.2036334461)92:0.1902621215,(((Apla_XP_022088315.1:1.0496766803,Spur_XP_030835480.1:1.3786380550)100:0.4568366476,Blan_XP_066304211.1:1.8068118609)43:0.1426528105,Skow_XP_006816862.1:1.6763161218)76:0.2514378289)85:0.1822120997,((Tadh_XP_002108965.1:3.5284398199,((Scil_XP_065182918.1:2.0136621461,Scil_XP_065175429.1:2.6947802281)100:0.8739567508,Aque_XP_019849055.1:2.7383455113)97:0.3993615882)98:0.5015465490,Cint_XP_002125458.3:2.8119570596)62:0.1861914143)79:0.3740308576,(((Hsap_NP_001120680.1:0.2765348003,Ggal_NP_001264723.3:0.2179665703)100:0.1690816844,Xtro_XP_002934823.2:0.5994701660)100:0.3947093402,Drer_XP_005159960.1:0.9580991407)99:0.8084492084)65:0.1398471263,(Drer_NP_001314874.1:0.9131519185,((Hsap_NP_001274420.1:0.3734435932,Ggal_XP_040507506.2:0.2877051569)95:0.1729932457,Xtro_NP_001090656.1:0.4899682691)100:0.4016566281)100:0.6089253969)60:0.2354483092,(Drer_XP_005156766.1:0.0013633746,Drer_XP_021328376.1:0.0007733719)100:1.2605407650)58:0.2623628211,(Ggal_XP_040559103.1:0.5901060704,Hsap_NP_001393294.1:1.0775598179)85:0.0371747942);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -88925.078897
+Robinson-Foulds distance between ML tree and consensus tree: 2
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++------------------------------------------------Mlei_ML048213a-PA
+|
+|                         +-----------------Aplcal_XP_005092662.1
+|                      +--| (45)
+|                      |  +-------------------Hrob_XP_009022495.1
+|                 +----| (88)
+|                 |    +---------------Lana_XP_013410270.1
+|              +--| (92)
+|              |  |         +----------Apimel_XP_026300195.1
+|              |  |     +---| (100)
+|              |  |     |   |  +-----------Bmor_XP_021202702.2
+|              |  |     |   +--| (88)
+|              |  |     |      +---------------Dmel_NP_001261344.1
+|              |  |  +--| (99)
+|              |  |  |  |  +-------------------Pvan_XP_069980505.1
+|              |  |  |  +--| (74)
+|              |  |  |     +--------------Dpul_XP_046460497.1
+|              |  +--| (99)
+|              |     +-------------------Cscu_XP_023209742.1
+|           +--| (85)
+|           |  |         +---------Apla_XP_022088315.1
+|           |  |     +---| (100)
+|           |  |     |   +-------------Spur_XP_030835480.1
+|           |  |  +--| (47)
+|           |  |  |  +----------------Skow_XP_006816862.1
+|           |  +--| (76)
+|           |     +------------------Blan_XP_066304211.1
+|        +--| (79)
+|        |  |       +------------------------------------Tadh_XP_002108965.1
+|        |  |  +----| (98)
+|        |  |  |    |            +--------------------Scil_XP_065182918.1
+|        |  |  |    |   +--------| (100)
+|        |  |  |    |   |        +---------------------------Scil_XP_065175429.1
+|        |  |  |    +---| (97)
+|        |  |  |        +----------------------------Aque_XP_019849055.1
+|        |  +--| (62)
+|        |     +----------------------------Cint_XP_002125458.3
+|     +--| (65)
+|     |  |              +--Hsap_NP_001120680.1
+|     |  |           +--| (100)
+|     |  |           |  +--Ggal_NP_001264723.3
+|     |  |       +---| (100)
+|     |  |       |   +-----Xtro_XP_002934823.2
+|     |  +-------| (99)
+|     |          +---------Drer_XP_005159960.1
+|  +--| (60)
+|  |  |     +--------Drer_NP_001314874.1
+|  |  +-----| (100)
+|  |        |      +--Hsap_NP_001274420.1
+|  |        |   +--| (95)
+|  |        |   |  +--Ggal_XP_040507506.2
+|  |        +---| (100)
+|  |            +----Xtro_NP_001090656.1
++--| (58)
+|  |            +--Drer_XP_005156766.1
+|  +------------| (100)
+|               +--Drer_XP_021328376.1
+|
+|  +-----Ggal_XP_040559103.1
++--| (85)
+   +----------Hsap_NP_001393294.1
+
+
+Consensus tree in newick format: 
+
+(Mlei_ML048213a-PA:4.6709719764,((((((((Aplcal_XP_005092662.1:1.7362567468,Hrob_XP_009022495.1:1.9118061861)45:0.3193500243,Lana_XP_013410270.1:1.5806868721)88:0.4875891875,(((Apimel_XP_026300195.1:1.1034929962,(Bmor_XP_021202702.2:1.1507630734,Dmel_NP_001261344.1:1.5464233921)88:0.2604577066)100:0.3913331205,(Pvan_XP_069980505.1:1.9383447770,Dpul_XP_046460497.1:1.4612995752)74:0.1868599877)99:0.3004777041,Cscu_XP_023209742.1:1.9338884360)99:0.1887949302)92:0.1923496896,(((Apla_XP_022088315.1:1.0323242821,Spur_XP_030835480.1:1.3772669129)100:0.4162926104,Skow_XP_006816862.1:1.6257977458)47:0.1958575339,Blan_XP_066304211.1:1.8323077893)76:0.2569568432)85:0.1856150773,((Tadh_XP_002108965.1:3.5393707059,((Scil_XP_065182918.1:2.0158433434,Scil_XP_065175429.1:2.6933280750)100:0.8821977298,Aque_XP_019849055.1:2.7436863419)97:0.3855929085)98:0.5043338921,Cint_XP_002125458.3:2.8079567961)62:0.1982421183)79:0.3657249409,(((Hsap_NP_001120680.1:0.2765853471,Ggal_NP_001264723.3:0.2180034317)100:0.1693168153,Xtro_XP_002934823.2:0.5991140394)100:0.3960282653,Drer_XP_005159960.1:0.9579200357)99:0.8117786964)65:0.1388484780,(Drer_NP_001314874.1:0.9124131190,((Hsap_NP_001274420.1:0.3734786075,Ggal_XP_040507506.2:0.2877916113)95:0.1726313422,Xtro_NP_001090656.1:0.4903892061)100:0.4024370569)100:0.6117108628)60:0.2341602636,(Drer_XP_005156766.1:0.0013903682,Drer_XP_021328376.1:0.0007447780)100:1.2609713768)58:0.2422159376,(Ggal_XP_040559103.1:0.5916483494,Hsap_NP_001393294.1:1.0766552429)85:0.0546326438);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/Tet_JBP/PLT/PLT.Tet_JBP.iqtree.treefile -m "LG+F+I{0.0219686}+G4{1.24039}" --length 2069
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/Tet_JBP/PLT/PLT.Tet_JBP.seqs.lt.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/Tet_JBP/PLT/PLT.Tet_JBP.seqs.lt.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Tue Mar 24 16:51:47 2026
+Total CPU time used: 899.219887 seconds (0h:14m:59s)
+Total wall-clock time used: 146.898988 seconds (0h:2m:26s)
+
