@@ -1,0 +1,12 @@
+Phylum,S1 crown state,S1 crown PP,S1 parent state,S1 parent PP,S3 crown state,S3 crown PP,S3 parent state,S3 parent PP
+Metazoa,GS-/TET+,0.9816,GS-/TET-,0.9648,GS+/TET+,0.9937,GS+/TET-,0.8965
+Chordata,GS-/TET+,1,GS-/TET+,1,GS-/TET+,1,GS-/TET+,0.9999
+Mollusca,GS-/TET+,1,GS-/TET+,1,GS-/TET+,1,GS-/TET+,1
+Echinodermata,GS-/TET+,1,GS-/TET+,1,GS-/TET+,1,GS-/TET+,1
+Annelida,GS-/TET+,1,GS-/TET+,1,GS-/TET+,1,GS-/TET+,1
+Arthropoda,GS-/TET+,1,GS-/TET+,0.9985,GS-/TET+,1,GS-/TET+,1
+Porifera,GS-/TET+,0.9798,GS-/TET+,0.9816,GS+/TET+,0.9592,GS+/TET+,0.9937
+Nematoda,GS-/TET-,1,GS-/TET+,0.9985,GS-/TET-,0.9975,GS-/TET+,1
+Platyhelminthes,GS-/TET-,0.8864,GS-/TET+,1,GS-/TET-,0.8855,GS-/TET+,1
+Tardigrada,GS-/TET-,0.9748,GS-/TET+,0.9985,GS-/TET-,0.9738,GS-/TET+,1
+Cnidaria,GS+/TET+,0.9935,GS-/TET+,0.8638,GS+/TET+,1,GS+/TET+,0.9894

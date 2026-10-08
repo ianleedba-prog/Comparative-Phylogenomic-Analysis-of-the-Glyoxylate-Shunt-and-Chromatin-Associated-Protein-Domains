@@ -1,0 +1,7 @@
+"Taxon_set","Species","Model","log_marginal_likelihood"
+Metazoa,112,"Full dependent (DP)",-73.533726
+Metazoa,112,"Dependent, q13 = q24",-72.542502
+Metazoa,112,"Independent (IDP)",-67.835277
+Holozoa,125,"Full dependent (DP)",-85.395232
+Holozoa,125,"Dependent, q13 = q24",-84.640274
+Holozoa,125,"Independent (IDP)",-80.696069

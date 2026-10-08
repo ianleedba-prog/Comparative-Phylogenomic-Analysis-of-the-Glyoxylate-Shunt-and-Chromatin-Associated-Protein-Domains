@@ -1,0 +1,37 @@
+"Branch","Descendant_species","Clades","Branch_length","S1 GS gain (TET-)","S1 GS gain (TET+)","S1 GS loss (TET-)","S1 GS loss (TET+)","S1 TET gain (GS-)","S1 TET gain (GS+)","S1 TET loss (GS-)","S1 TET loss (GS+)","S3 GS gain (TET-)","S3 GS gain (TET+)","S3 GS loss (TET-)","S3 GS loss (TET+)","S3 TET gain (GS-)","S3 TET gain (GS+)","S3 TET loss (GS-)","S3 TET loss (GS+)","S1 P(GS+) at node","S1 P(TET+) at node","S3 P(GS+) at node","S3 P(TET+) at node"
+Metazoa,112,"Acanthocephala, Annelida, Arthropoda, Brachiopoda, Chordata, Cnidaria, Ctenophora, Echinodermata, Hemichordata, Mollusca, Nematoda, Placozoa, Platyhelminthes, Porifera, Priapulida, Rotifera, Tardigrada, Xenacoelomorpha",0.163,0.01,0.01,0,0.003,0.955,0.01,0.001,0,0.012,0.002,0.001,0.007,0,0.906,0,0,0.0179,0.9996,0.9941,0.9996
+Bilateria,92,"Acanthocephala, Annelida, Arthropoda, Brachiopoda, Chordata, Echinodermata, Hemichordata, Mollusca, Nematoda, Platyhelminthes, Priapulida, Rotifera, Tardigrada, Xenacoelomorpha",0.058,0,0,0,0.135,0,0,0,0,0,0,0,0.966,0,0,0,0,0.0017,0.9999,0.0238,1
+Nematoda,29,"Nematoda",0.327,0,0.006,0,0.006,0.002,0,1.001,0,0.008,0.005,0.005,0.005,0,0,1,0,0,0,0.0025,0
+internal node (14 spp.),14,"Nematoda",0.004,0.936,0,0,0,0,0,0,0,0.941,0,0,0,0,0,0,0,0.9362,0,0.9439,0
+Cnidaria,13,"Cnidaria",0.02,0,0.857,0,0,0,0,0,0,0,0.011,0,0,0,0,0,0,0.9935,1,1,1
+Platyhelminthes,7,"Platyhelminthes",0.311,0,0.006,0,0.006,0.002,0,0.889,0,0.005,0.006,0.004,0.006,0,0,0.886,0,1e-04,0.1136,0.001,0.1137
+Teretosporea,7,"Premetazoa",0.131,0.745,0,0,0,0.001,0,0.001,0,0.002,0,0.005,0,0,0,0,0,0.7452,0,0.9979,0
+Ichthyosporea,6,"Premetazoa",0.076,0.196,0,0,0,0,0,0,0,0.002,0,0.001,0,0,0,0,0,0.9409,0,0.9988,0
+Demospongiae,3,"Porifera",0.098,0,0.002,0,0.021,0.001,0,0.001,0,0,0.001,0,0.803,0,0,0,0,0.0011,1,0.1571,1
+internal node (3 spp.),3,"Premetazoa",0.014,0.159,0,0,0,0,0,0,0,0.004,0,0,0,0,0,0,0,0.1595,1e-04,0.9787,0
+Calcarea,2,"Porifera",0.141,0,0.157,0,0.003,0.001,0,0.001,0,0,0.014,0,0.021,0,0,0,0,0.1736,0.9999,0.9524,1
+Choanoflagellata,2,"Premetazoa",0.255,0,0,0,0,0.007,0,0.03,0,0.004,0,0.748,0.103,0,0.018,0.062,0,0,0.0118,0.1419,0.0495
+internal node (2 spp.),2,"Nematoda",0.068,0.749,0,0,0,0,0,0,0,0.741,0,0,0,0,0,0,0,0.7494,0,0.7431,0
+internal node (2 spp.),2,"Premetazoa",0.195,0.746,0,0,0,0.001,0,0.001,0,0.024,0,0.007,0,0,0,0,0,0.9057,0,0.9959,0
+Tardigrada,2,"Tardigrada",0.284,0,0.004,0,0.004,0.002,0,0.975,0,0.004,0.004,0.004,0.004,0,0,0.974,0,0,0.0252,2e-04,0.0261
+Adineta vaga,1,"Rotifera",0.393,1,0.004,0,0.004,0.002,0,1.002,0,1.004,0.004,0.004,0.004,0,0,1,0,1,0,1,0
+Amphimedon queenslandica,1,"Porifera",0.147,0,0.003,0,0.004,0.001,0,0.001,0,0,0.003,0,0.16,0,0,0,0,0,1,0,1
+Ascaris suum,1,"Nematoda",0.263,0.251,0,0,0,0,0,0,0,0.265,0,0.008,0,0,0,0,0,1,0,1,0
+Capsaspora owczarzaki,1,"Premetazoa",0.433,0.84,0,0,0,0.003,0,0.003,0,0.047,0,0.025,0,0,0,0,0,1,0,1,0
+Corallochytrium limacisporum,1,"Premetazoa",0.662,0.255,0,0,0,0.002,0,0.002,0,0.06,0,0.056,0.002,0,0.002,0.002,0,1,0,1,0
+Dracunculus medinensis,1,"Nematoda",0.38,1,0,0,0,0.003,0,0.003,0,1.005,0,0.007,0,0,0,0,0,1,0,1,0
+Ephydatia muelleri,1,"Porifera",0.296,0,0.013,0,0.014,0.005,0,0.005,0,0,0.011,0,0.168,0,0,0,0,0,1,0,1
+Folsomia candida,1,"Arthropoda",0.161,0.001,1.001,0,0.001,0.001,0.001,0.001,0,0.004,0.997,0,0.001,0,0.004,0.004,0,1,1,1,1
+Hofstenia miamia,1,"Xenacoelomorpha",0.531,0,0.015,0,0.017,0.006,0,1.006,0,0.014,0.013,0.014,0.037,0,0,1,0,0,0,0,0
+Hydra vulgaris,1,"Cnidaria",0.088,0,0,0,0.937,0,0,0,0,0,0,0,0.969,0,0,0,0,0,1,0,1
+Leucosolenia complicata,1,"Porifera",0.116,0,0.827,0,0.001,0,0,0,0,0,0.05,0,0.002,0,0,0,0,1,1,1,1
+Ministeria vibrans,1,"Premetazoa",0.409,0,0,0,0.001,0.011,0.001,0.012,0,0.009,0,0.96,0.025,0,0.024,0.025,0,0,0,0,0
+Mnemiopsis leidyi,1,"Ctenophora",0.591,0,0.051,0,0.07,0.019,0,0.019,0,0,0.019,0,1.013,0,0.001,0,0,0,1,0,1
+Monosiga brevicollis,1,"Premetazoa",0.508,0,0,0,0,0.017,0,0.029,0,0.036,0.001,0.164,0.014,0,0.006,0.055,0,0,0,0,0
+Plectus sambesii,1,"Nematoda",0.685,0.562,0.45,0,0.012,0.443,0.562,0.005,0,1.011,0.012,0.013,0.012,0,1,0,0,1,1,1,1
+Pomphorhynchus laevis,1,"Acanthocephala",1.186,0.001,0.079,0,0.08,0.028,0.001,1.029,0,0.075,0.053,0.071,0.057,0,0.004,1.004,0,0,0,0,0
+Sycon ciliatum,1,"Porifera",0.179,0,0.004,0,0.178,0.002,0,0.002,0,0,0.002,0,0.954,0,0,0,0,0,1,0,1
+Tethya wilhelma,1,"Porifera",0.149,0,0.003,0,0.004,0.001,0,0.001,0,0,0.003,0,0.16,0,0,0,0,0,1,0,1
+Toxocara canis,1,"Nematoda",0.098,0.251,0,0,0,0,0,0,0,0.258,0,0.001,0,0,0,0,0,1,0,1,0
+Trichoplax adhaerens,1,"Placozoa",0.361,0,0.019,0,0.064,0.007,0,0.007,0,0,0.007,0,0.997,0,0,0,0,0,1,0,1
+Trichuris suis,1,"Nematoda",0.276,1,0,0,0,0.001,0,0.002,0,1.002,0,0.004,0,0,0,0,0,1,0,1,0

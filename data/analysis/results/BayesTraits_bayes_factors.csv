@@ -1,0 +1,5 @@
+"Taxon_set","Species","Comparison","log_Bayes_factor"
+Metazoa,112,"Dependent, q13 = q24 vs full DP",-1.982448
+Metazoa,112,"Independent (IDP) vs full DP",-11.396898
+Holozoa,125,"Dependent, q13 = q24 vs full DP",-1.50991599999998
+Holozoa,125,"Independent (IDP) vs full DP",-9.398326
