@@ -1,0 +1,239 @@
+IQ-TREE 2.4.0 built Feb 12 2025
+
+Input file name: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/Tet_JBP/PEM/PEM.Tet_JBP.seqs.lt.fasta
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 299722
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 18 sequences with 990 amino-acid sites
+Number of constant sites: 82 (= 8.28283% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 82 (= 8.28283% of all sites)
+Number of parsimony informative sites: 908
+Number of distinct site patterns: 973
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: WAG+F+I+G4
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+WAG+F+I+G4       -18679.432   37466.864 +        1   37473.217 +        1   37731.340 +        1
+LG+F+I+G4        -18689.810   37487.621 - 3.11e-05   37493.973 - 3.11e-05   37752.097 - 3.11e-05
+WAG+I+G4         -18792.232   37654.464 - 1.83e-41   37657.105 - 1.17e-40   37825.883 - 2.95e-21
+LG+I+G4          -18827.487   37724.973 - 8.96e-57   37727.615 - 5.73e-56   37896.393 - 1.44e-36
+JTT+F+I+G4       -18776.407   37660.815 - 7.66e-43   37667.168 - 7.66e-43   37925.291 - 7.66e-43
+LG+G4            -18862.210   37792.420 - 2.02e-71   37794.913 -  1.4e-70   37958.942 - 3.77e-50
+JTT+I+G4         -18869.280   37808.560 - 6.33e-75   37811.201 - 4.05e-74   37979.979 - 1.02e-54
+LG+I             -18984.772   38037.543 - 1.2e-124   38040.036 - 8.26e-124   38204.065 - 2.23e-103
+LG               -19173.749   38413.499 - 2.76e-206   38415.846 - 2.04e-205   38575.123 - 5.95e-184
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: WAG+F+I+G4
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.0838
+  pi(R) = 0.0527
+  pi(N) = 0.0468
+  pi(D) = 0.0428
+  pi(C) = 0.0274
+  pi(Q) = 0.0498
+  pi(E) = 0.0654
+  pi(G) = 0.0578
+  pi(H) = 0.0290
+  pi(I) = 0.0293
+  pi(L) = 0.0754
+  pi(K) = 0.0637
+  pi(M) = 0.0173
+  pi(F) = 0.0246
+  pi(P) = 0.0811
+  pi(S) = 0.0920
+  pi(T) = 0.0739
+  pi(W) = 0.0045
+  pi(Y) = 0.0241
+  pi(V) = 0.0586
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.0508
+Gamma shape alpha: 2.5189
+
+ Category  Relative_rate  Proportion
+  0         0              0.0508
+  1         0.3669         0.2373
+  2         0.7383         0.2373
+  3         1.1365         0.2373
+  4         1.9722         0.2373
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -18679.4267 (s.e. 237.6513)
+Unconstrained log-likelihood (without tree): -6801.3418
+Number of free parameters (#branches + #model parameters): 54
+Akaike information criterion (AIC) score: 37466.8535
+Corrected Akaike information criterion (AICc) score: 37473.2064
+Bayesian information criterion (BIC) score: 37731.3295
+
+Total tree length (sum of branch lengths): 11.9176
+Sum of internal branch lengths: 4.8440 (40.6461% of tree length)
+
+WARNING: 3 near-zero internal branches (<0.0010) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Mlei_ML048213a-PA' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++--------------------------------------------------------Mlei_ML048213a-PA
+|
+|                                          +**Twil_T_wilhelma_c27731_g1_i3|m.21815
+|                                       +**| (57)
+|                                       |  |  +**Twil_T_wilhelma_c27731_g1_i6|m.21824
+|                                       |  +**| (59)
+|                                       |     +**Twil_T_wilhelma_c27731_g1_i4|m.21818
+|               +-----------------------| (100)
+|               |                       +--Twil_T_wilhelma_c27731_g1_i1|m.21809
+|         +-----| (88)
+|         |     +----------------Emue_Em0019g1209a
++---------| (97)
+|         +---------------Aque_XP_019849055.1
+|
+|                     +-------------Hsap_NP_001393294.1
+|       +-------------| (95)
+|       |             |      +----------------Hsap_NP_001120680.1
+|       |             +------| (96)
+|       |                    +---------------Hsap_NP_001274420.1
+|  +----| (52)
+|  |    +---------------------------------------Tadh_XP_002108965.1
++--| (40)
+   |                                                       +**Lcom_lcpid41144|
+   |                                                    +**| (35)
+   |                                                    |  |  +**Lcom_lcpid55280|
+   |                                                    |  +--| (63)
+   |                                                    |     +--Lcom_lcpid73962|
+   |                                   +----------------| (100)
+   |                                   |                +--Lcom_lcpid54347|
+   |      +----------------------------| (100)
+   |      |                            +--------Scil_XP_065175429.1
+   +------| (96)
+          |                  +----------Lcom_lcpid12098|
+          +------------------| (100)
+                             +----------Scil_XP_065182918.1
+
+Tree in newick format:
+
+(Mlei_ML048213a-PA:1.8918768494,((((Twil_T_wilhelma_c27731_g1_i3|m.21815:0.0000010250,(Twil_T_wilhelma_c27731_g1_i6|m.21824:0.0000010250,Twil_T_wilhelma_c27731_g1_i4|m.21818:0.0000010250)59:0.0000010249)57:0.0003910871,Twil_T_wilhelma_c27731_g1_i1|m.21809:0.0284755564)100:0.7945847427,Emue_Em0019g1209a:0.5715196130)88:0.2012199009,Aque_XP_019849055.1:0.5555747328)97:0.3553657709,(((Hsap_NP_001393294.1:0.4690583971,(Hsap_NP_001120680.1:0.5888606572,Hsap_NP_001274420.1:0.5272011116)96:0.2328889467)95:0.4750163655,Tadh_XP_002108965.1:1.3157534099)52:0.1950307911,((((Lcom_lcpid41144|:0.0000020021,(Lcom_lcpid55280|:0.0000020125,Lcom_lcpid73962|:0.0215868717)63:0.0135976466)35:0.0000029249,Lcom_lcpid54347|:0.0164078700)100:0.5850415094,Scil_XP_065175429.1:0.3150272484)100:0.9796076333,(Lcom_lcpid12098|:0.3784399594,Scil_XP_065182918.1:0.3933694920)100:0.6435978106)96:0.2603494702)40:0.1077375835);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -18679.670868
+Robinson-Foulds distance between ML tree and consensus tree: 2
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++--------------------------------------------------------Mlei_ML048213a-PA
+|
+|                                                +--Twil_T_wilhelma_c27731_g1_i3|m.21815
+|                                             +--| (57)
+|                                             |  |  +--Twil_T_wilhelma_c27731_g1_i6|m.21824
+|                                             |  +--| (59)
+|                                             |     +--Twil_T_wilhelma_c27731_g1_i4|m.21818
+|                     +-----------------------| (100)
+|                     |                       +--Twil_T_wilhelma_c27731_g1_i1|m.21809
+|               +-----| (88)
+|               |     +----------------Emue_Em0019g1209a
+|  +------------| (97)
+|  |            +---------------Aque_XP_019849055.1
++--| (50)
+|  |                                                       +--Lcom_lcpid41144|
+|  |                                                    +--| (35)
+|  |                                                    |  |  +--Lcom_lcpid55280|
+|  |                                                    |  +--| (63)
+|  |                                                    |     +--Lcom_lcpid73962|
+|  |                                   +----------------| (100)
+|  |                                   |                +--Lcom_lcpid54347|
+|  |      +----------------------------| (100)
+|  |      |                            +--------Scil_XP_065175429.1
+|  +------| (96)
+|         |                  +----------Lcom_lcpid12098|
+|         +------------------| (100)
+|                            +-----------Scil_XP_065182918.1
+|
+|                +-------------Hsap_NP_001393294.1
+|  +-------------| (95)
+|  |             |      +----------------Hsap_NP_001120680.1
+|  |             +------| (96)
+|  |                    +---------------Hsap_NP_001274420.1
++--| (52)
+   +---------------------------------------Tadh_XP_002108965.1
+
+
+Consensus tree in newick format: 
+
+(Mlei_ML048213a-PA:1.9005959164,(((((Twil_T_wilhelma_c27731_g1_i3|m.21815:0.0000029724,(Twil_T_wilhelma_c27731_g1_i6|m.21824:0.0000029724,Twil_T_wilhelma_c27731_g1_i4|m.21818:0.0000029724)59:0.0000029724)57:0.0003528682,Twil_T_wilhelma_c27731_g1_i1|m.21809:0.0285094500)100:0.7957233062,Emue_Em0019g1209a:0.5696237401)88:0.1999564507,Aque_XP_019849055.1:0.5564756516)97:0.4415598710,((((Lcom_lcpid41144|:0.0000029783,(Lcom_lcpid55280|:0.0000029783,Lcom_lcpid73962|:0.0215942378)63:0.0136010034)35:0.0000023719,Lcom_lcpid54347|:0.0164079033)100:0.5868428691,Scil_XP_065175429.1:0.3132831058)100:0.9776336352,(Lcom_lcpid12098|:0.3778163652,Scil_XP_065182918.1:0.3938220220)100:0.6482279088)96:0.2558459061)50:0.1130837954,((Hsap_NP_001393294.1:0.4696515581,(Hsap_NP_001120680.1:0.5880715936,Hsap_NP_001274420.1:0.5281485192)96:0.2311991955)95:0.4735137970,Tadh_XP_002108965.1:1.3163401042)52:0.1084562573);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/Tet_JBP/PEM/PEM.Tet_JBP.iqtree.treefile -m "WAG+F+I{0.0507765}+G4{2.51888}" --length 990
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/Tet_JBP/PEM/PEM.Tet_JBP.seqs.lt.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/Tet_JBP/PEM/PEM.Tet_JBP.seqs.lt.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Tue Mar 24 16:45:26 2026
+Total CPU time used: 388.594931 seconds (0h:6m:28s)
+Total wall-clock time used: 68.93761396 seconds (0h:1m:8s)
+

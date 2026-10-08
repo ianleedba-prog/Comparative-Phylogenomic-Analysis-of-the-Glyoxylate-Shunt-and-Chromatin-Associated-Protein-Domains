@@ -1,0 +1,256 @@
+IQ-TREE 2.4.0 built Feb 12 2025
+
+Input file name: /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/Tet_JBP/MET/MET.Tet_JBP.seqs.lt.fasta
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 769785
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 23 sequences with 1910 amino-acid sites
+Number of constant sites: 91 (= 4.7644% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 91 (= 4.7644% of all sites)
+Number of parsimony informative sites: 1819
+Number of distinct site patterns: 1874
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: LG+F+I+G4
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+LG+F+I+G4        -61337.229  122802.457 +        1  122806.967 +        1  123157.968 +        1
+WAG+F+I+G4       -61352.647  122833.294 - 2.01e-07  122837.804 - 2.01e-07  123188.805 - 2.01e-07
+JTT+F+I+G4       -61527.475  123182.951 - 2.38e-83  123187.460 - 2.38e-83  123538.462 - 2.38e-83
+WAG+I+G4         -62217.714  124525.429 -        0  124527.650 -        0  124775.397 -        0
+LG+I+G4          -62294.504  124679.007 -        0  124681.228 -        0  124928.976 -        0
+JTT+I+G4         -62301.549  124693.097 -        0  124695.318 -        0  124943.066 -        0
+LG+G4            -62483.665  125055.331 -        0  125057.454 -        0  125299.744 -        0
+LG+I             -63173.376  126434.751 -        0  126436.875 -        0  126679.165 -        0
+LG               -63991.964  128069.927 -        0  128071.955 -        0  128308.786 -        0
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG+F+I+G4
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.0563
+  pi(R) = 0.0457
+  pi(N) = 0.0633
+  pi(D) = 0.0417
+  pi(C) = 0.0196
+  pi(Q) = 0.0799
+  pi(E) = 0.0597
+  pi(G) = 0.0506
+  pi(H) = 0.0325
+  pi(I) = 0.0354
+  pi(L) = 0.0683
+  pi(K) = 0.0641
+  pi(M) = 0.0190
+  pi(F) = 0.0293
+  pi(P) = 0.0762
+  pi(S) = 0.1137
+  pi(T) = 0.0628
+  pi(W) = 0.0080
+  pi(Y) = 0.0272
+  pi(V) = 0.0468
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.0412
+Gamma shape alpha: 1.5731
+
+ Category  Relative_rate  Proportion
+  0         0              0.0412
+  1         0.2466         0.2397
+  2         0.6261         0.2397
+  3         1.0997         0.2397
+  4         2.1994         0.2397
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -61323.8330 (s.e. 544.2719)
+Unconstrained log-likelihood (without tree): -14368.1633
+Number of free parameters (#branches + #model parameters): 64
+Akaike information criterion (AIC) score: 122775.6660
+Corrected Akaike information criterion (AICc) score: 122780.1754
+Bayesian information criterion (BIC) score: 123131.1769
+
+Total tree length (sum of branch lengths): 36.2249
+Sum of internal branch lengths: 6.0930 (16.8200% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Hrob_XP_009022495.1' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++------------------------Hrob_XP_009022495.1
+|
++-----------------------------Ofus_CAH1794056.1
+|
+|                                  +------Apimel_XP_026300195.1
+|                               +--| (90)
+|                               |  |                     +**Agrpla_XP_025834621.1
+|                               |  |   +-----------------| (100)
+|                               |  |   |                 +--Agrpla_XP_025834609.1
+|                               |  +---| (92)
+|                               |      +--------Bmor_XP_021202702.2
+|                            +--| (94)
+|                            |  +---------Btab_XP_018895737.1
+|                       +----| (100)
+|                       |    +-------------------------Dmel_NP_001261344.1
+|                    +--| (73)
+|                    |  +------------------------Dpul_XP_046460497.1
+|                +---| (96)
+|                |   |  +----------------------Smar_SMAR014123-PA
+|                |   +--| (74)
+|                |      +---------------------Pvan_XP_069980505.1
+|             +--| (97)
+|             |  |           +-----------------Lpol_XP_022241646.1
+|             |  |     +-----| (96)
+|             |  |     |     +---------------Lpol_XP_022240586.1
+|             |  +-----| (100)
+|             |        +-------------------Cscu_XP_023209742.1
+|          +--| (52)
+|          |  |  +---------------------------------------Rcul_nRc.2.0.1.t28809-RA
+|          |  +--| (51)
+|          |     |            +------------------------Hsap_NP_001393294.1
+|          |     +------------| (100)
+|          |                  |  +-------------------Hsap_NP_001120680.1
+|          |                  +--| (53)
+|          |                     +-----------------------Hsap_NP_001274420.1
+|      +---| (29)
+|      |   |     +-------------------------Aplcal_XP_005092662.1
+|      |   |  +--| (33)
+|      |   |  |  +------------------------------------Cvir_XP_022313682.1
+|      |   +--| (20)
+|      |      +----------------------------------Obim_XP_052828821.1
++------| (73)
+       |  +--------------------Lana_XP_013410270.1
+       +--| (46)
+          +---------------------------------Ofus_CAH1794055.1
+
+Tree in newick format:
+
+(Hrob_XP_009022495.1:1.5072273702,Ofus_CAH1794056.1:1.8354084060,(((((((((Apimel_XP_026300195.1:0.4612875501,((Agrpla_XP_025834621.1:0.0000027960,Agrpla_XP_025834609.1:0.0343110098)100:1.1140931490,Bmor_XP_021202702.2:0.5885914458)92:0.2391452394)90:0.1661470155,Btab_XP_018895737.1:0.6421267406)94:0.2292817345,Dmel_NP_001261344.1:1.5809316442)100:0.3351009930,Dpul_XP_046460497.1:1.4996741750)73:0.1266019659,(Smar_SMAR014123-PA:1.4052567085,Pvan_XP_069980505.1:1.3537656903)74:0.2066628534)96:0.2737141642,((Lpol_XP_022241646.1:1.1249005254,Lpol_XP_022240586.1:1.0063286117)96:0.3677070439,Cscu_XP_023209742.1:1.2272983662)100:0.3907140966)97:0.1918537897,(Rcul_nRc.2.0.1.t28809-RA:2.3907253127,(Hsap_NP_001393294.1:1.5476752455,(Hsap_NP_001120680.1:1.2405582795,Hsap_NP_001274420.1:1.4461186669)53:0.1482933678)100:0.7927981610)51:0.2166473610)52:0.1913836529,((Aplcal_XP_005092662.1:1.5928426315,Cvir_XP_022313682.1:2.2192920862)33:0.1938139959,Obim_XP_052828821.1:2.1075120969)20:0.0744514326)29:0.2393400114,(Lana_XP_013410270.1:1.2796073272,Ofus_CAH1794055.1:2.0404234961)46:0.1611975455)73:0.4340586796);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -61327.301866
+Robinson-Foulds distance between ML tree and consensus tree: 4
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++-----------------------Hrob_XP_009022495.1
+|
++---------------------------Ofus_CAH1794056.1
+|
+|                                   +------Apimel_XP_026300195.1
+|                                +--| (90)
+|                                |  |                    +--Agrpla_XP_025834621.1
+|                                |  |  +-----------------| (100)
+|                                |  |  |                 +--Agrpla_XP_025834609.1
+|                                |  +--| (92)
+|                                |     +--------Bmor_XP_021202702.2
+|                             +--| (94)
+|                             |  +---------Btab_XP_018895737.1
+|                        +----| (100)
+|                        |    +-------------------------Dmel_NP_001261344.1
+|                     +--| (73)
+|                     |  +-----------------------Dpul_XP_046460497.1
+|                 +---| (96)
+|                 |   |  +----------------------Smar_SMAR014123-PA
+|                 |   +--| (74)
+|                 |      +---------------------Pvan_XP_069980505.1
+|              +--| (97)
+|              |  |           +-----------------Lpol_XP_022241646.1
+|              |  |     +-----| (96)
+|              |  |     |     +---------------Lpol_XP_022240586.1
+|              |  +-----| (100)
+|              |        +-------------------Cscu_XP_023209742.1
+|           +--| (52)
+|           |  |  +--------------------------------------Rcul_nRc.2.0.1.t28809-RA
+|           |  +--| (51)
+|           |     |           +------------------------Hsap_NP_001393294.1
+|           |     +-----------| (100)
+|           |                 |  +-------------------Hsap_NP_001120680.1
+|           |                 +--| (53)
+|           |                    +----------------------Hsap_NP_001274420.1
+|        +--| (33)
+|        |  |      +--------------------Lana_XP_013410270.1
+|        |  |   +--| (46)
+|        |  |   |  +-------------------------------Ofus_CAH1794055.1
+|        |  +---| (22)
+|        |      +-------------------------------Obim_XP_052828821.1
++--------| (73)
+         |  +------------------------Aplcal_XP_005092662.1
+         +--| (33)
+            +-----------------------------------Cvir_XP_022313682.1
+
+
+Consensus tree in newick format: 
+
+(Hrob_XP_009022495.1:1.4760097022,Ofus_CAH1794056.1:1.7283851408,(((((((((Apimel_XP_026300195.1:0.4615880242,((Agrpla_XP_025834621.1:0.0000022901,Agrpla_XP_025834609.1:0.0342506810)100:1.1136879919,Bmor_XP_021202702.2:0.5895049141)92:0.2383461075)90:0.1643070824,Btab_XP_018895737.1:0.6429964257)94:0.2339874680,Dmel_NP_001261344.1:1.5767558332)100:0.3336629856,Dpul_XP_046460497.1:1.4990286494)73:0.1327122250,(Smar_SMAR014123-PA:1.4009268406,Pvan_XP_069980505.1:1.3541843445)74:0.2027448302)96:0.2679606482,((Lpol_XP_022241646.1:1.1276936500,Lpol_XP_022240586.1:1.0049547761)96:0.3657080606,Cscu_XP_023209742.1:1.2245765272)100:0.3934355666)97:0.1757826550,(Rcul_nRc.2.0.1.t28809-RA:2.3983615365,(Hsap_NP_001393294.1:1.5500185090,(Hsap_NP_001120680.1:1.2335579638,Hsap_NP_001274420.1:1.4453563595)53:0.1494724209)100:0.7825136184)51:0.2258593909)52:0.1951949015,((Lana_XP_013410270.1:1.2666687789,Ofus_CAH1794055.1:1.9827155697)46:0.1652717559,Obim_XP_052828821.1:1.9750740398)22:0.2614737133)33:0.1549659687,(Aplcal_XP_005092662.1:1.5318414912,Cvir_XP_022313682.1:2.2008351573)33:0.1921666229)73:0.5687260863);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/Tet_JBP/MET/MET.Tet_JBP.iqtree.treefile -m "LG+F+I{0.0411666}+G4{1.57313}" --length 1910
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/Tet_JBP/MET/MET.Tet_JBP.seqs.lt.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/Hsap/Tet_JBP/MET/MET.Tet_JBP.seqs.lt.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Tue Mar 24 16:47:51 2026
+Total CPU time used: 632.696359 seconds (0h:10m:32s)
+Total wall-clock time used: 97.87379313 seconds (0h:1m:37s)
+

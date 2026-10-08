@@ -1,0 +1,2 @@
+Gene Species Taxon Signature
+0 Mlei_ML048213a-PA Mlei_ML048213a-PA 0.13541488230856677
