@@ -22,8 +22,8 @@ A self-contained sub-pipeline under `data/JmjC/` surveys histone demethylase ort
 
 Each folder has its own README covering the scripts, the software versions and how to run that half.
 
-**Il-Hwan Lee** (first author, code maintainer) — ianlee.dba@snu.ac.kr
+**Il-Hwan Lee** (first author, code maintainer) — ianlee.dba@snu.ac.kr  
 Department of Biomedical Sciences, Seoul National University College of Medicine, Seoul 03080, Republic of Korea
 
-**Hong-Duk Youn** (corresponding author) — hdyoun@snu.ac.kr   
+**Hong-Duk Youn** (corresponding author) — hdyoun@snu.ac.kr  
 Department of Biomedical Sciences, Seoul National University College of Medicine, Seoul 03080, Republic of Korea
