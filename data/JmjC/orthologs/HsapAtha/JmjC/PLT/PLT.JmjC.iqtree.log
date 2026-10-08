@@ -1,0 +1,1092 @@
+IQ-TREE multicore version 2.4.0 for MacOS Intel 64-bit built Feb 12 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    Il-Hwans-Mac-Studio.local (SSE4.2, 64 GB RAM)
+Command: iqtree2 -s /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/JmjC/PLT/PLT.JmjC.seqs.lt.fasta -m TEST -mset LG,WAG,JTT -bb 1000 -nt AUTO -ntmax 8 -pre /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/JmjC/PLT/PLT.JmjC.iqtree -nstop 200 -cptime 1800 --quiet
+Seed:    847042 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Mar 24 14:40:53 2026
+Kernel:  SSE2 - auto-detect threads (10 CPU cores detected)
+
+Reading alignment file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/JmjC/PLT/PLT.JmjC.seqs.lt.fasta ... Fasta format detected
+Reading fasta file: done in 0.013931 secs using 92.49% CPU
+Alignment most likely contains protein sequences
+Alignment has 800 sequences with 840 columns, 840 distinct patterns
+840 parsimony-informative, 0 singleton sites, 0 constant sites
+                       Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000366926 secs using 449.1% CPU
+   1  Otau_XP_022838559.1     60.60%    failed      0.84%
+   2  Bnap_XP_013715519.2     59.40%    passed     14.33%
+   3  Bnap_XP_013670835.1     59.52%    passed     11.82%
+   4  Atha_NP_196273.3        59.17%    passed     13.95%
+   5  Qlob_XP_030927547.1     58.93%    passed     34.05%
+   6  Rchi_XP_024190914.1     58.81%    passed     80.06%
+   7  Mesc_XP_021619270.1     58.81%    passed     13.07%
+   8  Mtru_XP_013450272.2     58.69%    passed     14.13%
+   9  Psat_XP_050910243.1     58.81%    passed      8.17%
+  10  Sollyc_XP_004249386.1   58.81%    passed      7.55%
+  11  Cofcan_CDP10557.1       60.60%    passed     17.44%
+  12  Lsat_XP_023752942.1     58.93%    failed      0.68%
+  13  Atri_XP_006826400.1     59.17%    passed     24.31%
+  14  Ecur_TVU24916.1         58.93%    passed     23.57%
+  15  Ecur_TVT96865.1         58.93%    passed     14.21%
+  16  Zmay_NP_001147915.1     58.93%    passed      5.55%
+  17  Osat_XP_015617023.1     58.93%    passed      8.38%
+  18  Tura_XP_048542804.1     58.93%    failed      3.52%
+  19  Bdis_XP_003577439.1     58.93%    failed      1.31%
+  20  Mpol_BFI25858.1         59.17%    passed     11.98%
+  21  Ppat_XP_024361962.1     59.05%    passed     27.48%
+  22  Smoe_XP_002980245.1     58.81%    passed     16.30%
+  23  Smoe_XP_024519406.1     58.81%    passed     16.30%
+  24  Cbra_GBG79440.1         58.21%    failed      0.45%
+  25  Crei_XP_042918101.1     58.93%    failed      0.01%
+  26  Ccri_XP_005717028.1     59.88%    passed     62.77%
+  27  Ppur_KAA8497916.1       60.71%    passed     26.64%
+  28  Ppat_XP_024381425.1     56.79%    passed     52.77%
+  29  Ppat_XP_024388877.1     56.79%    passed     26.82%
+  30  Smoe_XP_024526086.1     57.86%    failed      1.93%
+  31  Smoe_XP_024543826.1     57.74%    failed      3.75%
+  32  Mpol_BFI35090.1         56.79%    passed     22.85%
+  33  Rchi_XP_024168585.1     56.07%    passed     40.38%
+  34  Mesc_XP_021601203.1     56.07%    passed     56.29%
+  35  Qlob_XP_030947080.1     56.19%    passed     34.33%
+  36  Qlob_XP_030947099.1     56.19%    passed     34.33%
+  37  Mtru_XP_003602822.2     55.95%    passed     72.07%
+  38  Psat_XP_050874756.1     56.43%    passed     78.87%
+  39  Bnap_XP_013649982.1     56.67%    passed     28.05%
+  40  Bnap_XP_013650163.1     56.67%    passed     31.66%
+  41  Atha_NP_177951.6        57.02%    passed     37.32%
+  42  Lsat_XP_023763630.1     55.95%    passed      7.83%
+  43  Cofcan_CDP01095.1       56.07%    passed     14.80%
+  44  Sollyc_XP_004237935.2   55.95%    passed     74.92%
+  45  Atri_XP_006853278.1     55.95%    passed     52.32%
+  46  Tura_XP_048529630.1     59.40%    passed     36.94%
+  47  Tura_XP_048548281.1     56.90%    passed     37.20%
+  48  Tura_XP_048558192.1     56.90%    passed     49.71%
+  49  Bdis_XP_003557787.1     56.79%    passed     22.14%
+  50  Osat_XP_015630376.1     57.02%    passed     64.66%
+  51  Ecur_TVU46770.1         56.90%    passed     61.98%
+  52  Zmay_NP_001169561.1     56.90%    passed     67.11%
+  53  Otau_XP_022840576.1     63.93%    failed      0.03%
+  54  Crei_XP_042921376.1     63.93%    failed      0.00%
+  55  Dpul_XP_046437539.1     66.55%    passed     14.42%
+  56  Bmor_XP_004923869.1     66.31%    failed      2.89%
+  57  Dmel_NP_001262832.1     65.24%    passed     30.18%
+  58  Apimel_XP_394543.3      66.19%    passed     35.57%
+  59  Pvan_XP_027230014.1     66.43%    failed      3.18%
+  60  Drer_NP_739567.3        65.71%    passed     58.29%
+  61  Xtro_NP_001016203.1     65.71%    passed     70.62%
+  62  Hsap_NP_001074930.1     65.71%    passed     72.18%
+  63  Ggal_NP_001025874.2     65.71%    passed     68.31%
+  64  Blan_XP_066266676.1     65.48%    passed     39.88%
+  65  Cint_XP_002127949.1     66.19%    passed     16.62%
+  66  Lana_XP_013391904.1     65.60%    passed     15.13%
+  67  Lana_XP_013411786.1     65.60%    passed     13.06%
+  68  Aplcal_XP_005109011.1   65.36%    passed     74.09%
+  69  Tadh_XP_002107811.1     66.07%    passed     28.36%
+  70  Apla_XP_022091878.1     65.60%    passed     81.26%
+  71  Skow_XP_002734916.1     65.83%    passed     17.14%
+  72  Cscu_XP_023221812.1     66.31%    passed     56.80%
+  73  Spur_XP_030849206.1     65.71%    passed     36.96%
+  74  Spur_XP_030849191.1     65.71%    passed     36.96%
+  75  Aque_XP_003382573.1     66.43%    passed     96.87%
+  76  Scil_XP_065186832.1     65.71%    passed     23.21%
+  77  Smed_h1SMcT0014445.1    65.60%    failed      1.78%
+  78  Hrob_XP_009023436.1     63.45%    passed     18.29%
+  79  Smed_h1SMcT0022834.1    66.79%    failed      0.54%
+  80  Mlei_ML04335a-PA        73.69%    failed      1.98%
+  81  Ppur_KAA8497144.1       65.95%    passed     36.15%
+  82  Crei_XP_042922680.1     21.79%    failed      0.00%
+  83  Drer_XP_021323145.1     26.43%    passed     96.10%
+  84  Cscu_XP_023243623.1     32.38%    failed      4.00%
+  85  Ggal_NP_001012909.2     34.29%    passed     47.27%
+  86  Hsap_NP_060903.2        33.93%    passed     30.49%
+  87  Xtro_XP_004911336.2     33.33%    passed     19.87%
+  88  Ggal_XP_015149526.2     32.98%    passed     49.26%
+  89  Hsap_NP_057688.3        32.50%    passed     58.35%
+  90  Drer_XP_021328444.1     59.64%    passed     88.37%
+  91  Drer_XP_005173195.1     32.50%    passed     74.98%
+  92  Xtro_XP_002936894.1     32.74%    passed     42.94%
+  93  Lana_XP_013403538.1     24.40%    passed     22.52%
+  94  Lana_XP_013402774.1     47.38%    failed      4.11%
+  95  Aplcal_XP_005091148.2   25.48%    passed     51.30%
+  96  Hrob_XP_009019543.1     49.17%    failed      0.89%
+  97  Blan_XP_066278769.1     28.21%    passed     29.68%
+  98  Tadh_XP_002117485.1     64.29%    failed      0.29%
+  99  Pvan_XP_027238100.2     32.50%    passed     70.44%
+ 100  Dmel_NP_788611.1        46.79%    failed      2.29%
+ 101  Apimel_XP_006560193.2   26.07%    passed      5.42%
+ 102  Bmor_XP_004932682.2     29.76%    failed      0.01%
+ 103  Dpul_XP_046441411.1     26.43%    passed     27.88%
+ 104  Dpul_XP_046441855.1     48.33%    passed     49.98%
+ 105  Apla_XP_022094435.1     25.36%    failed      4.63%
+ 106  Skow_XP_006825941.1     25.71%    passed     42.13%
+ 107  Bnap_XP_048605489.1     89.40%    passed     31.04%
+ 108  Spur_XP_030842094.1     32.38%    passed      8.84%
+ 109  Cint_XP_002122286.3     39.29%    passed     85.31%
+ 110  Xtro_XP_031761210.1     25.12%    passed     81.09%
+ 111  Hsap_NP_116165.1        24.76%    passed     40.94%
+ 112  Ggal_NP_001186475.3     25.12%    passed     54.31%
+ 113  Drer_XP_009304785.1     25.95%    passed     87.64%
+ 114  Aque_XP_019850041.1     35.60%    failed      2.00%
+ 115  Ccri_XP_005716080.1     88.69%    failed      3.81%
+ 116  Ccri_XP_005712655.1     75.95%    failed      0.22%
+ 117  Ccri_XP_005712309.1     35.12%    failed      0.25%
+ 118  Crei_XP_042918372.1      7.98%    failed      0.00%
+ 119  Lsat_XP_023734930.1     65.24%    passed     88.09%
+ 120  Qlob_XP_030973177.1     65.83%    passed     92.38%
+ 121  Qlob_XP_030947628.1     64.64%    passed     95.95%
+ 122  Mesc_XP_021612650.1     65.24%    passed     38.77%
+ 123  Rchi_XP_024164996.1     65.24%    passed     60.85%
+ 124  Psat_XP_050887295.1     65.24%    passed     71.72%
+ 125  Mtru_XP_003590573.1     65.24%    passed     66.57%
+ 126  Cofcan_CDP03676.1       64.64%    passed     45.79%
+ 127  Cofcan_CDP19768.1       87.86%    failed      1.33%
+ 128  Sollyc_XP_004247201.1   65.12%    passed     92.23%
+ 129  Bnap_XP_013682006.3     65.24%    passed     46.27%
+ 130  Bnap_XP_013730750.2     65.24%    passed     75.01%
+ 131  Atha_NP_001190341.1     65.71%    passed     77.84%
+ 132  Ecur_TVU34924.1         73.33%    passed     42.45%
+ 133  Ecur_TVU34937.1         72.26%    passed      8.00%
+ 134  Tura_XP_048564742.1     64.40%    passed     44.78%
+ 135  Bdis_XP_003569931.2     62.38%    passed     72.44%
+ 136  Zmay_NP_001360982.1     64.64%    passed     35.57%
+ 137  Osat_XP_015618169.1     64.40%    passed     31.37%
+ 138  Atri_XP_020520100.1     65.60%    passed     14.97%
+ 139  Ppat_XP_024366925.1     65.36%    passed     18.13%
+ 140  Smoe_XP_024527652.1     65.71%    passed     11.17%
+ 141  Smoe_XP_024520670.1     65.71%    passed     13.94%
+ 142  Smoe_XP_024532000.1     80.12%    passed     63.80%
+ 143  Smoe_XP_024527929.1     66.79%    passed      9.29%
+ 144  Mpol_BFI40533.1         65.36%    passed     17.89%
+ 145  Crei_XP_042920294.1     39.05%    failed      0.00%
+ 146  Otau_XP_003075129.1     67.38%    failed      0.66%
+ 147  Ccri_XP_005713882.1     68.81%    failed      0.00%
+ 148  Cint_XP_026691491.1     65.60%    passed     14.07%
+ 149  Drer_NP_001017615.1     65.36%    passed     87.46%
+ 150  Ggal_NP_001108131.2     64.76%    passed     35.58%
+ 151  Xtro_NP_001011279.1     64.88%    passed     23.79%
+ 152  Hsap_NP_005081.1        63.45%    failed      1.65%
+ 153  Hsap_NP_001108104.1     64.88%    failed      0.72%
+ 154  Blan_XP_066273986.1     64.40%    passed     45.22%
+ 155  Skow_XP_002731421.1     65.12%    passed      6.71%
+ 156  Apla_XP_022097445.1     63.21%    passed     22.82%
+ 157  Lana_XP_013379747.1     63.69%    passed     12.87%
+ 158  Pvan_XP_027211147.1     64.76%    passed      6.01%
+ 159  Pvan_XP_069980168.1     66.07%    passed     35.61%
+ 160  Dpul_XP_046440732.1     65.48%    failed      1.85%
+ 161  Dpul_XP_046440730.1     65.48%    failed      1.05%
+ 162  Spur_XP_011662092.2     64.17%    passed     17.78%
+ 163  Aplcal_XP_005105261.1   65.00%    passed      6.35%
+ 164  Scil_XP_065195925.1     63.69%    passed      6.48%
+ 165  Dmel_NP_648651.1        64.88%    passed     28.25%
+ 166  Bmor_XP_004927524.2     61.67%    failed      0.15%
+ 167  Mlei_ML05732a-PA        66.43%    failed      4.27%
+ 168  Cofcan_CDP08570.1       79.29%    passed     62.14%
+ 169  Cofcan_CDP07169.1       60.36%    passed     14.34%
+ 170  Lsat_XP_023751667.1     62.86%    failed      3.50%
+ 171  Sollyc_XP_004246003.2   62.38%    passed      6.83%
+ 172  Bnap_XP_013702573.1     62.02%    passed     18.10%
+ 173  Bnap_XP_013642534.1     63.10%    passed      5.66%
+ 174  Atha_NP_190174.2        62.98%    passed     31.07%
+ 175  Mesc_XP_043809631.1     62.26%    failed      2.96%
+ 176  Qlob_XP_030948747.1     62.14%    failed      0.55%
+ 177  Rchi_XP_040363050.1     62.62%    failed      3.82%
+ 178  Psat_XP_050906267.1     63.45%    passed      7.29%
+ 179  Mtru_XP_003612456.1     63.57%    failed      4.62%
+ 180  Atri_XP_020522844.1     63.45%    passed     38.69%
+ 181  Tura_XP_048530686.1     62.74%    failed      0.01%
+ 182  Zmay_NP_001147606.1     62.14%    failed      0.02%
+ 183  Osat_XP_015611921.1     62.62%    failed      0.00%
+ 184  Ppat_XP_024403668.1     63.93%    passed     12.17%
+ 185  Smoe_XP_024525051.1     62.26%    passed     26.23%
+ 186  Smoe_XP_024544700.1     63.93%    passed     58.49%
+ 187  Hrob_XP_009014715.1     65.48%    failed      4.50%
+ 188  Cscu_XP_023237107.1     24.05%    failed      0.27%
+ 189  Psat_XP_050892498.1     21.43%    passed     95.88%
+ 190  Mtru_XP_003591873.2     21.67%    passed     92.60%
+ 191  Mesc_XP_021617256.1     16.90%    passed     66.08%
+ 192  Bnap_XP_048623063.1     24.17%    passed     90.12%
+ 193  Bnap_XP_013668398.2     23.93%    passed     80.05%
+ 194  Atha_NP_196044.2        21.67%    passed     87.91%
+ 195  Qlob_XP_030932241.1     18.21%    passed     82.08%
+ 196  Lsat_XP_023734699.3     25.12%    passed     35.12%
+ 197  Rchi_XP_024176619.1     18.81%    passed     63.06%
+ 198  Cofcan_CDO99756.1       21.19%    passed     96.75%
+ 199  Sollyc_XP_010319604.2   20.60%    passed     75.54%
+ 200  Atri_XP_020525113.1     21.07%    passed     35.05%
+ 201  Tura_XP_048572622.1     20.12%    failed      2.13%
+ 202  Tura_XP_048572587.1     19.17%    failed      1.56%
+ 203  Bdis_XP_010229202.1     18.10%    passed     12.10%
+ 204  Osat_XP_015630480.1     19.64%    failed      2.49%
+ 205  Ecur_TVU48357.1         20.48%    passed      6.14%
+ 206  Zmay_NP_001348374.1     20.36%    failed      4.74%
+ 207  Zmay_XP_008656966.1     22.02%    failed      3.12%
+ 208  Ecur_TVU36121.1         22.50%    passed     11.94%
+ 209  Osat_NP_001383803.1     22.02%    failed      2.11%
+ 210  Tura_XP_048565599.1     21.67%    failed      0.01%
+ 211  Bdis_XP_010232711.2     23.81%    passed     31.66%
+ 212  Psat_XP_050871236.1     16.90%    passed     44.04%
+ 213  Psat_XP_050880640.1     16.55%    passed     67.12%
+ 214  Mtru_XP_024635912.1     16.55%    passed     55.28%
+ 215  Lsat_XP_023733586.2     24.52%    passed     45.10%
+ 216  Mesc_XP_021614573.1     16.31%    passed     79.79%
+ 217  Mesc_XP_043806207.1     15.71%    passed     61.64%
+ 218  Qlob_XP_030937521.1     17.38%    passed     65.16%
+ 219  Rchi_XP_024170153.1     16.67%    passed     36.60%
+ 220  Lsat_XP_023733592.1     25.71%    passed     30.12%
+ 221  Sollyc_XP_004236313.2   21.55%    passed     81.57%
+ 222  Cofcan_CDP15069.1       21.79%    passed     52.37%
+ 223  Bnap_XP_013724852.1     17.14%    passed     59.28%
+ 224  Bnap_XP_022544214.2     16.90%    passed     48.24%
+ 225  Atha_NP_680116.2        16.67%    passed     39.78%
+ 226  Atri_XP_020527617.1     23.57%    passed     89.84%
+ 227  Mpol_BFI29960.1         14.88%    passed     62.70%
+ 228  Bdis_XP_010238558.1     19.64%    passed     58.73%
+ 229  Tura_XP_048528831.1     20.24%    passed     81.79%
+ 230  Osat_XP_066162624.1     21.07%    passed     60.06%
+ 231  Ecur_TVU51698.1         22.38%    passed     24.41%
+ 232  Zmay_XP_020401162.1     19.64%    passed     13.13%
+ 233  Ppat_XP_024388695.1     17.86%    passed      6.79%
+ 234  Ppat_XP_024380325.1     17.98%    passed      6.20%
+ 235  Smoe_XP_002986768.1     21.19%    failed      4.13%
+ 236  Smoe_XP_002969518.1     21.19%    failed      4.05%
+ 237  Smoe_XP_024544679.1     27.38%    passed     72.03%
+ 238  Smoe_XP_002962475.1     27.38%    passed     74.52%
+ 239  Osat_NP_001410040.1     28.93%    passed     65.67%
+ 240  Zmay_XP_020402036.1     30.36%    passed     66.23%
+ 241  Zmay_XP_020393912.1     28.81%    passed     39.00%
+ 242  Ecur_TVU31537.1         25.71%    passed     57.55%
+ 243  Tura_XP_048533120.1     28.45%    passed     13.23%
+ 244  Bdis_XP_024316791.1     30.12%    passed     32.75%
+ 245  Atha_NP_199502.2        33.81%    passed     23.27%
+ 246  Bnap_XP_013677287.2     34.29%    passed     14.37%
+ 247  Bnap_XP_013695909.1     34.29%    passed     25.33%
+ 248  Bnap_XP_048618369.1     33.69%    passed     57.96%
+ 249  Bnap_XP_048624426.1     33.69%    passed     52.36%
+ 250  Bnap_XP_048596631.1     33.69%    passed     45.63%
+ 251  Sollyc_XP_010325573.1   29.76%    passed     72.09%
+ 252  Sollyc_XP_010324469.2   30.48%    passed     56.50%
+ 253  Mtru_XP_003612815.1     30.60%    passed     76.01%
+ 254  Psat_XP_050906055.1     29.76%    passed     83.31%
+ 255  Rchi_XP_024170181.1     30.12%    passed     42.47%
+ 256  Qlob_XP_030947610.1     28.33%    passed     87.20%
+ 257  Mesc_XP_021599201.1     28.81%    passed     23.77%
+ 258  Lsat_XP_023769563.1     35.83%    passed     55.61%
+ 259  Lsat_XP_023736216.1     37.02%    passed     49.98%
+ 260  Cofcan_CDP18547.1       30.71%    passed     98.35%
+ 261  Qlob_XP_030936123.1     46.55%    passed     70.23%
+ 262  Atri_XP_011626998.2     28.33%    passed     48.35%
+ 263  Sollyc_XP_004235293.1   43.93%    failed      0.37%
+ 264  Cofcan_CDP04929.1       49.40%    passed     63.13%
+ 265  Osat_XP_015626607.1     29.52%    passed     26.93%
+ 266  Tura_XP_048535503.1     29.64%    failed      3.58%
+ 267  Ecur_TVU28090.1         30.36%    passed      9.16%
+ 268  Ecur_TVU03373.1         30.36%    passed      9.16%
+ 269  Zmay_NP_001349496.1     31.19%    passed     39.30%
+ 270  Mtru_XP_024630513.2     63.57%    failed      3.32%
+ 271  Mtru_XP_003589715.1     42.38%    failed      1.98%
+ 272  Psat_XP_050889753.1     43.57%    failed      2.21%
+ 273  Lsat_XP_042756887.2     44.29%    failed      1.99%
+ 274  Smoe_XP_002993156.2     29.29%    passed     15.60%
+ 275  Smoe_XP_024524853.1     29.29%    passed     19.74%
+ 276  Bmor_XP_012553221.2     24.76%    passed     20.06%
+ 277  Aplcal_XP_012946957.1   22.98%    passed     80.56%
+ 278  Lana_XP_013414674.1     27.74%    passed     28.29%
+ 279  Blan_XP_066283195.1     22.62%    passed      9.90%
+ 280  Skow_XP_006815984.1     23.57%    passed     36.98%
+ 281  Apla_XP_022082641.1     23.21%    passed      9.21%
+ 282  Spur_XP_030827947.1     22.74%    passed     59.33%
+ 283  Hsap_NP_001036068.1     22.62%    failed      0.87%
+ 284  Ggal_XP_004937981.3     22.62%    passed      7.23%
+ 285  Xtro_XP_031754497.1     23.57%    failed      4.92%
+ 286  Drer_XP_068073872.1     22.86%    failed      0.36%
+ 287  Bmor_NP_001191408.1     44.64%    passed     57.67%
+ 288  Apimel_XP_003250774.1   24.05%    passed     50.08%
+ 289  Pvan_XP_027231079.1     23.33%    passed     30.46%
+ 290  Drer_NP_001334536.1     24.52%    passed     23.14%
+ 291  Hsap_NP_001300971.1     23.81%    passed     18.24%
+ 292  Ggal_NP_001026200.1     24.29%    failed      3.18%
+ 293  Xtro_XP_017946994.1     27.14%    failed      0.65%
+ 294  Drer_NP_001002166.2     23.57%    failed      4.98%
+ 295  Xtro_NP_001072719.1     26.43%    passed      7.92%
+ 296  Hsap_NP_001140177.1     26.19%    failed      4.62%
+ 297  Hsap_NP_004178.2        26.19%    failed      1.07%
+ 298  Drer_NP_001116706.1     26.07%    passed     16.23%
+ 299  Dmel_NP_001285649.1     23.57%    passed     12.28%
+ 300  Dpul_XP_046456516.1     24.40%    passed     68.63%
+ 301  Tadh_XP_002111443.1     28.45%    passed     90.01%
+ 302  Cint_XP_026693272.1     24.05%    passed     74.18%
+ 303  Hrob_XP_009028799.1     51.19%    passed     19.99%
+ 304  Hrob_XP_009014129.1     51.19%    passed     42.42%
+ 305  Cscu_XP_023233588.1     25.60%    passed      6.07%
+ 306  Scil_XP_065178094.1     25.60%    passed      8.80%
+ 307  Aque_XP_003385970.1     23.93%    passed     33.92%
+ 308  Sollyc_XP_010325407.1   16.43%    passed     85.85%
+ 309  Cofcan_CDP09743.1       16.19%    passed      9.27%
+ 310  Mesc_XP_043811612.1     16.43%    failed      2.23%
+ 311  Qlob_XP_030947809.1     16.31%    passed     38.98%
+ 312  Rchi_XP_024175137.1     15.95%    passed     73.52%
+ 313  Psat_XP_050907232.1     16.07%    passed     65.76%
+ 314  Mtru_XP_024640134.1     15.83%    passed     79.39%
+ 315  Lsat_XP_023772176.1     15.83%    passed     18.03%
+ 316  Atha_NP_001320899.1     24.88%    passed     57.95%
+ 317  Bnap_XP_013748048.1     24.88%    passed     64.61%
+ 318  Bnap_XP_022550902.1     24.88%    passed     72.46%
+ 319  Smoe_XP_002987301.2     16.43%    passed     53.90%
+ 320  Smoe_XP_002989181.2     16.43%    passed     53.90%
+ 321  Smoe_XP_024525589.1     90.00%    passed     11.28%
+ 322  Ppat_XP_024359163.1     45.12%    passed      9.24%
+ 323  Ppat_XP_024359647.1     45.83%    passed     36.06%
+ 324  Mpol_BFI43380.1         16.55%    failed      1.02%
+ 325  Zmay_XP_020393996.1     16.55%    passed     19.79%
+ 326  Ecur_TVU07513.1         23.33%    failed      3.40%
+ 327  Tura_XP_048540179.1     16.31%    passed     67.65%
+ 328  Bdis_XP_010239211.1     16.19%    passed     41.92%
+ 329  Osat_XP_066167765.1     15.83%    passed      8.69%
+ 330  Atri_XP_020527065.1     16.43%    passed     81.88%
+ 331  Cofcan_CDO99990.1       22.50%    passed     84.31%
+ 332  Lsat_XP_023755416.1     33.10%    passed     49.62%
+ 333  Lsat_XP_023769195.1     31.07%    passed     59.89%
+ 334  Lsat_XP_023767761.1     28.21%    passed     30.11%
+ 335  Mesc_XP_021624295.2     22.26%    passed     66.70%
+ 336  Mesc_XP_021621607.1     20.83%    passed     86.70%
+ 337  Bnap_XP_013657653.2     24.76%    passed     97.01%
+ 338  Bnap_XP_013678706.1     24.52%    passed     97.75%
+ 339  Atha_NP_172338.5        23.10%    passed     99.35%
+ 340  Bnap_XP_013711163.2     25.71%    passed     99.41%
+ 341  Bnap_XP_013641065.2     26.90%    passed     98.80%
+ 342  Bnap_XP_022565840.2     80.83%    passed     69.28%
+ 343  Qlob_XP_030959491.1     22.38%    passed     88.89%
+ 344  Rchi_XP_024191000.1     23.69%    passed     78.35%
+ 345  Sollyc_XP_025886387.1   23.21%    passed     83.85%
+ 346  Mtru_XP_039684802.1     22.98%    passed     65.34%
+ 347  Psat_XP_050893161.1     21.67%    passed     63.25%
+ 348  Tura_XP_048552025.1     21.79%    passed     85.84%
+ 349  Bdis_XP_003567797.1     22.02%    passed     73.24%
+ 350  Osat_NP_001407176.1     21.90%    passed     87.75%
+ 351  Zmay_NP_001352824.1     20.83%    passed     99.24%
+ 352  Ecur_TVU11697.1         20.83%    passed     87.13%
+ 353  Ecur_TVU27776.1         25.36%    passed     94.06%
+ 354  Ecur_TVU27786.1         23.69%    passed     96.06%
+ 355  Zmay_XP_020408302.1     22.02%    passed     77.64%
+ 356  Zmay_XP_035823326.1     22.02%    passed     74.75%
+ 357  Zmay_XP_020408306.1     22.02%    passed     74.75%
+ 358  Atri_XP_020518635.1     25.00%    passed     28.70%
+ 359  Atri_XP_020531027.1     22.14%    passed     49.60%
+ 360  Atha_NP_181034.1        36.31%    failed      4.56%
+ 361  Bnap_XP_013708451.2     36.79%    failed      4.88%
+ 362  Bnap_XP_048594566.1     36.67%    passed     16.52%
+ 363  Bnap_XP_022546667.2     35.60%    passed     22.19%
+ 364  Bnap_XP_022559014.1     35.48%    passed     20.46%
+ 365  Atha_NP_001319118.1     35.60%    passed     29.58%
+ 366  Bnap_XP_048634430.1     35.36%    passed      5.80%
+ 367  Bnap_XP_013746150.2     35.12%    failed      2.00%
+ 368  Bnap_XP_048612028.1     46.67%    failed      0.45%
+ 369  Bnap_XP_048634460.1     45.00%    failed      2.21%
+ 370  Mesc_XP_021608859.1     28.45%    passed     70.78%
+ 371  Mesc_XP_021597375.1     33.57%    passed     61.78%
+ 372  Qlob_XP_030970034.1     28.21%    passed     56.76%
+ 373  Rchi_XP_024157095.1     29.52%    passed     63.40%
+ 374  Psat_XP_050872270.1     29.40%    passed     50.77%
+ 375  Mtru_XP_024633149.1     30.12%    passed     46.98%
+ 376  Mtru_XP_024628887.2     28.33%    passed     29.43%
+ 377  Psat_XP_050894964.1     29.76%    passed     48.02%
+ 378  Lsat_XP_023732819.1     36.31%    passed     82.00%
+ 379  Atha_NP_193773.2        31.90%    passed     61.04%
+ 380  Bnap_XP_048595944.1     32.62%    passed     51.22%
+ 381  Bnap_XP_013655886.2     32.62%    passed     44.78%
+ 382  Tura_XP_048573704.1     27.38%    passed     76.63%
+ 383  Bdis_XP_010231556.1     27.74%    passed     87.99%
+ 384  Bdis_XP_010235272.1     27.86%    passed     88.41%
+ 385  Zmay_XP_020395100.1     29.52%    passed     73.77%
+ 386  Zmay_NP_001132887.1     45.48%    passed     79.92%
+ 387  Osat_XP_015640426.2     30.71%    passed     91.39%
+ 388  Ecur_TVU18636.1         28.93%    passed     25.97%
+ 389  Sollyc_XP_004233887.1   31.90%    passed     56.17%
+ 390  Mpol_BFI39336.1         21.07%    passed     53.32%
+ 391  Smoe_XP_024529682.1     38.10%    passed     67.85%
+ 392  Smoe_XP_024520256.1     37.38%    passed     63.06%
+ 393  Ppat_XP_024398634.1     21.43%    passed     24.43%
+ 394  Qlob_XP_030937071.1     38.81%    passed     24.23%
+ 395  Mesc_XP_043804601.1     40.95%    passed      5.06%
+ 396  Rchi_XP_040364674.1     38.33%    passed     58.76%
+ 397  Cofcan_CDP03753.1       42.62%    passed     48.22%
+ 398  Lsat_XP_023745545.1     48.21%    passed     20.47%
+ 399  Sollyc_XP_004240500.1   40.95%    passed     72.70%
+ 400  Mtru_XP_013449908.1     37.98%    passed     92.84%
+ 401  Psat_XP_050910851.1     37.74%    passed     62.81%
+ 402  Smoe_XP_024533629.1     34.29%    passed     19.74%
+ 403  Smoe_XP_024517662.1     34.29%    passed     23.04%
+ 404  Hrob_XP_009029933.1     20.71%    passed     35.95%
+ 405  Mlei_ML04276a-PA        38.21%    passed     83.68%
+ 406  Smed_h1SMcT0011597.1    25.00%    passed     39.68%
+ 407  Scil_XP_065185461.1     22.02%    failed      3.22%
+ 408  Bnap_XP_048609425.1     43.33%    passed     44.91%
+ 409  Bnap_XP_022574891.2     43.33%    passed     38.70%
+ 410  Atha_NP_181429.2        42.98%    passed      8.91%
+ 411  Bnap_XP_048608543.1     44.05%    passed     25.87%
+ 412  Smed_h1SMcT0019561.1    20.00%    passed     13.66%
+ 413  Dpul_XP_046438861.1     70.48%    passed     15.58%
+ 414  Otau_XP_022838532.1     48.45%    passed     61.66%
+ 415  Crei_XP_042925985.1     13.93%    failed      0.00%
+ 416  Cbra_GBG80268.1         62.50%    passed     55.22%
+ 417  Bmor_NP_001243917.1     43.10%    failed      0.00%
+ 418  Hsap_NP_001398077.1     34.88%    passed     32.27%
+ 419  Ggal_XP_046760686.1     34.40%    passed     13.24%
+ 420  Xtro_NP_989064.2        37.26%    passed     16.19%
+ 421  Tadh_XP_002113920.1     63.10%    failed      1.28%
+ 422  Cscu_XP_023237336.1     37.50%    failed      2.96%
+ 423  Apimel_XP_016771723.2   37.14%    failed      0.07%
+ 424  Aque_XP_003392033.1     81.90%    passed     35.54%
+ 425  Blan_XP_066299400.1     37.86%    passed     11.19%
+ 426  Drer_NP_001076274.1     35.60%    passed     17.65%
+ 427  Hsap_NP_001340926.1     36.67%    passed     64.96%
+ 428  Ggal_XP_040511923.1     36.67%    passed     43.83%
+ 429  Drer_XP_001921829.2     32.62%    passed     34.60%
+ 430  Ggal_XP_015146792.1     37.14%    passed     64.81%
+ 431  Hsap_NP_055478.2        37.14%    passed     35.80%
+ 432  Xtro_NP_001107498.1     38.81%    passed     74.45%
+ 433  Drer_XP_001339664.2     38.93%    passed     68.18%
+ 434  Hrob_XP_009016237.1     59.76%    failed      0.72%
+ 435  Xtro_XP_012808166.1     36.67%    passed     10.70%
+ 436  Drer_NP_001077320.1     32.50%    passed     22.04%
+ 437  Lana_XP_013378692.1     31.67%    failed      0.16%
+ 438  Hrob_XP_009018328.1     60.71%    passed      6.05%
+ 439  Aplcal_XP_005110552.1   32.02%    failed      0.94%
+ 440  Hrob_XP_009029034.1     63.57%    passed      8.91%
+ 441  Pvan_XP_069999750.1     50.60%    failed      2.01%
+ 442  Hsap_NP_001155102.1     56.31%    failed      3.33%
+ 443  Hsap_NP_001400684.1     52.38%    failed      3.86%
+ 444  Hsap_NP_060509.2        55.36%    passed     34.04%
+ 445  Dmel_NP_610331.1        53.69%    failed      0.31%
+ 446  Dmel_NP_001260942.1     47.50%    failed      0.00%
+ 447  Dpul_XP_046439483.1     36.67%    passed     40.56%
+ 448  Spur_XP_030851904.1     33.93%    failed      1.03%
+ 449  Apla_XP_022101942.1     33.69%    passed     13.90%
+ 450  Cint_XP_009859394.1     40.60%    failed      0.01%
+ 451  Cscu_XP_023230236.1     79.76%    passed     50.91%
+ 452  Cscu_XP_023230232.1     33.81%    passed     14.80%
+ 453  Skow_XP_006813368.1     38.21%    passed      5.90%
+ 454  Smed_h1SMcT0017276.2    43.57%    failed      1.36%
+ 455  Smed_h1SMcT0015695.2    59.52%    failed      0.01%
+ 456  Scil_XP_065175051.1     36.07%    failed      0.56%
+ 457  Crei_XP_042926830.1     29.17%    failed      0.00%
+ 458  Crei_XP_042914509.1     26.19%    failed      0.00%
+ 459  Otau_XP_022840936.1     40.95%    failed      2.85%
+ 460  Ppur_KAA8497372.1       68.21%    failed      0.66%
+ 461  Otau_XP_022840230.1     34.05%    failed      0.00%
+ 462  Scil_XP_065186999.1     61.90%    failed      0.45%
+ 463  Aque_XP_019849210.1     70.83%    passed     44.55%
+ 464  Blan_XP_066299717.1     60.95%    passed     69.90%
+ 465  Tadh_XP_002109902.1     60.12%    passed     19.60%
+ 466  Aplcal_XP_005105773.1   60.48%    passed     19.49%
+ 467  Smed_h1SMcT0009561.1    17.38%    failed      0.00%
+ 468  Bnap_XP_013735327.2     35.00%    passed     13.23%
+ 469  Bnap_XP_048605946.1     35.36%    passed     14.53%
+ 470  Bnap_XP_048595127.1     36.31%    passed     10.58%
+ 471  Bnap_XP_048625487.1     37.02%    passed     11.78%
+ 472  Atha_NP_192008.3        36.67%    failed      3.92%
+ 473  Bnap_XP_022548707.2     78.93%    passed     52.81%
+ 474  Rchi_XP_024177384.1     27.02%    passed     18.04%
+ 475  Rchi_XP_024176218.1     33.93%    failed      3.75%
+ 476  Psat_XP_050916935.1     36.07%    passed     41.12%
+ 477  Mtru_XP_013450617.1     33.93%    passed     39.14%
+ 478  Mesc_XP_021604997.1     26.55%    passed     12.61%
+ 479  Psat_XP_050893073.1     26.31%    passed     13.27%
+ 480  Mtru_XP_003588516.2     25.95%    failed      0.89%
+ 481  Lsat_XP_023728507.1     29.64%    failed      4.66%
+ 482  Qlob_XP_030935533.1     24.76%    failed      0.21%
+ 483  Qlob_XP_030933855.1     24.76%    failed      0.15%
+ 484  Atri_XP_020527895.1     30.48%    failed      0.13%
+ 485  Mpol_BFI29758.1         30.00%    failed      1.26%
+ 486  Smoe_XP_024532325.1     34.76%    failed      0.05%
+ 487  Smoe_XP_024526228.1     34.76%    failed      0.06%
+ 488  Lsat_XP_042758584.2     26.55%    failed      0.01%
+ 489  Lsat_XP_023749344.1     26.67%    failed      0.05%
+ 490  Lsat_XP_023749326.1     25.24%    failed      0.02%
+ 491  Lsat_XP_023749364.1     30.48%    failed      1.49%
+ 492  Lsat_XP_042758581.1     32.86%    passed     23.32%
+ 493  Lsat_XP_023749314.1     35.95%    passed     33.16%
+ 494  Lsat_XP_042758580.1     31.67%    passed     11.70%
+ 495  Lsat_XP_042758186.1     41.07%    failed      0.18%
+ 496  Lsat_XP_023749310.1     34.64%    failed      3.92%
+ 497  Bdis_XP_010238028.2     29.29%    passed     19.84%
+ 498  Osat_XP_015623784.1     32.62%    passed     11.16%
+ 499  Tura_XP_048552646.1     34.76%    failed      0.06%
+ 500  Tura_XP_048547542.1     32.02%    failed      0.02%
+ 501  Zmay_XP_008677146.1     30.12%    failed      2.81%
+ 502  Ecur_TVU27615.1         30.48%    failed      2.10%
+ 503  Osat_XP_015631297.1     31.07%    failed      0.27%
+ 504  Zmay_XP_008665049.1     32.14%    passed     64.02%
+ 505  Ecur_TVU46240.1         31.31%    failed      2.74%
+ 506  Ecur_TVU46224.1         31.55%    passed      8.38%
+ 507  Tura_XP_048530144.1     33.21%    passed     36.12%
+ 508  Osat_XP_015611177.1     66.31%    passed     59.11%
+ 509  Osat_XP_015612349.2     32.14%    passed     32.96%
+ 510  Bdis_XP_024318842.1     32.62%    passed     20.51%
+ 511  Zmay_NP_001357967.1     33.45%    passed     22.36%
+ 512  Ecur_TVU09444.1         33.69%    passed     19.01%
+ 513  Rchi_XP_024160637.1     34.05%    passed     30.83%
+ 514  Mtru_XP_039689161.1     35.71%    failed      2.59%
+ 515  Psat_XP_050920722.1     36.43%    passed     27.81%
+ 516  Mesc_XP_021597050.1     31.55%    passed      5.54%
+ 517  Mtru_XP_013462889.1     35.83%    failed      0.01%
+ 518  Mtru_XP_024633356.1     56.55%    failed      0.44%
+ 519  Mtru_XP_024628752.1     86.43%    passed     72.78%
+ 520  Atri_XP_020524991.1     26.90%    failed      2.11%
+ 521  Sollyc_XP_004233782.1   28.81%    passed     15.98%
+ 522  Qlob_XP_030971851.1     31.19%    failed      1.56%
+ 523  Atha_NP_176421.1        35.36%    failed      0.33%
+ 524  Bnap_XP_022556510.2     31.90%    failed      0.39%
+ 525  Bnap_XP_048633161.1     35.24%    failed      3.14%
+ 526  Bnap_XP_013750219.3     31.43%    failed      2.34%
+ 527  Bnap_XP_048595743.1     31.19%    failed      1.86%
+ 528  Bnap_XP_048622322.1     33.45%    failed      3.25%
+ 529  Bnap_XP_048594197.1     32.98%    failed      1.10%
+ 530  Atha_NP_001322575.1     31.90%    failed      2.31%
+ 531  Cofcan_CDP04436.1       30.24%    passed      7.60%
+ 532  Lsat_XP_023742883.1     36.67%    passed      6.97%
+ 533  Lsat_XP_042751902.1     29.76%    failed      4.44%
+ 534  Bdis_XP_010233682.1     33.81%    passed     37.69%
+ 535  Osat_XP_015623118.1     34.29%    passed     24.91%
+ 536  Tura_XP_048531966.1     31.19%    failed      2.51%
+ 537  Tura_XP_048536205.1     31.19%    failed      2.51%
+ 538  Bdis_XP_024310303.1     41.19%    failed      4.69%
+ 539  Ecur_TVU33689.1         32.74%    passed     65.00%
+ 540  Zmay_XP_008680032.1     33.81%    passed     46.16%
+ 541  Qlob_XP_030963218.1     29.29%    failed      0.90%
+ 542  Qlob_XP_030962218.1     36.79%    failed      2.98%
+ 543  Rchi_XP_024169441.1     32.14%    failed      1.22%
+ 544  Mtru_XP_024629672.1     31.90%    failed      0.07%
+ 545  Psat_XP_050887664.1     35.12%    failed      1.96%
+ 546  Mtru_XP_024630937.1     27.14%    failed      1.06%
+ 547  Mtru_XP_003592704.3     28.45%    failed      0.67%
+ 548  Psat_XP_050892778.1     28.93%    failed      1.06%
+ 549  Mtru_XP_003615216.2     37.50%    failed      2.79%
+ 550  Mtru_XP_013468436.1     32.86%    failed      0.21%
+ 551  Mtru_XP_039690605.1     39.29%    failed      0.30%
+ 552  Mesc_XP_043817505.1     28.33%    failed      1.65%
+ 553  Mesc_XP_021592811.1     29.76%    failed      0.26%
+ 554  Sollyc_XP_004232586.1   32.14%    failed      1.43%
+ 555  Cofcan_CDP01722.1       26.07%    failed      0.01%
+ 556  Sollyc_XP_004237549.1   29.05%    failed      0.04%
+ 557  Ppat_XP_024373440.1     30.71%    failed      3.65%
+ 558  Cofcan_CDP11593.1       36.67%    passed      5.87%
+ 559  Cofcan_CDP19052.1       29.29%    failed      0.01%
+ 560  Sollyc_XP_010318017.2   24.29%    failed      0.86%
+ 561  Atri_XP_020530154.1     26.31%    failed      0.46%
+ 562  Rchi_XP_040366412.1     35.36%    passed     14.50%
+ 563  Rchi_XP_024169457.1     36.90%    failed      3.01%
+ 564  Rchi_XP_024170218.1     35.83%    failed      1.07%
+ 565  Rchi_XP_024170310.1     32.38%    failed      0.01%
+ 566  Bnap_XP_013750590.2     29.76%    failed      0.35%
+ 567  Bnap_XP_022559270.2     31.79%    failed      3.85%
+ 568  Atha_NP_001189838.1     33.93%    passed     27.92%
+ 569  Ppat_XP_024394112.1     29.64%    passed      7.55%
+ 570  Ppat_XP_024400798.1     29.76%    failed      0.21%
+ 571  Ppat_XP_024399461.1     28.81%    failed      1.61%
+ 572  Cbra_GBG68574.1         21.67%    failed      0.00%
+ 573  Atri_XP_011620489.2     39.64%    passed     13.42%
+ 574  Rchi_XP_024199074.1     35.60%    passed      6.83%
+ 575  Rchi_XP_040361941.1     41.19%    passed     19.68%
+ 576  Mpol_BFI36230.1         28.21%    failed      0.00%
+ 577  Cbra_GBG92070.1         23.45%    failed      0.02%
+ 578  Bdis_XP_010235136.2     31.55%    passed     10.81%
+ 579  Cofcan_CDP05058.1       31.67%    passed     12.59%
+ 580  Sollyc_XP_010316711.1   31.55%    passed     41.53%
+ 581  Cofcan_CDP19686.1       31.79%    passed     24.50%
+ 582  Lsat_XP_023758239.1     36.67%    failed      2.54%
+ 583  Rchi_XP_024187509.1     32.02%    passed     89.61%
+ 584  Qlob_XP_030957460.1     31.55%    passed     68.10%
+ 585  Mesc_XP_021620107.1     33.21%    passed     14.92%
+ 586  Psat_XP_050892119.1     32.62%    passed     76.82%
+ 587  Mtru_XP_013469044.2     31.90%    passed     82.61%
+ 588  Bnap_XP_022546157.1     34.05%    passed     45.00%
+ 589  Bnap_XP_013750883.1     34.05%    passed     66.49%
+ 590  Atha_NP_001031007.1     32.26%    passed     76.25%
+ 591  Atri_XP_020529762.1     31.19%    passed     44.74%
+ 592  Bdis_XP_010228631.1     34.29%    passed     75.47%
+ 593  Tura_XP_048570988.1     35.24%    passed     38.57%
+ 594  Osat_XP_025879678.1     33.81%    passed     82.97%
+ 595  Zmay_NP_001357966.1     34.29%    passed     37.23%
+ 596  Ecur_TVU47084.1         34.64%    passed     72.32%
+ 597  Atha_NP_193874.2        32.38%    failed      0.35%
+ 598  Bnap_XP_048596265.1     31.79%    failed      1.36%
+ 599  Bnap_XP_022550346.2     32.14%    passed      5.18%
+ 600  Bnap_XP_022562843.1     33.10%    passed      8.25%
+ 601  Bnap_XP_013717256.2     33.45%    passed     16.82%
+ 602  Psat_XP_050879116.1     31.67%    failed      4.21%
+ 603  Mtru_XP_013462466.1     31.19%    failed      0.27%
+ 604  Psat_XP_050893775.1     29.88%    failed      0.42%
+ 605  Mtru_XP_003608271.1     26.90%    failed      0.52%
+ 606  Qlob_XP_030969297.1     29.76%    passed      6.33%
+ 607  Rchi_XP_040362147.1     30.83%    passed     20.28%
+ 608  Mesc_XP_021596459.1     30.00%    passed     29.56%
+ 609  Mesc_XP_021599326.1     30.00%    passed     25.50%
+ 610  Sollyc_XP_004233815.1   32.50%    failed      0.15%
+ 611  Cofcan_CDO99647.1       31.19%    failed      0.62%
+ 612  Lsat_XP_023758398.1     31.19%    failed      0.61%
+ 613  Lsat_XP_023748864.1     33.21%    failed      2.28%
+ 614  Lsat_XP_042756672.1     39.17%    failed      3.45%
+ 615  Sollyc_XP_069144188.1   40.60%    passed     15.01%
+ 616  Lsat_XP_023742173.1     64.05%    passed     64.04%
+ 617  Qlob_XP_030953153.1     65.00%    passed     85.52%
+ 618  Mesc_XP_043805952.1     64.52%    passed     72.59%
+ 619  Mesc_XP_043813759.1     64.29%    passed     94.04%
+ 620  Rchi_XP_024158191.1     64.64%    passed     32.55%
+ 621  Psat_XP_050893429.1     64.17%    passed     84.98%
+ 622  Mtru_XP_013456231.1     64.17%    passed     71.38%
+ 623  Atha_NP_850617.1        64.17%    passed     57.12%
+ 624  Bnap_XP_013697929.1     64.17%    passed     63.11%
+ 625  Bnap_XP_013749294.2     64.17%    passed     70.54%
+ 626  Bnap_XP_048630333.1     64.17%    passed     70.54%
+ 627  Ecur_TVU05222.1         76.90%    passed     59.45%
+ 628  Ecur_TVU01081.1         76.90%    passed     52.94%
+ 629  Osat_XP_015648710.1     64.64%    passed     73.32%
+ 630  Ecur_TVU10016.1         81.79%    passed     41.79%
+ 631  Osat_XP_015610619.1     64.40%    passed     28.64%
+ 632  Tura_XP_048530838.1     64.64%    passed     28.62%
+ 633  Bdis_XP_014758878.1     63.81%    passed     57.20%
+ 634  Zmay_NP_001140556.1     64.64%    passed     15.67%
+ 635  Tura_XP_048543124.1     69.76%    passed     56.00%
+ 636  Tura_XP_048542530.1     64.64%    passed     66.88%
+ 637  Bdis_XP_003572365.1     64.88%    failed      3.61%
+ 638  Zmay_XP_035823398.1     65.36%    passed     54.13%
+ 639  Sollyc_NP_001306150.1   64.17%    passed     73.68%
+ 640  Cofcan_CDP14099.1       64.17%    passed     28.47%
+ 641  Zmay_XP_008665874.1     70.83%    passed      7.82%
+ 642  Zmay_XP_008651381.1     66.31%    failed      1.57%
+ 643  Zmay_XP_008665873.1     72.02%    passed     12.23%
+ 644  Zmay_XP_023157516.1     58.45%    passed      8.10%
+ 645  Atri_XP_020526473.1     64.76%    passed     38.49%
+ 646  Qlob_XP_030958989.1     74.88%    passed     59.40%
+ 647  Rchi_XP_024159047.1     76.43%    passed     55.84%
+ 648  Ppat_XP_024399957.1     65.24%    passed     67.69%
+ 649  Smoe_XP_024531781.1     65.60%    passed     14.99%
+ 650  Smoe_XP_024539595.1     65.60%    passed     14.26%
+ 651  Mpol_BFI24177.1         63.93%    passed     42.51%
+ 652  Crei_XP_042919519.1     62.02%    failed      0.00%
+ 653  Cbra_GBG93401.1         61.67%    passed     26.58%
+ 654  Xtro_NP_001121525.1     65.48%    passed      7.26%
+ 655  Hsap_NP_001138820.1     64.52%    passed     83.46%
+ 656  Ggal_XP_414883.4        65.36%    passed     26.26%
+ 657  Drer_NP_001103339.2     65.36%    passed     24.83%
+ 658  Apla_XP_022085202.1     64.64%    passed     56.25%
+ 659  Blan_XP_066295512.1     65.83%    passed     62.75%
+ 660  Skow_XP_006813260.1     65.00%    passed     26.09%
+ 661  Cscu_XP_023216044.1     65.71%    failed      0.32%
+ 662  Aplcal_XP_005102629.2   65.24%    passed     11.09%
+ 663  Lana_XP_013411836.1     64.17%    passed      5.79%
+ 664  Scil_XP_065185214.1     65.36%    passed     11.00%
+ 665  Tadh_XP_002109881.1     65.71%    failed      0.45%
+ 666  Aque_XP_019853293.1     64.76%    passed     70.67%
+ 667  Dpul_XP_046461813.1     63.57%    failed      2.54%
+ 668  Cint_XP_026690226.1     65.36%    failed      3.08%
+ 669  Pvan_XP_069991585.1     63.93%    failed      0.02%
+ 670  Spur_XP_030839602.1     63.45%    passed     73.29%
+ 671  Hrob_XP_009019477.1     64.76%    failed      3.51%
+ 672  Otau_XP_022838309.1     65.71%    failed      0.01%
+ 673  Dmel_NP_612063.2        65.71%    passed     33.43%
+ 674  Apimel_XP_026296208.1   65.60%    failed      0.39%
+ 675  Bmor_XP_021207491.2     64.64%    passed      9.00%
+ 676  Ppat_XP_024376209.1     70.36%    passed     20.21%
+ 677  Hrob_XP_009019479.1     67.26%    passed     14.09%
+ 678  Lana_XP_023932416.1     62.74%    passed     13.56%
+ 679  Aplcal_XP_012941200.1   61.79%    passed     86.94%
+ 680  Cscu_XP_023230315.1     68.45%    passed     10.58%
+ 681  Blan_XP_066284103.1     61.43%    passed     45.99%
+ 682  Apla_XP_022081439.1     61.67%    passed     50.85%
+ 683  Spur_XP_030856400.1     62.14%    passed     11.77%
+ 684  Tadh_XP_002108928.1     68.93%    passed     51.14%
+ 685  Hrob_XP_009022276.1     65.95%    failed      3.61%
+ 686  Apimel_XP_026302302.1   61.90%    passed      6.49%
+ 687  Aque_XP_019851976.1     63.45%    passed     29.65%
+ 688  Pvan_XP_070000953.1     62.14%    passed     56.88%
+ 689  Hsap_NP_001171825.1     61.79%    passed     20.89%
+ 690  Xtro_XP_017952180.1     61.55%    passed     30.55%
+ 691  Drer_NP_001189376.1     62.14%    passed     22.01%
+ 692  Dpul_XP_046457070.1     61.90%    passed     51.71%
+ 693  Hsap_NP_085150.1        60.83%    passed     59.92%
+ 694  Ggal_XP_015142945.2     61.67%    passed     81.06%
+ 695  Xtro_NP_001072664.1     62.02%    passed     69.92%
+ 696  Drer_NP_001189348.1     62.38%    passed     63.01%
+ 697  Drer_NP_001333080.1     63.93%    passed     43.63%
+ 698  Drer_NP_001189347.1     61.43%    passed     26.59%
+ 699  Hsap_NP_005383.3        61.43%    passed     43.06%
+ 700  Ggal_XP_040502633.1     60.24%    passed     16.02%
+ 701  Xtro_XP_031757142.1     61.43%    passed     20.30%
+ 702  Hrob_XP_009028336.1     66.31%    failed      2.08%
+ 703  Scil_XP_065178623.1     64.17%    passed     92.68%
+ 704  Scil_XP_065178289.1     63.10%    passed     39.40%
+ 705  Lana_XP_013394792.1     64.05%    passed     19.78%
+ 706  Drer_NP_001410477.1     63.93%    passed     11.25%
+ 707  Ggal_XP_004945610.1     63.93%    failed      0.99%
+ 708  Hsap_NP_115979.3        62.74%    passed      6.10%
+ 709  Xtro_XP_031748490.1     63.93%    passed     10.76%
+ 710  Apla_XP_022085616.1     64.05%    passed      9.56%
+ 711  Xtro_NP_001011176.1     63.81%    failed      1.66%
+ 712  Tadh_XP_002108337.1     76.19%    passed     11.16%
+ 713  Scil_XP_065189801.1     87.98%    passed      7.93%
+ 714  Pvan_XP_069969648.1     63.93%    passed      6.68%
+ 715  Dpul_XP_046452221.1     64.40%    failed      4.80%
+ 716  Hsap_XP_047282579.1     72.26%    passed      9.75%
+ 717  Apimel_XP_026294963.1   63.69%    passed      5.99%
+ 718  Bmor_XP_004928906.1     63.69%    passed     26.39%
+ 719  Cint_NP_001071898.1     65.00%    passed     10.50%
+ 720  Hrob_XP_009031639.1     68.33%    failed      4.32%
+ 721  Smed_h1SMcT0005069.1    67.14%    failed      0.73%
+ 722  Aque_XP_011404618.2     65.00%    passed     38.69%
+ 723  Smoe_XP_024527750.1     67.26%    failed      1.55%
+ 724  Smoe_XP_024528476.1     67.26%    failed      1.81%
+ 725  Mpol_BFI28825.1         68.93%    passed     22.68%
+ 726  Bmor_XP_037876785.1     61.79%    passed     16.42%
+ 727  Smed_h1SMcT0013145.1    69.05%    passed      8.24%
+ 728  Ppur_KAA8496554.1       62.38%    passed     87.90%
+ 729  Scil_XP_065185344.1     22.38%    failed      1.99%
+ 730  Otau_XP_022840238.1     65.00%    failed      0.00%
+ 731  Spur_XP_030837351.1     80.36%    passed     10.67%
+ 732  Lana_XP_013421537.1     43.57%    failed      0.00%
+ 733  Lana_XP_013404840.1     87.02%    passed     25.62%
+ 734  Cscu_XP_023229643.1     49.88%    failed      0.00%
+ 735  Spur_XP_030838251.1     37.98%    failed      0.00%
+ 736  Apla_XP_022095085.1     35.00%    failed      0.00%
+ 737  Apimel_XP_396315.6      38.33%    failed      0.03%
+ 738  Drer_XP_005167851.1     35.60%    failed      0.10%
+ 739  Hsap_NP_001406738.1     36.07%    failed      0.64%
+ 740  Ggal_XP_040526942.1     34.52%    failed      0.22%
+ 741  Xtro_NP_001123807.1     36.67%    failed      0.14%
+ 742  Hsap_NP_001387099.1     36.67%    failed      2.74%
+ 743  Drer_NP_001073662.1     40.60%    failed      0.00%
+ 744  Blan_XP_066267158.1     35.60%    failed      0.01%
+ 745  Skow_XP_006817946.1     41.55%    failed      0.00%
+ 746  Pvan_XP_069980254.1     38.21%    failed      0.00%
+ 747  Dpul_XP_046441442.1     39.29%    failed      0.00%
+ 748  Bmor_XP_004932357.2     43.57%    failed      0.27%
+ 749  Dmel_NP_609368.3        43.10%    failed      0.19%
+ 750  Aplcal_XP_035825836.1   56.07%    failed      0.00%
+ 751  Cint_XP_009861476.1     36.55%    failed      0.57%
+ 752  Hrob_XP_009020839.1     48.33%    failed      0.00%
+ 753  Mlei_ML070265a-PA       46.90%    failed      0.27%
+ 754  Tadh_XP_002111819.1     68.69%    failed      2.47%
+ 755  Drer_XP_009301400.1     35.48%    failed      0.00%
+ 756  Xtro_NP_001265685.1     44.64%    failed      0.08%
+ 757  Hsap_NP_001073893.1     42.86%    failed      0.00%
+ 758  Drer_NP_001025349.2     43.45%    failed      1.07%
+ 759  Smed_h1SMcT0017959.2    37.98%    failed      0.00%
+ 760  Aque_XP_019864243.1     57.02%    failed      0.00%
+ 761  Scil_XP_065177892.1     35.00%    failed      0.00%
+ 762  Hrob_XP_009017064.1     54.76%    failed      0.00%
+ 763  Tadh_XP_002108617.1     64.29%    failed      0.73%
+ 764  Lana_XP_013383727.1     63.21%    passed      8.03%
+ 765  Lana_XP_013384460.1     75.12%    passed     15.04%
+ 766  Skow_XP_002741887.1     66.79%    failed      0.62%
+ 767  Spur_XP_030844946.1     67.62%    passed     25.41%
+ 768  Apla_XP_022082616.1     63.45%    passed      9.88%
+ 769  Blan_XP_066274365.1     63.69%    passed     10.72%
+ 770  Aplcal_XP_005099656.1   66.55%    passed     33.78%
+ 771  Smed_h1SMcT0005056.3    64.17%    failed      1.26%
+ 772  Crei_XP_042915512.1     25.00%    failed      0.00%
+ 773  Otau_XP_022839388.1     64.64%    failed      0.01%
+ 774  Ppur_KAA8493682.1       66.07%    passed      9.69%
+ 775  Otau_XP_003074529.2     66.19%    failed      0.16%
+ 776  Aque_XP_003387667.2     64.40%    passed     34.26%
+ 777  Blan_XP_066275807.1     60.48%    passed     95.30%
+ 778  Blan_XP_066275167.1     60.60%    passed     73.94%
+ 779  Blan_XP_066275806.1     60.71%    passed     54.13%
+ 780  Lana_XP_013409522.1     61.43%    passed     32.62%
+ 781  Lana_XP_023931467.1     70.36%    failed      2.48%
+ 782  Skow_XP_006818312.1     66.19%    failed      0.30%
+ 783  Spur_XP_003728283.2     59.52%    passed     59.97%
+ 784  Apla_XP_022083573.1     60.71%    passed      5.47%
+ 785  Tadh_XP_002114207.1     64.05%    failed      4.58%
+ 786  Scil_XP_065185446.1     62.38%    passed     83.06%
+ 787  Scil_XP_065187051.1     24.05%    failed      0.00%
+ 788  Scil_XP_065177489.1     57.38%    passed     23.30%
+ 789  Otau_XP_022839048.1     65.71%    failed      0.00%
+ 790  Hrob_XP_009015675.1     57.98%    passed     14.57%
+ 791  Crei_XP_042915300.1     59.29%    failed      0.00%
+ 792  Ppur_KAA8495831.1       64.64%    passed      5.27%
+ 793  Crei_XP_042926085.1     62.38%    failed      0.00%
+ 794  Hsap_NP_005135.2        24.52%    failed      0.00%
+ 795  Hrob_XP_009015763.1     26.79%    failed      0.01%
+ 796  Otau_XP_022838759.1     66.07%    failed      0.00%
+ 797  Crei_XP_042921493.1     64.88%    failed      0.00%
+ 798  Crei_XP_042920439.1     46.90%    failed      0.00%
+ 799  Otau_XP_003081453.1     56.19%    passed      7.28%
+ 800  Ppur_KAA8491227.1       42.38%    passed     68.02%
+WARNING: 335 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                   44.51%  256 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: Qlob_XP_030947099.1 is identical to Qlob_XP_030947080.1 but kept for subsequent analysis
+NOTE: Spur_XP_030849191.1 is identical to Spur_XP_030849206.1 but kept for subsequent analysis
+NOTE: Ecur_TVU03373.1 is identical to Ecur_TVU28090.1 but kept for subsequent analysis
+NOTE: Smoe_XP_002989181.2 is identical to Smoe_XP_002987301.2 but kept for subsequent analysis
+NOTE: Zmay_XP_020408306.1 is identical to Zmay_XP_035823326.1 but kept for subsequent analysis
+NOTE: Tura_XP_048536205.1 is identical to Tura_XP_048531966.1 but kept for subsequent analysis
+NOTE: Bnap_XP_048630333.1 is identical to Bnap_XP_013749294.2 but kept for subsequent analysis
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.600 seconds
+Measuring multi-threading efficiency up to 8 CPU cores
+5 trees examined
+Threads: 1 / Time: 8.387 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -842702
+Threads: 2 / Time: 5.273 sec / Speedup: 1.591 / Efficiency: 80% / LogL: -842702
+Threads: 3 / Time: 3.761 sec / Speedup: 2.230 / Efficiency: 74% / LogL: -842702
+Threads: 4 / Time: 2.917 sec / Speedup: 2.875 / Efficiency: 72% / LogL: -842702
+Threads: 5 / Time: 2.528 sec / Speedup: 3.318 / Efficiency: 66% / LogL: -842702
+Threads: 6 / Time: 2.274 sec / Speedup: 3.689 / Efficiency: 61% / LogL: -842702
+Threads: 7 / Time: 2.165 sec / Speedup: 3.874 / Efficiency: 55% / LogL: -842702
+Threads: 8 / Time: 2.033 sec / Speedup: 4.125 / Efficiency: 52% / LogL: -842702
+BEST NUMBER OF THREADS: 8
+
+Perform fast likelihood tree search using LG+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -417508.907
+Optimal log-likelihood: -417508.621
+Gamma shape alpha: 2.635
+Parameters optimization took 1 rounds (0.807 sec)
+Time for fast ML tree search: 16.945 seconds
+
+NOTE: ModelFinder requires 428 MB RAM!
+ModelFinder will test up to 12 protein models (sample size: 840 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  LG            425901.116   1597 854996.231   5959008.231  862555.474
+  2  LG+G4         417508.602   1598 838213.204   5948617.204  845777.180
+  4  LG+F+G4       417117.995   1617 837469.990   6070081.990  845123.900
+  6  WAG+G4        416525.278   1598 836246.556   5946650.556  843810.532
+  8  WAG+F+G4      416568.367   1617 836370.735   6068982.735  844024.645
+ 10  JTT+G4        417045.556   1598 837287.112   5947691.112  844851.088
+ 12  JTT+F+G4      416554.174   1617 836342.348   6068954.348  843996.259
+Akaike Information Criterion:           WAG+G4
+Corrected Akaike Information Criterion: WAG+G4
+Bayesian Information Criterion:         WAG+G4
+Best-fit model: WAG+G4 chosen according to BIC
+
+All model information printed to /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/JmjC/PLT/PLT.JmjC.iqtree.model.gz
+CPU time for ModelFinder: 415.570 seconds (0h:6m:55s)
+Wall-clock time for ModelFinder: 70.107 seconds (0h:1m:10s)
+Generating 1000 samples for ultrafast bootstrap (seed: 847042)...
+
+NOTE: 428 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -416607.541
+2. Current log-likelihood: -416532.879
+3. Current log-likelihood: -416526.158
+4. Current log-likelihood: -416525.351
+Optimal log-likelihood: -416525.273
+Gamma shape alpha: 2.962
+Parameters optimization took 4 rounds (4.383 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 5.87669 secs using 799.1% CPU
+Computing ML distances took 5.879041 sec (of wall-clock time) 46.969667 sec (of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Setting up auxiliary I and S matrices: done in 0.00493121 secs using 417.9% CPU
+Computing RapidNJ tree took 0.077936 sec (of wall-clock time) 0.603508 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -423213.521
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 59.477 second
+Computing log-likelihood of 98 initial trees ... 33.481 seconds
+Current best score: -416525.273
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -416431.887
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -416384.431
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 3: -416375.867
+Iteration 10 / LogL: -416459.269 / Time: 0h:4m:57s
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 11: -416359.129
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 12: -416321.239
+Iteration 20 / LogL: -416443.560 / Time: 0h:7m:41s
+Finish initializing candidate tree set (20)
+Current best tree score: -416321.239 / CPU time: 381.404
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 27: -416283.632
+Iteration 30 / LogL: -416394.313 / Time: 0h:9m:13s (0h:54m:41s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 36: -416280.592
+Iteration 40 / LogL: -416414.988 / Time: 0h:10m:34s (0h:47m:15s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 42: -416276.833
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 43: -416259.534
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 48: -416241.532
+Iteration 50 / LogL: -416272.902 / Time: 0h:11m:57s (0h:43m:34s left)
+Log-likelihood cutoff on original alignment: -416497.002
+Iteration 60 / LogL: -416266.832 / Time: 0h:13m:18s (0h:38m:40s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 69: -416238.848
+Iteration 70 / LogL: -416271.061 / Time: 0h:14m:44s (0h:39m:8s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 72: -416236.406
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 79: -416236.074
+Iteration 80 / LogL: -416250.589 / Time: 0h:16m:14s (0h:37m:58s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 85: -416228.975
+Iteration 90 / LogL: -416264.455 / Time: 0h:17m:33s (0h:35m:54s left)
+Iteration 100 / LogL: -416314.843 / Time: 0h:18m:53s (0h:33m:6s left)
+Log-likelihood cutoff on original alignment: -416497.002
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.987
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 103: -416226.058
+Iteration 110 / LogL: -416234.947 / Time: 0h:20m:14s (0h:33m:46s left)
+Iteration 120 / LogL: -416286.373 / Time: 0h:21m:32s (0h:31m:19s left)
+Iteration 130 / LogL: -416245.154 / Time: 0h:22m:50s (0h:29m:4s left)
+Iteration 140 / LogL: -416260.965 / Time: 0h:24m:11s (0h:26m:59s left)
+Iteration 150 / LogL: -416277.505 / Time: 0h:25m:29s (0h:24m:58s left)
+Log-likelihood cutoff on original alignment: -416497.002
+Iteration 160 / LogL: -416447.403 / Time: 0h:26m:53s (0h:23m:8s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 168: -416225.662
+Iteration 170 / LogL: -416246.312 / Time: 0h:28m:22s (0h:31m:52s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 176: -416219.773
+Iteration 180 / LogL: -416239.359 / Time: 0h:29m:42s (0h:31m:14s left)
+Iteration 190 / LogL: -416256.368 / Time: 0h:31m:0s (0h:29m:21s left)
+Iteration 200 / LogL: -416241.243 / Time: 0h:32m:21s (0h:27m:35s left)
+Log-likelihood cutoff on original alignment: -416497.002
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.993
+Iteration 210 / LogL: -416267.686 / Time: 0h:33m:43s (0h:25m:51s left)
+Iteration 220 / LogL: -416238.456 / Time: 0h:35m:5s (0h:24m:9s left)
+Iteration 230 / LogL: -416253.684 / Time: 0h:36m:26s (0h:22m:29s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 235: -416217.560
+Iteration 240 / LogL: -416234.670 / Time: 0h:37m:49s (0h:29m:54s left)
+Iteration 250 / LogL: -416457.361 / Time: 0h:39m:11s (0h:28m:14s left)
+Log-likelihood cutoff on original alignment: -416497.002
+Iteration 260 / LogL: -416256.507 / Time: 0h:40m:38s (0h:26m:40s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 263: -416216.795
+Iteration 270 / LogL: -416238.774 / Time: 0h:42m:16s (0h:29m:29s left)
+Iteration 280 / LogL: -416232.851 / Time: 0h:43m:51s (0h:27m:59s left)
+Iteration 290 / LogL: -416247.930 / Time: 0h:45m:21s (0h:26m:26s left)
+Iteration 300 / LogL: -416249.369 / Time: 0h:46m:49s (0h:24m:53s left)
+Log-likelihood cutoff on original alignment: -416497.002
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.993
+Iteration 310 / LogL: -416235.741 / Time: 0h:48m:18s (0h:23m:20s left)
+Iteration 320 / LogL: -416255.051 / Time: 0h:49m:43s (0h:21m:46s left)
+Iteration 330 / LogL: -416366.416 / Time: 0h:51m:10s (0h:20m:12s left)
+Iteration 340 / LogL: -416263.910 / Time: 0h:52m:34s (0h:18m:39s left)
+Iteration 350 / LogL: -416263.345 / Time: 0h:54m:0s (0h:17m:6s left)
+Log-likelihood cutoff on original alignment: -416497.002
+Iteration 360 / LogL: -416315.200 / Time: 0h:55m:31s (0h:15m:35s left)
+Iteration 370 / LogL: -416247.561 / Time: 0h:56m:56s (0h:14m:3s left)
+Iteration 380 / LogL: -416294.570 / Time: 0h:58m:17s (0h:12m:30s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 390: -416210.759
+Iteration 390 / LogL: -416210.759 / Time: 0h:59m:41s (0h:30m:5s left)
+Iteration 400 / LogL: -416227.026 / Time: 1h:1m:16s (0h:28m:37s left)
+Log-likelihood cutoff on original alignment: -416497.002
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.996
+Iteration 410 / LogL: -416224.989 / Time: 1h:2m:52s (0h:27m:9s left)
+Iteration 420 / LogL: -416249.177 / Time: 1h:4m:19s (0h:25m:37s left)
+Iteration 430 / LogL: -416261.985 / Time: 1h:5m:45s (0h:24m:5s left)
+Iteration 440 / LogL: -416254.437 / Time: 1h:7m:18s (0h:22m:36s left)
+Iteration 450 / LogL: -416246.413 / Time: 1h:8m:48s (0h:21m:5s left)
+Log-likelihood cutoff on original alignment: -416497.002
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 455: -416206.007
+Iteration 460 / LogL: -416273.857 / Time: 1h:10m:26s (0h:29m:25s left)
+Iteration 470 / LogL: -416295.506 / Time: 1h:11m:52s (0h:27m:53s left)
+Iteration 480 / LogL: -416341.559 / Time: 1h:13m:20s (0h:26m:21s left)
+Iteration 490 / LogL: -416268.088 / Time: 1h:14m:51s (0h:24m:52s left)
+Iteration 500 / LogL: -416213.022 / Time: 1h:16m:17s (0h:23m:20s left)
+Log-likelihood cutoff on original alignment: -416497.002
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.997
+Iteration 510 / LogL: -416271.662 / Time: 1h:17m:47s (0h:21m:49s left)
+Iteration 520 / LogL: -416236.861 / Time: 1h:19m:10s (0h:20m:17s left)
+Iteration 530 / LogL: -416231.691 / Time: 1h:20m:32s (0h:18m:45s left)
+Iteration 540 / LogL: -416215.465 / Time: 1h:21m:56s (0h:17m:14s left)
+Iteration 550 / LogL: -416221.798 / Time: 1h:23m:24s (0h:15m:43s left)
+Log-likelihood cutoff on original alignment: -416497.002
+Iteration 560 / LogL: -416223.607 / Time: 1h:24m:53s (0h:14m:13s left)
+Iteration 570 / LogL: -416241.147 / Time: 1h:26m:21s (0h:12m:43s left)
+Iteration 580 / LogL: -416245.427 / Time: 1h:27m:43s (0h:11m:12s left)
+Iteration 590 / LogL: -416220.271 / Time: 1h:29m:9s (0h:9m:42s left)
+Iteration 600 / LogL: -416243.454 / Time: 1h:30m:33s (0h:8m:12s left)
+Log-likelihood cutoff on original alignment: -416497.002
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.997
+Iteration 610 / LogL: -416223.975 / Time: 1h:32m:1s (0h:13m:25s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 618: -416202.939
+Iteration 620 / LogL: -416207.630 / Time: 1h:33m:32s (0h:29m:32s left)
+Iteration 630 / LogL: -416251.068 / Time: 1h:35m:0s (0h:28m:2s left)
+Iteration 640 / LogL: -416224.536 / Time: 1h:36m:28s (0h:26m:32s left)
+Iteration 650 / LogL: -416206.180 / Time: 1h:37m:53s (0h:25m:2s left)
+Log-likelihood cutoff on original alignment: -416497.002
+Iteration 660 / LogL: -416261.141 / Time: 1h:39m:21s (0h:23m:32s left)
+Iteration 670 / LogL: -416235.125 / Time: 1h:40m:54s (0h:22m:3s left)
+Iteration 680 / LogL: -416217.633 / Time: 1h:42m:20s (0h:20m:33s left)
+Iteration 690 / LogL: -416205.231 / Time: 1h:43m:48s (0h:19m:4s left)
+Iteration 700 / LogL: -416217.322 / Time: 1h:45m:11s (0h:17m:33s left)
+Log-likelihood cutoff on original alignment: -416497.002
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.996
+Iteration 710 / LogL: -416230.981 / Time: 1h:46m:38s (0h:16m:3s left)
+Iteration 720 / LogL: -416233.454 / Time: 1h:48m:2s (0h:14m:33s left)
+Iteration 730 / LogL: -416301.813 / Time: 1h:49m:27s (0h:13m:4s left)
+Iteration 740 / LogL: -416230.727 / Time: 1h:50m:52s (0h:11m:34s left)
+Iteration 750 / LogL: -416213.801 / Time: 1h:52m:19s (0h:10m:5s left)
+Log-likelihood cutoff on original alignment: -416497.002
+Iteration 760 / LogL: -416287.646 / Time: 1h:53m:45s (0h:8m:36s left)
+Iteration 770 / LogL: -416228.809 / Time: 1h:55m:11s (0h:7m:7s left)
+Iteration 780 / LogL: -416432.215 / Time: 1h:56m:39s (0h:5m:38s left)
+Iteration 790 / LogL: -416221.037 / Time: 1h:58m:6s (0h:4m:8s left)
+Iteration 800 / LogL: -416253.899 / Time: 1h:59m:36s (0h:2m:40s left)
+Log-likelihood cutoff on original alignment: -416497.002
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.996
+Iteration 810 / LogL: -416212.537 / Time: 2h:1m:18s (0h:13m:21s left)
+TREE SEARCH COMPLETED AFTER 819 ITERATIONS / Time: 2h:2m:55s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -416202.939
+Optimal log-likelihood: -416202.939
+Gamma shape alpha: 2.936
+Parameters optimization took 1 rounds (0.832 sec)
+BEST SCORE FOUND : -416202.939
+Creating bootstrap support values...
+Split supports printed to NEXUS file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/JmjC/PLT/PLT.JmjC.iqtree.splits.nex
+Total tree length: 272.162
+
+Total number of iterations: 819
+CPU time used for tree search: 55194.872 sec (15h:19m:54s)
+Wall-clock time used for tree search: 7286.718 sec (2h:1m:26s)
+Total CPU time used: 55768.410 sec (15h:29m:28s)
+Total wall-clock time used: 7378.383 sec (2h:2m:58s)
+
+Computing bootstrap consensus tree...
+Reading input file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/JmjC/PLT/PLT.JmjC.iqtree.splits.nex...
+800 taxa and 3147 splits.
+Consensus tree written to /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/JmjC/PLT/PLT.JmjC.iqtree.contree
+Reading input trees file /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/JmjC/PLT/PLT.JmjC.iqtree.contree
+Log-likelihood of consensus tree: -418884.404
+
+Analysis results written to: 
+  IQ-TREE report:                /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/JmjC/PLT/PLT.JmjC.iqtree.iqtree
+  Maximum-likelihood tree:       /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/JmjC/PLT/PLT.JmjC.iqtree.treefile
+  Likelihood distances:          /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/JmjC/PLT/PLT.JmjC.iqtree.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/JmjC/PLT/PLT.JmjC.iqtree.splits.nex
+  Consensus tree:                /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/JmjC/PLT/PLT.JmjC.iqtree.contree
+  Screen log file:               /Volumes/IlHwan5TB/ncbi_datasets/analysis/orthologs/HsapAtha/JmjC/PLT/PLT.JmjC.iqtree.log
+
+Date and Time: Tue Mar 24 16:43:59 2026
