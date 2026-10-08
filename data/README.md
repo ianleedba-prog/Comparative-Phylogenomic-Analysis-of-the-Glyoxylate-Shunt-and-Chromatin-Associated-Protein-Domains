@@ -173,8 +173,8 @@ Rscript s03_conserved_sites.R
 
 ## Contact
 
-**Il-Hwan Lee** (first author, code maintainer) — ianlee.dba@snu.ac.kr
+**Il-Hwan Lee** (first author, code maintainer) — ianlee.dba@snu.ac.kr  
 Department of Biomedical Sciences, Seoul National University College of Medicine, Seoul 03080, Republic of Korea
 
-**Hong-Duk Youn** (corresponding author) — hdyoun@snu.ac.kr
+**Hong-Duk Youn** (corresponding author) — hdyoun@snu.ac.kr  
 Department of Biomedical Sciences, Seoul National University College of Medicine, Seoul 03080, Republic of Korea
