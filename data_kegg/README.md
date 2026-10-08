@@ -1,4 +1,4 @@
-# README — KEGG Metabolic Module Presence Analysis
+# KEGG Metabolic Module Presence Analysis
 
 **Associated manuscript: NCOMMS-26-022536 (revised)**
 
