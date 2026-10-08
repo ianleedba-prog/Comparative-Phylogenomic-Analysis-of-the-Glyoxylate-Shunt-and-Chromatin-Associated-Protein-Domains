@@ -1,22 +1,13 @@
 # README — KEGG Metabolic Module Presence Analysis
 
-**Associated Manuscript: NCOMMS-26-022536 / Submission Date: 17th March 26**  
+**Associated manuscript: NCOMMS-26-022536 (revised)**
+
 *Resurrecting the glyoxylate cycle constrains TET epigenetics via governing 2-oxoglutarate and its competitive inhibitors*  
 Il-Hwan Lee, Jinmi Choi, So-Yeon Kim, Young Ah Kim, Yufei Li, Joo-Youn Cho, Eun-Jung Cho, Hong-Duk Youn
 
 **Corresponding author:** Hong-Duk Youn (hdyoun@snu.ac.kr)  
+
 **Figure produced by this workflow:** Supplementary Figure 1A
-
----
-
-## Table of Contents
-
-1. [Overview](#overview)
-2. [Directory Structure](#directory-structure)
-3. [Software Requirements](#software-requirements)
-4. [Provided Data Files](#provided-data-files)
-5. [Provided Result Files](#provided-result-files)
-6. [Pipeline Description](#pipeline-description)
 
 ---
 
