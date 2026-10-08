@@ -1,0 +1,8 @@
+2
+2
+cores 8
+Iterations 20000000
+Burnin 2000000
+HPAll exp 0 30
+Stones 100 50000
+Run
